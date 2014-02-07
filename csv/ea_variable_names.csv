@@ -1,0 +1,116 @@
+Variable number,Variable
+1,  Gathering
+2,  Hunting
+3,  Fishing
+4,  Animal Husbandry
+5,  Agriculture
+6,  Mode of Marriage (Primary)
+7,  Mode of Marriage (Alternate)
+8,  Domestic Organization
+9,  Marital Composition: Monogamy and Polygamy
+10, Marital Residence with Kin:  First Years 
+11, Transfer of Residence at Marriage: After First Years 
+12, Marital Residence with Kin:  After  First Years 
+13, Marital Residence with Kin: Alternate Form 
+14, Transfer of  Residence at Marriage:  Alternate Form 
+15, Community Marriage Organization 
+16, Community Marriage Organization 
+17, Largest Patrilineal Kin Group 
+18, Largest Patrilineal Exogamous Group (If Different from Variable 17) 
+19, Largest Matrilineal Kin Group 
+20, Largest Matrilineal Exogamous Group (If Different from Variable 17) 
+21, Largest Matrilineal Kin Group 
+22, Secondary Cognatic Kin Group: Kindreds and Ramages 
+23, Cousin Marriages (Allowed) 
+24, Subtypes of Cousin Marriages  96
+25, Preferred rather than just Permitted Cousin Marriages 
+26, Subtypes of Cousin Marriages (Preferred rather than just Permitted) 
+27, Kin Terms for Cousins 
+28, Intensity of Agriculture 
+29, Major Crop Type 
+30, Settlement Patterns 
+31, Mean Size of Local Communities 
+32, Jurisdictional Hierarchy of Local Community 
+33, Jurisdictional Hierarchy Beyond Local Community 
+34, High Gods 
+35, Games 
+36, Post-partum Sex Taboos 
+37, Male Genital Mutilations 
+38, Segregation of Adolescent Boys 
+39, Animals and Plow Cultivation 
+40, Predominant Type of Animal Husbandry 
+41, Milking of Domestic Animals 
+42, Subsistence Economy (Not in the original EA) 103
+43," Descent: Major Type (From Variables 17, 19, 21, Not in the Original EA) "
+44, Sex Differences: Metal Working 
+45, Sex Differences: Weaving 
+46, Sex Differences: Leather Working 
+47, Sex Differences: Pottery Making 
+48, Sex Differences: Boat Building 
+49, Sex Differences: House Construction 
+50, Sex Differences: Gathering 
+51, Sex Differences: Hunting 
+52, Sex Differences: Fishing 
+53, Sex Differences: Animal Husbandry 
+54, Sex Differences: Agriculture 
+55, Age or Occupational Specialization: Metal Working 
+56, Age or Occupational Specialization: Weaving 
+57, Age or Occupational Specialization: Leather Working 
+58, Age or Occupational Specialization: Pottery Making 
+59, Age or Occupational Specialization: Boat Building 
+60, Age or Occupational Specialization: House Construction 
+61, Age or Occupational Specialization: Gathering 
+62, Age or Occupational Specialization: Hunting 
+63, Age or Occupational Specialization: Fishing 
+64, Age or Occupational Specialization: Animal Husbandry 
+65, Age or Occupational Specialization: Agriculture 
+66, Class Stratification 
+67," Class Stratification, Secondary Features "
+68, Class Stratification (Endogamy) 
+69," Class Stratification (Endogamy), Secondary Type "
+70, Type of Slavery 
+71, Former Presence of  Slavery 
+72, Succession to the Office of Local Headman 
+73, Succession to the Office of Local Headman: Type of Hereditary Succession 
+74, Inheritance Rule for Real Property (Land) 
+75, Inheritance Distribution for Real Property (Land) 
+76, Inheritance Rule for Movable Property 
+77, Inheritance Distribution for Movable Property 
+78, Norms of Premarital Sexual Behavior of Girls 
+79, Prevailing Type of Dwelling: Ground Plan 
+80, Prevailing Type of Dwelling: Floor Level 
+81, Prevailing Type of Dwelling: Wall Material 
+82, Prevailing Type of Dwelling: Shape of Roof 
+83, Prevailing Type of Dwelling: Roofing Materials 
+84, Secondary or Alternative House Type: Ground Plan 
+85, Secondary or Alternative House Type: Floor Level 
+86, Secondary or Alternative House Type: Wall Material 
+87, Secondary or Alternative House Type: Shape of Roof 
+88, Secondary or Alternative House Type: Roofing Materials 
+89, Inclusion in Summary Atlas Volume (1967) 
+90, Political Integration (WES Column 15) 
+91, Region 
+92, Area within each region 
+93, Ethnographic Atlas Number 
+94, Political Succession for the Local Community (WES Column 15) 
+95, Climate: Primary Environment (Coded by Frank Moore from Phillips’ Comparative Atlas) 
+96, Climate: Secondary Environments (Coded by Frank Moore from Phillips’ Comparative 
+97, Linguistic Affiliation: Language Continent 
+98, Linguistic Affiliation: Language Phylum 
+99, Linguistic Affiliation: Subfamilies 
+100, Date: Millenium 
+101, Date: Century 
+102, Date: Year with Century 
+103, Latitude 
+104, Latitude 
+105, Longitude 
+106, Longitude 
+107, First Letter of Name 
+108, Second and Third Letters of Name 
+109, Fourth and Fifth Letters of Name 
+110, Sixth and Seventh Letters of Name 
+111, Eighth and Ninth Letters of Name 
+112, Trance States 
+113, Societal Rigidity 
+114, Ethnographic Atlas Cluster number: First Digit 
+115, Ethnographic Atlas Cluster number: Second and Third Digits 
