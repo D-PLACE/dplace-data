@@ -1,5 +1,3 @@
-Variable names and definitions for Binford database -- in progress Jan 2014,,,,,
-,,,,,
 Field name,IndexCategory,NicheCategory,Variable name,Detailed description,
 Orig.latitude,DATA,DATA,Original latitude (published in book),,
 Orig.longitude,DATA,DATA,Original longitude (published in book),,
