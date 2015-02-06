@@ -1,0 +1,341 @@
+Binford_ID,Society_name_Binford,Harmonized_society_name,Binford_Alternate_name,Binford_FocalYear,Binford_references
+B70,Dorobo,Dorobo,NA,1920,"Wayland 1931:217; Huntingford 1951:8; 1954:128; Huntingford 1929:340,1955:623-34; Blackburn 1971:266"
+B65,Mbuti,Mbuti,NA,1930,"Hiernaux et al. 1975:7; Cavalli-Sforza 1986c:392; Roberts 1953: 557; Tanno 1976:107, 108, 130; Turnbull 1965:97, 98; Harako 1976:44,114-17; Tanno 1976:123; Ichikawa 1978:173-75; Harako 1976:46-47; Putnam 1948:336"
+B73,Nharo,Naron,NA,1910,Tobias 1962:802-3; Guenther 1986:186; Schapera 1930:78; Hitchcock and Ebert 1989:55; Bleek 1928:33-34; Schapera 1930:104
+B79,/Xam,Xam,NA,NA,"Bleek 1924:viii, ix"
+B69,Hadza,Hatsa Kindiga,NA,1910,Blurton-Jones et al. 1992:164; Hawkes et al. 1989:344; Woodburn 1968:104; Lee and Devore 1968a:194; Bleek 1931:427; O'Connell pers. comm. 1982
+B25,Gilyak,Gilyak,NA,1920,"Shternberg 1933:385; Shternberg 1933:67; Shternberg 1933:165, 167"
+B27,Nganasan,Nganasan,NA,1933,"Popov 1966:12, 103; Chard 1963:106-8"
+B28,Siberian Eskimo,Ungazikmit,NA,1860,Szathmary 1984:65; Krupnik 1983:94-95; Krupnik 1983:96; Bogoras 1904:30; Moore 1923:367
+B26,Yukaghir,Yukaghir,NA,1900,"Jochelson 1926:20; Kreynovich 1979:191-92, 196; Kreynovich 1979:194-209; Jochelson 1924:79-85, 110-11"
+B22,Ainu,Ainu,Ainu (Hokkaido),1900,"Landor 1893:299; Watanabe 1964:8-9; Landor 1893:89, 125; Watanabe 1964:8-9; Hitchcock 1891:465; Batchelor 1927:196"
+B24,Ket,Ket,NA,1900,Shimkin 1939:149; Lee 1967:24; ShimIcin 1939:150; Lee 1967:23-44; Lee 1967:52; Shimkin 1939:155
+B15,Chenchu,Chenchu,NA,1940,"Fiirer-Haimendorf 1943:17; Furer-Haimendorf 1943:366; Hirer-Haimendorf 1943:366; Furer-Heimendorf 1943:134, 142"
+B10,Vedda,Vedda,Veddah,1900,"Skeat and Blagden 1906:574; Bailey 1863:283; Bailey 1863:296, 308; Seligmann and Seligmann 1911:43-44; Seligmann and Seligmann 1911:43-44; Spittel 1945:8,65"
+B9,Semang,Semang,NA,1920,"Skeat and Blagden 1906:575; Schebesta 1962a:17, 220; Rambo 1985:4, 33; Brandt 1961:131-33; Schebesta 1962a:143-44; Evans 1937:250; Whiting 1964:529; Schebesta 1962a:220, 239"
+B3,Kubu,Kubu,NA,1900,Volz 1909:92; Hagen 1908:25-28; Persoon 1989:511; Persoon 1989:512; Volz 1909:96-101
+B124,Northern Arenda,Aranda,Aranda (Northern),1900,"Roberts 1953:556; Spencer and Gillen 1899:appendix C; Spencer and Gillen 1927:15, 506; Binford field notes 1993; Spencer and Gillen 1927; Long 1970:293; Spencer and Gillen 1927:70-71, 472"
+B109,Walbiri,Walbiri,NA,1965,"Abbie 1957:236-38; Meggitt 1962:47, 50, 56; Meggitt pers. comm. 1973; Meggitt 1962:77-79"
+B87,Gidjingali,Gidjingali,NA,1950,"Peterson 1972:26; Peterson and Long 1986:40; Hiatt 196531-32; Hiatt 1965:36, 77; Long 1970:302"
+B94,Yir-yoront,Yir Yoront,NA,1937,"Peterson and Long 1986:88-89, 95-99; Sharp 1934a:425; LRB estimate; Peterson and Long 1986:95-99; Sharp 1940:490; Sharp 1934a:427"
+B97,Groote Eylandt,Groote Eylandt,Groote Eyelandt,1930,"Peterson and Long 1986:78-79; Tindale, pers. comm. 1967; Rose 1960:12, 69, 248"
+B88,Murngin,Murngin,NA,1930,Howells 1937:16; Peterson 1976:269; Thomson 1949:16; Warner 1958:127-28; Tindale pers. comm. 1967; Long 1970:303; Peterson and Long 1986:154
+B95,Tiwi,Tiwi,NA,1920,"Howells 1937:16; Hart and Piling 1960:35, 36, 65, 66; Hart and Pilling 1960:35,36,66; Goodale 1962:455; Hart 1970:296; Hart and Piling 1960:16, 36, 66; Peterson and Long 1986:137"
+B121,Dieri,Dieri,NA,1900,"Gason 1879:257, 264; Sturt 1849a, 1:254, 261, 296, 316, 407, 414; 2:70,74; Howitt 1891:79-87"
+B106,Kariera,Kariera,NA,1910,Radcliffe-Brown 1912:146; Radcliffe-Brown 1912:144-47; Clement 1903:13; Radcliffe-Brown 1912:158
+B90,Wikmunkan,Wikmunkan,Wikmunkun,1920,Wills 1980:85 (LRB estimates from photos); Thomson 1939:211-20; Peterson and Long 1986:137
+B137,Tasmanians (western),Tasmanians,Tasmanians(northwestern),1830,"Hiatt 1967:201; Jones 1971:278, 279; Jones 1972:4"
+B130,Wongaibon,Wongaibon,NA,1910,NA
+B1,Punan,Punan2,NA,1970,"Urquhart 1951:501; Oldrey 1975:155; Harrison 1949:135, 139; Urquart 1951:515,505; Brosius 1986:174; Sellato 1994:143-44; Harrison 1949:135, 139; Urquart 1951:505, 515; Kedit 1982:261-64"
+B2,Batek,Batek,"Batak, Batek (Palawan )",1968,"Eder 1987:140; Eder 1978:56, 1987:105; Eder 1984:843; Cadelina 1982:72-74; Warren 1964:28, 76"
+B4,Shompen,Shompen,NA,1989,"Rizvi 1990:35; Agrawal 1967:84-87; Rizvi 1990:8; Rizvi 1990:20,41"
+B5,Onge,Onge,Andaman Islands (Onge),1952,Temple 1903:54; Man 1883:73; Bose 1964:305; Cooper 1991; Temple 1903:65
+B6,Jarwa,Jarwa,Andaman Islands (Jarwa),1906,"Temple 1903:62, 77, 84; Temple 1903:69-90"
+B7,Ayta (Pinatubo),Ayta (Pinatubo),NA,1903,"Reed 1904:75-77; Fox, 1952:188; Reed 1904:19; Reed 1904:39-43; Reed 1904:57, 60"
+B8,Big Andaman Island,Big Andaman Island,NA,1870,Radcliffe-Brown 1948:28; Radcliffe-Brown 1948:28; Man 1883:81; Whiting 1964:529
+B11,Hill Pandaran,Hill Pandaran,Hill Pandaram,1972,"Morris 1982a:36-37, 174; Morris 1982a:136, 174-80; Morris 1982a:150, 250"
+B12,Agta (Casiguran),Agta (Casiguran),NA,1965,"Headland 1986:544; Headland pers. comm. 1993; Headland pers. comm. 1992; Headland 1986:146, 366-67"
+B13,Agta (Isabela),Agta (Isabela),NA,1979,"Wastl 1957:805; Rai 1982:63, 66, 119; Rai 1982:105, 107; Rai 1982:67"
+B14,Agta (Cagayan),Agta (Cagayan),NA,1924,"Vanoverbergh 1925:400; Goodman et al. 1985: 1203; Vanoverbergh 1925:195, 196-98, 432; Vanoverbergh 1925:195, 196-98, 432; Vanoverbergh 1925:425-26; Goodman et al. 1985:171"
+B16,Mrabri,Mrabri,NA,1963,"Bernatzik 1951:165; Flatz 1963, table 1; Trier 1981: 292; Pookajorn 1985:187, 207; Velder 1963:186-87; Bernatzik 1951:140; Pookajom 1988, ifgures 75-77; Bernatzik 1951:145-46"
+B17,Paliyans,Paliyans,NA,1963,"Gardner 1965:101, 1988:93, 94; Gardner 1965:27-28, 33; Gardner 1965:18, 100; Gardner 1972:421"
+B18,Birhor,Birhor,NA,1963,Sen and Sen 1955:172; Williams 1974:79; Williams 1974:76-77; Williams 1974:73
+B19,Kadar,Kadar,NA,1946,"Ehrenfels 1952:6; Ehrenfels 1952:66-67; Ehrenfels 1952:8; Ehrenfels 1952:66-68, 139-40"
+B20,Cholanaickan,Cholanaickan,NA,1974,Bhanu 1992:table 1.1; Bhanu 1982:225; 1992:31
+B21,Nayaka,Nayaka,NA,1978,Bird 1983:58; Bird 1983:57-59; Bird-David 1987:153-56; Bird-David 1987:157
+B23,Orogens,Orogens,NA,1900,Qiu 1983 (estimates only); Qiu 1983 (LRB estimate); Qiu 1983:37
+B37,Akuriyo,Akuriyo,NA,1968,Kloos 1977:116; Kloos 1977:119; pers. comm. 1982; Kloos 1977:117
+B40,Nukak,Nukak,Macu Nukak,1990,"Politis 1992:3, pers. comm. 1992; Politis pers. comm. 1992; Politis pers. comm. 1993"
+B44,Yuqui,Yuqui,NA,1968,"Stearman 1989a:26, 31; Stearman 1989a (estimate); Stearman 1989a:94"
+B46,Calusa,Calusa,NA,1600,"Hann 1991:42, 159, 168; Widmer 1983:15-18; Goggin and Sturtevant 1964:189"
+B47,Guayaki (Ache),Guayaki (Ache),NA,1975,"Hill et al. 1984:table 4, 132; Clastres 1972:163; Oberg 1953:18, 38; Clastres 1972:163; Oberg 1953:18, 38; Clastres 1968:19-23; Metraux and Baldus 1946:442"
+B49,Heta,Heta,NA,1954,Kozak et al. 1979:374; Kozak et al. 1979:360; Kozak et al. 1979:360
+B52,Chono,Chono,NA,1880,Cooper 1946d:52
+B60,Aka,Aka,NA,1980,"Cavalli-Sforza 1986a:83; Bahuchet 1988:131; Hudson 1990:58, 63, 71; Hudson 1990:57-80; Bahuchet 1979:1001"
+B61,Bayaka,Bayaka,NA,1976,"Heymer 1980:178; Hiernaux et al. 1975:7; Heymer 1980:178, 193-96; Heymer 1980:189; Heymer 1980:200; Lalouel 1950:179"
+B62,Bambote,Bambote,NA,1977,"Skeat and Blagden 1906:573; Terashima 1980:234, 235, 262; Terashima 1980:241,261; Terashima 1980:233"
+B63,Baka,Baka,Baka Pygmies,1980,Hiernaux et al. 1975:7; Vallois and; Cavalli-Sforza 1986c:32-33; Vallois and Marquer 1976:113; Vallois and Marquer 1976:112-19; Cavalli-Sforza 1986a:37
+B64,Efe,Efe,NA,1980,Bailey and Peacock 1988:107; Bailey and Peacock 1988:99-100; Fisher and Strickland 1989:476; Bailey 1985:48-58; Peacock 1985:47-48; Bailey 1988:59 Schebesta 1962a:244
+B66,Mikea,Mikea,NA,NA,Kelly and Poyer 1993:1
+B67,Hukwe,Hukwe,NA,1950,Clark 1951:60; Clark 1951:65; LRB estimate
+B68,Hai//om,Hai//om,NA,1920,Werner 1906:241; Tobias 1962:802-3; Fourie 1927:51; Fourie 1928:92
+B71,Sekele,Sekele,NA,1928,"Bleek 1929:106; De Castro and Almeida 1956, 1957; Bleek 1929:109; De Castro and Alemeida 1956:9"
+B72,!Kung,!Kung,!Kung (Was Nyae),1950,"Howell 1979:258-59; Bleek 1929:106; Tobias 1962:802-3; Kaufmann 1910:135; Marshall 1960:328; Lee 1972a:330; Hitchcock and Ebert 1989:55; Lee 1972a:330,1979:168,182-204; Marshall 1959:336, 350; Howell 1979:243-44; Lee 1972a:358; Kaufmann 1910:156; Schapera 1930:104"
+B74,G/wi,G/wi,NA,1962,"Tobias 1962:802-3; Silberbauer 1972:296, 1981a:195-98; Silberbauer 1972:295-97; 1981:193, 196, 246; 1981b:460; Silberbauer 1981:149, 155"
+B75,Kua,Kua,NA,1976,Tobias 1962:802-3; Wyndham and Morrison 1958:221; Kent and Vierich 1989; Hitchcock and Ebert 1989:55; Vierich 1981:146
+B76,!Ko,!Ko,NA,1968,Eibl-Eibelsfeldt 1972:32-33; Hitchcock and Ebert 1989:55; Eibl-Eibelsfeldt 1948:29-34
+B77,/Auni-Khomani,/Auni-Khomani,NA,1920,Dart 1937b:184; Steyn 1984:118; Dart 1937b:160-65; Informant from Molopo River; Dart 1937b
+B78,//Xegwi,//Xegwi,Batwa (Lake Chrissie),1950,Toerien 1958:122-23; Potgieter 1955:8
+B82,Kaurareg,Kaurareg,NA,1848,Moore 1979:39; Moore 1979:238; Moore 1979:146
+B83,Larikia,Larikia,NA,1900,Howells 1937:16; Parkhouse 1895:639-41; Basedow 1907:14
+B84,Gunwinggu,Gunwinggu,NA,1978,Altman 1987:34; Altman 1987:15-27; Berndt and Berndt 1970:3-14; Altman 1987:22-27; Berndt and Berndt 1970:95; Peterson and Long 1986:137
+B85,Mirrngadja,Mirrngadja,NA,1970,"Macintosh 1952:213; Peterson 1973:185; 1970:11; pers. comm. 1992; Peterson and Long 1986:40; Peterson 1973:185, 1970:11; Long 1970:303"
+B86,Anbarra,Anbarra,NA,1973,Meehan 1982:31-41; Meehan 1982:26-41; Peterson and Long 1986:137
+B89,Jeidji,Jeidji,NA,1920,Kaberry 1935:428; LRB estimate; Kaberry 1939:420
+B91,Kakadu,Kakadu,NA,1920,Leichardt 1847:507; McCarthy and MacArthur 1960:90-96; Chaloupka 1981:163-71; Spencer 1966:49
+B92,Nunggubuyu,Nunggubuyu,NA,1960,Howells 1937:16; Biernoff 1979:12; MacArthur 1960:95; Thompson 1949:4; Biemoff 1979:156
+B93,Yintjingga,Yintjingga,NA,1930,Thomson 1934:241; Thomson 1934:241; Thomson 1933:509
+B96,Kuku (Yalanji),Kuku (Yalanji),Yuku,1880,"Anderson and Robins 1988: 187, 191-92; Anderson and Robins 1988:184-87; Roth 1909:5"
+B98,Walmbaria,Walmbaria,NA,1926,"Hale and Tindale 1933:71; Hale and Tindale 1933:77-78; Hale and Tindale 1933:64,77; Roth 1909:4"
+B99,Mulluk,Mulluk,NA,1900,Stanner 1933:386; Stanner 1933:393 (estimate); LRB estimate; Stainer 1933:391
+B100,Worora,Worora,NA,NA,"Blundell 1980:106-7; Love 1936:93; Blundell 1975:127-29.; Love 1917:21, 1936:36"
+B101,Lungga,Lungga,NA,1934,Kaberry 1939:113-15
+B102,Lardil,Lardil,NA,1909,Memmott 1983a:367; Memmott 1983a:121-26; Memmott 1983b:53-54
+B103,Kaiadilt,Kaiadilt,NA,1928,Tindale 1962a:269; LRB estimate; Tindale 1962b:319-21
+B104,Karadjeri,Karadjeri,NA,NA,NA
+B105,Mamu,Mamu,NA,1900,Birdsell 1967:112; Harris 1978:128; Harris 1982:378-82; Roth 1909:12
+B107,Warunggu,Warunggu,NA,1870,"Brayshaw 1990:31; Lumholtz 1889:194; Liunholtz 1889:179, 201"
+B108,Djaru,Djaru,NA,1934,Nind 1831:22; Kaberry 1939:114
+B110,Ngatjan,Ngatjan,NA,1880,Peterson and Long 1986:116-17; Tonkinson 1978:53; LRB estimate; Tonkinson 1978:67
+B111,Mardudjara,Mardudjara,Ngatjan,1960,Harris 1978:128; Harris 1978:128
+B112,Ildawongga,Ildawongga,NA,1968,"Peterson and Long 1986:112-15, 124; LRB estimate; Peterson and Long 1986:112-15"
+B113,Pintubi,Pintubi,NA,1936,"Campbell et al.1936:113; Long 1971:264-65; Meggitt 1962:55; Peterson and Long 1986:104-11; Myers 1986:77-89; Hayden pers. comm. 1990, 1992; Long 1970:296-97"
+B114,Undanbi,Undanbi,Undambi,1848,Colliver and Woolston 1975:93
+B115,Jinibarra,Jinibarra,NA,1840,Morwood 1987:339; Winterbotham 1980:41; Winterbotham 1980:41; Winterbotham 1980:34
+B116,Karuwali,Karuwali,NA,1900,Duncan-Kemp 1964:129
+B117,Alyawara,Alyawara,NA,1965,Campbell et al.1936:113; Binford field notes 1974; Denham 1975:120; O'Connell 1987:85; Binford field notes 1974; Denham 1975:137-38
+B118,Ngatatjara,Ngatatjara,NA,1968,Gould 1977:21-22; Gould 1968:104-12; Gould 1969a:184
+B119,Badjalang,Badjalang,NA,1850,W. Gardner 1978:239-46; Belshaw 1978:74-78; de Bertrodano 1978:283
+B120,Pitjandjara,Pitjandjara,NA,1968,"Campbell et al.1936:113; Brokensha 1975:19, 33; Layton 1983:26; Peterson and Long 1986:127; Tindale 1972:224, 244; Tindale 1972:233-38; Long 1970:299; Tindale 1972:259, 260; Yengoyan 1970:89"
+B122,Southern Arenda,Southern Arenda,Aranda (Southern),1870,Roberts 1953:556; Schulze 1891:236
+B123,Jankundjara,Jankundjara,NA,1922,Tindale pers. comm. 1965; Tindale pers. comm. 1966-67; Tindale 1965 pers. comm.; White 1915:726-28
+B125,Ualarai,Ualarai,NA,1880,Parker 1905:56
+B126,Nakako,Nakako,NA,1912,Peterson and Long 1986:129-34; Tindale pers. comm. 1966.
+B127,Ooldea,Ooldea,NA,1941,Long 1970:298; Berndt and Berndt 1944 14(3):232
+B128,Barkindji,Barkindji,NA,1890,NA
+B129,Kaurna,Kaurna,Karuna,1840,Cawthorn 1844:50; Draper pers. comm. 1993; Cawthorn 1844:76
+B131,Jaralde,Jaralde,NA,1850,NA
+B132,Mineng,Mineng,NA,1850,Nind 1831:28; Nind 1831:38-39
+B133,Tjapwurong,Tjapwurong,NA,1850,Williams 1985:75
+B134,Bunurong,Bunurong,NA,1850,"Gaughwin and Sullivan 1984:92, 94; Gaughwin and Sullivan 1984:90; Cannon 1983:606-7"
+B135,Kurnai,Kurnai,NA,1850,Fison and Howitt 1880:209; Howitt 1904:773-77
+B136,Tasmanians (eastern),Tasmanians (eastern),Tasmanians (southern),1830,"Roth 1899:192; Hiatt 1967:201; Jones 1971:278, 279; Jones 1972:4; Plomley 1983:166"
+B154,Yokuts (northern foothill),Yokuts (northern foothill),NA,1850,"Gifford 1926b:232-33; Cook 1955:35; Gayton 1948a:56-64, 70-76; Spier 1978:479"
+B159,Clear Lake Pomo,Clear Lake Pomo,NA,1860,Cook 1956:116-17; Gifford 1926a:299
+B168,Coast Miwok,Coast Miwok,NA,1850,"Collier and Thalman 1991:72, 177-78"
+B171,Yuki Proper,Yuki Proper,Yuki (Proper),1850,"Gifford 1926b:232-33; Cook 1956:107; Foster 1944:184, 185"
+B190,Guaicura,Guaicura,NA,1760,Aschmann 1967:122; Baegert 1863:361-65; 1865:391; Baegert 1863:367-68
+B192,Death Valley Shoshoni,Death Valley Shoshoni,NA,1860,"Steward 1938:85-91; Steward 1938:91-93; Smith 1978:439; Steward 1938:87-88, 91"
+B200,Saline Valley Shoshoni,Saline Valley Shoshoni,NA,1860,"Steward 1938:77, 78, 80; Steward 1936:76-80"
+B203,Kawich Mountain Shoshoni,Kawich Mountain Shoshoni,NA,1860,Steward 1938:110; Thomas 1983:29-30
+B205,Mono Lake Paiute,Mono Lake Paiute,NA,1870,Davis 1965:36; Davis 1965:29-31; Davis 1965:17
+B207,Salmon Eater Shoshoni,Salmon Eater Shoshoni,NA,1860,Gould pers. comm. 1992; Gould and Plew 1996:64-66; Steward 1938:165-72
+B209,Ute-timanogas,Ute-timanogas,"Ute-timpanogas, Ute timinogas",1860,"Boas 1899:753; Janetski 1983:53-54, 75; Callaway et al. 1986:352"
+B211,Fish Lake Paiute,Tunava,NA,1860,Steward 1938:61; Steward 1938:64-68; Steward 1938:62-64
+B212,Honey Lake Paiute,Wadatkuht,Honey Lake Paiute,1870,Gifford 1926b:232-33; Riddell 196o:21-44
+B219,North Fork Mono Paiute,North Fork Mono,NA,1860,Gifford 1926b:232-33; Cook 1955:37; Whiting 1964:531
+B223,Bear Creek Paiute,Bear Creek Paiute,NA,1870,Lowie 1924:284
+B224,Antelope Valley Shoshoni,Spring Valley Shoshoni,NA,1860,Steward 1938:130
+B255,Peigan,Peigan,NA,1850,Ewers 1955:303; Ewers 1955:125-27; Kehoe 1993:89; DeJong 1912:192-97
+B272,Chehalis,Chehalis,NA,1880,Taylor 1974a:187
+B293,Gitksan,Gitksan,Gitksan,1880,Boas and Farrand 1899:630; Cybulski 1990b:54; Adams 1973:8; Halpin and Seguin 1990:269-71
+B294,Konaig,Konaig,NA,1840,Knecht and Jordan 1985:21; LRB estimate; Holmberg 1985:53
+B296,Kuskowagmut,Kuskowagmut,NA,1850,Hrdlicka 1930:251; Michael 1967:306; Oswalt pers. comm. 1966; Oswalt 1966:107; Nelson 1899:292
+B322,Okanagan,Okanagan,NA,1860,Teit 1930:207-11; Grabert 1974:8
+B327,Kitchibaun Ojibwa,Kitchibaun Ojibwa,NA,1870,Jenness 1935:13; Jenness 1935:13-14; Jenness 1935:98
+B335,Round Lake Ojibwa,Round Lake Ojibwa,NA,1900,"Grant 1924:302; Rogers 1963:67,76,88; 1969:25,31; Rogers 1962a:B54"
+B339,North Albany Ojibwa,North Albany Ojibwa,NA,1850,Rogers 1969:43; Dunning 1959; LRB estimate
+B340,Waswanipi Cree,Waswanipi Cree,NA,1900,"Rogers 1969:31; Morantz 1983:89, 106; Morantz 1983:87, 89"
+B341,Wegamon Ojibwa,Wegamon Ojibwa,NA,1890,Boas 1895:574; Rogers and Black 1976:19; Rogers and Black 1976:19
+B350,Mountain,Mountain,NA,1800,Gillespie 1981:334-35
+B351,Han,Han,NA,1880,Crow and Obley 1981:511; Crow and Obley 1981:509
+B352,Hare,Hare,NA,1860,"Helm 1961: 169; Savishinsky 1974:47, 54; Savishinsky 1974:86-138; Savishinsky and Hara 1981:319; Whiting 1964:530"
+B354,Koyukon,Koyukon,NA,1880,"Clark 1974:96; McFadyer1981:593, 588-89; Clark 1975:174-75"
+B360,Rupert House Cree,Rupert House Cree,NA,1900,Morantz 1983:106; Morantz 1983:33-37; Morantz 1983:87; Skinner 1911:151
+B363,Tutchone,Tutchone,NA,1890,Legros 1982:68-69; Legros 1982:67-69; McClellan 1981:500
+B364,Holikachuk,Holikachuk,NA,1860,Snow 1981:615; Snow 1981:615-16; Snow 1981:615
+B369,Norton Sound Inuit,Norton Sound Inuit,NA,1870,Seltzer 1933:341; Ray 1992:295; LRB estimate; Ray 1992:286
+B370,Kobuk Inuit,Kobuk Inuit,Kobuk Eskimo,1890,"Burch 1975:257-58; Giddings 1956:5-55; Giddings 1956:26, pers. comm. 1963"
+B371,Kotzebue Sound Inuit,Kotzebue Sound Inuit,NA,1880,"Rodahl and Edwards 1952:243; Burch 1975:269-72, 1984:305; LRB estimate; Burch 1975:269-72"
+B373,Great Whale Inuit,Great Whale Inuit,NA,1890,"Willmot 1960:48, 53; Saladin d'Anglure 1984:497-99; Saladin d'Anglure 1984:493"
+B375,Noatak Inuit,Noatak Inuit,Noatak Eskimo,1900,Boas 1901:64-65; Binford 1971 field notes; Burch 1975:255; Binford 1972 field notes; Binford field notes 1969 (July)
+B378,Mackenzie Inuit,Mackenzie Inuit,Mackenzie Eskimo,1910,Seltzer 1933:341; McGhee 1988:11; Tyrrell 1897:167; McGhee 1988:7-24; Smith 1984:353
+B379,Sivokamiut Inuit,Sivokamiut Inuit,NA,1920,Rodahl and Edwards 1952:243; Hrdlicka 1930:251; Moore 1923:340; Moore 1923:349; Moore 1923:367
+B380,Point Hope Inuit,Point Hope Inuit,Point Hope Eskimo,1880,"Jenness 1922:b49; Seltzer 1933:341; Burch 1975:260-69; Burch 1975:260-69; Rainey 1947:240, 244-67; Burch 1975:260-69"
+B381,Copper Inuit,Copper Inuit,Copper Eskimo,1920,"Jenness 1922:b49; Jenness 1922:30, 55, 57; Rasmussen 1932:70, 78-85; Jenness 1932:32, 55, 56; Damas 1972:42, 1984:401; Rasmussen 1932:78-85"
+B382,Utkuhikhalingmiut,Utkuhikhalingmiut,NA,1920,"Briggs 1970:15, 372-74; Briggs 1970:30, 32-40; Rasmussen 1931:85-90"
+B383,Aivilingmiut Inuit,Aivilingmiut Inuit,NA,1880,"Oetteking 1931:423; Hrdlicka 1930:230; Rae 1850:40, 48, 49; Mathiassen 1928:15-17, 24; Mathiassen 1928:15-17; Van de Velde et al. 1992:3"
+B384,Iglulik Inuit,Iglulik Inuit,NA,1920,Szathmary 1984; Hallowell 1929:353; Mathiassen 1928:32; Mathiassen 1928:29-36; Mathiassen 1928:29-36
+B359,Nabesna,Nabesna,NA,1930,McKennan 1964:46; McKennan 1959:18; McKennan 1959; McKennan 1959:118
+B297,Chugash,Chugach,NA,1930,Michael 1967:306; de Laguna 1956:256; Birket-Smith 1953:123-28
+B377,Nunamiut Inuit,Nunamiut,Nunamiut Eskimo,1950,"Jamison 1978:56, 58; Amsden 1977:224; Binford 1991:80; Amsden 1977:159, 163; Binford and Chasko 1976:73-77"
+B386,Baffin Island Inuit,Baffinland,NA,1880,"Roberts 1953:557; Oetteking 1931:423; Boas 1888:426; Hantzsch 1977:39, 99; Low 1906:57-58; Boas 1888:422-24; Hantzsch 1977:39, 99; Boas 1964:18, 69, 115"
+B388,Angmaksalik,Polar Eskimo,NA,1880,"Pooled from Hansen 1914 and Poulsen 1909:135, 144-46; Mirsky 1937:53; Peterson 1984:623; Holm 1914:97, Thalbitzer 1914: 618-26"
+B361,Dogrib,Dogrib,NA,1860,Szathmary 1984:65; Helm 1968:120; Helm 1972:63-72; Helm 1972:74; Keith 1960:114
+B358,Satudene-Bear Lake,Satudene,NA,1860,MacKenzie 1966:49-56; Hooper 1853; Rushforth 1977:119-21
+B345,Slave,Slave,NA,1860,"Helm 1961:50-52, 169; Ives 1985:166-67; Janes 1983:50-51; Helm 1961:16-27; Helm 1961:48, 53, 72"
+B349,Carrier,Carrier,NA,1880,Grant 1936:18; Jenness 1943:485-86; Jenness 1943:531-39; Jenness 1937:524-25
+B389,Tareumiut Inuit,Tareumiut,Barrow,1880,Roberts 1953:556; Seltzer 1933:341; Simpson 1875:237; Spencer 1959:15; Simpson 1875:237; Spencer 1959:139-46; Burch 1975:102; Simpson 1875:254; Spencer 1959:250
+B356,Kutchin,Kutchin,NA,1880,"Boas 1901:64-65; McKennan 1964:47; Slobodin 1969:58-59, 64; Slobodin 1969:58-64, 78-83; Osgood 1936:142; Slobodin 1981:524"
+B374,Caribou Inuit,Caribou Eskimo,Caribou Eskimo,1900,"Birket-Smith 1929:67-69; LRB estimate; Arima 1984:455; Rasmussen 1930:11-13, 22-23, 37-38"
+B372,Labrador Inuit,Labrador Eskimo,Labrador Eskimo,1890,"Seltzer 1933:341; Taylor 1974:15-19, 64; Taylor 1974:51-58; Taylor 1974:68-69"
+B390,Polar Inuit,Angmagsalik,Polar Eskimo,1880,"Roberts 1953:557; Steensby 1910:389; Ekblaw 1948:3, Steensby 1910:266, 296, 324; Steensby 1910:279, 289-305; Gilberg 1984:587; Steensby 1910:325, 369"
+B385,West Greenland,Greenlanders,NA,1880,"Hansen 1914; Perry 1898:131, 171-72, 267-68, 336, 386, 431; York 1875:179; Grormow et al. 1983:13-37; Rink 1875:23"
+B362,Tanaina,Tanaina,NA,1870,"Michael 1967:306; Michael 1967:306; Osgood 1937:161, 164; Townsend 1963:214; 1981:633"
+B347,Tahltan,Tahltan,NA,1870,Boas 1901:61-63; MacLachlan 1981:460-61; Emmons 1911:98; MacLachlan 1981:464
+B343,Sekani,Sekani,NA,1880,"Jenness 1937:27; Grant 1936:18; Dennison 1981:434-35; Jenness 1937:14; Jenness 1937:32-37, 58; Jenness 1937:52"
+B344,Beaver,Beaver,NA,1850,Grant 1936:13-15; Ives 1985:166-67; Goddard 1916:212; Ridington 1982:472; Goddard 1916:221; Ives 1985:156
+B355,Chippewyan,Chipewyan,NA,1880,"Grant 1936:13-15; Smith 1981:275, 1978:81, 1976:19; Fidler 1934; Smith 1981:277-79"
+B342,Montagnais,Montagnais,NA,1880,Tanner 1944:592-609; Lane 1952:13; Lane 1952:29
+B332,North Saulteaux,Northern Saulteaux,NA,1870,"Grant 1924:302; Bishop 1978:222-26; LRB estimate; Hallowell 1938:240, 1955:300; Skinner 1911:151"
+B334,Pekangekum Ojibwa,Pekangekum,NA,1940,"Grant 1924:302; Dunning 1959:57,58,84; Rogers 1969:31; Dunning 1959:138"
+B337,Nipigon Ojibwa,Nipigon,NA,1800,Hickerson 1962:30-33; Cameron 1890:256; Cameron 1890:265; Grant 1960:320
+B331,Rainy River Ojibwa,Rainy River,NA,1880,Hickerson 1967:54-55; Hickerson 1967:48-52; Landes 1937b:88-95; Hickerson 1967:56; Landes 1937:69-71
+B328,Katikitegon,Katikitegon,NA,1800,"Kinietz 1947:247; Kinietz 1947:43-55; Kinietz 1947:31-33, 128, 137"
+B346,Kaska,Kaska,NA,1920,"Honigmann 1949:33-37; Honigmann 1954:12, 31-68; Honigmann 1954:131"
+B329,Micmac,Micmac,NA,1700,"Boas 1895:574; Speck 1922:143-44; Speck and Dester 1951:251-55; Wallis and Wallis 1955:64-66, 172; Speck 1922:144; Wallis and Wallis 1955:233, 237, 240"
+B387,Netsilik Inuit,Netsilik,Netsilik Eskimo,1880,"M'Clintock 1860:8, 230, 232, 235, 239, 240; Balikci 1970:23-90; Balikci 1970:102, 156; Rasmussen 1931:85-90"
+B338,Mistassini Cree,Mistassini,NA,1880,"Rogers 1972:92; Rogers 1962a: 23,1969:30; Rogers 1972:107-11; Lips 1947:419-54; Rogers 1962a"
+B365,Naskapi,Naskapi,NA,1890,"Hallowell 1929:341; Henriksen 1973:58-59, 68; Henriksen 1973:2, 4; Tanner 1944:685"
+B299,Nunivak,Nunivak,NA,1930,"HrdliCla 1930:251; Lantis 1946:163-64; Lantis 1946:163; Lantis 1960:204-14, 233"
+B353,Attawapiskat Cree,Cree Attawapiskat,NA,1900,"Mason 1967:5; Honigmann 1956:58; 1981:228-29; Honigmann 1956:32; Honigmann 1956:61, 62"
+B357,Ingalik,Ingalik,NA,1880,"Michael 1967:307; Sullivan 1942:10; Michael 1967:307; Osgood 1958:160; Snow 1981:609, 610"
+B298,Aleut,Aleut,NA,1830,Newman 1960:289; Lantis 1970:178; Mitchell and Donald 1988:319-21; Lantis 1970:174-82; Lantis 1984:179; Mickey 1955:15
+B290,Haida,Haida,Haida,1890,"Cybulski 1990b:54; Schalk 1978:126, 165"
+B336,Allcatcho,Alkatcho,Alkatcho,1865,Goldman 1940:334; Goldman 1940:351-52
+B273,Nootka,Nootka,Central Nootka,1880,"Cybulski 1990b:54; Drucker 1951:222-49; Koppert 1930b:53; Schalk 1978:126; Drucker 1951:281, 284, 287, 297"
+B268,Squamish,Squamish,NA,1880,"Suttles 1990:453, 473; Drucker 1990:464; Kelly 1995:table 4.1"
+B282,Comox,Comox,NA,1860,Kennedy and Bouchard 1990:450-51; Kennedy and Bouchard 1990:448
+B277,Lummi,Lummi,NA,1880,Stern 1934:7; Stern 1934:43-53; Stern 1934:23-26
+B285,Clallam,Klallam,Klallam,1860,Boyd 1990:136; Suttles 1990:456; Schalk 1978:126; Eells 1884:35-36
+B270,Puyallup,Puyallup,NA,1870,"Smith 1940a:7-14; Smith 1940a:7-32, 1940b:138-42; Smith 1940b:38-39, 166"
+B284,Quileute,Quileute,NA,1880,Pettitt 1950:3-5; Pettitt 1950:5-7; Pettitt 1950:16
+B274,Chinook,Chinook,NA,1850,"Ray 1938:38-41; Ray 1937:366, 1938:38-42, 55; Ray 1938:63-67, 73"
+B271,Twana,Twana,NA,1850,Eells 1887:273; Elmendorf 1960:32-55; Elmendorf 1960:253-65; Kelley 1995: table 4.1; Eells 1887:612-15
+B281,Tillamook,Tillamook,NA,NA,Seaburg and Miller 1990:561; Taylor 1974a:33-41
+B275,Coos,Coos,NA,1860,Boyd 1990:136; Zenk 1990:572; Zenk 1990:572-74
+B292,Tlingit,Tlingit,Southern Tlingit,1880,"Schalk 1978:127, 165; Schalk 1978:127, 165; Mitchell and Donald 1988:310"
+B283,Bella-Bella,Bellabella,Bella Bella,1880,Cybulski 1990b:54; Hilton 1990:313
+B286,Makah,Makah,NA,1860,"Swan 1870:2; Schalk 1978:125, 165; Swan 1870:12, 13"
+B278,Quinault,Quinault,NA,1860,Schalk 1978:165; Olson 1936:93-94
+B280,Cowichan,Cowichan,NA,1880,Wilson 1866:278; Suttles 1990: 462; Wilson 1866:286; Wilson 1866:286; Hill-Tout 1904:319
+B279,Stalo,Stalo,NA,1880,"Cybulski 1990b:54; Duff 1952:45; Schalk 1978:126; Duff 1952:52, 92"
+B269,Alsea,Alsea,NA,1860,Boas 1891:433; Drucker 1939
+B288,Kwakiutl,Kwakiutl,Southern Kwakiutl,1890,Boas and Farrand 1899:630; Cybulski 1990b:54; Schalk 1978:165; Schalk 1978:165
+B176,Tekelma,Takelma,Takelma,1860,Gray 1987:37-40; Gray 1987:37-40
+B181,Tututni,Tututni,NA,1870,Gray 1987:56; Gray 1987:48-51
+B179,Shasta,Shasta,NA,1860,Cook and Heizer 1965:70; Dixon 1907:421722; Dixon 1907:462
+B162,Chimariko,Chimariko,NA,1860,Dixon 1910:295-302
+B182,Karok,Karok,NA,1860,Cook 1956:98; Schenck and Gifford 1952:387-92
+B180,Hupa,Hupa,NA,1860,"Gifford 1926b:232-33; Cook 1956:100; Goddard 1904:12-16, 21-29; Wallace 1978:173"
+B184,Wiyot,Wiyot,NA,1860,Gifford 1926b:232-33; Cook 1956:97; Schalk 1978:125
+B167,Lassik,Lassik,NA,NA,NA
+B169,Mattole,Mattole,Mattole,NA,Cook 1956:102; Nomland 1938:100
+B166,Sinkyone,Sinkyone,Sinkyone,1860,Cook 1956:103-5; Nomland 1935:149-78; Nomland 1935:159
+B186,Yurok,Yurok,NA,1850,Gifford 1926b:232-33; Cook 1956:101; Schalk 1978:125; Schalk 1978:125; Heizer and Mills 1952:145
+B295,Eyak,Eyak,NA,1890,Birket-Smith and de Laguna 1938:19; de Laguna 1990:190-91; Birket-Smith and de Laguna 1938:133
+B178,Tolowa,Tolowa,NA,1870,Cook 1956:101; Drucker 1940:226-27; Drucker 1940:226-35
+B289,Tsimshim,Tsimshian,Tsimshian,1880,"Boas and Farrand 1899:630;; Schalk 1978:126,165; Halpin and Sequin 1990:269-71; Schalk 1978:126, 165"
+B287,Haisla,Haisla,NA,1880,Schalk 1978:165; Olson 1940:170
+B291,Bella-Coola,Bellacoola,Bella Coola,1880,"Boas and Farrand 1899:630; Cybulski 1990b:54; Schalk 1978:165; Mcllwraith 1948:371-72, 379"
+B153,Nomlaki,Nomlaki,NA,1850,Gifford 1926b:232-33; Goldschmidt 1948:445; Goldschmidt 1948:445
+B187,Achomawi,Achomawi,Achumawi,1860,Gifford 1926b:232-33; Kroeber 1962:36-37; Kniffen 1926:303
+B174,Northern Yana,Yana,NA,1860,Gifford 1926b:232-33; Waterman 1918:37-60
+B185,Mountain Maidu,Maidu,NA,1850,"Gifford 1926b:232-33; Cook and Heizer 1965:71; Dixon 1905:201, 225; Dixon 1905:370"
+B163,Nisenan,Nisenan,Nisenan Southern Maidu,1850,Wilson and Towne 1978:388; Kroeber 1929:407-8; Faye 1923:36
+B160,Wintu,Wintu,NA,1860,"DuBois 1935:28, 29; DuBois 1935:28-29; DuBois 1935:55"
+B173,Nothern Pomo,Northern Pomo,NA,1860,Gifford 1926b:232-33; Cook 1956:114; Barrett 1908:124-35; Loeb 1926:172; Loeb 1926:280
+B158,Eastern Pomo,Eastern Pomo,NA,1860,Gifford 1926b:232-33; Barrett 1908:182-204; Loeb 1926:277-79
+B165,Southern Pomo,Southern Pomo,Southern Pomo,1860,Cook 1956:118; Barrett 1908:210-26
+B152,Tubatulabal,Tubatulabal,NA,1850,Voegelin 1938:39-43; Voegelin 1938:2-4; Voegelin 1938:43-44
+B172,Wappo,Wappo,NA,1860,Cook 1956:124; Driver 1936:179-220; Driver 1936:208
+B170,Lake Miwok,Lake Miwok,NA,NA,Cook 1955:122
+B155,Patwin,Patwin,NA,1850,Gifford 1926b:232-33; P. J. Johnson 1978:352; Kroeber 1932:259-62
+B157,Monache,Monachi,Monachi,1870,Gifford 1932b:42-47; Gayton 1948a:254-63; Gifford 1932b; Gayton 1948b:235
+B148,Lake Yokuts,Lake Yokuts,NA,1860,Gifford 1926b:232-33; Cook 1955:40; Gayton 1948a:7-14; Kroeber 1925:484; Wallace 1978b:455
+B151,Wukchumi,Wukchumni,NA,1860,Cook 1955:40; LRB estimate; Gayton 1948b:105
+B164,Salinan,Salinan,Salinan,1805,Gifford 1926b:232-33
+B199,Kawaiisu Shoshoni,Kawaiisu Shoshoni,Kawaiisu,1860,Voegelin 1938:48; LRB estimate; Zigmond 1986:404
+B161,Chumash,Chumash,NA,1860,Cook and Heizer 1965:71; LRB estimate
+B156,Gabrieleno,Gabrielo,"Gabrielino, Gabrieleno",1770,LRB estimate
+B149,Serrano,Serrano,NA,1870,Gifford 1926b:232-33; Kroeber 1925:617-18; LRB estimate; Benedict 1924:371-74
+B144,Cahuilla,Cahuilla,NA,1870,"Gifford 1926b:232-33; Bean 1972:76; Kroeber 1925:692, 706-7; Strong 1929:43-56; LRB estimate; Strong 1929:74"
+B145,Cupeno,Cupeno,NA,1870,Gifford 1926b:232-33; Strong 1929:187-19; LRB estimate; Strong 1929:239
+B150,Luiseno,Luiseno,NA,1860,"Gifford 1926b:232-33; Oxendine 1983:50-57; Sparkman 1908:212; Sparkman 1908:214, 225"
+B146,Kiliwa,Kiliwa,NA,1880,Meigs 1939:18-20; LRB estimate; Meigs 1939:47-50
+B183,Atsugewi,Atsugewi,NA,1860,Gifford 1926b:232-33
+B175,Sierra Miwok,Miwok,NA,1850,Gifford 1926b:232-33; Cook 1955:36; Barrett and Gifford 1933:198-206; Gifford 1916:162
+B147,Diegueno,Diegueno,NA,1850,"Kroeber 1925:712, 719; Luomala 1978:597; LRB estimate; Luomala 1978:602"
+B177,Coast Yuki,Yuki,NA,1860,"Gifford 1939:294, 329-30; Miller 1978:250"
+B189,Klamath,Klamath,Klamath,1860,"Gifford 1926b:232-33; Spier 1930:5-8, 23; Spier 1930:11; Spier 1930:45, 52-54"
+B188,Modoc,Modoc,Modoc,1860,"Gifford 1926b:232-33; Ray 1963:204; Ray 1963:180-211; Ray 1963:83, 90"
+B315,Tenino,Tenino,Yenino,1850,"Murdock 1980:130; Murdock 1980:131; Murdock 1980:130, 141"
+B325,Thompson,Thompson,NA,1860,"Boas and Farrand 1899:630; Teit 1900:241-48; Teit 1900:321, 326"
+B333,Shuswap,Shuswap,NA,1850,Chamberlain 1892:615; Teit 1905:457-66; Dawson 1891:7-10; Teit 1900:324
+B330,Flathead,Flathead,NA,1860,"Teit 1930:331; Turney-High 1937:98; Teit 1930:382; Turney-High 1937:86, 94"
+B326,Kalispel,Kalispel,NA,1870,Teit 1930:331
+B320,Coeur d'Alene,Coeur d’Alene,NA,1860,"Teit 1930:39,331; Teit 1930:95-97, 150-52; Teit 1930:170"
+B321,Sinkaietk,Sinkaitk,NA,1880,Cline et al. 1938:87; Cline et al. 1938:11; Cline et al. 1938:113
+B317,Wenatchi,Wenatchi,Wenatchi,1870,"Teit 1928:93-108; Teit 1928:104, 114-15"
+B318,Yakima,Klikitat,NA,1880,NA
+B319,Wishram,Wishram,Wishram,1860,"Spier and Sapir 1930:166-67; Spier and Sapir 1930:164-67, 202-5; Spier and Sapir 1930:22, 171, 218"
+B316,Umatilla,Umatilla,NA,1860,NA
+B222,Southern Ute (Wimonantci Ute),Southern Ute,NA,1860,Hrdlkka 1909:409; Callaway et al. 1986:352; Smith 1974:123
+B324,Nez Perce,Nez Perce,NA,1850,"Spinden 1908:174-75, 196, 240; Spinden 1908:250"
+B231,Wadadokado Paiute,Wadadokado,NA,1870,Whiting 1950:19; Whiting 1950:17-19; Whiting 1950:100
+B226,Kidutokado (Surprise Valley Paiute),Kidutokado,NA,1870,"Kelly 1932:78, 105; Kelly 1932:78,105-6; Kelly 1932:163, 164; Brink 1969:70-72"
+B208,Kuyuidokado (Pyramid Lake Paiute),Kuyuidokado,NA,1860,"Boas 1899:753; Fowler and Liljeblad 1986:443, 457; LRB estimate"
+B210,Cattail Paiute,Toedokado,NA,1870,"Fowler 1992:35-37, 154; Fowler 1992:25-42; Fowler 1992:152, 155"
+B206,Deep Springs Paiute,Tunava,NA,1860,Steward 1938:58-59; Steward 1938:58-60; Fowler and Liljeblad 1986:449; Steward 1938:58-59
+B202,Owens Valley Paiute (Eastern Mono),Eastern Mono,"Owens Valley Paiute, Eastern Mono",1870,"Gifford 1926b:232-33; Liljeblad and Fowler 1986:414-15; Steward 1938:110; Steward 1933:238-39,263-66; Lowie 1909:210; Steward 1933:295"
+B197,Koso Mountain Shoshoni,Koso Mountain Shoshoni,NA,1860,Steward 1938:80-84; Steward 1936:81-83
+B195,Panamint Shoshoni,Panamint,NA,1850,Steward 1938:84; Steward 1938:84-85; Steward 1938:85
+B218,Reese River Shoshoni,Mahaguaduka,NA,1860,"Steward 1938:101, 108; Steward 1938:100-5"
+B233,Little Smokey Shoshoni,Wiyambituka,NA,1860,"Steward 1938:113; Steward 1938:114-15, figure 8; Steward 1938:113-14"
+B217,Railroad Valley Shoshoni,Railroad Valley Shoshoni,NA,1860,Steward 1938:117; Steward 1938:118-21; Steward 1938:118
+B215,Spring Valley Shoshoni,Spring Valley Shoshoni,NA,1870,Steward 1938:124-27
+B323,Sanpoil,Sanpoil,Sanpoil,1870,"Teit 1930:211; Kelly 1995:table 4.1; Ray 1932:15-24, 27-28; Ray 1932:137"
+B221,Grouse Creek Shoshoni,Tubaduka,NA,1860,Steward 1938:174; Steward 1938:173-77; Steward 1938:174-75
+B228,Wadadika (Ruby Valley Shoshoni),Wadaduka,NA,1860,"Steward 1938:145-46; Steward 1938:figure 11,147-49"
+B216,White Knife Shoshoni,White Knife Shoshoni,NA,1860,Boas 1899:753; Lowie 1924:284; Steward 1938:161; Harris 1940:49
+B229,Bohogue (Northern  Shoshoni),Bohogue,NA,1860,Steward 1938:209
+B232,Agaiduka Shoshoni,Agaiduka,NA,1860,Boas 1899:753; Steward 1938:186-89; Steward 1938:187-92; Steward 1938:195
+B214,Gosiute Shoshoni,Gosiute,NA,1860,Steward 1938:132; Steward 1938:132-39
+B201,Antarianunts Southern Paiute,Antarianunts,NA,1860,LRB estimate; Kelly 1964:100; Kelly and Fowler 1986:377-80
+B213,Hukundika Shoshoni,Hukundika,"Hukunduka, Hukuniduica",1870,Steward 1938:177; Steward 1938:178-79
+B204,Kaibab Southern Paiute,Kaibab Southern Paiute,NA,1860,"Hrdli6ka 1909:408; Kelly 1964:11-22; Euler and Fowler 1966:35, 101; Stale and Evans 1978:183; Kelly 1964:12,14; Kelly 1964:99-100; Kelly and Fowler 1986:377"
+B230,Uintah Ute,Uintah Ute,NA,1860,Boas 1899:753; Steward 1974:147; Stewart 1941:296
+B225,Washo,Washo,NA,1850,Gifford 1926b:232-33; Price 1962:40; Downs 1966:12-37; d'Azevedo 1963:109; Price 1962:8-9
+B234,Uncompahgre Ute,Uncompahgre Ute,NA,1860,Boas 1899:753; Steward 1974:147
+B252,Bannock,Bannock,NA,1860,Boas 1899:753; Steward 1938:201-6
+B227,Wind River Shoshoni,Wind River,NA,1860,Shimkin 1947:255; Steward 1974:373; Lowie 1924:227
+B198,Walapai,Walapai,Walapai,1870,"Hrdlidca 1909:413; Hayden 1936:142, 165-68, 70; Kroeber 1935:45; Knifen 1935:38-45; Kroeber 1935:141, 143"
+B196,Yavapai,Yavapai,Yavapai,1870,"Corbusier 1886:278-79; Gifford 1932a:180-89; Corbusier 1886:283; Gifford 1932:206-13; Corbusier 1886:330; Gifford 1932a:191, 195"
+B250,Kutenai,Kutenai,NA,1880,"Chamberlain 1892:564-82; Chamberlain 1892:551; Turney-High 1941:53-55; Turney-High 1941:119, 130"
+B348,Chilcotin,Chilcotin,NA,1880,Boas and Farrand 1899:630; Lane 1981:405
+B276,Lillooet,Lillooet,NA,1860,Boas and Farrand 1899:630; Teit 1906:199; Hayden 1997:18-22; Teit 1906:264-65
+B253,Gros-Ventre,Gros Ventre,NA,1870,Bamforth 1988:106-9; Swanton 1952:278; Flannery 1953:23-24; Flannery 1953:171
+B257,Assiniboine,Assiniboin,NA,1870,"Bushnell 1922:32-33; Culbertson 1952:107; Lowrie and Clarke 1832; Denig 1930:504, 511"
+B256,Blackfoot,Blackfoot,NA,1850,Bushnell 1922:26; Ewers 1955:303; Ewers 1955:123-29; Wissler 1911:11; Lewis 1973:40
+B259,Blood,Blood,NA,1850,Bamforth 1988:106-109
+B193,Karankawa,Karankawa,NA,1800,Stiles 1906:80-87; Schaedel 1949:124
+B243,Kiowa,Kiowa,NA,1870,Bamforth 1988:106-9; Miskin 1940:55; Newcomb 1961:201
+B258,Plains Cree,Plains Cree,NA,1850,"Bamforth 1988:106-109; Bushnell 1922:20, 21; Mandelbaum 1940:246"
+B244,Kiowa Apache,Kiowa Apache,NA,1860,Bamforth 1988:106-9
+B194,Coahuilenos,Coahuilteco,NA,1715,NA
+B241,Comanche,Comanche,NA,1870,"Goldstein 1934:299; Wallace and Hoebel 1952:23; Wallace and Hoebel 1952:126, 133, 142"
+B248,Crow,Crow,NA,1870,Bamforth 1988:106-9; Denig 1961:165; Denig 1961:159; Kelly 1995:table 4.1; Denig 1953:34
+B245,Cheyenne,Cheyenne,NA,1860,"Moore 1987:180-86, 194; Gussow 1954; Moore 1987:163-75; Moore 1987:178, 179, 320"
+B260,Sarsi,Sarsi,NA,1880,Bamforth 1988:106-109; Jenness 1938:10-11; Jenness 1938:12; Jenness 1938:21-24
+B249,Teton Sioux (Lakota),Teton,NA,1870,Sullivan 1920:169; Culbertson 1952:135
+B246,Arapaho,Arapaho,Arapahoe,1860,"Flannery 1953:54; Gussow et al. 1974:23; Eggan 1937:61-62; Hilger 1952:193, 197, 198"
+B254,Bungi (Plains Ojibwa),Ojibwa,NA,1850,Skinner 1914:477
+B242,Chiricahua Apache,Chiricahua,NA,1880,"Basehart 1972:5; Morice 1906b:496; Opler 1937:177-82; Opler 1937:201, 204"
+B240,Lipan Apache,Lipan,Lipan,1880,Hrdlicka 1909:412; Basehart pers. comm. 1972; Swanton 1952:323; Basehart pers. comm. 1972
+B143,Seri,Seri,NA,1900,McGee 1898:136; Bowen 1976:24-30; Griffin 1959:vii; McGee 1898:152; McGee 1898:279; Kroeber 1931:8; Gilg 1965:51
+B191,Chichimec,Chichimec,NA,1570,NA
+B35,Paraujano,Paraujano,NA,1950,NA
+B38,Yaruro-Pume,Yaruro,NA,1989,Petrullo 1939:177; Greaves pers. comm. 1993; Gragson 1989:289-90; Gragson 1989:285-88; Gragson 1989:123; Petrullo 1939:232
+B39,Guahibo,Guahibo,NA,1960,"Hurtado and Hill 1990:329; Wilbert 1957:90; Kirchhoff 1945:449; Metzger 1968:83, 85; Wilbert 1957:89"
+B36,Shiriana,Shiriana,NA,1960,Metraux 1948:863; LRB estimate
+B43,Siriono,Siriono,NA,1940,"Holmberg 1950:8; Holmberg 1950:51; Holmberg 1950:51; Holmberg 1950:51, 82-83, 216"
+B55,Yaghan,Yahgan,NA,1870,"Lothrop 1928:41; Gusinde 1937:384, 387; Gusinde 1937:366, 511; Cooper 1946a:92"
+B54,Ona,Ona,NA,1880,"Lothrop 1928:41; Chapman 1982:58; Cooper 1946b:117; Gusinde 1931:205; Chapman 1982:19; Chapman 1982:58; Cooper 1946b:115; Gusinde 1931:444, 479"
+B51,Tehuelche,Tehuelche,NA,1870,Lothrop 1928:45; Cooper 1946c:150; Goni 1988:145; LRB estimate; Cooper 1946c:149
+B53,Alacaluf,Alacaluf,NA,1900,Lothrop 1928:39; Bird pers. comm. 1970; Bird 1946:77
+B41,Bororo,Bororo,NA,1920,"Newman 1953:321; Baldus 1937:115-23; Levi-Strauss 1936:269; Levi-Strauss 1936:269, 1970:140; Baldus 1937:123-24; Cook 1908:387; Levi-Strauss 1936:276"
+B45,Nambikwara,Nambicura,NA,1938,"Newman 1953:321; Levi-Strauss 1970:288; Oberg 1953:86; Levi-Strauss 1948b:266, 288; Aspelin 1976:9-16; Levi-Strauss 1948a:366; 1970:269; Oberg 1953:103-04"
+B42,Guato,Guato,NA,1901,Metraux 1946a:410; Metraux 1946a:417
+B50,Aweikomo,Aweikoma,NA,1910,"Henry 1964:11, 50, 159; Henry 1964:159; Henry 1964:45"
+B48,Botocudo,Botocudo,NA,1880,Ehrenreich 1887:16-17; Metraux 1946:534; LRB estimate; Metraux 1946b:537
+,,,,,
