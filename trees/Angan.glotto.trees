@@ -1,0 +1,6 @@
+#NEXUS
+begin taxa; 
+end;
+Begin trees;
+tree UNTITLED = [&R] (agm:1,((klp:1,ssu:1)1:1,kcb:1)1:1,ygw:1,smb:1,mcr:1,(miw:1,ago:1)1:1);
+end;
