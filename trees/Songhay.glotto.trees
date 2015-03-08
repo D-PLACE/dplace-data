@@ -1,0 +1,13 @@
+#NEXUS
+Begin taxa;
+ddn
+ses
+tst
+kcy
+dsq
+twq
+;
+end;
+Begin trees;
+tree UNTITLED = ((ddn:1,ses:1,tst:1)1:1,(kcy:1,dsq:1,twq:1)1:1);
+end;

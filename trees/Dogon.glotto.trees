@@ -1,0 +1,22 @@
+#NEXUS
+Begin taxa;
+dbw
+dbt
+nzz
+dwl
+dbg
+dtu
+dti
+dym
+dtt
+dtm
+aqd
+dgb
+dmb
+tde
+dts
+;
+end;
+Begin trees;
+tree UNTITLED = ((dbw:1,dbt:1,nzz:1,dwl:1)1:1,(dbg:1,(dtu:1,(dti:1,dym:1)1:1)1:1)1:1,(dtt:1,dtm:1)1:1,(aqd:1,dgb:1,dmb:1,tde:1)1:1,dts:1);
+end;

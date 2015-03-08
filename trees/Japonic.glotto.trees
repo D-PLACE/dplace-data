@@ -1,0 +1,11 @@
+#NEXUS
+Begin taxa;
+yox
+ams
+yoi
+ojp
+;
+end;
+Begin trees;
+tree UNTITLED = (((yox:1,ams:1)1:1,yoi:1)1:1,ojp:1);
+end;

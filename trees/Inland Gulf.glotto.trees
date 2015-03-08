@@ -1,0 +1,14 @@
+#NEXUS
+Begin taxa;
+ipo
+ffi
+hhi
+hhy
+xar
+mcv
+tsx
+;
+end;
+Begin trees;
+tree UNTITLED = (ipo:1,((ffi:1,hhi:1,hhy:1)1:1,xar:1,mcv:1,tsx:1)1:1);
+end;

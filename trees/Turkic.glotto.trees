@@ -1,0 +1,25 @@
+#NEXUS
+Begin taxa;
+dlg
+sah
+xpc
+jct
+uum
+slq
+otk
+qxq
+uzs
+chg
+aib
+ybe
+ili
+oui
+atv
+kim
+klj
+xbo
+;
+end;
+Begin trees;
+tree UNTITLED = (((dlg:1,sah:1)1:1,(((xpc:1,(jct:1,uum:1)1:1)1:1,(slq:1,otk:1)1:1,qxq:1,uzs:1)1:1,(chg:1,(aib:1,ybe:1)1:1,ili:1,oui:1)1:1)1:1,(atv:1,kim:1)1:1,klj:1)1:1,xbo:1);
+end;

@@ -1,0 +1,30 @@
+#NEXUS
+Begin taxa;
+apy
+coy
+nts
+bkq
+txi
+aap
+ciy
+cuo
+mcg
+pev
+tmz
+pbh
+ake
+pbc
+mbc
+cbd
+ako
+hix
+xkh
+slj
+sik
+kui
+jru
+;
+end;
+Begin trees;
+tree UNTITLED = (apy:1,coy:1,nts:1,(bkq:1,(txi:1,aap:1)1:1)1:1,(((ciy:1,cuo:1)1:1,(mcg:1,pev:1)1:1,tmz:1)1:1,(pbh:1,((ake:1,pbc:1)1:1,mbc:1)1:1)1:1)1:1,(cbd:1,ako:1)1:1,(hix:1,(xkh:1,slj:1,sik:1)1:1)1:1,kui:1,jru:1);
+end;

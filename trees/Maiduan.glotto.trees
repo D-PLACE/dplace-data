@@ -1,0 +1,11 @@
+#NEXUS
+Begin taxa;
+nsz
+nmu
+mjd
+vmv
+;
+end;
+Begin trees;
+tree UNTITLED = (nsz:1,nmu:1,mjd:1,vmv:1);
+end;

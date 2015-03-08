@@ -1,0 +1,21 @@
+#NEXUS
+Begin taxa;
+bxo
+bpl
+cpi
+gib
+ihb
+pml
+mhh
+mod
+njt
+nef
+onx
+dep
+sta
+tas
+;
+end;
+Begin trees;
+tree UNTITLED = (bxo:1,bpl:1,cpi:1,gib:1,ihb:1,pml:1,mhh:1,mod:1,njt:1,nef:1,onx:1,dep:1,sta:1,tas:1);
+end;

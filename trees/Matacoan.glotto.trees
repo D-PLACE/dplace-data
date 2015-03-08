@@ -1,0 +1,12 @@
+#NEXUS
+Begin taxa;
+crq
+crt
+mzh
+mtp
+mca
+;
+end;
+Begin trees;
+tree UNTITLED = (((crq:1,crt:1)1:1,(mzh:1,mtp:1)1:1)1:1,mca:1);
+end;

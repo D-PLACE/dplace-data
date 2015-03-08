@@ -1,0 +1,17 @@
+#NEXUS
+Begin taxa;
+tee
+tpp
+tpt
+tlp
+top
+tos
+tcw
+tku
+tqt
+tlc
+;
+end;
+Begin trees;
+tree UNTITLED = ((tee:1,tpp:1,tpt:1)1:1,(((tlp:1,top:1,tos:1)1:1,(tcw:1,tku:1,tqt:1)1:1)1:1,tlc:1)1:1);
+end;

@@ -1,0 +1,15 @@
+#NEXUS
+Begin taxa;
+gak
+ibu
+wli
+tft
+tvo
+kax
+lau
+mqs
+;
+end;
+Begin trees;
+tree UNTITLED = (((gak:1,ibu:1,wli:1)1:1,(tft:1,tvo:1)1:1,kax:1,lau:1)1:1,mqs:1);
+end;

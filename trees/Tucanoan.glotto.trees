@@ -1,0 +1,24 @@
+#NEXUS
+Begin taxa;
+cbc
+yui
+gvc
+pir
+pok
+tav
+cub
+des
+sri
+myy
+arj
+mmv
+coe
+mcl
+snn
+ten
+teb
+;
+end;
+Begin trees;
+tree UNTITLED = (((((cbc:1,yui:1)1:1,(gvc:1,pir:1)1:1)1:1,(pok:1,tav:1)1:1)1:1,((cub:1,(des:1,sri:1)1:1)1:1,myy:1)1:1)1:1,(arj:1,mmv:1)1:1,(coe:1,(mcl:1,snn:1,ten:1,teb:1)1:1)1:1);
+end;

@@ -1,0 +1,31 @@
+#NEXUS
+Begin taxa;
+ktx
+nom
+cao
+pcp
+pno
+sni
+cbs
+rem
+swo
+ywn
+mts
+isc
+pyn
+tux
+atc
+mzr
+xor
+xpk
+mcf
+mpq
+pig
+ppv
+snh
+xip
+;
+end;
+Begin trees;
+tree UNTITLED = ((ktx:1,nom:1,((cao:1,pcp:1)1:1,(pno:1,sni:1)1:1,(cbs:1,rem:1,(swo:1,ywn:1,mts:1)1:1)1:1,(isc:1,pyn:1)1:1,tux:1,atc:1,mzr:1)1:1)1:1,(((xor:1,xpk:1,mcf:1)1:1,mpq:1)1:1,pig:1)1:1,ppv:1,snh:1,xip:1);
+end;

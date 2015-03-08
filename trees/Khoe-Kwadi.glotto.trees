@@ -1,0 +1,12 @@
+#NEXUS
+Begin taxa;
+tyu
+hio
+hnh
+kqz
+xii
+;
+end;
+Begin trees;
+tree UNTITLED = (((tyu:1,hio:1)1:1,hnh:1)1:1,(kqz:1,xii:1)1:1);
+end;

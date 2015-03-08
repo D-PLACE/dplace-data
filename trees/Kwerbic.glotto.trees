@@ -1,0 +1,13 @@
+#NEXUS
+Begin taxa;
+bqb
+xau
+xwr
+tip
+air
+tmj
+;
+end;
+Begin trees;
+tree UNTITLED = ((bqb:1,xau:1,xwr:1,tip:1)1:1,(air:1,tmj:1)1:1);
+end;

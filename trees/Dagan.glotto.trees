@@ -1,0 +1,14 @@
+#NEXUS
+Begin taxa;
+dgz
+jma
+gnm
+soq
+mnm
+onj
+trh
+;
+end;
+Begin trees;
+tree UNTITLED = (dgz:1,jma:1,gnm:1,soq:1,mnm:1,onj:1,trh:1);
+end;

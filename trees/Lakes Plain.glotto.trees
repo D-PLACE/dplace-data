@@ -1,0 +1,23 @@
+#NEXUS
+Begin taxa;
+flh
+tbp
+awr
+rac
+spi
+tds
+tcq
+kkb
+pas
+wbe
+bqq
+ert
+afz
+tty
+dbf
+fau
+;
+end;
+Begin trees;
+tree UNTITLED = ((flh:1,tbp:1)1:1,(awr:1,(rac:1,spi:1)1:1)1:1,(((tds:1,tcq:1,kkb:1,pas:1,wbe:1)1:1,(bqq:1,ert:1,afz:1)1:1,tty:1)1:1,dbf:1,fau:1)1:1);
+end;

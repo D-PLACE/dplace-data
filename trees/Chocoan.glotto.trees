@@ -1,0 +1,18 @@
+#NEXUS
+Begin taxa;
+aoh
+cca
+cto
+bdc
+emp
+cmi
+tdc
+rna
+ans
+crf
+noa
+;
+end;
+Begin trees;
+tree UNTITLED = (aoh:1,cca:1,((cto:1,(bdc:1,emp:1)1:1)1:1,(cmi:1,tdc:1)1:1)1:1,rna:1,(ans:1,crf:1)1:1,noa:1);
+end;

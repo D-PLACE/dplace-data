@@ -1,0 +1,13 @@
+#NEXUS
+Begin taxa;
+gma
+gww
+vmi
+wil
+xgu
+wro
+;
+end;
+Begin trees;
+tree UNTITLED = ((gma:1,gww:1,vmi:1,wil:1)1:1,(xgu:1,wro:1)1:1);
+end;

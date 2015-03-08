@@ -1,0 +1,12 @@
+#NEXUS
+Begin taxa;
+mpe
+did
+loh
+tex
+muz
+;
+end;
+Begin trees;
+tree UNTITLED = (mpe:1,(((did:1,loh:1)1:1,tex:1)1:1,muz:1)1:1);
+end;

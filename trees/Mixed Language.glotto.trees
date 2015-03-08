@@ -1,0 +1,25 @@
+#NEXUS
+Begin taxa;
+rme
+ckz
+caw
+rmq
+cmt
+emx
+lon
+mue
+mud
+crg
+nuw
+rge
+rsb
+sth
+rmu
+rmd
+rmg
+yec
+;
+end;
+Begin trees;
+tree UNTITLED = (rme:1,ckz:1,caw:1,rmq:1,cmt:1,emx:1,lon:1,mue:1,mud:1,crg:1,nuw:1,rge:1,rsb:1,sth:1,rmu:1,rmd:1,rmg:1,yec:1);
+end;

@@ -1,0 +1,32 @@
+#NEXUS
+Begin taxa;
+aog
+can
+tzx
+yee
+xop
+mtf
+aod
+igm
+tgu
+tbs
+geb
+msy
+spm
+kct
+wax
+bqs
+brq
+rmk
+igg
+afi
+mzu
+xoi
+aki
+anj
+grq
+;
+end;
+Begin trees;
+tree UNTITLED = ((aog:1,can:1,(tzx:1,yee:1)1:1,(xop:1,mtf:1)1:1)1:1,((aod:1,(igm:1,tgu:1)1:1,tbs:1)1:1,((geb:1,(msy:1,spm:1)1:1)1:1,((kct:1,wax:1)1:1,bqs:1)1:1)1:1,((brq:1,rmk:1)1:1,igg:1,(afi:1,mzu:1,xoi:1)1:1)1:1,(aki:1,anj:1)1:1)1:1,grq:1);
+end;

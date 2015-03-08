@@ -1,0 +1,12 @@
+#NEXUS
+Begin taxa;
+anb
+arl
+cah
+avs
+zro
+;
+end;
+Begin trees;
+tree UNTITLED = (((anb:1,arl:1)1:1,cah:1)1:1,(avs:1,zro:1)1:1);
+end;

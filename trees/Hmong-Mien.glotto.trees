@@ -1,0 +1,37 @@
+#NEXUS
+Begin taxa;
+hmq
+hea
+hms
+muq
+mmr
+cqd
+hmz
+hrm
+hmv
+hmf
+hnj
+sfm
+huj
+hmy
+hmg
+hmc
+hme
+hmi
+hmh
+hmd
+hml
+hmm
+hmp
+hma
+hmw
+pnu
+pha
+bwn
+buh
+bpn
+;
+end;
+Begin trees;
+tree UNTITLED = (((((hmq:1,hea:1,hms:1)1:1,(muq:1,mmr:1)1:1,(cqd:1,(((hmz:1,hrm:1,(hmv:1,hmf:1)1:1,hnj:1)1:1,sfm:1)1:1,(huj:1,hmy:1,hmg:1)1:1,(hmc:1,hme:1,hmi:1,hmh:1)1:1,hmd:1,hml:1,(hmm:1,hmp:1,hma:1,hmw:1)1:1)1:1)1:1)1:1,pnu:1)1:1,(pha:1,bwn:1,buh:1)1:1)1:1,bpn:1);
+end;

@@ -1,0 +1,11 @@
+#NEXUS
+Begin taxa;
+agr
+acu
+hub
+jiv
+;
+end;
+Begin trees;
+tree UNTITLED = (agr:1,(acu:1,hub:1,jiv:1)1:1);
+end;

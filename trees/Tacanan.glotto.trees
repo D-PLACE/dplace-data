@@ -1,0 +1,13 @@
+#NEXUS
+Begin taxa;
+cav
+aro
+tno
+ese
+rey
+tna
+;
+end;
+Begin trees;
+tree UNTITLED = (cav:1,((aro:1,tno:1)1:1,ese:1,(rey:1,tna:1)1:1)1:1);
+end;

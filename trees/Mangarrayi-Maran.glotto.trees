@@ -1,0 +1,11 @@
+#NEXUS
+Begin taxa;
+mpc
+alh
+mec
+wnd
+;
+end;
+Begin trees;
+tree UNTITLED = (mpc:1,(alh:1,(mec:1,wnd:1)1:1)1:1);
+end;

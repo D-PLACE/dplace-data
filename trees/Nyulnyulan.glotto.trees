@@ -1,0 +1,13 @@
+#NEXUS
+Begin taxa;
+wwr
+dyd
+nmp
+dyb
+nyv
+djw
+;
+end;
+Begin trees;
+tree UNTITLED = ((wwr:1,dyd:1)1:1,(nmp:1,(dyb:1,nyv:1)1:1,djw:1)1:1);
+end;

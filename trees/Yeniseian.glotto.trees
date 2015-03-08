@@ -1,0 +1,13 @@
+#NEXUS
+Begin taxa;
+ket
+yuu
+xrn
+xpm
+xss
+zko
+;
+end;
+Begin trees;
+tree UNTITLED = ((ket:1,yuu:1)1:1,((xrn:1,xpm:1)1:1,(xss:1,zko:1)1:1)1:1);
+end;

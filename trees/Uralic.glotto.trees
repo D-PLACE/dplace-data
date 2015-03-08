@@ -1,0 +1,24 @@
+#NEXUS
+Begin taxa;
+lud
+olo
+fkv
+myv
+mdf
+sia
+smn
+sjk
+sjd
+sjt
+smj
+sje
+sma
+sju
+enf
+enh
+zkb
+;
+end;
+Begin trees;
+tree UNTITLED = ((lud:1,olo:1,fkv:1)1:1,(myv:1,mdf:1)1:1,(((sia:1,smn:1,sjk:1)1:1,(sjd:1,sjt:1)1:1)1:1,((smj:1,sje:1)1:1,(sma:1,sju:1)1:1)1:1)1:1,((enf:1,enh:1)1:1,zkb:1)1:1);
+end;

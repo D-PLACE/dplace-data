@@ -1,0 +1,12 @@
+#NEXUS
+Begin taxa;
+amm
+nax
+niw
+itr
+owi
+;
+end;
+Begin trees;
+tree UNTITLED = ((amm:1,nax:1,niw:1,itr:1)1:1,owi:1);
+end;

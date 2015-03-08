@@ -1,0 +1,34 @@
+#NEXUS
+Begin taxa;
+keo
+mqu
+ddd
+lno
+lky
+lpx
+nsg
+nnj
+jum
+mfz
+bxb
+lwo
+lkr
+shk
+kdi
+laj
+adh
+luo
+atu
+sgc
+eyo
+niq
+tec
+tuy
+aam
+kqh
+mwx
+;
+end;
+Begin trees;
+tree UNTITLED = (((keo:1,mqu:1)1:1,(((ddd:1,lno:1,lky:1,lpx:1)1:1,nsg:1)1:1,nnj:1)1:1)1:1,(((jum:1,mfz:1)1:1,(bxb:1,lwo:1,lkr:1,shk:1)1:1,((kdi:1,laj:1)1:1,(adh:1,luo:1)1:1)1:1)1:1,atu:1)1:1,((sgc:1,(eyo:1,niq:1,tec:1,tuy:1)1:1)1:1,(aam:1,kqh:1,mwx:1)1:1)1:1);
+end;

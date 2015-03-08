@@ -1,0 +1,17 @@
+#NEXUS
+Begin taxa;
+apq
+akx
+aky
+okj
+akm
+aci
+akj
+ack
+abj
+acl
+;
+end;
+Begin trees;
+tree UNTITLED = (((apq:1,akx:1,(aky:1,okj:1)1:1)1:1,((akm:1,aci:1)1:1,(akj:1,ack:1)1:1)1:1)1:1,(abj:1,acl:1)1:1);
+end;

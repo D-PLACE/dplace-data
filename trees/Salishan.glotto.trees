@@ -1,0 +1,23 @@
+#NEXUS
+Begin taxa;
+blc
+clm
+ska
+sno
+nok
+ptw
+sec
+squ
+lil
+thp
+crd
+spo
+til
+cow
+cjh
+cea
+;
+end;
+Begin trees;
+tree UNTITLED = (blc:1,(clm:1,(ska:1,sno:1)1:1,nok:1,ptw:1,sec:1,squ:1)1:1,((lil:1,thp:1)1:1,(crd:1,spo:1)1:1)1:1,til:1,((cow:1,cjh:1)1:1,cea:1)1:1);
+end;

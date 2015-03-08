@@ -1,0 +1,11 @@
+#NEXUS
+Begin taxa;
+zkt
+yuy
+kxs
+drh
+;
+end;
+Begin trees;
+tree UNTITLED = (zkt:1,(yuy:1,kxs:1)1:1,drh:1);
+end;
