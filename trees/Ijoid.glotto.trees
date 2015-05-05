@@ -1,15 +1,6 @@
 #NEXUS
-Begin taxa;
-afn
-iby
-ijn
-okr
-nkx
-ije
-okd
-orr
-;
-end;
+
 Begin trees;
-tree UNTITLED = (afn:1,(((iby:1,ijn:1,okr:1)1:1,nkx:1)1:1,(ije:1,okd:1,orr:1)1:1)1:1);
+tree UNTITLED = (afn,(((iby,ijn,okr),nkx),(ije,okd,orr)));
+
 end;

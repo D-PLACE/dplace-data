@@ -1,12 +1,6 @@
 #NEXUS
-Begin taxa;
-grs
-kmt
-msf
-kja
-nir
-;
-end;
+
 Begin trees;
-tree UNTITLED = ((grs:1,kmt:1)1:1,msf:1,kja:1,nir:1);
+tree UNTITLED = ((grs,kmt),msf,kja,nir);
+
 end;

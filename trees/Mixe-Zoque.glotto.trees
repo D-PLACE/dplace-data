@@ -1,20 +1,6 @@
 #NEXUS
-Begin taxa;
-mir
-mzl
-pxm
-mxp
-mto
-plo
-pos
-qcs
-zoh
-poi
-zoq
-poq
-zor
-;
-end;
+
 Begin trees;
-tree UNTITLED = ((((((mir:1,mzl:1)1:1,pxm:1)1:1,mxp:1)1:1,mto:1)1:1,plo:1,pos:1,qcs:1)1:1,(zoh:1,(poi:1,zoq:1,poq:1)1:1,zor:1)1:1);
+tree UNTITLED = ((((mxp,(mir,mzl)),mto),plo,pos,qcs),(zoh,(poi,zoq,poq),zor));
+
 end;

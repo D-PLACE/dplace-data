@@ -1,15 +1,6 @@
 #NEXUS
-Begin taxa;
-nec
-ret
-twg
-hmu
-kpu
-bfn
-ddg
-oia
-;
-end;
+
 Begin trees;
-tree UNTITLED = ((nec:1,(((ret:1,twg:1)1:1,hmu:1)1:1,kpu:1)1:1)1:1,(bfn:1,(ddg:1,oia:1)1:1)1:1);
+tree UNTITLED = ((nec,(((ret,twg),hmu),kpu)),(bfn,(ddg,oia)));
+
 end;

@@ -1,11 +1,6 @@
 #NEXUS
-Begin taxa;
-mdg
-sbj
-mvu
-rou
-;
-end;
+
 Begin trees;
-tree UNTITLED = (((mdg:1,sbj:1)1:1,mvu:1)1:1,rou:1);
+tree UNTITLED = (((mdg,sbj),mvu),rou);
+
 end;

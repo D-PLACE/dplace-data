@@ -1,11 +1,6 @@
 #NEXUS
-Begin taxa;
-dof
-luf
-mze
-bwk
-;
-end;
+
 Begin trees;
-tree UNTITLED = (dof:1,luf:1,mze:1,bwk:1);
+tree UNTITLED = (dof,luf,mze,bwk);
+
 end;

@@ -1,12 +1,6 @@
 #NEXUS
-Begin taxa;
-buo
-uis
-lni
-oue
-nco
-;
-end;
+
 Begin trees;
-tree UNTITLED = ((buo:1,uis:1)1:1,(lni:1,oue:1,nco:1)1:1);
+tree UNTITLED = ((buo,uis),(lni,oue,nco));
+
 end;

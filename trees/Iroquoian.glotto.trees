@@ -1,16 +1,6 @@
 #NEXUS
-Begin taxa;
-cay
-lre
-moh
-one
-ono
-see
-sqn
-ntw
-tus
-;
-end;
+
 Begin trees;
-tree UNTITLED = (cay:1,lre:1,(moh:1,one:1)1:1,ono:1,see:1,sqn:1,(ntw:1,tus:1)1:1);
+tree UNTITLED = (cay,lre,(moh,one),ono,see,sqn,(ntw,tus));
+
 end;

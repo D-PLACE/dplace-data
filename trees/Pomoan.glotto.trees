@@ -1,12 +1,6 @@
 #NEXUS
-Begin taxa;
-peb
-pef
-kju
-peq
-pom
-;
-end;
+
 Begin trees;
-tree UNTITLED = ((peb:1,(pef:1,(kju:1,peq:1)1:1)1:1)1:1,pom:1);
+tree UNTITLED = ((peb,(pef,(kju,peq))),pom);
+
 end;

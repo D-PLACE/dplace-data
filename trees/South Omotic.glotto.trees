@@ -1,12 +1,6 @@
 #NEXUS
-Begin taxa;
-aiw
-gyl
-amf
-kxh
-dim
-;
-end;
+
 Begin trees;
-tree UNTITLED = (((aiw:1,gyl:1)1:1,(amf:1,kxh:1)1:1)1:1,dim:1);
+tree UNTITLED = (((aiw,gyl),(amf,kxh)),dim);
+
 end;

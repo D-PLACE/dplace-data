@@ -1,13 +1,6 @@
 #NEXUS
-Begin taxa;
-eli
-tlo
-lmd
-taz
-tqr
-dec
-;
-end;
+
 Begin trees;
-tree UNTITLED = (eli:1,tlo:1,(lmd:1,taz:1,tqr:1)1:1,dec:1);
+tree UNTITLED = (eli,tlo,(lmd,taz,tqr),dec);
+
 end;

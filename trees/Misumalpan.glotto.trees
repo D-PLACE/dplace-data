@@ -1,11 +1,6 @@
 #NEXUS
-Begin taxa;
-ccr
-mtn
-yan
-ulw
-;
-end;
+
 Begin trees;
-tree UNTITLED = ((ccr:1,mtn:1)1:1,(yan:1,ulw:1)1:1);
+tree UNTITLED = ((ccr,mtn),(yan,ulw));
+
 end;

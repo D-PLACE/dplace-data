@@ -1,11 +1,6 @@
 #NEXUS
-Begin taxa;
-xcv
-ykg
-yux
-omk
-;
-end;
+
 Begin trees;
-tree UNTITLED = (xcv:1,ykg:1,yux:1,omk:1);
+tree UNTITLED = (xcv,ykg,yux,omk);
+
 end;

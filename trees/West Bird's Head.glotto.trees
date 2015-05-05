@@ -1,11 +1,6 @@
 #NEXUS
-Begin taxa;
-mxn
-sbg
-kzz
-msg
-;
-end;
+
 Begin trees;
-tree UNTITLED = ((mxn:1,sbg:1)1:1,(kzz:1,msg:1)1:1);
+tree UNTITLED = ((mxn,sbg),(kzz,msg));
+
 end;

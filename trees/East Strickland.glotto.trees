@@ -1,12 +1,6 @@
 #NEXUS
-Begin taxa;
-agl
-kxw
-jko
-smq
-kkc
-;
-end;
+
 Begin trees;
-tree UNTITLED = (agl:1,kxw:1,(jko:1,smq:1)1:1,kkc:1);
+tree UNTITLED = (agl,kxw,(jko,smq),kkc);
+
 end;

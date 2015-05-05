@@ -1,19 +1,6 @@
 #NEXUS
-Begin taxa;
-nby
-upi
-aic
-auw
-aos
-amn
-smf
-dnd
-imn
-jet
-snu
-wrs
-;
-end;
+
 Begin trees;
-tree UNTITLED = ((nby:1,upi:1,aic:1)1:1,(auw:1,aos:1)1:1,(amn:1,smf:1,dnd:1,imn:1,jet:1,snu:1,wrs:1)1:1);
+tree UNTITLED = ((nby,upi,aic),(auw,aos),(amn,smf,dnd,imn,jet,snu,wrs));
+
 end;

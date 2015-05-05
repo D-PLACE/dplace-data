@@ -1,32 +1,6 @@
 #NEXUS
-Begin taxa;
-aau
-aad
-iwm
-iws
-cjn
-wog
-kmn
-xrw
-bye
-bnw
-mbx
-siv
-wtk
-bjh
-knr
-pin
-nux
-lgt
-ayq
-ywa
-psq
-akq
-aww
-nnm
-sim
-;
-end;
+
 Begin trees;
-tree UNTITLED = (aau:1,aad:1,((iwm:1,iws:1)1:1,(cjn:1,wog:1)1:1)1:1,(kmn:1,xrw:1,bye:1)1:1,(((bnw:1,mbx:1,siv:1,wtk:1)1:1,bjh:1)1:1,knr:1,pin:1)1:1,((nux:1,lgt:1)1:1,(ayq:1,ywa:1,psq:1)1:1)1:1,(akq:1,aww:1,nnm:1)1:1,sim:1);
+tree UNTITLED = (aau,aad,((iwm,iws),(cjn,wog)),(kmn,xrw,bye),(((bnw,mbx,siv,wtk),bjh),knr,pin),((nux,lgt),(ayq,ywa,psq)),(akq,aww,nnm),sim);
+
 end;

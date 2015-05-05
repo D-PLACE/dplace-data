@@ -1,11 +1,6 @@
 #NEXUS
-Begin taxa;
-nez
-tqn
-uma
-waa
-;
-end;
+
 Begin trees;
-tree UNTITLED = (nez:1,((tqn:1,uma:1)1:1,waa:1)1:1);
+tree UNTITLED = (nez,((tqn,uma),waa));
+
 end;

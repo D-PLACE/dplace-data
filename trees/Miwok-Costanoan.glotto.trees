@@ -1,13 +1,6 @@
 #NEXUS
-Begin taxa;
-mkq
-pmw
-nsq
-skd
-lmw
-krb
-;
-end;
+
 Begin trees;
-tree UNTITLED = (((mkq:1,pmw:1,(nsq:1,skd:1)1:1)1:1,lmw:1)1:1,krb:1);
+tree UNTITLED = (((mkq,pmw,(nsq,skd)),lmw),krb);
+
 end;

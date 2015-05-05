@@ -1,13 +1,6 @@
 #NEXUS
-Begin taxa;
-obi
-boi
-inz
-puy
-veo
-crz
-;
-end;
+
 Begin trees;
-tree UNTITLED = (obi:1,((boi:1,inz:1,puy:1,veo:1)1:1,crz:1)1:1);
+tree UNTITLED = (obi,((boi,inz,puy,veo),crz));
+
 end;

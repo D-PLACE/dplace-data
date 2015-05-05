@@ -1,35 +1,6 @@
 #NEXUS
-Begin taxa;
-cob
-hus
-emy
-ctu
-caa
-tzo
-cac
-toj
-jac
-kjb
-knj
-agu
-ixl
-mam
-ttc
-kek
-cak
-tzj
-acr
-quc
-quv
-qum
-poc
-poh
-usp
-itz
-mop
-yua
-;
-end;
+
 Begin trees;
-tree UNTITLED = ((cob:1,hus:1)1:1,((((emy:1,ctu:1,caa:1)1:1,tzo:1)1:1,((cac:1,toj:1)1:1,(jac:1,kjb:1,knj:1)1:1)1:1,(((agu:1,ixl:1)1:1,(mam:1,ttc:1)1:1)1:1,(kek:1,(((cak:1,tzj:1)1:1,(acr:1,quc:1)1:1,quv:1,qum:1)1:1,(poc:1,poh:1)1:1)1:1,usp:1)1:1)1:1)1:1,((itz:1,mop:1)1:1,yua:1)1:1)1:1);
+tree UNTITLED = (((((agu,ixl),(mam,ttc)),(((cak,tzj),(acr,quc),quv,qum),kek,(poc,poh),usp)),(((emy,ctu,caa),tzo),((cac,toj),(jac,kjb,knj))),((itz,mop),yua)),(cob,hus));
+
 end;

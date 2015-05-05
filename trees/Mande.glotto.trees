@@ -1,43 +1,6 @@
 #NEXUS
-Begin taxa;
-mev
-goa
-xgb
-nhb
-moa
-tye
-sho
-bqc
-stj
-bxl
-jek
-tjn
-mku
-mzj
-msc
-kfo
-mnk
-jad
-kao
-xkg
-kke
-mfg
-vai
-sus
-gkp
-knu
-xpe
-tod
-zil
-bzx
-boo
-boz
-skq
-jow
-bxw
-dux
-;
-end;
+
 Begin trees;
-tree UNTITLED = ((((mev:1,goa:1)1:1,(xgb:1,nhb:1,moa:1)1:1)1:1,(((tye:1,sho:1)1:1,bqc:1)1:1,stj:1)1:1)1:1,((((((bxl:1,jek:1)1:1,tjn:1)1:1,(((((mku:1,mzj:1,msc:1)1:1,kfo:1)1:1,(mnk:1,(jad:1,kao:1)1:1,xkg:1)1:1)1:1,(kke:1,mfg:1)1:1)1:1,vai:1)1:1)1:1,sus:1)1:1,((gkp:1,knu:1,xpe:1)1:1,(tod:1,zil:1)1:1)1:1)1:1,(((bzx:1,(boo:1,boz:1)1:1)1:1,skq:1)1:1,(jow:1,(bxw:1,dux:1)1:1)1:1)1:1)1:1);
+tree UNTITLED = ((((mev,goa),(xgb,nhb,moa)),(((tye,sho),bqc),stj)),((((((bxl,jek),tjn),(((((mku,mzj,msc),kfo),(mnk,(jad,kao),xkg)),(kke,mfg)),vai)),sus),((gkp,knu,xpe),(tod,zil))),(((bzx,(boo,boz)),skq),(jow,(bxw,dux)))));
+
 end;

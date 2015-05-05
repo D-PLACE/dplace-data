@@ -1,11 +1,6 @@
 #NEXUS
-Begin taxa;
-myh
-dtd
-nuk
-kwk
-;
-end;
+
 Begin trees;
-tree UNTITLED = ((myh:1,(dtd:1,nuk:1)1:1)1:1,kwk:1);
+tree UNTITLED = ((myh,(dtd,nuk)),kwk);
+
 end;

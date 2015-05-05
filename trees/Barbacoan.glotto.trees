@@ -1,13 +1,6 @@
 #NEXUS
-Begin taxa;
-bpb
-cbi
-cof
-gum
-ttk
-kwi
-;
-end;
+
 Begin trees;
-tree UNTITLED = (bpb:1,(cbi:1,cof:1)1:1,(gum:1,ttk:1)1:1,kwi:1);
+tree UNTITLED = ((cbi,cof),(gum,ttk),kwi);
+
 end;

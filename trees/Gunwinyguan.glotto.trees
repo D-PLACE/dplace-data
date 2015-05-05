@@ -1,16 +1,6 @@
 #NEXUS
-Begin taxa;
-nig
-rmb
-nid
-aoi
-nuy
-wlg
-ngk
-djn
-wrz
-;
-end;
+
 Begin trees;
-tree UNTITLED = ((((nig:1,rmb:1)1:1,nid:1)1:1,(aoi:1,nuy:1)1:1)1:1,(wlg:1,ngk:1)1:1,(djn:1,wrz:1)1:1);
+tree UNTITLED = ((((nig,rmb),nid),(aoi,nuy)),(wlg,ngk),(djn,wrz));
+
 end;

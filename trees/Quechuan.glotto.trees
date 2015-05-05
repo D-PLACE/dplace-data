@@ -1,35 +1,6 @@
 #NEXUS
-Begin taxa;
-qvl
-qxa
-qub
-qxh
-qxn
-qxo
-qwa
-qvm
-qws
-qva
-qvn
-qxt
-qur
-qxw
-qvp
-qxc
-qud
-qxr
-qug
-qvi
-qvj
-qxl
-qup
-quw
-qvs
-qwc
-qus
-cqu
-;
-end;
+
 Begin trees;
-tree UNTITLED = ((((qvl:1,qxa:1,qub:1,qxh:1)1:1,((qxn:1,qxo:1)1:1,qwa:1,qvm:1,qws:1)1:1,(qva:1,qvn:1,qxt:1,qur:1)1:1,qxw:1)1:1,qvp:1)1:1,(qxc:1,((qud:1,qxr:1,qug:1,qvi:1,qvj:1,qxl:1,qup:1,quw:1)1:1,qvs:1)1:1,(qwc:1,qus:1,cqu:1)1:1)1:1);
+tree UNTITLED = ((((qvl,qxa,qub,qxh),((qxn,qxo),qwa,qvm,qws),(qva,qvn,qxt,qur),qxw),qvp),(qxc,((qud,qxr,qug,qvi,qvj,qxl,qup,quw),qvs),(qwc,qus)));
+
 end;

@@ -1,19 +1,6 @@
 #NEXUS
-Begin taxa;
-myo
-moy
-cra
-bst
-dwr
-gmv
-gof
-doz
-mfx
-oyd
-mdy
-kqy
-;
-end;
+
 Begin trees;
-tree UNTITLED = ((myo:1,moy:1)1:1,(cra:1,(bst:1,((dwr:1,gmv:1,gof:1)1:1,doz:1,mfx:1,oyd:1)1:1,mdy:1)1:1,kqy:1)1:1);
+tree UNTITLED = ((myo,moy),(cra,(bst,((dwr,gmv,gof),doz,mfx,oyd),mdy),kqy));
+
 end;

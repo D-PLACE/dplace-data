@@ -1,11 +1,6 @@
 #NEXUS
-Begin taxa;
-hve
-hue
-huv
-hvv
-;
-end;
+
 Begin trees;
-tree UNTITLED = (hve:1,hue:1,huv:1,hvv:1);
+tree UNTITLED = (hve,hue,huv,hvv);
+
 end;
