@@ -1,11 +1,6 @@
 #NEXUS
-Begin taxa;
-wla
-ppq
-tww
-ybx
-;
-end;
+
 Begin trees;
-tree UNTITLED = ((wla:1,ppq:1)1:1,tww:1,ybx:1);
+tree UNTITLED = ((wla,ppq),tww,ybx);
+
 end;

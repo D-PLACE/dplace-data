@@ -1,18 +1,6 @@
 #NEXUS
-Begin taxa;
-khd
-kcd
-krz
-kxq
-nmx
-nkm
-mxw
-nex
-nqn
-stk
-bow
-;
-end;
+
 Begin trees;
-tree UNTITLED = ((((khd:1,kcd:1)1:1,krz:1)1:1,kxq:1)1:1,((nmx:1,nkm:1,mxw:1,nex:1,nqn:1)1:1,(stk:1,bow:1)1:1)1:1);
+tree UNTITLED = ((((khd,kcd),krz),kxq),((nmx,nkm,mxw,nex,nqn),(stk,bow)));
+
 end;

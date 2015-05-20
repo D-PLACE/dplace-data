@@ -1,19 +1,6 @@
 #NEXUS
-Begin taxa;
-chc
-xwc
-mhq
-ksk
-osa
-qua
-asb
-cro
-hid
-bll
-ofo
-tta
-;
-end;
+
 Begin trees;
-tree UNTITLED = ((chc:1,xwc:1)1:1,(mhq:1,(((ksk:1,osa:1)1:1,qua:1)1:1,asb:1)1:1,(cro:1,hid:1)1:1,((bll:1,ofo:1)1:1,tta:1)1:1)1:1);
+tree UNTITLED = ((chc,xwc),(mhq,(((ksk,osa),qua),asb),(cro,hid),((bll,ofo),tta)));
+
 end;

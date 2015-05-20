@@ -1,19 +1,6 @@
 #NEXUS
-Begin taxa;
-bkl
-bfe
-vto
-bnv
-dbe
-jbr
-kdy
-kuc
-kwt
-mqr
-mrx
-wai
-;
-end;
+
 Begin trees;
-tree UNTITLED = (bkl:1,((bfe:1,vto:1)1:1,bnv:1,dbe:1,jbr:1,kdy:1,kuc:1)1:1,kwt:1,mqr:1,mrx:1,wai:1);
+tree UNTITLED = (bkl,((bfe,vto),bnv,dbe,jbr,kdy,kuc),kwt,mqr,mrx);
+
 end;

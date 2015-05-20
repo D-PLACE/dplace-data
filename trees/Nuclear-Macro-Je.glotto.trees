@@ -1,25 +1,6 @@
 #NEXUS
-Begin taxa;
-ark
-jbt
-acs
-xkr
-xav
-xer
-apn
-kre
-xra
-xre
-gvp
-xok
-zkp
-pth
-mbl
-opy
-rkb
-kqq
-;
-end;
+
 Begin trees;
-tree UNTITLED = ((ark:1,jbt:1)1:1,((acs:1,xkr:1,xav:1,xer:1)1:1,(apn:1,kre:1,(xra:1,xre:1,gvp:1)1:1)1:1,(xok:1,zkp:1)1:1)1:1,(pth:1,mbl:1)1:1,(opy:1,rkb:1)1:1,kqq:1);
+tree UNTITLED = ((ark,jbt),((acs,xkr,xav,xer),(apn,kre,(xra,xre,gvp)),(xok,zkp)),(pth,mbl),(opy,rkb),kqq);
+
 end;

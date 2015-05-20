@@ -1,11 +1,6 @@
 #NEXUS
-Begin taxa;
-bjc
-nwr
-yrb
-mkp
-;
-end;
+
 Begin trees;
-tree UNTITLED = ((bjc:1,nwr:1,yrb:1)1:1,mkp:1);
+tree UNTITLED = ((bjc,nwr,yrb),mkp);
+
 end;

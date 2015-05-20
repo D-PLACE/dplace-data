@@ -1,13 +1,6 @@
 #NEXUS
-Begin taxa;
-ckr
-zmh
-gcc
-byx
-smg
-uro
-;
-end;
+
 Begin trees;
-tree UNTITLED = (ckr:1,zmh:1,gcc:1,byx:1,smg:1,uro:1);
+tree UNTITLED = (ckr,zmh,gcc,byx,smg,uro);
+
 end;

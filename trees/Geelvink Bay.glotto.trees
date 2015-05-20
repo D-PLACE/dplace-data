@@ -1,16 +1,6 @@
 #NEXUS
-Begin taxa;
-bpo
-bti
-trt
-dei
-njs
-tfo
-wor
-kpi
-srt
-;
-end;
+
 Begin trees;
-tree UNTITLED = (bpo:1,(bti:1,trt:1)1:1,dei:1,njs:1,tfo:1,wor:1,(kpi:1,srt:1)1:1);
+tree UNTITLED = ((bti,trt),dei,njs,tfo,wor,(kpi,srt));
+
 end;

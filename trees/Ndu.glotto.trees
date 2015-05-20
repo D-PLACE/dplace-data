@@ -1,17 +1,6 @@
 #NEXUS
-Begin taxa;
-nud
-mle
-bry
-gbf
-kxt
-keh
-sdk
-spk
-ylg
-wos
-;
-end;
+
 Begin trees;
-tree UNTITLED = (nud:1,(mle:1,((bry:1,gbf:1)1:1,kxt:1,(keh:1,sdk:1)1:1,spk:1)1:1,ylg:1,wos:1)1:1);
+tree UNTITLED = (nud,(mle,((bry,gbf),kxt,(keh,sdk),spk),ylg,wos));
+
 end;

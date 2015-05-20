@@ -1,11 +1,4 @@
 #NEXUS
-Begin taxa;
-trz
-xbx
-orw
-pav
-;
-end;
 Begin trees;
-tree UNTITLED = (trz:1,(xbx:1,(orw:1,pav:1)1:1)1:1);
+tree UNTITLED = (trz,(xbx,(orw,pav)));
 end;

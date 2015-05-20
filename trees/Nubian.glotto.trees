@@ -1,14 +1,6 @@
 #NEXUS
-Begin taxa;
-onw
-brk
-drb
-ghl
-elh
-kko
-wll
-;
-end;
+
 Begin trees;
-tree UNTITLED = (onw:1,(brk:1,((drb:1,ghl:1)1:1,(elh:1,kko:1,wll:1)1:1)1:1)1:1);
+tree UNTITLED = (onw,(brk,((drb,ghl),(elh,kko,wll))));
+
 end;

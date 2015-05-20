@@ -1,16 +1,6 @@
 #NEXUS
-Begin taxa;
-tin
-gdo
-huz
-gin
-kjj
-aqc
-xag
-bbl
-inh
-;
-end;
+
 Begin trees;
-tree UNTITLED = ((((tin:1,gdo:1)1:1,(huz:1,gin:1)1:1)1:1,kjj:1,(aqc:1,xag:1)1:1)1:1,(bbl:1,inh:1)1:1);
+tree UNTITLED = ((((tin,gdo),(huz,gin)),kjj,(aqc,xag)),(bbl,inh));
+
 end;

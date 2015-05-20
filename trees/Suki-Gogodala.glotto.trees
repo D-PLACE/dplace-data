@@ -1,11 +1,6 @@
 #NEXUS
-Begin taxa;
-aac
-ggw
-wrv
-sui
-;
-end;
+
 Begin trees;
-tree UNTITLED = ((aac:1,ggw:1,wrv:1)1:1,sui:1);
+tree UNTITLED = ((aac,ggw,wrv),sui);
+
 end;

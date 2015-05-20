@@ -1,14 +1,6 @@
 #NEXUS
-Begin taxa;
-ksi
-pux
-rwa
-skv
-vam
-wut
-wra
-;
-end;
+
 Begin trees;
-tree UNTITLED = (ksi:1,((pux:1,rwa:1)1:1,(skv:1,vam:1,wut:1)1:1,wra:1)1:1);
+tree UNTITLED = (ksi,((pux,rwa),(skv,vam,wut),wra));
+
 end;

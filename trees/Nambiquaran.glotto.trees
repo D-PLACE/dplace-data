@@ -1,14 +1,6 @@
 #NEXUS
-Begin taxa;
-apv
-wmd
-lkd
-ltn
-xtw
-xyl
-sae
-;
-end;
+
 Begin trees;
-tree UNTITLED = ((apv:1,wmd:1,(lkd:1,ltn:1,xtw:1)1:1,xyl:1)1:1,sae:1);
+tree UNTITLED = ((wmd,(lkd,ltn,xtw)),sae);
+
 end;

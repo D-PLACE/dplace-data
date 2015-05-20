@@ -1,16 +1,6 @@
 #NEXUS
-Begin taxa;
-zmm
-zmd
-zmj
-zmy
-xru
-zmg
-amy
-zma
-zmr
-;
-end;
+
 Begin trees;
-tree UNTITLED = ((zmm:1,(zmd:1,zmj:1,zmy:1,xru:1)1:1,zmg:1)1:1,((amy:1,zma:1)1:1,zmr:1)1:1);
+tree UNTITLED = ((zmm,(zmd,zmj,zmy,xru),zmg),((amy,zma),zmr));
+
 end;

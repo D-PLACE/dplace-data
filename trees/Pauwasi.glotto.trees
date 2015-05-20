@@ -1,11 +1,6 @@
 #NEXUS
-Begin taxa;
-enr
-wfg
-dmu
-ttn
-;
-end;
+
 Begin trees;
-tree UNTITLED = ((enr:1,wfg:1)1:1,(dmu:1,ttn:1)1:1);
+tree UNTITLED = ((enr,wfg),(dmu,ttn));
+
 end;

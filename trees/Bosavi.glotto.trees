@@ -1,11 +1,6 @@
 #NEXUS
-Begin taxa;
-ail
-khs
-onn
-siq
-;
-end;
+
 Begin trees;
-tree UNTITLED = (ail:1,khs:1,onn:1,siq:1);
+tree UNTITLED = (ail,khs,onn,siq);
+
 end;

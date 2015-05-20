@@ -1,50 +1,6 @@
 #NEXUS
-Begin taxa;
-avt
-elk
-bey
-dia
-siu
-gnu
-aur
-eit
-aah
-lkl
-but
-ele
-urx
-mwb
-tua
-wii
-mty
-niz
-yll
-auk
-rhp
-mkc
-alx
-lsr
-aof
-aag
-yde
-ygl
-ymo
-wnp
-aif
-yev
-van
-oin
-onk
-onr
-okk
-osu
-stf
-sbi
-wmo
-yyu
-yis
-;
-end;
+
 Begin trees;
-tree UNTITLED = ((avt:1,elk:1)1:1,bey:1,(dia:1,siu:1)1:1,gnu:1,((aur:1,eit:1)1:1,aah:1)1:1,lkl:1,(but:1,(ele:1,urx:1)1:1,(mwb:1,tua:1)1:1)1:1,wii:1,mty:1,(niz:1,yll:1)1:1,((auk:1,rhp:1)1:1,mkc:1)1:1,((alx:1,lsr:1,aof:1)1:1,(aag:1,(yde:1,ygl:1,ymo:1)1:1)1:1)1:1,wnp:1,((aif:1,yev:1)1:1,van:1)1:1,(((oin:1,onk:1,onr:1)1:1,okk:1,osu:1)1:1,stf:1,sbi:1)1:1,wmo:1,(yyu:1,yis:1)1:1);
+tree UNTITLED = ((avt,elk),bey,(dia,siu),gnu,((aur,eit),aah),lkl,(but,(ele,urx),(mwb,tua)),wii,mty,(niz,yll),((auk,rhp),mkc),((alx,lsr,aof),(aag,(yde,ygl,ymo))),wnp,((aif,yev),van),(((oin,onk,onr),okk,osu),stf,sbi),wmo,(yyu,yis));
+
 end;

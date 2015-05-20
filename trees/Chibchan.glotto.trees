@@ -1,23 +1,6 @@
 #NEXUS
-Begin taxa;
-brn
-tfr
-kvn
-kog
-arh
-mbp
-cbg
-mot
-tnd
-tbn
-tuf
-tnb
-chb
-gut
-rma
-pay
-;
-end;
+
 Begin trees;
-tree UNTITLED = ((((brn:1,tfr:1)1:1,kvn:1)1:1,(((kog:1,(arh:1,mbp:1)1:1)1:1,cbg:1)1:1,(mot:1,(tnd:1,tbn:1,tuf:1,tnb:1)1:1,chb:1)1:1)1:1,(gut:1,rma:1)1:1)1:1,pay:1);
+tree UNTITLED = ((((brn,tfr),kvn),(((kog,(arh,mbp)),cbg),(mot,(tnd,tbn,tuf,tnb),chb)),(gut,rma)),pay);
+
 end;
