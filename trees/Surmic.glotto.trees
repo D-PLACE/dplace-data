@@ -1,6 +1,12 @@
 #NEXUS
-
+Begin taxa;
+maja1242
+didi1258
+nari1240
+tenn1246
+murs1242
+;
+end;
 Begin trees;
-tree UNTITLED = (mpe,(((did,loh),tex),muz));
-
+tree UNTITLED = (maja1242:1,(((didi1258:1,nari1240:1)1:1,tenn1246:1)1:1,murs1242:1)1:1);
 end;

@@ -1,6 +1,12 @@
 #NEXUS
-
+Begin taxa;
+aari1239
+gayi1237
+hame1242
+karo1297
+dime1235
+;
+end;
 Begin trees;
-tree UNTITLED = (((aiw,gyl),(amf,kxh)),dim);
-
+tree UNTITLED = (((aari1239:1,gayi1237:1)1:1,(hame1242:1,karo1297:1)1:1)1:1,dime1235:1);
 end;

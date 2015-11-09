@@ -1,6 +1,16 @@
 #NEXUS
-
+Begin taxa;
+cayu1261
+laur1250
+moha1258
+onei1249
+onon1246
+sene1264
+susq1241
+nott1246
+tusc1257
+;
+end;
 Begin trees;
-tree UNTITLED = (cay,lre,(moh,one),ono,see,sqn,(ntw,tus));
-
+tree UNTITLED = (cayu1261:1,laur1250:1,(moha1258:1,onei1249:1)1:1,onon1246:1,sene1264:1,susq1241:1,(nott1246:1,tusc1257:1)1:1);
 end;

@@ -1,6 +1,12 @@
 #NEXUS
-
+Begin taxa;
+saba1268
+mama1278
+lako1248
+latu1238
+tawa1278
+;
+end;
 Begin trees;
-tree UNTITLED = ((wmd,(lkd,ltn,xtw)),sae);
-
+tree UNTITLED = (saba1268:1,(mama1278:1,(lako1248:1,latu1238:1,tawa1278:1)1:1)1:1);
 end;

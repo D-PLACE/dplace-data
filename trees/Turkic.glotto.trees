@@ -1,6 +1,24 @@
 #NEXUS
-
+Begin taxa;
+dolg1241
+yaku1245
+pech1242
+krym1236
+urum1249
+qash1240
+sout2699
+salc1238
+chag1247
+ainu1251
+west2402
+ilit1241
+oldu1238
+nort2686
+kara1462
+turk1303
+bolg1250
+;
+end;
 Begin trees;
-tree UNTITLED = (((dlg,sah),(((xpc,(jct,uum)),qxq,uzs,slq),(chg,(aib,ybe),ili,oui)),(atv,kim),klj),xbo);
-
+tree UNTITLED = (((dolg1241:1,yaku1245:1)1:1,(((pech1242:1,(krym1236:1,urum1249:1)1:1)1:1,qash1240:1,sout2699:1,salc1238:1)1:1,(chag1247:1,(ainu1251:1,west2402:1)1:1,ilit1241:1,oldu1238:1)1:1)1:1,(nort2686:1,kara1462:1)1:1,turk1303:1)1:1,bolg1250:1);
 end;

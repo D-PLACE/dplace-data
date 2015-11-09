@@ -1,6 +1,12 @@
 #NEXUS
-
+Begin taxa;
+alab1237
+apal1237
+koas1236
+chic1270
+choc1276
+;
+end;
 Begin trees;
-tree UNTITLED = ((akz,xap,cku),(cic,cho));
-
+tree UNTITLED = ((alab1237:1,apal1237:1,koas1236:1)1:1,(chic1270:1,choc1276:1)1:1);
 end;

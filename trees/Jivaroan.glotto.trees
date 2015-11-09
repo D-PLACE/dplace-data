@@ -1,6 +1,11 @@
 #NEXUS
-
+Begin taxa;
+agua1253
+achu1248
+huam1247
+shua1257
+;
+end;
 Begin trees;
-tree UNTITLED = (agr,(acu,hub,jiv));
-
+tree UNTITLED = (agua1253:1,(achu1248:1,huam1247:1,shua1257:1)1:1);
 end;

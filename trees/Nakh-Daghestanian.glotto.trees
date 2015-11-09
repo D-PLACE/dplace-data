@@ -1,6 +1,16 @@
 #NEXUS
-
+Begin taxa;
+tind1238
+ghod1238
+hunz1247
+hinu1240
+khin1240
+arch1244
+aghw1237
+bats1242
+ingu1240
+;
+end;
 Begin trees;
-tree UNTITLED = ((((tin,gdo),(huz,gin)),kjj,(aqc,xag)),(bbl,inh));
-
+tree UNTITLED = ((((tind1238:1,ghod1238:1)1:1,(hunz1247:1,hinu1240:1)1:1)1:1,khin1240:1,(arch1244:1,aghw1237:1)1:1)1:1,(bats1242:1,ingu1240:1)1:1);
 end;

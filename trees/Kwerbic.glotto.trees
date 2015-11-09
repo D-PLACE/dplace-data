@@ -1,6 +1,13 @@
 #NEXUS
-
+Begin taxa;
+bagu1251
+kauw1242
+kwer1263
+trim1239
+airo1242
+sama1240
+;
+end;
 Begin trees;
-tree UNTITLED = ((bqb,xau,xwr,tip),(air,tmj));
-
+tree UNTITLED = ((bagu1251:1,kauw1242:1,kwer1263:1,trim1239:1)1:1,(airo1242:1,sama1240:1)1:1);
 end;

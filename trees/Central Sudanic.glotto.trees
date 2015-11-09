@@ -1,6 +1,31 @@
 #NEXUS
-
+Begin taxa;
+lomb1254
+asoa1238
+arin1244
+omii1238
+olub1238
+baka1274
+mitt1253
+moda1242
+siny1243
+fong1243
+kara1482
+disa1239
+jaya1242
+gula1269
+mang1398
+dagb1248
+horo1247
+kaba1281
+furu1242
+sara1319
+ngit1239
+bend1260
+efee1239
+mvub1239
+;
+end;
 Begin trees;
-tree UNTITLED = ((lmi,asv),((luc,omi),lul),((bdh,(mwu,gbn)),sys,((fgr,kah),((dsi,(jyy,glu)),((mge,dgk),hor,ksp),(fuu,sbz)))),niy,(bct,efe,mxh));
-
+tree UNTITLED = ((lomb1254:1,asoa1238:1)1:1,((arin1244:1,omii1238:1)1:1,olub1238:1)1:1,((baka1274:1,(mitt1253:1,moda1242:1)1:1)1:1,siny1243:1,((fong1243:1,kara1482:1)1:1,((disa1239:1,(jaya1242:1,gula1269:1)1:1)1:1,((mang1398:1,dagb1248:1)1:1,horo1247:1,kaba1281:1)1:1,(furu1242:1,sara1319:1)1:1)1:1)1:1)1:1,ngit1239:1,(bend1260:1,efee1239:1,mvub1239:1)1:1);
 end;

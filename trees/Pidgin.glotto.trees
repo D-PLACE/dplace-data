@@ -1,6 +1,20 @@
 #NEXUS
-
+Begin taxa;
+mobi1236
+pidg1246
+bari1241
+giba1240
+nefa1235
+chin1253
+tayb1240
+ihab1241
+broo1238
+onin1237
+ling1242
+sett1235
+ndyu1241
+;
+end;
 Begin trees;
-tree UNTITLED = ((mod,dep),(bxo,gib),nef,cpi,tas,ihb,bpl,onx,pml,sta,njt);
-
+tree UNTITLED = ((mobi1236:1,pidg1246:1)1:1,(bari1241:1,giba1240:1)1:1,nefa1235:1,chin1253:1,tayb1240:1,ihab1241:1,broo1238:1,onin1237:1,ling1242:1,sett1235:1,ndyu1241:1);
 end;

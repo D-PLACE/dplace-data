@@ -1,6 +1,12 @@
 #NEXUS
-
+Begin taxa;
+femb1238
+kona1242
+kubo1242
+samo1303
+odoo1238
+;
+end;
 Begin trees;
-tree UNTITLED = (agl,kxw,(jko,smq),kkc);
-
+tree UNTITLED = (femb1238:1,kona1242:1,(kubo1242:1,samo1303:1)1:1,odoo1238:1);
 end;

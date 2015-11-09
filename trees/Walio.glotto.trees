@@ -1,6 +1,11 @@
 #NEXUS
-
+Begin taxa;
+nucl1453
+peii1238
+tuwa1242
+yawi1238
+;
+end;
 Begin trees;
-tree UNTITLED = ((wla,ppq),tww,ybx);
-
+tree UNTITLED = ((nucl1453:1,peii1238:1)1:1,tuwa1242:1,yawi1238:1);
 end;

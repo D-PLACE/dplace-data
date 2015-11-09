@@ -1,6 +1,19 @@
 #NEXUS
-
+Begin taxa;
+tlah1239
+isth1238
+maza1292
+toto1305
+olut1240
+sayu1241
+tapa1260
+chim1300
+high1276
+taba1264
+texi1237
+rayo1235
+;
+end;
 Begin trees;
-tree UNTITLED = ((((mxp,(mir,mzl)),mto),plo,pos,qcs),(zoh,(poi,zoq,poq),zor));
-
+tree UNTITLED = ((((tlah1239:1,(isth1238:1,maza1292:1)1:1)1:1,toto1305:1)1:1,olut1240:1,sayu1241:1,tapa1260:1)1:1,(chim1300:1,(high1276:1,taba1264:1,texi1237:1)1:1,rayo1235:1)1:1);
 end;

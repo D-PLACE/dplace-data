@@ -1,6 +1,17 @@
 #NEXUS
-
+Begin taxa;
+hueh1236
+pisa1237
+tlac1235
+filo1235
+papa1238
+high1243
+tecp1235
+uppe1275
+west1511
+yecu1235
+;
+end;
 Begin trees;
-tree UNTITLED = ((tee,tpp,tpt),(((tlp,top,tos),(tcw,tku,tqt)),tlc));
-
+tree UNTITLED = ((hueh1236:1,pisa1237:1,tlac1235:1)1:1,(((filo1235:1,papa1238:1,high1243:1)1:1,(tecp1235:1,uppe1275:1,west1511:1)1:1)1:1,yecu1235:1)1:1);
 end;

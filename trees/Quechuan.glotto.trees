@@ -1,6 +1,34 @@
 #NEXUS
-
+Begin taxa;
+caja1239
+chiq1249
+hual1241
+pana1306
+nort2979
+sout2992
+coro1247
+marg1254
+sihu1235
+ambo1252
+nort2980
+sant1433
+yana1272
+jauj1238
+paca1245
+chin1483
+cald1236
+cana1262
+chim1302
+imba1240
+loja1235
+sala1272
+sout2990
+tena1240
+sanm1289
+clas1251
+sant1432
+;
+end;
 Begin trees;
-tree UNTITLED = ((((qvl,qxa,qub,qxh),((qxn,qxo),qwa,qvm,qws),(qva,qvn,qxt,qur),qxw),qvp),(qxc,((qud,qxr,qug,qvi,qvj,qxl,qup,quw),qvs),(qwc,qus)));
-
+tree UNTITLED = ((((caja1239:1,chiq1249:1,hual1241:1,pana1306:1)1:1,((nort2979:1,sout2992:1)1:1,coro1247:1,marg1254:1,sihu1235:1)1:1,(ambo1252:1,nort2980:1,sant1433:1,yana1272:1)1:1,jauj1238:1)1:1,paca1245:1)1:1,(chin1483:1,((cald1236:1,cana1262:1,chim1302:1,imba1240:1,loja1235:1,sala1272:1,sout2990:1,tena1240:1)1:1,sanm1289:1)1:1,(clas1251:1,sant1432:1)1:1)1:1);
 end;

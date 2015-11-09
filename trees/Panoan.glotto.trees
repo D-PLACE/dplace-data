@@ -1,6 +1,26 @@
 #NEXUS
-
+Begin taxa;
+kaxa1239
+chac1251
+paca1246
+pano1255
+sens1242
+cash1254
+remo1248
+shan1283
+yawa1260
+yora1241
+isco1239
+poya1241
+tuxi1238
+atsa1242
+maru1252
+koru1247
+kuli1255
+mats1244
+mati1255
+;
+end;
 Begin trees;
-tree UNTITLED = ((ktx,((cao,pcp),(pno,sni),(cbs,rem,(swo,ywn,mts)),(isc,pyn),tux,atc,mzr)),((xor,xpk,mcf),mpq));
-
+tree UNTITLED = ((kaxa1239:1,((chac1251:1,paca1246:1)1:1,(pano1255:1,sens1242:1)1:1,(cash1254:1,remo1248:1,(shan1283:1,yawa1260:1,yora1241:1)1:1)1:1,(isco1239:1,poya1241:1)1:1,tuxi1238:1,atsa1242:1,maru1252:1)1:1)1:1,((koru1247:1,kuli1255:1,mats1244:1)1:1,mati1255:1)1:1);
 end;

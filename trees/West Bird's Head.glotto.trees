@@ -1,6 +1,11 @@
 #NEXUS
-
+Begin taxa;
+moii1235
+sege1235
+kala1256
+mora1239
+;
+end;
 Begin trees;
-tree UNTITLED = ((mxn,sbg),(kzz,msg));
-
+tree UNTITLED = ((moii1235:1,sege1235:1)1:1,(kala1256:1,mora1239:1)1:1);
 end;

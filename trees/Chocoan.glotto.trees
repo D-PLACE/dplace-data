@@ -1,6 +1,15 @@
 #NEXUS
-
+Begin taxa;
+embe1260
+embe1259
+nort2972
+embe1262
+embe1261
+anse1238
+cara1271
+woun1238
+;
+end;
 Begin trees;
-tree UNTITLED = (((cto,(bdc,emp)),(cmi,tdc)),(ans,crf),noa);
-
+tree UNTITLED = (((embe1260:1,(embe1259:1,nort2972:1)1:1)1:1,(embe1262:1,embe1261:1)1:1)1:1,(anse1238:1,cara1271:1)1:1,woun1238:1);
 end;

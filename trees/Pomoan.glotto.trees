@@ -1,6 +1,12 @@
 #NEXUS
-
+Begin taxa;
+east2545
+nort2967
+kash1280
+sout2984
+sout2982
+;
+end;
 Begin trees;
-tree UNTITLED = ((peb,(pef,(kju,peq))),pom);
-
+tree UNTITLED = ((east2545:1,(nort2967:1,(kash1280:1,sout2984:1)1:1)1:1)1:1,sout2982:1);
 end;

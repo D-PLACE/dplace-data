@@ -1,6 +1,13 @@
 #NEXUS
-
+Begin taxa;
+obis1242
+barb1263
+ines1240
+puri1259
+vent1242
+cruz1243
+;
+end;
 Begin trees;
-tree UNTITLED = (obi,((boi,inz,puy,veo),crz));
-
+tree UNTITLED = (obis1242:1,((barb1263:1,ines1240:1,puri1259:1,vent1242:1)1:1,cruz1243:1)1:1);
 end;

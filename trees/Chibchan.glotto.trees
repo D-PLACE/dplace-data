@@ -1,6 +1,23 @@
 #NEXUS
-
+Begin taxa;
+boru1252
+teri1250
+bord1248
+cogu1240
+arhu1242
+mala1522
+chim1309
+bari1297
+ango1257
+barr1251
+cent2150
+west2651
+chib1270
+male1297
+rama1270
+pech1241
+;
+end;
 Begin trees;
-tree UNTITLED = ((((brn,tfr),kvn),(((kog,(arh,mbp)),cbg),(mot,(tnd,tbn,tuf,tnb),chb)),(gut,rma)),pay);
-
+tree UNTITLED = ((((boru1252:1,teri1250:1)1:1,bord1248:1)1:1,(((cogu1240:1,(arhu1242:1,mala1522:1)1:1)1:1,chim1309:1)1:1,(bari1297:1,(ango1257:1,barr1251:1,cent2150:1,west2651:1)1:1,chib1270:1)1:1)1:1,(male1297:1,rama1270:1)1:1)1:1,pech1241:1);
 end;

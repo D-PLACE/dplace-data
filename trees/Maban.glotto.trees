@@ -1,6 +1,11 @@
 #NEXUS
-
+Begin taxa;
+mass1262
+surb1238
+marf1238
+rung1258
+;
+end;
 Begin trees;
-tree UNTITLED = (((mdg,sbj),mvu),rou);
-
+tree UNTITLED = (((mass1262:1,surb1238:1)1:1,marf1238:1)1:1,rung1258:1);
 end;

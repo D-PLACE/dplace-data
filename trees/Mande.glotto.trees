@@ -1,6 +1,43 @@
 #NEXUS
-
+Begin taxa;
+mann1248
+guro1248
+gbin1239
+mwan1250
+beng1286
+kyen1242
+shan1282
+boko1266
+maty1235
+jalk1242
+jeri1242
+tonj1246
+kony1250
+many1261
+sank1253
+koro1306
+mand1436
+jaha1245
+xaas1235
+kago1248
+kaka1265
+mixi1241
+vaii1241
+susu1250
+guin1254
+kono1267
+libe1247
+toma1245
+zial1235
+hain1253
+tiem1235
+tiey1235
+sini1242
+jowu1238
+bank1258
+duun1242
+;
+end;
 Begin trees;
-tree UNTITLED = ((((mev,goa),(xgb,nhb,moa)),(((tye,sho),bqc),stj)),((((((bxl,jek),tjn),(((((mku,mzj,msc),kfo),(mnk,(jad,kao),xkg)),(kke,mfg)),vai)),sus),((gkp,knu,xpe),(tod,zil))),(((bzx,(boo,boz)),skq),(jow,(bxw,dux)))));
-
+tree UNTITLED = ((((mann1248:1,guro1248:1)1:1,(gbin1239:1,mwan1250:1,beng1286:1)1:1)1:1,(((kyen1242:1,shan1282:1)1:1,boko1266:1)1:1,maty1235:1)1:1)1:1,((((((jalk1242:1,jeri1242:1)1:1,tonj1246:1)1:1,(((((kony1250:1,many1261:1,sank1253:1)1:1,koro1306:1)1:1,(mand1436:1,(jaha1245:1,xaas1235:1)1:1,kago1248:1)1:1)1:1,(kaka1265:1,mixi1241:1)1:1)1:1,vaii1241:1)1:1)1:1,susu1250:1)1:1,((guin1254:1,kono1267:1,libe1247:1)1:1,(toma1245:1,zial1235:1)1:1)1:1)1:1,(((hain1253:1,(tiem1235:1,tiey1235:1)1:1)1:1,sini1242:1)1:1,(jowu1238:1,(bank1258:1,duun1242:1)1:1)1:1)1:1)1:1);
 end;

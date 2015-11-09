@@ -1,6 +1,11 @@
 #NEXUS
-
+Begin taxa;
+nezp1238
+teni1238
+umat1237
+wall1238
+;
+end;
 Begin trees;
-tree UNTITLED = (nez,((tqn,uma),waa));
-
+tree UNTITLED = (nezp1238:1,((teni1238:1,umat1237:1)1:1,wall1238:1)1:1);
 end;

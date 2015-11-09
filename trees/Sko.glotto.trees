@@ -1,6 +1,14 @@
 #NEXUS
-
+Begin taxa;
+kris1246
+puar1240
+rawo1244
+nucl1634
+vani1248
+wutu1244
+wara1302
+;
+end;
 Begin trees;
-tree UNTITLED = (ksi,((pux,rwa),(skv,vam,wut),wra));
-
+tree UNTITLED = (kris1246:1,((puar1240:1,rawo1244:1)1:1,(nucl1634:1,vani1248:1,wutu1244:1)1:1,wara1302:1)1:1);
 end;

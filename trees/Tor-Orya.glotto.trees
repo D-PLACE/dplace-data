@@ -1,6 +1,18 @@
 #NEXUS
-
+Begin taxa;
+beri1254
+beta1253
+vito1235
+bone1255
+dabe1239
+jofo1235
+kede1239
+kwin1242
+kwes1245
+mand1443
+mare1261
+;
+end;
 Begin trees;
-tree UNTITLED = (bkl,((bfe,vto),bnv,dbe,jbr,kdy,kuc),kwt,mqr,mrx);
-
+tree UNTITLED = (beri1254:1,((beta1253:1,vito1235:1)1:1,bone1255:1,dabe1239:1,jofo1235:1,kede1239:1,kwin1242:1)1:1,kwes1245:1,mand1443:1,mare1261:1);
 end;

@@ -1,6 +1,16 @@
 #NEXUS
-
+Begin taxa;
+mari1417
+mari1422
+mari1421
+mari1423
+marr1256
+mart1254
+amii1238
+mand1416
+mara1386
+;
+end;
 Begin trees;
-tree UNTITLED = ((zmm,(zmd,zmj,zmy,xru),zmg),((amy,zma),zmr));
-
+tree UNTITLED = ((mari1417:1,(mari1422:1,mari1421:1,mari1423:1,marr1256:1)1:1,mart1254:1)1:1,((amii1238:1,mand1416:1)1:1,mara1386:1)1:1);
 end;

@@ -1,6 +1,50 @@
 #NEXUS
-
+Begin taxa;
+auuu1241
+elke1240
+beli1258
+diaa1238
+sina1269
+gnau1240
+arue1240
+eiti1240
+abua1245
+laek1243
+bung1270
+elep1240
+urim1251
+juwa1238
+wiar1238
+mini1253
+nabi1239
+ning1273
+yill1241
+heyo1240
+yaha1247
+sili1247
+amol1235
+aruo1240
+brag1240
+ambr1239
+yang1297
+yang1295
+yang1296
+wana1268
+agii1245
+yapu1240
+valm1241
+ineb1235
+kabo1248
+nort2907
+kwam1254
+sout2932
+seta1245
+seti1248
+womp1235
+yaus1235
+yiss1240
+;
+end;
 Begin trees;
-tree UNTITLED = ((avt,elk),bey,(dia,siu),gnu,((aur,eit),aah),lkl,(but,(ele,urx),(mwb,tua)),wii,mty,(niz,yll),((auk,rhp),mkc),((alx,lsr,aof),(aag,(yde,ygl,ymo))),wnp,((aif,yev),van),(((oin,onk,onr),okk,osu),stf,sbi),wmo,(yyu,yis));
-
+tree UNTITLED = ((auuu1241:1,elke1240:1)1:1,beli1258:1,(diaa1238:1,sina1269:1)1:1,gnau1240:1,((arue1240:1,eiti1240:1)1:1,abua1245:1)1:1,laek1243:1,(bung1270:1,(elep1240:1,urim1251:1)1:1,(juwa1238:1,wiar1238:1)1:1)1:1,mini1253:1,nabi1239:1,(ning1273:1,yill1241:1)1:1,((heyo1240:1,yaha1247:1)1:1,sili1247:1)1:1,((amol1235:1,aruo1240:1,brag1240:1)1:1,(ambr1239:1,(yang1297:1,yang1295:1,yang1296:1)1:1)1:1)1:1,wana1268:1,((agii1245:1,yapu1240:1)1:1,valm1241:1)1:1,(((ineb1235:1,kabo1248:1,nort2907:1)1:1,kwam1254:1,sout2932:1)1:1,seta1245:1,seti1248:1)1:1,womp1235:1,(yaus1235:1,yiss1240:1)1:1);
 end;

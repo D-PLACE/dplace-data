@@ -1,6 +1,12 @@
 #NEXUS
-
+Begin taxa;
+nucl1633
+mekw1241
+gres1240
+kemt1242
+mlap1238
+;
+end;
 Begin trees;
-tree UNTITLED = ((grs,kmt),msf,kja,nir);
-
+tree UNTITLED = (nucl1633:1,(mekw1241:1,((gres1240:1,kemt1242:1)1:1,mlap1238:1)1:1)1:1);
 end;

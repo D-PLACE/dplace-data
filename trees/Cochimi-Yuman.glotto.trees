@@ -1,6 +1,14 @@
 #NEXUS
-
+Begin taxa;
+coch1272
+paip1241
+mari1440
+moha1256
+quec1382
+coco1261
+kili1268
+;
+end;
 Begin trees;
-tree UNTITLED = (coj,((ppi,(mrc,mov,yum),coc),klb));
-
+tree UNTITLED = (coch1272:1,((paip1241:1,(mari1440:1,moha1256:1,quec1382:1)1:1,coco1261:1)1:1,kili1268:1)1:1);
 end;

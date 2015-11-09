@@ -1,6 +1,27 @@
 #NEXUS
-
+Begin taxa;
+apal1257
+baka1277
+ikpe1245
+para1310
+chai1253
+cuma1240
+mapo1246
+pemo1245
+tama1338
+enap1235
+akaw1239
+pata1262
+macu1259
+cari1279
+akur1238
+hixk1239
+salu1254
+siki1239
+kuik1246
+japr1238
+;
+end;
 Begin trees;
-tree UNTITLED = (apy,(bkq,(txi,aap)),(((ciy,cuo),(mcg,pev),tmz),(pbh,((ake,pbc),mbc))),(cbd,ako),(hix,(slj,sik)),kui,jru);
-
+tree UNTITLED = (apal1257:1,(baka1277:1,(ikpe1245:1,para1310:1)1:1)1:1,(((chai1253:1,cuma1240:1)1:1,(mapo1246:1,pemo1245:1)1:1,tama1338:1)1:1,(enap1235:1,((akaw1239:1,pata1262:1)1:1,macu1259:1)1:1)1:1)1:1,(cari1279:1,akur1238:1)1:1,(hixk1239:1,(salu1254:1,siki1239:1)1:1)1:1,kuik1246:1,japr1238:1);
 end;

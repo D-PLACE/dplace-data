@@ -1,6 +1,22 @@
 #NEXUS
-
+Begin taxa;
+cara1272
+yuru1263
+guan1269
+pira1254
+tatu1247
+cube1242
+desa1247
+siri1274
+macu1260
+arap1275
+miri1270
+kore1283
+maca1261
+sion1247
+tama1340
+;
+end;
 Begin trees;
-tree UNTITLED = (((((cbc,yui),(gvc,pir)),tav),((cub,(des,sri)),myy)),(arj,mmv),(coe,(mcl,snn,ten)));
-
+tree UNTITLED = (((((cara1272:1,yuru1263:1)1:1,(guan1269:1,pira1254:1)1:1)1:1,tatu1247:1)1:1,((cube1242:1,(desa1247:1,siri1274:1)1:1)1:1,macu1260:1)1:1)1:1,(arap1275:1,miri1270:1)1:1,(kore1283:1,(maca1261:1,sion1247:1,tama1340:1)1:1)1:1);
 end;

@@ -1,6 +1,11 @@
 #NEXUS
-
+Begin taxa;
+kita1247
+east2337
+kang1281
+dark1243
+;
+end;
 Begin trees;
-tree UNTITLED = (zkt,(yuy,kxs),drh);
-
+tree UNTITLED = (kita1247:1,(east2337:1,kang1281:1)1:1,dark1243:1);
 end;

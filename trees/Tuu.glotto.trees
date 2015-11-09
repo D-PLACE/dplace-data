@@ -1,0 +1,11 @@
+#NEXUS
+Begin taxa;
+xegw1238
+xamm1241
+vaal1235
+huaa1248
+;
+end;
+Begin trees;
+tree UNTITLED = ((xegw1238:1,xamm1241:1,vaal1235:1)1:1,huaa1248:1);
+end;

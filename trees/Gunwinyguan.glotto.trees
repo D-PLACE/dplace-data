@@ -1,6 +1,16 @@
 #NEXUS
-
+Begin taxa;
+ngal1293
+remb1249
+ngan1295
+anin1240
+nung1290
+kunb1251
+ngal1292
+djau1244
+wara1290
+;
+end;
 Begin trees;
-tree UNTITLED = ((((nig,rmb),nid),(aoi,nuy)),(wlg,ngk),(djn,wrz));
-
+tree UNTITLED = ((((ngal1293:1,remb1249:1)1:1,ngan1295:1)1:1,(anin1240:1,nung1290:1)1:1)1:1,(kunb1251:1,ngal1292:1)1:1,(djau1244:1,wara1290:1)1:1);
 end;

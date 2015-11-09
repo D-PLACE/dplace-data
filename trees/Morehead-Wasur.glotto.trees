@@ -1,6 +1,18 @@
 #NEXUS
-
+Begin taxa;
+badi1247
+ngka1235
+sota1242
+smar1235
+nama1266
+nama1267
+namo1246
+neme1244
+nenn1238
+aram1253
+rema1238
+;
+end;
 Begin trees;
-tree UNTITLED = ((((khd,kcd),krz),kxq),((nmx,nkm,mxw,nex,nqn),(stk,bow)));
-
+tree UNTITLED = ((((badi1247:1,ngka1235:1)1:1,sota1242:1)1:1,smar1235:1)1:1,((nama1266:1,nama1267:1,namo1246:1,neme1244:1,nenn1238:1)1:1,(aram1253:1,rema1238:1)1:1)1:1);
 end;

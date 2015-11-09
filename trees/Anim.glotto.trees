@@ -1,0 +1,18 @@
+#NEXUS
+Begin taxa;
+ipik1244
+hoia1235
+hoya1235
+mina1274
+muba1238
+bian1251
+wark1247
+abom1238
+bara1378
+bitu1242
+were1244
+;
+end;
+Begin trees;
+tree UNTITLED = ((ipik1244:1,((hoia1235:1,hoya1235:1)1:1,mina1274:1,muba1238:1)1:1)1:1,(bian1251:1,wark1247:1)1:1,(abom1238:1,(bara1378:1,bitu1242:1,were1244:1)1:1)1:1);
+end;

@@ -1,6 +1,15 @@
 #NEXUS
-
+Begin taxa;
+bura1276
+tung1293
+demi1242
+nisa1239
+tefa1238
+wori1246
+kofe1239
+saur1251
+;
+end;
 Begin trees;
-tree UNTITLED = ((bti,trt),dei,njs,tfo,wor,(kpi,srt));
-
+tree UNTITLED = ((bura1276:1,tung1293:1)1:1,demi1242:1,nisa1239:1,tefa1238:1,wori1246:1,(kofe1239:1,saur1251:1)1:1);
 end;

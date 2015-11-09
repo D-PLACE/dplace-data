@@ -1,6 +1,17 @@
 #NEXUS
-
+Begin taxa;
+ngal1300
+mana1298
+yelo1243
+buru1309
+gaik1242
+koiw1243
+keak1239
+sosk1235
+seng1284
+hang1263
+;
+end;
 Begin trees;
-tree UNTITLED = (nud,(mle,((bry,gbf),kxt,(keh,sdk),spk),ylg,wos));
-
+tree UNTITLED = (ngal1300:1,((mana1298:1,yelo1243:1)1:1,((buru1309:1,gaik1242:1)1:1,koiw1243:1,(keak1239:1,sosk1235:1)1:1,seng1284:1)1:1,hang1263:1)1:1);
 end;

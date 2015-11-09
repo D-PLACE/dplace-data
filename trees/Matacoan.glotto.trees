@@ -1,6 +1,12 @@
 #NEXUS
-
+Begin taxa;
+iyow1239
+iyoj1235
+wich1264
+wich1262
+maca1260
+;
+end;
 Begin trees;
-tree UNTITLED = (((crq,crt),(mzh,mtp)),mca);
-
+tree UNTITLED = (((iyow1239:1,iyoj1235:1)1:1,(wich1264:1,wich1262:1)1:1)1:1,maca1260:1);
 end;

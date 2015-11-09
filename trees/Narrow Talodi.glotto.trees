@@ -1,6 +1,13 @@
 #NEXUS
-
+Begin taxa;
+ndin1245
+talo1250
+lumu1239
+toch1257
+toro1251
+dagi1241
+;
+end;
 Begin trees;
-tree UNTITLED = (eli,tlo,(lmd,taz,tqr),dec);
-
+tree UNTITLED = (ndin1245:1,talo1250:1,(lumu1239:1,toch1257:1,toro1251:1)1:1,dagi1241:1);
 end;

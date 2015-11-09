@@ -1,6 +1,13 @@
 #NEXUS
-
+Begin taxa;
+warr1258
+dyug1238
+nima1245
+dyab1238
+nyul1247
+djaw1238
+;
+end;
 Begin trees;
-tree UNTITLED = ((wwr,dyd),(nmp,(dyb,nyv),djw));
-
+tree UNTITLED = ((warr1258:1,dyug1238:1)1:1,(nima1245:1,(dyab1238:1,nyul1247:1)1:1,djaw1238:1)1:1);
 end;

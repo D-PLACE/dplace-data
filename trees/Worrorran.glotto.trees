@@ -1,6 +1,13 @@
 #NEXUS
-
+Begin taxa;
+gamb1251
+kwin1241
+miwa1242
+wila1240
+ungg1243
+worr1237
+;
+end;
 Begin trees;
-tree UNTITLED = ((gma,gww,vmi,wil),(xgu,wro));
-
+tree UNTITLED = ((gamb1251:1,kwin1241:1,miwa1242:1,wila1240:1)1:1,(ungg1243:1,worr1237:1)1:1);
 end;

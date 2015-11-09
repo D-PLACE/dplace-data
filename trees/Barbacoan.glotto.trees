@@ -1,6 +1,12 @@
 #NEXUS
-
+Begin taxa;
+chac1249
+colo1256
+guam1248
+toto1306
+awac1239
+;
+end;
 Begin trees;
-tree UNTITLED = ((cbi,cof),(gum,ttk),kwi);
-
+tree UNTITLED = ((chac1249:1,colo1256:1)1:1,(guam1248:1,toto1306:1)1:1,awac1239:1);
 end;

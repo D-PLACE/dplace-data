@@ -1,6 +1,12 @@
 #NEXUS
-
+Begin taxa;
+ando1255
+arab1268
+cahu1268
+aush1242
+zapa1253
+;
+end;
 Begin trees;
-tree UNTITLED = (((anb,arl),cah),(avs,zro));
-
+tree UNTITLED = (((ando1255:1,arab1268:1)1:1,cahu1268:1)1:1,(aush1242:1,zapa1253:1)1:1);
 end;

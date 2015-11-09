@@ -1,6 +1,23 @@
 #NEXUS
-
+Begin taxa;
+foau1240
+tawo1244
+awer1241
+rasa1243
+sapo1254
+dout1240
+kaiy1239
+kwer1264
+papa1269
+wari1264
+biri1259
+erit1239
+obok1239
+sika1263
+edop1238
+fayu1238
+;
+end;
 Begin trees;
-tree UNTITLED = ((flh,tbp),(awr,(rac,spi)),(((tds,tcq,kkb,pas,wbe),(bqq,ert,afz),tty),dbf,fau));
-
+tree UNTITLED = ((foau1240:1,tawo1244:1)1:1,(awer1241:1,(rasa1243:1,sapo1254:1)1:1)1:1,(((dout1240:1,kaiy1239:1,kwer1264:1,papa1269:1,wari1264:1)1:1,(biri1259:1,erit1239:1,obok1239:1)1:1,sika1263:1)1:1,edop1238:1,fayu1238:1)1:1);
 end;

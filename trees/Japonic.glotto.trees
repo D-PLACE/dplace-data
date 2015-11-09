@@ -1,6 +1,11 @@
 #NEXUS
-
+Begin taxa;
+yoro1243
+sout2954
+yona1241
+oldj1239
+;
+end;
 Begin trees;
-tree UNTITLED = (((yox,ams),yoi),ojp);
-
+tree UNTITLED = (((yoro1243:1,sout2954:1)1:1,yona1241:1)1:1,oldj1239:1);
 end;

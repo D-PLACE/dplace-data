@@ -1,6 +1,21 @@
 #NEXUS
-
+Begin taxa;
+bank1259
+bent1238
+nang1261
+dogu1235
+tebu1239
+anat1248
+yand1257
+toro1253
+tomo1243
+ampa1238
+buno1241
+momb1254
+tira1258
+toro1252
+;
+end;
 Begin trees;
-tree UNTITLED = ((dbw,dbt,nzz),(dbg,(dtu,(dti,dym))),(dtt,dtm),(aqd,dgb,dmb,tde),dts);
-
+tree UNTITLED = ((bank1259:1,bent1238:1,nang1261:1)1:1,(dogu1235:1,(tebu1239:1,(anat1248:1,yand1257:1)1:1)1:1)1:1,(toro1253:1,tomo1243:1)1:1,(ampa1238:1,buno1241:1,momb1254:1,tira1258:1)1:1,toro1252:1);
 end;

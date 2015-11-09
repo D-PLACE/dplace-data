@@ -1,6 +1,12 @@
 #NEXUS
-
+Begin taxa;
+kuaa1238
+tsoa1238
+anii1246
+kora1292
+xiri1242
+;
+end;
 Begin trees;
-tree UNTITLED = (((tyu,hio),hnh),(kqz,xii));
-
+tree UNTITLED = (((kuaa1238:1,tsoa1238:1)1:1,anii1246:1)1:1,(kora1292:1,xiri1242:1)1:1);
 end;

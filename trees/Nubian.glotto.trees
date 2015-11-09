@@ -1,6 +1,14 @@
 #NEXUS
-
+Begin taxa;
+oldn1245
+birk1242
+dair1239
+ghul1238
+elhu1238
+kark1256
+wali1262
+;
+end;
 Begin trees;
-tree UNTITLED = (onw,(brk,((drb,ghl),(elh,kko,wll))));
-
+tree UNTITLED = (oldn1245:1,(birk1242:1,((dair1239:1,ghul1238:1)1:1,(elhu1238:1,kark1256:1,wali1262:1)1:1)1:1)1:1);
 end;

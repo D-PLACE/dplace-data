@@ -1,6 +1,36 @@
 #NEXUS
-
+Begin taxa;
+east2370
+nort2747
+sout2754
+east2371
+west2430
+hmon1331
+horn1235
+hmon1263
+hmon1332
+hmon1264
+smal1236
+nort1545
+sout1555
+sout2756
+cent2013
+east2372
+nort2749
+sout2755
+larg1235
+luop1235
+cent1394
+nort1546
+sout1556
+west1507
+jion1236
+pahn1237
+wuna1248
+youn1235
+dzao1238
+;
+end;
 Begin trees;
-tree UNTITLED = (((((hmq,hea,hms),(muq,mmr),(((hmz,hrm,(hmf,hmv),hnj),sfm),(huj,hmy,hmg),(hmc,hme,hmi,hmh),hmd,hml,(hmm,hmp,hma,hmw))),pnu),(pha,bwn,buh)),bpn);
-
+tree UNTITLED = (((((east2370:1,nort2747:1,sout2754:1)1:1,(east2371:1,west2430:1)1:1,(((hmon1331:1,horn1235:1,(hmon1263:1,hmon1332:1)1:1,hmon1264:1)1:1,smal1236:1)1:1,(nort1545:1,sout1555:1,sout2756:1)1:1,(cent2013:1,east2372:1,nort2749:1,sout2755:1)1:1,larg1235:1,luop1235:1,(cent1394:1,nort1546:1,sout1556:1,west1507:1)1:1)1:1)1:1,jion1236:1)1:1,(pahn1237:1,wuna1248:1,youn1235:1)1:1)1:1,dzao1238:1);
 end;

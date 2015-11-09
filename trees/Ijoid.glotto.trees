@@ -1,6 +1,15 @@
 #NEXUS
-
+Begin taxa;
+defa1248
+iban1261
+kala1381
+kiri1254
+nkor1239
+bise1238
+okod1238
+orum1241
+;
+end;
 Begin trees;
-tree UNTITLED = (afn,(((iby,ijn,okr),nkx),(ije,okd,orr)));
-
+tree UNTITLED = (defa1248:1,(((iban1261:1,kala1381:1,kiri1254:1)1:1,nkor1239:1)1:1,(bise1238:1,okod1238:1,orum1241:1)1:1)1:1);
 end;

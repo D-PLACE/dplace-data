@@ -1,6 +1,11 @@
 #NEXUS
-
+Begin taxa;
+caca1247
+mata1288
+maya1285
+ulwa1239
+;
+end;
 Begin trees;
-tree UNTITLED = ((ccr,mtn),(yan,ulw));
-
+tree UNTITLED = ((caca1247:1,mata1288:1)1:1,(maya1285:1,ulwa1239:1)1:1);
 end;

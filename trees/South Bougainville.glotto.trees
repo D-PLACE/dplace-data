@@ -1,6 +1,12 @@
 #NEXUS
-
+Begin taxa;
+tere1278
+uisa1238
+daan1235
+oung1239
+sibe1248
+;
+end;
 Begin trees;
-tree UNTITLED = ((buo,uis),(lni,oue,nco));
-
+tree UNTITLED = ((tere1278:1,uisa1238:1)1:1,(daan1235:1,oung1239:1,sibe1248:1)1:1);
 end;

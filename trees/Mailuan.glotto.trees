@@ -1,6 +1,11 @@
 #NEXUS
-
+Begin taxa;
+domu1245
+laua1245
+mora1273
+bauw1240
+;
+end;
 Begin trees;
-tree UNTITLED = (dof,luf,mze,bwk);
-
+tree UNTITLED = (domu1245:1,laua1245:1,mora1273:1,bauw1240:1);
 end;

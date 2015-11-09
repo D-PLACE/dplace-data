@@ -1,6 +1,16 @@
 #NEXUS
-
+Begin taxa;
+anga1290
+kama1360
+susu1251
+kawa1276
+yagw1240
+akoy1238
+tain1253
+simb1255
+meny1245
+;
+end;
 Begin trees;
-tree UNTITLED = (agm,((klp,ssu),kcb),ygw,smb,mcr,(miw,ago));
-
+tree UNTITLED = (anga1290:1,(((kama1360:1,susu1251:1)1:1,kawa1276:1)1:1,yagw1240:1,(akoy1238:1,tain1253:1)1:1,simb1255:1,meny1245:1)1:1);
 end;

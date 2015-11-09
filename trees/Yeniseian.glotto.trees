@@ -1,6 +1,13 @@
 #NEXUS
-
+Begin taxa;
+kett1243
+yugh1239
+arin1243
+pump1237
+assa1266
+kott1239
+;
+end;
 Begin trees;
-tree UNTITLED = ((ket,yug),((xrn,xpm),(xss,zko)));
-
+tree UNTITLED = ((kett1243:1,yugh1239:1)1:1,((arin1243:1,pump1237:1)1:1,(assa1266:1,kott1239:1)1:1)1:1);
 end;

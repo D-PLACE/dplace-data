@@ -1,6 +1,12 @@
 #NEXUS
-
+Begin taxa;
+amap1240
+nakw1240
+nimo1247
+iter1241
+owin1240
+;
+end;
 Begin trees;
-tree UNTITLED = ((amm,nax,niw,itr),owi);
-
+tree UNTITLED = ((amap1240:1,nakw1240:1,nimo1247:1,iter1241:1)1:1,owin1240:1);
 end;

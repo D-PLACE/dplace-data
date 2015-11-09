@@ -1,6 +1,11 @@
 #NEXUS
-
+Begin taxa;
+maka1318
+diti1235
+nuuc1236
+kwak1269
+;
+end;
 Begin trees;
-tree UNTITLED = ((myh,(dtd,nuk)),kwk);
-
+tree UNTITLED = ((maka1318:1,(diti1235:1,nuuc1236:1)1:1)1:1,kwak1269:1);
 end;

@@ -1,6 +1,11 @@
 #NEXUS
-
+Begin taxa;
+aime1238
+kasu1251
+onob1238
+soni1260
+;
+end;
 Begin trees;
-tree UNTITLED = (ail,khs,onn,siq);
-
+tree UNTITLED = (aime1238:1,kasu1251:1,onob1238:1,soni1260:1);
 end;

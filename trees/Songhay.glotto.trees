@@ -1,6 +1,13 @@
 #NEXUS
-
+Begin taxa;
+koyr1242
+tond1249
+dend1243
+kora1291
+tada1238
+tasa1240
+;
+end;
 Begin trees;
-tree UNTITLED = ((ses,tst,ddn),(kcy,dsq,twq));
-
+tree UNTITLED = ((koyr1242:1,tond1249:1,dend1243:1)1:1,(kora1291:1,tada1238:1,tasa1240:1)1:1);
 end;

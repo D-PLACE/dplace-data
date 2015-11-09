@@ -1,6 +1,11 @@
 #NEXUS
-
+Begin taxa;
+bari1290
+nawa1258
+yare1248
+moik1239
+;
+end;
 Begin trees;
-tree UNTITLED = ((bjc,nwr,yrb),mkp);
-
+tree UNTITLED = ((bari1290:1,nawa1258:1,yare1248:1)1:1,moik1239:1);
 end;

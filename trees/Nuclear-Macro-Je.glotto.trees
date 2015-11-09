@@ -1,6 +1,25 @@
 #NEXUS
-
+Begin taxa;
+arik1265
+djeo1235
+acro1239
+xakr1238
+xava1240
+xere1240
+apin1244
+pana1307
+krah1246
+krey1238
+para1315
+xokl1240
+saop1235
+pata1261
+maxa1247
+ofay1240
+rikb1245
+kren1239
+;
+end;
 Begin trees;
-tree UNTITLED = ((ark,jbt),((acs,xkr,xav,xer),(apn,kre,(xra,xre,gvp)),(xok,zkp)),(pth,mbl),(opy,rkb),kqq);
-
+tree UNTITLED = ((arik1265:1,djeo1235:1)1:1,((acro1239:1,xakr1238:1,xava1240:1,xere1240:1)1:1,(apin1244:1,pana1307:1,(krah1246:1,krey1238:1,para1315:1)1:1)1:1,(xokl1240:1,saop1235:1)1:1)1:1,(pata1261:1,maxa1247:1)1:1,ofay1240:1,rikb1245:1,kren1239:1);
 end;

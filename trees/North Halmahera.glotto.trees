@@ -1,6 +1,14 @@
 #NEXUS
-
+Begin taxa;
+ibuu1240
+gamk1238
+waio1238
+tern1247
+tido1248
+kaoo1238
+west2600
+;
+end;
 Begin trees;
-tree UNTITLED = (((ibu,(gak,wli)),(tft,tvo),kax),mqs);
-
+tree UNTITLED = (((ibuu1240:1,(gamk1238:1,waio1238:1)1:1)1:1,(tern1247:1,tido1248:1)1:1,kaoo1238:1)1:1,west2600:1);
 end;

@@ -1,6 +1,15 @@
 #NEXUS
-
+Begin taxa;
+nede1245
+rett1240
+tere1277
+hama1240
+kafo1240
+buna1278
+fata1247
+oira1263
+;
+end;
 Begin trees;
-tree UNTITLED = ((nec,(((ret,twg),hmu),kpu)),(bfn,(ddg,oia)));
-
+tree UNTITLED = ((nede1245:1,(((rett1240:1,tere1277:1)1:1,hama1240:1)1:1,kafo1240:1)1:1)1:1,(buna1278:1,(fata1247:1,oira1263:1)1:1)1:1);
 end;

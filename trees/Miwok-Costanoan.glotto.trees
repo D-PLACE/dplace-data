@@ -1,6 +1,13 @@
 #NEXUS
-
+Begin taxa;
+baym1241
+plai1259
+nort2968
+sout2985
+lake1258
+kark1259
+;
+end;
 Begin trees;
-tree UNTITLED = (((mkq,pmw,(nsq,skd)),lmw),krb);
-
+tree UNTITLED = (((baym1241:1,plai1259:1,(nort2968:1,sout2985:1)1:1)1:1,lake1258:1)1:1,kark1259:1);
 end;

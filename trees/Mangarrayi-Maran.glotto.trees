@@ -1,6 +1,11 @@
 #NEXUS
-
+Begin taxa;
+mang1381
+alaw1244
+mara1385
+wand1263
+;
+end;
 Begin trees;
-tree UNTITLED = (mpc,(alh,mec,wnd));
-
+tree UNTITLED = (mang1381:1,(alaw1244:1,mara1385:1,wand1263:1)1:1);
 end;

@@ -1,0 +1,23 @@
+#NEXUS
+Begin taxa;
+erro1240
+cakc1235
+trav1237
+angl1239
+mich1243
+yeni1236
+roma1240
+calo1236
+shel1236
+trav1236
+call1235
+medn1235
+roma1241
+medi1245
+tavr1235
+camt1236
+;
+end;
+Begin trees;
+tree UNTITLED = (erro1240:1,cakc1235:1,trav1237:1,angl1239:1,mich1243:1,yeni1236:1,roma1240:1,calo1236:1,shel1236:1,trav1236:1,call1235:1,medn1235:1,roma1241:1,medi1245:1,tavr1235:1,camt1236:1);
+end;

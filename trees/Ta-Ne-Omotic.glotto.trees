@@ -1,6 +1,19 @@
 #NEXUS
-
+Begin taxa;
+anfi1235
+shek1244
+char1269
+bask1236
+dawr1236
+gamo1243
+gofa1235
+dorz1235
+melo1242
+oyda1235
+male1284
+koor1239
+;
+end;
 Begin trees;
-tree UNTITLED = ((myo,moy),(cra,(bst,((dwr,gmv,gof),doz,mfx,oyd),mdy),kqy));
-
+tree UNTITLED = ((anfi1235:1,shek1244:1)1:1,(char1269:1,(bask1236:1,((dawr1236:1,gamo1243:1,gofa1235:1)1:1,dorz1235:1,melo1242:1,oyda1235:1)1:1,male1284:1)1:1,koor1239:1)1:1);
 end;

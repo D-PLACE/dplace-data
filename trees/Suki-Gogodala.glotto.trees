@@ -1,6 +1,11 @@
 #NEXUS
-
+Begin taxa;
+arii1243
+gogo1265
+waru1267
+suki1245
+;
+end;
 Begin trees;
-tree UNTITLED = ((aac,ggw,wrv),sui);
-
+tree UNTITLED = ((arii1243:1,gogo1265:1,waru1267:1)1:1,suki1245:1);
 end;

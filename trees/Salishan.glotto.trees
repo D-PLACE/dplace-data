@@ -1,6 +1,21 @@
 #NEXUS
-
+Begin taxa;
+bell1243
+clal1241
+nook1247
+pent1242
+sech1246
+squa1248
+lill1248
+thom1243
+coeu1236
+spok1245
+till1254
+cowl1242
+uppe1439
+lowe1427
+;
+end;
 Begin trees;
-tree UNTITLED = (blc,(clm,nok,ptw,sec,squ),((lil,thp),(crd,spo)),til,((cow,cjh),cea));
-
+tree UNTITLED = (bell1243:1,(clal1241:1,nook1247:1,pent1242:1,sech1246:1,squa1248:1)1:1,((lill1248:1,thom1243:1)1:1,(coeu1236:1,spok1245:1)1:1)1:1,till1254:1,((cowl1242:1,uppe1439:1)1:1,lowe1427:1)1:1);
 end;

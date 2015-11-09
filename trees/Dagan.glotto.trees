@@ -1,6 +1,14 @@
 #NEXUS
-
+Begin taxa;
+daga1275
+dima1252
+ginu1240
+kana1288
+mape1250
+onjo1240
+tura1265
+;
+end;
 Begin trees;
-tree UNTITLED = (dgz,jma,gnm,soq,mnm,onj,trh);
-
+tree UNTITLED = (daga1275:1,dima1252:1,ginu1240:1,kana1288:1,mape1250:1,onjo1240:1,tura1265:1);
 end;

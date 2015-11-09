@@ -1,6 +1,37 @@
 #NEXUS
-
+Begin taxa;
+arap1274
+gros1243
+nawa1259
+chey1247
+atik1240
+moos1236
+nort1552
+sout2978
+wood1236
+caro1243
+muns1251
+unam1242
+mahi1248
+loup1243
+nant1249
+pisc1239
+powh1243
+wamp1250
+wamp1249
+west2630
+cent2136
+east2542
+west1510
+otta1242
+pota1247
+shaw1249
+kick1244
+meno1252
+wiyo1248
+yuro1248
+;
+end;
 Begin trees;
-tree UNTITLED = (((arp,ats,nwa),chy,(atj,(crm,crl,crj,cwd)),(crr,((umu,unm),mjy),xlo,(nnt,psy),pim,qyp,wam,abe),(((((ojc,ojg),ojw),otw),pot),sjw,kic),mez),wiy,yur);
-
+tree UNTITLED = (((arap1274:1,gros1243:1,nawa1259:1)1:1,chey1247:1,(atik1240:1,(moos1236:1,nort1552:1,sout2978:1,wood1236:1)1:1)1:1,(caro1243:1,((muns1251:1,unam1242:1)1:1,mahi1248:1)1:1,loup1243:1,(nant1249:1,pisc1239:1)1:1,powh1243:1,wamp1250:1,wamp1249:1,west2630:1)1:1,(((((cent2136:1,east2542:1)1:1,west1510:1)1:1,otta1242:1)1:1,pota1247:1)1:1,shaw1249:1,kick1244:1)1:1,meno1252:1)1:1,wiyo1248:1,yuro1248:1);
 end;

@@ -1,6 +1,12 @@
 #NEXUS
-
+Begin taxa;
+chan1319
+mekm1240
+biwa1243
+bunn1240
+kyen1243
+;
+end;
 Begin trees;
-tree UNTITLED = (cga,mvk,((bwm,buv),kql));
-
+tree UNTITLED = (chan1319:1,mekm1240:1,((biwa1243:1,bunn1240:1)1:1,kyen1243:1)1:1);
 end;

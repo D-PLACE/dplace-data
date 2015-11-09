@@ -1,6 +1,19 @@
 #NEXUS
-
+Begin taxa;
+cata1286
+wocc1242
+mand1446
+kans1243
+osag1243
+quap1242
+assi1247
+crow1244
+hida1246
+bilo1248
+ofoo1242
+tute1247
+;
+end;
 Begin trees;
-tree UNTITLED = ((chc,xwc),(mhq,(((ksk,osa),qua),asb),(cro,hid),((bll,ofo),tta)));
-
+tree UNTITLED = ((cata1286:1,wocc1242:1)1:1,(mand1446:1,(((kans1243:1,osag1243:1)1:1,quap1242:1)1:1,assi1247:1)1:1,(crow1244:1,hida1246:1)1:1,((bilo1248:1,ofoo1242:1)1:1,tute1247:1)1:1)1:1);
 end;

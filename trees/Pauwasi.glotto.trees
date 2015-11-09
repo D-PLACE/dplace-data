@@ -1,6 +1,11 @@
 #NEXUS
-
+Begin taxa;
+emum1240
+yafi1240
+dubu1240
+towe1240
+;
+end;
 Begin trees;
-tree UNTITLED = ((enr,wfg),(dmu,ttn));
-
+tree UNTITLED = ((emum1240:1,yafi1240:1)1:1,(dubu1240:1,towe1240:1)1:1);
 end;
