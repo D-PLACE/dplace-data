@@ -1,6 +1,3 @@
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
 VarID,Dataset,IndexCategory,VarID,VarTitle,VarDefinition,VarType,DND.NicheCategory,DND.Source,DND.ChangesToOrig
 1,LRB,Subsistence,1,Subsistence economy: Gathering,Group's dependence upon terrestrial plants,Continuous,SUBSISTENCE,Binford (2001),
 2,LRB,Subsistence,2,Subsistence economy: Hunting,Group's dependence upon terrestrial animals,Continuous,SUBSISTENCE,Binford (2001),
