@@ -1,0 +1,16 @@
+#NEXUS
+Begin taxa;
+maoo1243
+bamb1262
+west2445
+kere1282
+nucl1341
+ganz1246
+hozo1235
+hozo1236
+seze1235
+;
+end;
+Begin trees;
+tree UNTITLED = ((kere1282:1,nucl1341:1)bamb1262:1,(ganz1246:1,(hozo1236:1,seze1235:1)hozo1235:1)west2445:1);
+end;

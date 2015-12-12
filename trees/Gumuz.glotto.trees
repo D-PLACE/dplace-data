@@ -1,0 +1,28 @@
+#NEXUS
+Begin taxa;
+gumu1244
+gumu1244
+agal1241
+daku1239
+deko1238
+dewi1238
+diso1238
+gomb1250
+guba1245
+jemh1238
+kukw1235
+mand1426
+mode1250
+saii1240
+sese1245
+sirb1238
+wenb1238
+yaso1238
+diba1240
+mand1427
+mete1238
+;
+end;
+Begin trees;
+tree UNTITLED = ((agal1241:1,daku1239:1,deko1238:1,dewi1238:1,diso1238:1,gomb1250:1,guba1245:1,jemh1238:1,kukw1235:1,(diba1240:1,mand1427:1,mete1238:1)mand1426:1,mode1250:1,saii1240:1,sese1245:1,sirb1238:1,wenb1238:1,yaso1238:1)gumu1244:1);
+end;

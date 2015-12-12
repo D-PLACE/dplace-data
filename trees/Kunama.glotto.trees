@@ -1,0 +1,18 @@
+#NEXUS
+Begin taxa;
+kuna1268
+kuna1268
+aima1242
+bark1246
+bita1252
+ilit1242
+mard1244
+soko1249
+taka1265
+tigr1252
+tika1245
+;
+end;
+Begin trees;
+tree UNTITLED = ((aima1242:1,bark1246:1,bita1252:1,ilit1242:1,mard1244:1,soko1249:1,taka1265:1,tigr1252:1,tika1245:1)kuna1268:1);
+end;

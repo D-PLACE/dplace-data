@@ -1,0 +1,12 @@
+#NEXUS
+Begin taxa;
+kaku1242
+cacu1241
+nuka1242
+macu1261
+vaup1239
+;
+end;
+Begin trees;
+tree UNTITLED = ((macu1261:1,vaup1239:1)cacu1241:1,nuka1242:1);
+end;

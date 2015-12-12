@@ -1,0 +1,14 @@
+#NEXUS
+Begin taxa;
+cahu1265
+jebe1250
+main1277
+chay1248
+jesu1239
+cahu1266
+nucl1664
+;
+end;
+Begin trees;
+tree UNTITLED = (jebe1250:1,((cahu1266:1,nucl1664:1)chay1248:1,jesu1239:1)main1277:1);
+end;

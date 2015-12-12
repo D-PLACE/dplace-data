@@ -1,0 +1,18 @@
+#NEXUS
+Begin taxa;
+tura1263
+rumu1243
+tura1264
+bari1298
+ikob1240
+mouw1234
+gora1265
+mena1240
+meni1246
+pimu1238
+utab1238
+;
+end;
+Begin trees;
+tree UNTITLED = (rumu1243:1,(bari1298:1,(gora1265:1,mena1240:1,meni1246:1,pimu1238:1,utab1238:1)ikob1240:1,mouw1234:1)tura1264:1);
+end;

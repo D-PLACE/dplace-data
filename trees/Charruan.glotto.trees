@@ -1,0 +1,11 @@
+#NEXUS
+Begin taxa;
+char1238
+chan1296
+char1240
+guen1235
+;
+end;
+Begin trees;
+tree UNTITLED = (chan1296:1,char1240:1,guen1235:1);
+end;

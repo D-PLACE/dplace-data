@@ -1,0 +1,12 @@
+#NEXUS
+Begin taxa;
+abun1252
+abun1252
+abun1253
+abun1255
+abun1254
+;
+end;
+Begin trees;
+tree UNTITLED = ((abun1253:1,abun1255:1,abun1254:1)abun1252:1);
+end;

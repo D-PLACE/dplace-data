@@ -1,0 +1,27 @@
+#NEXUS
+Begin taxa;
+goil1242
+bian1252
+fuyu1242
+kuni1267
+taua1242
+weri1254
+ngow1239
+yong1282
+cent2124
+nort2928
+nort2929
+west2603
+gaji1238
+karu1254
+klfl1238
+amam1246
+weri1253
+biar1240
+onoo1247
+simm1238
+;
+end;
+Begin trees;
+tree UNTITLED = ((ngow1239:1,yong1282:1)bian1252:1,(cent2124:1,nort2928:1,nort2929:1,west2603:1)fuyu1242:1,(gaji1238:1,karu1254:1,klfl1238:1)kuni1267:1,taua1242:1,(amam1246:1,(biar1240:1,onoo1247:1,simm1238:1)weri1253:1)weri1254:1);
+end;

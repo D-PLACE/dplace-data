@@ -1,15 +1,53 @@
 #NEXUS
 Begin taxa;
+ijoi1239
 defa1248
-iban1261
-kala1381
-kiri1254
+ijoo1239
+east2383
+west2446
+kaki1245
+sout2774
+inla1259
+izon1238
+kaki1246
 nkor1239
+akas1241
+nemb1238
 bise1238
 okod1238
 orum1241
+apoi1238
+arog1238
+basa1277
+bumo1235
+east2384
+east2385
+egbe1244
+ekpe1250
+furu1238
+gbar1235
+iduw1238
+ikib1238
+kabo1240
+kolo1262
+kolu1244
+kumb1269
+mein1238
+ogbe1244
+ogbo1241
+ogul1238
+oper1238
+opor1246
+opor1245
+oyia1238
+tuom1235
+west2447
+west2448
+iban1261
+kala1381
+kiri1254
 ;
 end;
 Begin trees;
-tree UNTITLED = (defa1248:1,(((iban1261:1,kala1381:1,kiri1254:1)1:1,nkor1239:1)1:1,(bise1238:1,okod1238:1,orum1241:1)1:1)1:1);
+tree UNTITLED = (defa1248:1,((((iban1261:1,kala1381:1,kiri1254:1)kaki1246:1,nkor1239:1)kaki1245:1,(akas1241:1,nemb1238:1)sout2774:1)east2383:1,((bise1238:1,okod1238:1,orum1241:1)inla1259:1,(apoi1238:1,arog1238:1,basa1277:1,bumo1235:1,east2384:1,east2385:1,egbe1244:1,ekpe1250:1,furu1238:1,gbar1235:1,iduw1238:1,ikib1238:1,kabo1240:1,kolo1262:1,kolu1244:1,kumb1269:1,mein1238:1,ogbe1244:1,ogbo1241:1,ogul1238:1,oper1238:1,opor1246:1,opor1245:1,oyia1238:1,tuom1235:1,west2447:1,west2448:1)izon1238:1)west2446:1)ijoo1239:1);
 end;

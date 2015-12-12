@@ -1,0 +1,11 @@
+#NEXUS
+Begin taxa;
+mong1343
+lang1328
+mong1344
+yaul1241
+;
+end;
+Begin trees;
+tree UNTITLED = (lang1328:1,mong1344:1,yaul1241:1);
+end;

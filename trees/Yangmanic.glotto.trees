@@ -1,0 +1,11 @@
+#NEXUS
+Begin taxa;
+yang1287
+dago1245
+ward1246
+yang1288
+;
+end;
+Begin trees;
+tree UNTITLED = (dago1245:1,ward1246:1,yang1288:1);
+end;

@@ -1,0 +1,13 @@
+#NEXUS
+Begin taxa;
+dama1272
+dama1272
+amon1239
+amun1245
+engg1246
+nucl1638
+;
+end;
+Begin trees;
+tree UNTITLED = ((amon1239:1,amun1245:1,engg1246:1,nucl1638:1)dama1272:1);
+end;

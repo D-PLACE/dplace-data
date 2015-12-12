@@ -1,11 +1,18 @@
 #NEXUS
 Begin taxa;
+pauw1244
+east2530
+west2611
 emum1240
+kark1258
 yafi1240
 dubu1240
 towe1240
+auia1238
+nort2936
+usar1244
 ;
 end;
 Begin trees;
-tree UNTITLED = ((emum1240:1,yafi1240:1)1:1,(dubu1240:1,towe1240:1)1:1);
+tree UNTITLED = ((emum1240:1,(auia1238:1,nort2936:1,usar1244:1)kark1258:1,yafi1240:1)east2530:1,(dubu1240:1,towe1240:1)west2611:1);
 end;

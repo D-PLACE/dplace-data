@@ -1,0 +1,12 @@
+#NEXUS
+Begin taxa;
+peba1241
+peba1242
+yagu1244
+peba1243
+yame1242
+;
+end;
+Begin trees;
+tree UNTITLED = ((peba1243:1,yame1242:1)peba1242:1,yagu1244:1);
+end;

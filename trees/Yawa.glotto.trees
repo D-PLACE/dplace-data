@@ -1,0 +1,15 @@
+#NEXUS
+Begin taxa;
+yawa1259
+nucl1454
+sawe1240
+cent2052
+east2434
+nort2825
+sout2846
+west2509
+;
+end;
+Begin trees;
+tree UNTITLED = ((cent2052:1,east2434:1,nort2825:1,sout2846:1,west2509:1)nucl1454:1,sawe1240:1);
+end;

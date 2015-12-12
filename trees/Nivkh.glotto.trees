@@ -1,0 +1,12 @@
+#NEXUS
+Begin taxa;
+gily1242
+gily1242
+amur1242
+east2373
+nort2750
+;
+end;
+Begin trees;
+tree UNTITLED = ((amur1242:1,east2373:1,nort2750:1)gily1242:1);
+end;

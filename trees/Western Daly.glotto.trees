@@ -1,16 +1,30 @@
 #NEXUS
 Begin taxa;
+west2434
+brin1245
+waga1259
 mari1417
+mari1418
+mari1420
+amem1235
+mara1386
+mari1419
+mart1254
 mari1422
 mari1421
+mari1424
 mari1423
 marr1256
-mart1254
 amii1238
 mand1416
-mara1386
+mara1387
+mare1239
+marr1241
+marr1239
+marr1240
+nucl1242
 ;
 end;
 Begin trees;
-tree UNTITLED = ((mari1417:1,(mari1422:1,mari1421:1,mari1423:1,marr1256:1)1:1,mart1254:1)1:1,((amii1238:1,mand1416:1)1:1,mara1386:1)1:1);
+tree UNTITLED = ((mari1417:1,((mara1387:1)mari1419:1,mart1254:1)mari1418:1,(mari1422:1,mari1421:1,(mare1239:1,marr1241:1,marr1239:1,marr1240:1,nucl1242:1)mari1424:1,mari1423:1,marr1256:1)mari1420:1)brin1245:1,((amii1238:1,mand1416:1)amem1235:1,mara1386:1)waga1259:1);
 end;

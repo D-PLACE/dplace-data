@@ -1,13 +1,18 @@
 #NEXUS
 Begin taxa;
+taca1255
 cavi1250
+mabe1235
+taka1267
+arao1247
+esee1248
+taka1268
 arao1248
 toro1255
-esee1248
 reye1240
 taca1256
 ;
 end;
 Begin trees;
-tree UNTITLED = (cavi1250:1,((arao1248:1,toro1255:1)1:1,esee1248:1,(reye1240:1,taca1256:1)1:1)1:1);
+tree UNTITLED = (cavi1250:1,mabe1235:1,((arao1248:1,toro1255:1)arao1247:1,esee1248:1,(reye1240:1,taca1256:1)taka1268:1)taka1267:1);
 end;

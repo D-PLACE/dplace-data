@@ -1,0 +1,22 @@
+#NEXUS
+Begin taxa;
+huit1251
+nonu1240
+nucl1659
+uncl1444
+nonu1241
+ocai1244
+mini1255
+nupo1240
+ando1254
+coer1236
+duka1249
+ibot1242
+mini1256
+muru1274
+mica1243
+;
+end;
+Begin trees;
+tree UNTITLED = ((nonu1241:1,(duka1249:1,ibot1242:1)ocai1244:1)nonu1240:1,((mini1256:1,(mica1243:1)muru1274:1)mini1255:1,nupo1240:1)nucl1659:1,(ando1254:1,coer1236:1)uncl1444:1);
+end;

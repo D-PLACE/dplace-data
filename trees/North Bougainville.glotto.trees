@@ -1,0 +1,16 @@
+#NEXUS
+Begin taxa;
+nort2933
+ramo1245
+rapo1238
+roto1248
+asko1238
+roto1249
+aita1238
+atsi1239
+pipi1249
+;
+end;
+Begin trees;
+tree UNTITLED = (ramo1245:1,rapo1238:1,(asko1238:1,(aita1238:1,atsi1239:1,pipi1249:1)roto1249:1)roto1248:1);
+end;

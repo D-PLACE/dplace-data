@@ -1,0 +1,11 @@
+#NEXUS
+Begin taxa;
+shas1238
+kono1241
+newr1237
+shas1239
+;
+end;
+Begin trees;
+tree UNTITLED = (kono1241:1,newr1237:1,shas1239:1);
+end;

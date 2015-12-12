@@ -1,0 +1,20 @@
+#NEXUS
+Begin taxa;
+koma1264
+kwam1249
+opuu1238
+opuu1239
+twam1235
+buld1238
+kusg1238
+komo1258
+uduk1239
+beil1238
+chal1268
+koma1265
+koma1255
+;
+end;
+Begin trees;
+tree UNTITLED = (kwam1249:1,((buld1238:1,kusg1238:1)opuu1239:1,((beil1238:1,chal1268:1,koma1265:1,koma1255:1)komo1258:1,uduk1239:1)twam1235:1)opuu1238:1);
+end;

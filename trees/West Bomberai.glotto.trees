@@ -1,0 +1,12 @@
+#NEXUS
+Begin taxa;
+west2604
+kara1499
+nucl1641
+baha1258
+ihaa1241
+;
+end;
+Begin trees;
+tree UNTITLED = (kara1499:1,(baha1258:1,ihaa1241:1)nucl1641:1);
+end;

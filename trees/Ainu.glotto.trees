@@ -1,0 +1,15 @@
+#NEXUS
+Begin taxa;
+ainu1252
+ainu1240
+kuri1271
+sakh1245
+hokk1243
+kuri1257
+sakh1238
+tara1248
+;
+end;
+Begin trees;
+tree UNTITLED = ((hokk1243:1,kuri1257:1,sakh1238:1,tara1248:1)ainu1240:1,kuri1271:1,sakh1245:1);
+end;

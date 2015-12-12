@@ -1,11 +1,29 @@
 #NEXUS
 Begin taxa;
+mail1249
+bauw1241
+bina1273
 domu1245
 laua1245
+mail1248
 mora1273
 bauw1240
+ooku1235
+bina1275
+bina1274
+asia1264
+baib1249
+bore1246
+dara1252
+dere1243
+doma1262
+geag1239
+ilai1239
+isla1273
+maaa1254
+neme1245
 ;
 end;
 Begin trees;
-tree UNTITLED = (domu1245:1,laua1245:1,mora1273:1,bauw1240:1);
+tree UNTITLED = ((bauw1240:1,ooku1235:1)bauw1241:1,((maaa1254:1,neme1245:1)bina1275:1,bina1274:1)bina1273:1,domu1245:1,laua1245:1,(asia1264:1,baib1249:1,bore1246:1,dara1252:1,dere1243:1,doma1262:1,geag1239:1,ilai1239:1,isla1273:1)mail1248:1,mora1273:1);
 end;

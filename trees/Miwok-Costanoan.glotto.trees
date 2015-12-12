@@ -1,13 +1,38 @@
 #NEXUS
 Begin taxa;
+miwo1274
+cost1250
+miwo1275
+kark1259
+nort3252
+sout2986
+east2546
+west2633
+chal1270
+nort2969
+mont1270
+muts1243
+rums1243
 baym1241
 plai1259
+sier1249
+coas1301
+lake1258
+east2548
+sanf1261
+sant1427
+sant1428
+sole1242
+cent2140
 nort2968
 sout2985
-lake1258
-kark1259
+bode1246
+huim1238
+mari1441
+east2547
+west2634
 ;
 end;
 Begin trees;
-tree UNTITLED = (((baym1241:1,plai1259:1,(nort2968:1,sout2985:1)1:1)1:1,lake1258:1)1:1,kark1259:1);
+tree UNTITLED = ((kark1259:1,(chal1270:1,(east2548:1,sanf1261:1,sant1427:1,sant1428:1,sole1242:1)nort2969:1)nort3252:1,(mont1270:1,muts1243:1,rums1243:1)sout2986:1)cost1250:1,((baym1241:1,plai1259:1,((east2547:1,west2634:1)cent2140:1,nort2968:1,sout2985:1)sier1249:1)east2546:1,((bode1246:1,huim1238:1,mari1441:1)coas1301:1,lake1258:1)west2633:1)miwo1275:1);
 end;

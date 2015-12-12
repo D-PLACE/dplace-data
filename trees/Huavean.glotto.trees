@@ -1,5 +1,8 @@
 #NEXUS
 Begin taxa;
+huav1256
+sand1283
+sanf1267
 sand1278
 sanm1287
 sanf1258
@@ -7,5 +10,5 @@ sant1422
 ;
 end;
 Begin trees;
-tree UNTITLED = ((sand1278:1,sanm1287:1)1:1,(sanf1258:1,sant1422:1)1:1);
+tree UNTITLED = ((sand1278:1,sanm1287:1)sand1283:1,(sanf1258:1,sant1422:1)sanf1267:1);
 end;

@@ -1,14 +1,42 @@
 #NEXUS
 Begin taxa;
+nubi1251
+nobi1239
+west2781
+nobi1240
 oldn1245
+cent2232
+mido1240
+fiya1238
+maha1295
 birk1242
+hara1258
+kenu1236
+kord1246
+kaag1238
+shel1243
+urrt1238
+dong1288
+kenu1243
+east2715
+west2807
 dair1239
+kada1282
 ghul1238
+dill1242
 elhu1238
 kark1256
 wali1262
+daba1243
+kafi1242
+kuld1238
+kurt1249
+kuru1303
+nucl1343
+debr1242
+nucl1344
 ;
 end;
 Begin trees;
-tree UNTITLED = (oldn1245:1,(birk1242:1,((dair1239:1,ghul1238:1)1:1,(elhu1238:1,kark1256:1,wali1262:1)1:1)1:1)1:1);
+tree UNTITLED = (((fiya1238:1,maha1295:1)nobi1240:1,oldn1245:1)nobi1239:1,((birk1242:1,hara1258:1,(dong1288:1,kenu1243:1)kenu1236:1,((dair1239:1,(daba1243:1,kafi1242:1,kuld1238:1,kurt1249:1,kuru1303:1,nucl1343:1)kada1282:1,ghul1238:1)east2715:1,((debr1242:1,nucl1344:1)dill1242:1,elhu1238:1,kark1256:1,wali1262:1)west2807:1)kord1246:1)cent2232:1,(kaag1238:1,shel1243:1,urrt1238:1)mido1240:1)west2781:1);
 end;

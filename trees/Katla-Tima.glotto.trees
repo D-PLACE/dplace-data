@@ -1,0 +1,19 @@
+#NEXUS
+Begin taxa;
+katl1246
+katl1236
+tima1241
+julu1237
+katl1237
+bomb1239
+julu1236
+karo1251
+kate1235
+kidd1235
+kirk1236
+kold1235
+;
+end;
+Begin trees;
+tree UNTITLED = ((julu1237:1,(bomb1239:1,julu1236:1,karo1251:1,kate1235:1,kidd1235:1,kirk1236:1,kold1235:1)katl1237:1)katl1236:1,tima1241:1);
+end;

@@ -1,0 +1,43 @@
+#NEXUS
+Begin taxa;
+koia1260
+bara1376
+koia1261
+bara1377
+esee1247
+omie1241
+koit1243
+moun1252
+nami1258
+nucl1630
+afor1239
+akab1250
+aver1239
+chim1299
+deaa1243
+jimu1237
+kari1308
+mesa1247
+minj1241
+muat1238
+nami1257
+numb1248
+okoo1246
+waku1239
+asap1239
+gora1266
+zuwa1238
+gras1249
+koit1244
+bira1255
+mugu1243
+hoge1238
+laha1254
+oman1238
+east2517
+west2601
+;
+end;
+Begin trees;
+tree UNTITLED = (((nami1258:1,(bira1255:1,mugu1243:1)nucl1630:1)bara1377:1,(afor1239:1,akab1250:1,aver1239:1,chim1299:1,deaa1243:1,jimu1237:1,kari1308:1,mesa1247:1,minj1241:1,muat1238:1,nami1257:1,numb1248:1,okoo1246:1,waku1239:1)esee1247:1,(asap1239:1,gora1266:1,zuwa1238:1)omie1241:1)bara1376:1,(((hoge1238:1,laha1254:1,oman1238:1)gras1249:1,(east2517:1,west2601:1)koit1244:1)koit1243:1,moun1252:1)koia1261:1);
+end;

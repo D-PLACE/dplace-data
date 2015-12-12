@@ -1,8 +1,12 @@
 #NEXUS
 Begin taxa;
+bord1247
+bewa1242
+taik1254
+wari1265
 ning1275
+pagi1245
 umed1238
-ainb1238
 awyi1241
 taik1255
 aman1265
@@ -11,9 +15,19 @@ daon1243
 imon1245
 mane1266
 seng1285
+sowa1245
 wari1266
+ainb1238
+kilm1241
+pagi1244
+pund1238
+wain1247
+east2532
+west2613
+east2531
+west2612
 ;
 end;
 Begin trees;
-tree UNTITLED = ((ning1275:1,umed1238:1,ainb1238:1)1:1,(awyi1241:1,taik1255:1)1:1,(aman1265:1,auwe1239:1,daon1243:1,imon1245:1,mane1266:1,seng1285:1,wari1266:1)1:1);
+tree UNTITLED = ((ning1275:1,(ainb1238:1,(east2532:1,west2613:1)kilm1241:1,(east2531:1,west2612:1)pagi1244:1)pagi1245:1,umed1238:1)bewa1242:1,(awyi1241:1,taik1255:1)taik1254:1,(aman1265:1,auwe1239:1,daon1243:1,imon1245:1,mane1266:1,seng1285:1,(pund1238:1,wain1247:1)sowa1245:1,wari1266:1)wari1265:1);
 end;

@@ -1,0 +1,13 @@
+#NEXUS
+Begin taxa;
+yana1271
+yana1271
+cent2137
+nort2963
+sout2980
+yahi1243
+;
+end;
+Begin trees;
+tree UNTITLED = ((cent2137:1,nort2963:1,sout2980:1,yahi1243:1)yana1271:1);
+end;

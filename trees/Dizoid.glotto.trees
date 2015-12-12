@@ -1,0 +1,13 @@
+#NEXUS
+Begin taxa;
+dizo1235
+dizi1235
+nayi1243
+shek1245
+bull1248
+dors1239
+;
+end;
+Begin trees;
+tree UNTITLED = (dizi1235:1,nayi1243:1,(bull1248:1,dors1239:1)shek1245:1);
+end;

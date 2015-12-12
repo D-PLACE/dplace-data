@@ -1,0 +1,14 @@
+#NEXUS
+Begin taxa;
+xinc1237
+xinc1244
+xinc1246
+xinc1245
+xinc1243
+xinc1242
+xink1235
+;
+end;
+Begin trees;
+tree UNTITLED = ((xinc1242:1,xink1235:1)xinc1244:1,xinc1246:1,xinc1245:1,xinc1243:1);
+end;

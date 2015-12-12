@@ -1,0 +1,13 @@
+#NEXUS
+Begin taxa;
+nara1262
+nara1262
+higi1240
+koyt1238
+moga1248
+sant1412
+;
+end;
+Begin trees;
+tree UNTITLED = ((higi1240:1,koyt1238:1,moga1248:1,sant1412:1)nara1262:1);
+end;
