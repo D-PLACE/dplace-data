@@ -719,10 +719,10 @@ EA,88,8,88_8,"Grass, leaves, brush, or other thatch","Grass, leaves or thatch"
 EA,88,9,88_9,Earth or turf,Earth or turf
 EA,88,10,88_10,Ice or snow,Ice or snow
 EA,88,11,88_11,Tile or fired brick,Tile or fired brick
-EA,1001,NA,201_NA,Missing data,Missing data
-EA,1001,1,201_1,Pattern of marital residence in the first years of marriage not different from later years.,Same
-EA,1001,2,201_2,Pattern of marital residence differs in the first years of marriage relative to later years.,Different
-EA,1002,NA,202_NA,Missing data,Missing data
+EA,201,NA,201_NA,Missing data,Missing data
+EA,201,1,201_1,Pattern of marital residence in the first years of marriage not different from later years.,Same
+EA,201,2,201_2,Pattern of marital residence differs in the first years of marriage relative to later years.,Different
+EA,202,NA,202_NA,Missing data,Missing data
 EA,94,NA,94_NA,Insufficient information or not coded ,Missing data
 EA,94,11,94_11,Patrilineal succession where a son is preferred to a younger brother,"Patrilineal, son"
 EA,94,12,94_12,Patrilineal succession where a younger brother is preferred to a son,"Patrilineal, younger brother"
