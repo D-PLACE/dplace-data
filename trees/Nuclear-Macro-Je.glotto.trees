@@ -16,6 +16,7 @@ jece1235
 jeme1246
 jese1235
 java1255
+coro1248
 mala1432
 pata1261
 west2636
@@ -60,5 +61,5 @@ sout2998
 ;
 end;
 Begin trees;
-tree UNTITLED = ((guer1242:1,kren1239:1)aimo1246:1,(arik1265:1,djeo1235:1)jabu1249:1,(geic1236:1,(acro1239:1,xakr1238:1,xava1240:1,xere1240:1)jece1235:1,((inga1254:1,kimd1235:1)inga1253:1,(((cent2143:1,para1314:1,sout2997:1,sout2998:1)kain1272:1,saop1235:1)kain1271:1,xokl1240:1)kain1270:1)jeme1246:1,(apin1244:1,(kara1501:1,kaya1331:1,xikr1238:1)kaya1330:1,pana1307:1,(beic1238:1,yaru1258:1)suya1243:1,((apan1243:1,ramk1239:1)cane1242:1,krah1246:1,krey1238:1,(krin1238:1,timb1254:1)krik1239:1,para1315:1)timb1253:1)jese1235:1)jeee1236:1,(java1255:1)kara1500:1,(mala1432:1,pata1261:1,(capo1236:1,macu1258:1,maxa1247:1)west2636:1)maxa1246:1,ofay1240:1,rikb1245:1);
+tree UNTITLED = ((guer1242:1,kren1239:1)aimo1246:1,(arik1265:1,djeo1235:1)jabu1249:1,(geic1236:1,(acro1239:1,xakr1238:1,xava1240:1,xere1240:1)jece1235:1,((inga1254:1,kimd1235:1)inga1253:1,(((cent2143:1,para1314:1,sout2997:1,sout2998:1)kain1272:1,saop1235:1)kain1271:1,xokl1240:1)kain1270:1)jeme1246:1,(apin1244:1,(kara1501:1,kaya1331:1,xikr1238:1)kaya1330:1,pana1307:1,(beic1238:1,yaru1258:1)suya1243:1,((apan1243:1,ramk1239:1)cane1242:1,krah1246:1,krey1238:1,(krin1238:1,timb1254:1)krik1239:1,para1315:1)timb1253:1)jese1235:1)jeee1236:1,(java1255:1)kara1500:1,(coro1248:1,mala1432:1,pata1261:1,(capo1236:1,macu1258:1,maxa1247:1)west2636:1)maxa1246:1,ofay1240:1,rikb1245:1);
 end;

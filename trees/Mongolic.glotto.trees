@@ -3,6 +3,7 @@ Begin taxa;
 daur1238
 oira1260
 kita1247
+midd1351
 mogh1245
 sout2705
 bute1242
@@ -73,5 +74,5 @@ ulan1238
 ;
 end;
 Begin trees;
-tree UNTITLED = ((bute1242:1,hail1246:1,qiqi1238:1)daur1238:1,(kham1281:1,((((agaa1242:1,barg1251:1,khor1271:1)chin1476:1,(agaa1241:1,khor1270:1)mong1330:1,(alar1239:1,barg1250:1,boha1238:1,bula1254:1,ekhi1238:1,ninz1245:1,okaa1242:1,tunk1240:1,unga1252:1)russ1264:1)buri1258:1,((dari1250:1,halh1239:1,khot1253:1,sart1248:1,tson1247:1)halh1238:1,(chah1241:1,ejin1238:1,jiri1239:1,joud1238:1,jost1238:1,ordo1245:1,shil1261:1,tumu1241:1,ulan1238:1)peri1253:1)mong1331:1)khal1273:1,(dark1243:1,(buza1239:1,dorb1242:1,oira1262:1,sart1247:1,torg1245:1)kalm1243:1)oira1261:1)oira1264:1)oira1260:1,kita1247:1,(kare1336:1,kund1252:1)mogh1245:1,(east2337:1,(((jish1241:1,tong1310:1)bona1250:1,(siji1238:1,suon1238:1,wang1256:1)dong1285:1,kang1281:1)baoa1237:1,(huzh1238:1,minh1238:1)tuuu1240:1)shir1260:1)sout2705:1);
+tree UNTITLED = ((bute1242:1,hail1246:1,qiqi1238:1)daur1238:1,(kham1281:1,((((agaa1242:1,barg1251:1,khor1271:1)chin1476:1,(agaa1241:1,khor1270:1)mong1330:1,(alar1239:1,barg1250:1,boha1238:1,bula1254:1,ekhi1238:1,ninz1245:1,okaa1242:1,tunk1240:1,unga1252:1)russ1264:1)buri1258:1,((dari1250:1,halh1239:1,khot1253:1,sart1248:1,tson1247:1)halh1238:1,(chah1241:1,ejin1238:1,jiri1239:1,joud1238:1,jost1238:1,ordo1245:1,shil1261:1,tumu1241:1,ulan1238:1)peri1253:1)mong1331:1)khal1273:1,(dark1243:1,(buza1239:1,dorb1242:1,oira1262:1,sart1247:1,torg1245:1)kalm1243:1)oira1261:1)oira1264:1)oira1260:1,kita1247:1,midd1351:1,(kare1336:1,kund1252:1)mogh1245:1,(east2337:1,(((jish1241:1,tong1310:1)bona1250:1,(siji1238:1,suon1238:1,wang1256:1)dong1285:1,kang1281:1)baoa1237:1,(huzh1238:1,minh1238:1)tuuu1240:1)shir1260:1)sout2705:1);
 end;

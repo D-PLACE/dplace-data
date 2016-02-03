@@ -1,16 +1,15 @@
 #NEXUS
 Begin taxa;
 arik1263
-awet1244
+mawe1252
 mond1266
 mund1329
 puru1268
-sate1243
 tupa1251
-tupi1276
-yuru1262
 arik1264
 kari1311
+awet1245
+sate1243
 gavi1250
 suru1262
 kuru1309
@@ -19,6 +18,17 @@ puru1264
 rama1257
 maku1278
 nucl1716
+awet1244
+tupi1276
+yuru1262
+gavi1248
+sala1273
+karo1305
+urum1250
+akun1243
+kepk1241
+tupa1250
+wayo1238
 kama1373
 subg1264
 tupi1277
@@ -30,14 +40,12 @@ tupi1281
 juru1256
 mari1442
 xipa1240
-gavi1248
-sala1273
-karo1305
-urum1250
-akun1243
-kepk1241
-tupa1250
-wayo1238
+arua1261
+cint1239
+gavi1246
+karo1306
+akun1241
+saki1248
 araw1273
 kaya1329
 xing1248
@@ -53,7 +61,6 @@ nhen1239
 omag1247
 tupi1273
 tupi1274
-avac1239
 tapi1254
 tupi1284
 tupi1285
@@ -68,12 +75,9 @@ wira1264
 guaj1258
 waya1271
 arup1240
-arua1261
-cint1239
-gavi1246
-karo1306
-akun1241
-saki1248
+arua1262
+gavi1247
+zoro1244
 mbya1239
 para1319
 chir1295
@@ -94,14 +98,12 @@ kari1310
 mial1239
 nucl1663
 pari1258
+avac1239
 guaj1259
 tacu1234
 urub1250
 waya1270
 zoee1241
-arua1262
-gavi1247
-zoro1244
 bati1254
 tamb1258
 chir1286
@@ -134,5 +136,5 @@ guaj1256
 ;
 end;
 Begin trees;
-tree UNTITLED = ((arik1264:1,kari1311:1)arik1263:1,awet1244:1,((((arua1262:1)arua1261:1,cint1239:1,(gavi1247:1,zoro1244:1)gavi1246:1)gavi1248:1,sala1273:1)gavi1250:1,suru1262:1)mond1266:1,(kuru1309:1,mund1330:1)mund1329:1,(puru1264:1,((karo1306:1)karo1305:1,urum1250:1)rama1257:1)puru1268:1,sate1243:1,(maku1278:1,((akun1241:1,saki1248:1)akun1243:1,kepk1241:1,tupa1250:1,wayo1238:1)nucl1716:1)tupa1251:1,(kama1373:1,(araw1273:1,kaya1329:1,xing1248:1)subg1264:1,(ache1246:1,((bati1254:1,tamb1258:1)mbya1239:1,((apap1240:1)chir1286:1,(kaiw1247:1,temb1275:1,teui1238:1)kaiw1246:1,pait1247:1,(jopa1240:1)para1311:1)para1319:1)tupi1282:1,(((avaa1240:1,izoc1240:1)east2555:1,tapi1253:1)chir1295:1,west2640:1)tupi1283:1,xeta1241:1)tupi1277:1,(guar1292:1,paus1244:1,(jora1240:1,siri1273:1)siri1279:1,yuqu1240:1)tupi1278:1,(nhen1239:1,((coca1260:1,coca1261:1)coca1259:1,(aizu1242:1,cura1243:1,curu1244:1,pagu1250:1)omag1248:1)omag1247:1,tupi1273:1,tupi1274:1)tupi1287:1,(avac1239:1,tapi1254:1,(para1312:1,suru1261:1,toca1235:1)tupi1284:1,(aman1266:1,temb1276:1,turi1247:1)tupi1285:1)tupi1279:1,(amun1246:1,apia1248:1,juma1249:1,kari1317:1,para1313:1,(diah1239:1,kagw1238:1,kari1310:1,mial1239:1,nucl1663:1,pari1258:1)tenh1241:1,urue1240:1,wira1264:1)tupi1280:1,(((anam1249:1,(aura1243:1,guaj1256:1)guaj1260:1)guaj1259:1,tacu1234:1,urub1250:1)guaj1258:1,((oiya1239:1,waja1261:1)waya1270:1,(emer1243:1,zoee1240:1)zoee1241:1)waya1271:1)tupi1281:1)tupi1276:1,(juru1256:1,(arup1240:1)mari1442:1,xipa1240:1)yuru1262:1);
+tree UNTITLED = ((arik1264:1,kari1311:1)arik1263:1,((awet1244:1,(kama1373:1,(araw1273:1,kaya1329:1,xing1248:1)subg1264:1,(ache1246:1,((bati1254:1,tamb1258:1)mbya1239:1,((apap1240:1)chir1286:1,(kaiw1247:1,temb1275:1,teui1238:1)kaiw1246:1,pait1247:1,(jopa1240:1)para1311:1)para1319:1)tupi1282:1,(((avaa1240:1,izoc1240:1)east2555:1,tapi1253:1)chir1295:1,west2640:1)tupi1283:1,xeta1241:1)tupi1277:1,(guar1292:1,paus1244:1,(jora1240:1,siri1273:1)siri1279:1,yuqu1240:1)tupi1278:1,(nhen1239:1,((coca1260:1,coca1261:1)coca1259:1,(aizu1242:1,cura1243:1,curu1244:1,pagu1250:1)omag1248:1)omag1247:1,tupi1273:1,tupi1274:1)tupi1287:1,(tapi1254:1,(para1312:1,suru1261:1,toca1235:1)tupi1284:1,(aman1266:1,temb1276:1,turi1247:1)tupi1285:1)tupi1279:1,(amun1246:1,apia1248:1,juma1249:1,kari1317:1,para1313:1,(diah1239:1,kagw1238:1,kari1310:1,mial1239:1,nucl1663:1,pari1258:1)tenh1241:1,urue1240:1,wira1264:1)tupi1280:1,((avac1239:1,(anam1249:1,(aura1243:1,guaj1256:1)guaj1260:1)guaj1259:1,tacu1234:1,urub1250:1)guaj1258:1,((oiya1239:1,waja1261:1)waya1270:1,(emer1243:1,zoee1240:1)zoee1241:1)waya1271:1)tupi1281:1)tupi1276:1,(juru1256:1,(arup1240:1)mari1442:1,xipa1240:1)yuru1262:1)awet1245:1,sate1243:1)mawe1252:1,((((arua1262:1)arua1261:1,cint1239:1,(gavi1247:1,zoro1244:1)gavi1246:1)gavi1248:1,sala1273:1)gavi1250:1,suru1262:1)mond1266:1,(kuru1309:1,mund1330:1)mund1329:1,(puru1264:1,((karo1306:1)karo1305:1,urum1250:1)rama1257:1)puru1268:1,(maku1278:1,((akun1241:1,saki1248:1)akun1243:1,kepk1241:1,tupa1250:1,wayo1238:1)nucl1716:1)tupa1251:1);
 end;

@@ -1,23 +1,26 @@
 #NEXUS
 Begin taxa;
-ndin1245
+bura1298
+lumu1240
+ache1247
+ndin1246
 ngil1241
+lumu1239
+toro1251
+ache1245
+toch1257
+ndin1245
 talo1250
-toch1256
 dagi1241
 ngil1242
-ache1245
-lumu1239
-toch1257
-toro1251
+east2430
+west2504
 ahei1238
 dalo1239
 masa1302
 masa1303
-east2430
-west2504
 ;
 end;
 Begin trees;
-tree UNTITLED = (ndin1245:1,(dagi1241:1,(ahei1238:1,dalo1239:1,masa1302:1,masa1303:1)ngil1242:1)ngil1241:1,talo1250:1,((east2430:1,west2504:1)ache1245:1,lumu1239:1,toch1257:1,toro1251:1)toch1256:1);
+tree UNTITLED = ((((east2430:1,west2504:1)ache1245:1,toch1257:1)ache1247:1,(ndin1245:1,talo1250:1)ndin1246:1,(dagi1241:1,(ahei1238:1,dalo1239:1,masa1302:1,masa1303:1)ngil1242:1)ngil1241:1)bura1298:1,(lumu1239:1,toro1251:1)lumu1240:1);
 end;
