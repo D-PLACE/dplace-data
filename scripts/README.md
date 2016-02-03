@@ -10,11 +10,11 @@ to be taken to recreate the dplace data which is derived from Glottolog:
 
 1. Recreate the NEXUS files for Glottolog top-level family trees running
    ```
-   python glottolog.py ../trees/
+   python glottolog.py trees
    ```
 
-2. Recreate the languoid data in `csv/glottolog.csv` by running the SQL in `glottolog.sql`
+2. Recreate the languoid data in `csv/glottolog.csv` by running the following command
    on a PostgreSQL database with the Glottolog SQL dump loaded:
    ```
-   psql -d glottolog -F "," -A -f glottolog.sql -o ../csv/glottolog.csv
+   python glottolog.py languoids postgresql://dbuser@/glottolog
    ```

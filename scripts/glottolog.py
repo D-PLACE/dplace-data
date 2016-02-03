@@ -6,10 +6,12 @@ import sys
 import os
 import re
 import codecs
+import csv
 
 import requests
 from bs4 import BeautifulSoup as bs
 from ete2 import Tree
+from sqlalchemy import create_engine
 
 
 IS_GLOTTOCODE = re.compile(r"""'.* <([a-z0-9]{4}\d{4})>.*'$""")
@@ -39,13 +41,14 @@ def clean_tree(tree):  # pragma: no cover
 GLOTTOLOG_FAMILIES = "http://glottolog.org/glottolog/language.atom?type=families&sSearch_1=Top-level+unit"
 SUFFIX = '.glotto.trees'
 
-if __name__ == '__main__':  # pragma: no cover
+
+def trees():
+    outdir = os.path.join('..', 'trees')
     urls = {}
 
     for entry in bs(requests.get(GLOTTOLOG_FAMILIES).text).find_all('entry'):
         urls[entry.find('title').text] = entry.find('id').text
 
-    outdir = sys.argv[1]
     for fname in os.listdir(outdir):
         if fname.endswith(SUFFIX):
             os.remove(os.path.join(outdir, fname))
@@ -73,3 +76,60 @@ if __name__ == '__main__':  # pragma: no cover
                 handle.write("\nBegin trees;\ntree UNTITLED = ")
                 handle.write(newick_string)
                 handle.write("\nend;")
+
+
+SQL = """\
+select distinct
+  languoid.id,
+  languoid.name,
+  family.id as family_id,
+  family.name as family_name,
+  iso.name as iso_code
+from
+  (
+    select
+      pk, id, name
+    from
+      language
+    where
+      active = TRUE
+  ) as languoid
+left outer join
+  (
+    select
+      f.id, f.name, ll.pk
+    from
+      languoid as ll, language as f
+    where
+      ll.family_pk = f.pk
+  ) as family on (family.pk = languoid.pk)
+left outer join
+  (
+    select
+      i.name, li.language_pk
+    from
+      languageidentifier as li, identifier as i
+    where
+      li.identifier_pk = i.pk and i.type = 'iso639-3'
+  ) as iso on (iso.language_pk = languoid.pk)
+order by languoid.id
+"""
+
+
+def languoids(dburi):
+    db = create_engine(dburi)
+    with open('../csv/glottolog.csv', 'wb') as fp:
+        writer = csv.writer(fp)
+        writer.writerow(['id', 'name', 'family_id', 'family_name', 'iso_code'])
+        for row in db.execute(SQL):
+            writer.writerow(['' if c is None else c.encode('utf8') for c in row])
+
+
+if __name__ == '__main__':  # pragma: no cover
+    cmd = sys.argv[1]
+    if cmd == 'trees':
+        trees()
+    elif cmd == 'languoids':
+        languoids(sys.argv[2])
+    else:
+        raise ValueError(cmd)
