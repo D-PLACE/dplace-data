@@ -30,9 +30,10 @@ tang1375
 tang1356
 kire1239
 wagg1235
+akru1241
 brer1241
-igan1243
-itut1234
+inap1241
+uncl1496
 aiom1240
 anor1241
 lioo1241
@@ -46,8 +47,7 @@ bosn1247
 wata1252
 brer1240
 romk1240
-akru1241
-inap1241
+igan1243
 komi1271
 arua1260
 sepe1240
@@ -63,5 +63,5 @@ nucl1639
 ;
 end;
 Begin trees;
-tree UNTITLED = (((auwa1242:1,nucl1640:1,sabu1256:1)abuu1241:1,goro1261:1)agoa1234:1,(nort2931:1,sout2951:1)amba1269:1,(ango1255:1,cham1313:1,(tabr1243:1,yima1243:1)kara1498:1,(kopa1248:1,muri1260:1)norr1244:1)lowe1423:1,(((aiom1240:1,anor1241:1)aian1241:1,(lioo1241:1,ndra1238:1)raoo1244:1)anna1245:1,(anda1284:1,(kang1291:1,tang1355:1)tang1375:1,tang1356:1)tang1354:1,((kire1240:1,(arua1260:1,sepe1240:1)mika1254:1)kire1239:1,((bore1248:1,boro1280:1,botb1238:1)bore1247:1,((nubi1252:1,nucl1639:1)awar1249:1,bosn1248:1)bosn1247:1,(kaia1245:1,wata1253:1)wata1252:1)wagg1235:1)lowe1439:1,((brer1240:1,romk1240:1)brer1241:1,igan1243:1,(akru1241:1,inap1241:1,komi1271:1)itut1234:1)tamo1242:1)ramu1234:1);
+tree UNTITLED = (((auwa1242:1,nucl1640:1,sabu1256:1)abuu1241:1,goro1261:1)agoa1234:1,(nort2931:1,sout2951:1)amba1269:1,(ango1255:1,cham1313:1,(tabr1243:1,yima1243:1)kara1498:1,(kopa1248:1,muri1260:1)norr1244:1)lowe1423:1,(((aiom1240:1,anor1241:1)aian1241:1,(lioo1241:1,ndra1238:1)raoo1244:1)anna1245:1,(anda1284:1,(kang1291:1,tang1355:1)tang1375:1,tang1356:1)tang1354:1,((kire1240:1,(arua1260:1,sepe1240:1)mika1254:1)kire1239:1,((bore1248:1,boro1280:1,botb1238:1)bore1247:1,((nubi1252:1,nucl1639:1)awar1249:1,bosn1248:1)bosn1247:1,(kaia1245:1,wata1253:1)wata1252:1)wagg1235:1)lowe1439:1,(akru1241:1,(brer1240:1,romk1240:1)brer1241:1,inap1241:1,(igan1243:1,komi1271:1)uncl1496:1)tamo1242:1)ramu1234:1);
 end;
