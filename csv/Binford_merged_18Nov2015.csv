@@ -1,4 +1,4 @@
-Dataset,soc_id,xd_id,SpecRef,Year,DND.VarID_Code,VarID,Code,Comment,References,DND.SourceCodedData,DND.Display,DND.AdminComment
+Dataset,soc_id,xd_id,SubCase,Year,DND.VarID_Code,VarID,Code,Comment,EthnoReferences,DND.SourceCodedData,DND.Display,DND.AdminComment
 LRB,B1,xd758,,1970,5_2,5,2,,,,,
 LRB,B2,xd900,,1968,5_2,5,2,,,,,
 LRB,B3,xd757,,1900,5_2,5,2,,,,,
