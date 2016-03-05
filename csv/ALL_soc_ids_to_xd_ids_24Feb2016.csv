@@ -1,0 +1,1989 @@
+dataset,soc_id,xd_id,pref_name_for_society,ORIG_name_and_ID_in_this_dataset,alt_names_by_society,main_focal_year
+EA,Aa1,xd1,!Kung,Kung (Aa1),"Kung Bushmen, !Kung (Was Nyae), Was Nyae",1950
+EA,Ab1,xd10,Herero,Herero (Ab1),"Damara, Ovaherero",1900
+EA,Ad31,xd100,Duruma,Duruma (Ad31),Waduruma,1910
+EA,Ad32,xd101,Giriama,Giriama (Ad32),"Kiriama, Wagiryama",1900
+EA,Ad33,xd102,Pokomo,Pokomo (Ad33),Wapokomo,1900
+EA,Na3,xd1022,Copper Inuit,Copper Eskimo (Na3),"Kitlinermiut, Copper Eskimo",1920
+EA,Na22,xd1025,Iglulik Inuit,Iglulik (Na22),"Igloolik, Iglulingmiut",1920
+EA,Na1,xd1026,Nabesna,Nabesna (Na1),Upper Tanana Indians,1930
+EA,Na10,xd1027,Chugach,Chugach (Na10),"Chugachigmiut, Chugash",1930
+EA,Na11,xd1028,Sivokakmeit,Sivokakmeit (Na11),St. Lawrence Island Inuit,1920
+EA,Na12,xd1029,Nunamiut,Nunamiut (Na12),"Inland North Alaskan Eskimo, Nunamiut Eskimo",1950
+EA,Ad34,xd103,Kamba,Kamba (Ad34),"Akamba, Wakamba",1910
+EA,Na13,xd1030,Baffin Island Inuit,Baffinland (Na13),Baffinland,1880
+EA,Na14,xd1031,Inughuit (Northern Greenland),Polar Eskimo (Na14),"Polar Eskimo, Arctic Highlanders, Smith Sound Inuit, Smith Sound Eskimo",1880
+EA,Na15,xd1032,Tlicho,Dogrib (Na15),Dogrib,1860
+EA,Na16,xd1033,Délįne,Satudene (Na16),"Bear Lake Dene, Satudene, Great Bear Lake People, Sahtu, Sahtu Dene",1860
+EA,Na17,xd1034,DeneTha,Slave (Na17),"Slave, Deh Cho (Southern Slavey), Slavey, Dene (distinguish from speakers of the Dene language)",1860
+EA,Na19,xd1035,Dakelh,Carrier (Na19),"Carrier, Takulli",1880
+EA,Na2,xd1036,Tareumiut,Tareumiut (Na2),"Tagiumiut, Point Barrow Eskimo, Barrow",1880
+EA,Na20,xd1037,Kutchin,Kutchin (Na20),"Gwich'in, Loucheux",1880
+EA,Na21,xd1038,Caribou Inuit,Caribou Eskimo (Na21),Caribou Eskimo,1900
+EA,Na23,xd1039,Labrador Inuit,Labrador Eskimo (Na23),"Sukinninmiut, Labrador Eskimo",1890
+EA,Ad35,xd104,Meru,Meru (Ad35),,1940
+EA,Na24,xd1040,Tasiilaq,Angmagsalik (Na24),"Angmagsalik (East Greenland), Ammassalik, East Greenland Eskimo, Polar Eskimo",1880
+EA,Na25,xd1041,Kalaallit (West Greenland),Greenlanders (Na25),"West Greenland Eskimo, West Greenland Inuit",1910
+EA,Na26,xd1042,Dena'ina,Tanaina (Na26),Tanaina,1870
+EA,Na27,xd1043,Tahltan,Tahltan (Na27),Southwestern Nahane,1870
+EA,Na28,xd1044,Sekani,Sekani (Na28),"Tsek'ene, Sicauni",1880
+EA,Na29,xd1045,Beaver,Beaver (Na29),"Denezaa, Tsattine",1850
+EA,Na30,xd1046,Dene,Chipewyan (Na30),Chipewyan,1880
+EA,Na31,xd1047,Eastern Cree,Eastern Cree (Na31),,1850
+EA,Na32,xd1048,Montagnais,Montagnais (Na32),"Innu, Naskapi",1880
+EA,Na33,xd1049,Northern Saulteaux,Northern Saulteaux (Na33),"N. Saulteaux, North Sauteaux",1870
+EA,Ad36,xd105,Pare,Pare (Ad36),"Asu, Wapare",1890
+EA,Na34,xd1050,Pekangekum,Pekangekum (Na34),,1940
+EA,Na35,xd1051,Nipigon,Nipigon (Na35),"Lake Nipigon Ojibway, Anishinaabek, Southern Saulteaux",1800
+EA,Na36,xd1052,Minnesota Ojibwa,Chippewa (Na36),"Minnesota Chippewa, Chippewa, Ojibwe, Ojibwa, Ojibway",1860
+EA,Na37,xd1053,Rainy River Ojibwe,Rainy River (Na37),"Gojijiwininiwag, Rainy River, Emo",1880
+EA,Na38,xd1054,Katikitegon,Katikitegon (Na38),Wisconsin Ojibwa,1800
+EA,Na39,xd1055,Eastern Ojibwa,Eastern Ojibwa (Na39),"Kitchibuan, Kitchibuan Ojibwa; Kitchibaun Ojibwa",1870
+EA,Na4,xd1056,Kaska,Kaska (Na4),Nahane,1920
+EA,Na40,xd1057,Ottawa,Ottawa (Na40),"Odawa, Odaawaa",1650
+EA,Na41,xd1058,Mi'kmaq,Micmac (Na41),Micmac,1700
+EA,Na42,xd1059,Potawatomi,Potawatomi (Na42),Neshnabé,1760
+EA,Ad37,xd106,Teita,Teita (Ad37),"Taita, Wateita",1940
+EA,Na43,xd1060,Netsilik,Netsilik (Na43),"Netsilik Inuit, Netsilik Eskimo",1920
+EA,Na44,xd1061,Taqagmiut,Taqagmiut (Na44),Taqagmiut Eskimo,1910
+EA,Na45,xd1062,Mistissini Cree,Mistassini (Na45),Mistassini Cree,1900
+EA,Na5,xd1063,Naskapi,Naskapi (Na5),,1890
+EA,Na6,xd1064,Nunivak,Nunivak (Na6),Nunivak Cup'ig,1930
+EA,Na7,xd1065,Attawapiskat Cree,Cree Attawapiskat (Na7),Attawapiskat,1900
+EA,Na8,xd1066,Deg Xit'an,Ingalik (Na8),Ingalik,1880
+EA,Na9,xd1067,Aleut,Aleut (Na9),Unagan,1830
+EA,Nb1,xd1068,Haida,Haida (Nb1),,1890
+EA,Nb10,xd1069,Alkatcho,Alkatcho (Nb10),"Tsuu'Tina, Alkatcho Carrier, Ilgatcho, Ilgachuz",1865
+EA,Ad38,xd107,Kara,Kara (Ad38),Wakara,1910
+EA,Nb11,xd1070,Nootka,Nootka (Nb11),"Nuu-chah-nulth, Aht, Central Nootka",1880
+EA,Nb12,xd1071,Klahoose,Klahuse (Nb12),Klahuse,1880
+EA,Nb13,xd1072,Squamish,Squamish (Nb13),,1880
+EA,Nb14,xd1073,Comox,Comox (Nb14),K'ómoks,1880
+EA,Nb15,xd1074,Lummi,Lummi (Nb15),Lhaq'temish,1880
+EA,Nb16,xd1075,Klallam,Klallam (Nb16),Clallum,1860
+EA,Nb17,xd1076,Puyallup,Puyallup (Nb17),,1870
+EA,Nb18,xd1077,Quileute,Quileute (Nb18),,1880
+EA,Nb19,xd1078,Lower Chinook,Chinook (Nb19),Chinook,1850
+EA,Nb2,xd1079,Twana,Twana (Nb2),,1850
+EA,Ad39,xd108,Sonjo,Sonjo (Ad39),,1950
+EA,Nb20,xd1080,Tillamook,Tillamok (Nb20),Nehalem,1870
+EA,Nb21,xd1081,Coos,Coos (Nb21),,1860
+EA,Nb22,xd1082,Tlingit,Tlingit (Nb22),"Kolosh, Southern Tlingit",1880
+EA,Nb23,xd1083,Heiltsuk,Bellabella (Nb23),"Bellabella, Bella Bella",1880
+EA,Nb24,xd1084,Makah,Makah (Nb24),,1860
+EA,Nb25,xd1085,Quinault,Quinault (Nb25),,1860
+EA,Nb26,xd1086,Cowichan,Cowichan (Nb26),Hul'q'umi'num Mustimuhw,1880
+EA,Nb27,xd1087,Stó:lō,Stalo (Nb27),"Stalo, Halkomelem, Fraser River Cowichan",1880
+EA,Nb28,xd1088,Alsea,Alsea (Nb28),,1860
+EA,Nb29,xd1089,Siuslaw,Siuslaw (Nb29),,1860
+EA,Ad4,xd109,Kikuyu,Kikuyu (Ad4),Aikikuyu,1930
+EA,Nb3,xd1090,Kwakiutl,Kwakiutl (Nb3),"Southern Kwakiutl,Kwagu'ł, Kwagyewlth",1890
+EA,Nb30,xd1091,Takelma,Takelma (Nb30),"Rogue River Indians, Tekelma",1860
+EA,Nb31,xd1092,Tututni,Tututni (Nb31),,1870
+EA,Nb32,xd1093,Shasta,Shasta (Nb32),,1860
+EA,Nb33,xd1094,Chimariko,Chimariko (Nb33),,1860
+EA,Nb34,xd1095,Karuk,Karok (Nb34),Karok,1860
+EA,Nb35,xd1096,Hupa,Hupa (Nb35),,1860
+EA,Nb36,xd1097,Wiyot,Wiyot (Nb36),,1860
+EA,Nb37,xd1098,Lassik,Lassik (Nb37),,1860
+EA,Nb38,xd1099,Mattole-Bear River,Mattole (Nb38),"Mattole, Bear River",1860
+EA,Ab10,xd11,Pondo,Pondo (Ab10),"Amapondo, Mpondo",1936
+EA,Ad40,xd110,Tiriki,Tiriki (Ad40),,1950
+EA,Nb39,xd1100,Sinkyone,Sinkyone (Nb39),,1860
+EA,Nb4,xd1101,Yurok,Yurok (Nb4),,1850
+EA,Nb5,xd1102,Eyak,Eyak (Nb5),dAXunhyuu,1890
+EA,Nb6,xd1103,Tolowa,Tolowa (Nb6),,1870
+EA,Nb7,xd1104,Tsimshian,Tsimshian (Nb7),Ts’msyan,1880
+EA,Nb8,xd1105,Haisla,Haisla (Nb8),Kitimat,1880
+EA,Nb9,xd1106,Nuxalk,Bellacoola (Nb9),"Nuxalkmc, Bellacoola, Bilqula, Bella Coola",1880
+EA,Nc1,xd1107,Nomlaki,Nomlaki (Nc1),Central Wintun,1850
+EA,Nc10,xd1108,Achumawi,Achomawi (Nc10),Achomawi,1860
+EA,Nc11,xd1109,Yana,Yana (Nc11),Nozi,1860
+EA,Ad41,xd111,Vugusu,Vugusu (Ad41),Kotosh,1930
+EA,Nc12,xd1110,Maidu,Maidu (Nc12),Pujunan,1850
+EA,Nc13,xd1111,Nisenan,Nisenan (Nc13),"Southern Maidu, Nisenan Southern Maidu",1850
+EA,Nc14,xd1112,Wintu,Wintu (Nc14),Northern Wintu,1860
+EA,Nc15,xd1113,Coast Yuki,Coast Yuki (Nc15),,1860
+EA,Nc16,xd1114,Huchnom,Huchnom (Nc16),,1860
+EA,Nc17,xd1115,Northern Pomo,Northern Pomo (Nc17),,1860
+EA,Nc18,xd1116,Eastern Pomo,Eastern Pomo (Nc18),"Clear Lake Pomo, Eastern Pomo",1860
+EA,Nc19,xd1117,Southern Pomo,Southern Pomo (Nc19),Southern Pomo,1860
+EA,Nc2,xd1118,Tübalulabal,Tubatulabal (Nc2),Tubatulabal,1850
+EA,Nc20,xd1119,Wappo,Wappo (Nc20),,1860
+EA,Ad42,xd112,Haya,Haya (Ad42),"Basiba, Wahaya, Wassiba, Ziba",1900
+EA,Nc21,xd1120,Lake Miwok,Lake Miwok (Nc21),,1860
+EA,Nc22,xd1121,Patwin,Patwin (Nc22),Southern Wintun,1850
+EA,Nc23,xd1122,Western Mono,Monachi (Nc23),"Monachi, Western Mono, Monache",1870
+EA,Nc24,xd1123,Southern Valley Yokuts,Lake Yokuts (Nc24),"Lake Yokuts, Tachi Yokuts, Chunut Yokuts",1860
+EA,Nc25,xd1124,Wukchumni,Wukchumni (Nc25),Central Foothills Yokuts,1860
+EA,Nc26,xd1125,Salinan,Salinan (Nc26),,1770
+EA,Nc27,xd1126,Kawaiisu,Kawaiisu (Nc27),Kawaiisu Shoshoni,1860
+EA,Nc28,xd1127,Chumash,Chumash (Nc28),,1800
+EA,Nc29,xd1128,Tongva,Gabrielo (Nc29),"Gabrielo, Gabrielino, Gabrieleno",1770
+EA,Nc3,xd1129,Northern Foothill Yokuts,Yokuts (Nc3),Yokuts,1850
+EA,Ad43,xd113,Kerewe,Kerewe (Ad43),"Bakerewe, Wakerewe",1900
+EA,Nc30,xd1130,Serrano,Serrano (Nc30),,1870
+EA,Nc31,xd1131,Cahuilla (Desert),Cahuilla (Nc31),Desert Cahuilla,1870
+EA,Nc32,xd1132,Cupeño,Cupeno (Nc32),"Kuupangaxwichem, Cupeno",1870
+EA,Nc33,xd1133,Luiseño,Luiseno (Nc33),"Payómkawichum, Luiseno",1860
+EA,Nc34,xd1134,Kiliwa,Kiliwa (Nc34),K'olew,1880
+EA,Nc4,xd1135,Atsugewi,Atsugewi (Nc4),,1860
+EA,Nc5,xd1136,Central Sierra Miwok,Miwok (Nc5),Miwok,1850
+EA,Nc6,xd1137,Kumeyaay,Diegueno (Nc6),"Diegueño, Diegueno",1850
+EA,Nc7,xd1138,Yuki,Yuki (Nc7),,1850
+EA,Nc8,xd1139,Klamath,Klamath (Nc8),,1860
+EA,Ad44,xd114,Konjo,Konjo (Ad44),,1920
+EA,Nc9,xd1140,Modoc,Modoc (Nc9),,1860
+EA,Nd1,xd1141,Tenino,Tenino (Nd1),"Warmsprings Sahaptin, Yenino",1850
+EA,Nd10,xd1142,Nlaka'pamux,Thompson (Nd10),"Thompson, Nitlakapamuk, Thompson River Salish",1860
+EA,Nd11,xd1143,Shuswap,Shuswap (Nd11),Secwepemc,1850
+EA,Nd12,xd1144,Bitterroot Salish,Flathead (Nd12),"Salish, Flathead",1860
+EA,Nd13,xd1145,Kalispel,Kalispel (Nd13),,1860
+EA,Nd14,xd1146,Coeur d’Alene,Coeur d’Alene (Nd14),"Schitsu'umsh, Skitswish",1860
+EA,Nd15,xd1147,Sinkaitk,Sinkaitk (Nd15),Southern Okanagon,1880
+EA,Nd16,xd1148,Wenatchi,Wenatchi (Nd16),,1870
+EA,Nd17,xd1149,Klikitat,Klikitat (Nd17),Yakima,1870
+EA,Ad45,xd115,Nyankole,Nyankole (Ad45),Banyankole,1920
+EA,Nd18,xd1150,Wishram,Wishram (Nd18),,1860
+EA,Nd19,xd1151,Umatilla,Umatilla (Nd19),,1860
+EA,Nd2,xd1152,Southern Ute,Southern Ute (Nd2),"Wimonuntci, Weminute, Wimonantci Ute",1860
+EA,Nd20,xd1153,Nez Perce,Nez Perce (Nd20),"Nimi'ipuu, Sahaptin",1850
+EA,Nd21,xd1154,Tagotoka,Tagotoka (Nd21),Duck Valley Paiute,1870
+EA,Nd22,xd1155,Wadadokado,Wadadokado (Nd22),"Paiute, Northern Paiute",1870
+EA,Nd23,xd1156,Atsakudokwa,Atsakudokwa (Nd23),Quinn River Paiute,1870
+EA,Nd24,xd1157,Kidutokado,Kidutokado (Nd24),"Gididika, Surprise Valley Paiute",1870
+EA,Nd25,xd1158,Sawakudokwa,Sawakudokwa (Nd25),Winnemucca Paiute,1870
+EA,Ad46,xd116,Soga,Soga (Ad46),Basoga,1950
+EA,Nd27,xd1160,Kuyuidokado,Kuyuidokado (Nd27),Pyramid Lake Paiute,1860
+EA,Nd28,xd1161,Toedokado,Toedokado (Nd28),"Stillwater Paiute, Cattail Paiute",1870
+EA,Nd29,xd1162,Tunava (Deep Springs and Fish Lake),Tunava (Nd29),"Deep Springs Valley Paiute, Fish Lake Valley Paiute",1870
+EA,Nd3,xd1163,Havasupai,Havasupai (Nd3),Plateau Yuma,1870
+EA,Nd30,xd1164,Eastern Mono,Eastern Mono (Nd30),Owens Valley Paiute,1870
+EA,Nd31,xd1165,Koso,Koso (Nd31),"Western Panamint, Koso Mountain Shoshoni, Little Lake Shoshoni",1850
+EA,Nd32,xd1166,Tümpisa Shoshone (Saline and Panamint),Panamint (Nd32),"Panamint Shoshoni, Panamint, Saline Valley Shoshoni",1850
+EA,Nd33,xd1167,Beatty,Beatty (Nd33),"Eastern Panamint, Beatty Shoshoni, Belted Range Shoshoni",1870
+EA,Nd34,xd1168,Lida Shoshoni,Lida Shoshoni (Nd34),,1870
+EA,Nd35,xd1169,Mahaguaduka,Mahaguaduka (Nd35),Reese River Shoshoni,1870
+EA,Ad47,xd117,Sumbwa,Sumbwa (Ad47),,1900
+EA,Nd36,xd1170,Wiyambituka,Wiyambituka (Nd36),"Morey Shoshoni, Great Smokey Valley Shoshoni, Little Smokey Valley Shoshoni",1870
+EA,Nd37,xd1171,Railroad Valley Shoshoni,Hamilton (Nd37),Hamilton,1870
+EA,Nd38,xd1172,Ely Shoshoni,Ely Shoshoni (Nd38),,1870
+EA,Nd4,xd1174,Sanpoil,Sanpoil (Nd4),,1870
+EA,Nd40,xd1175,Tubaduka,Tubaduka (Nd40),Grouse Creek Shoshoni,1870
+EA,Nd41,xd1176,Wadaduka,Wadaduka (Nd41),"Ruby Valley Shoshoni, Pine Creek Shoshoni, Diamond Valley Shoshoni, Egan Canyon Shoshoni",1870
+EA,Nd42,xd1177,Elko Shoshoni,Elko Shoshoni (Nd42),Upper Humboldt River Shoshoni,1870
+EA,Nd43,xd1178,White Knife Shoshoni,White Knife (Nd43),"Battle Mountain Shoshoni, Tosawihi",1860
+EA,Nd44,xd1179,Yahanduka,Yahanduka (Nd44),Snake River Shoshoni,1850
+EA,Ad48,xd118,Toro,Toro (Ad48),Batoro,1950
+EA,Nd45,xd1180,Bohogue,Bohogue (Nd45),Fort Hall Shoshoni,1860
+EA,Nd47,xd1181,Tukudika,Tukudika (Nd47),"Sheep-Eater Shoshoni, Lemhi Mountain Shoshoni",1850
+EA,Nd46,xd1182,Agaiduka,Agaiduka (Nd46),"Salmon-Eater Shoshoni, Lemhi River Shoshoni",1860
+EA,Nd48,xd1183,Gosiute,Gosiute (Nd48),"Gosiute Shoshoni, Deep Creek Shoshoni",1860
+EA,Nd49,xd1184,Antarianunts,Antarianunts (Nd49),"Henry Mountains Paiute, Kaiparowits",1860
+EA,Nd5,xd1185,Hukundika,Hukundika (Nd5),"Seed-Eaters, Northern Shoshoni, Hukunduka, Hukuniduica",1870
+EA,Nd50,xd1186,Panguitch,Panguitch (Nd50),,1860
+EA,Nd51,xd1187,Moapa,Moapa (Nd51),"Muddy Paiute, Parano",1860
+EA,Nd52,xd1188,Shivwits,Shivwits (Nd52),"Suwuntsu (St. George), Suwuntsu, St. George, Gunlock, Uinkaret, Southern Paiute",1860
+EA,Nd53,xd1189,Southern Paiute (Kaibab),Kaibab (Nd53),"Kaivavwits, Southern Paiute, Kaipapicicimi, Kaibabits",1860
+EA,Nd55,xd1189,Southern Paiute (Las Vegas),Las Vegas (Nd55),"Las Vegas, Southern Paiute",1860
+EA,Ad49,xd119,Zinza,Zinza (Ad49),Basindja,1950
+EA,Nd54,xd1190,Chemehuevi,Chemehuevi (Nd54),Colorado River Reservation,1860
+EA,Nd56,xd1192,San Juan,San Juan (Nd56),Kwaanitikwokets,1860
+EA,Nd57,xd1193,Pahvant,Pahvant (Nd57),Sevier Desert Ute,1860
+EA,Nd58,xd1194,Uintah Ute,Uintah (Nd58),"Tompanowots, Yampa",1860
+EA,Nd59,xd1195,Moanunts,Moanunts (Nd59),Noanunts,1860
+EA,Nd6,xd1196,Washo,Washo (Nd6),,1850
+EA,Nd60,xd1197,Moache,Moache (Nd60),"Moache Ute, Mowatei",1860
+EA,Nd61,xd1198,Taviwatsiu,Taviwatsiu (Nd61),White River Ute,1860
+EA,Nd62,xd1199,Uncompahgre Ute,Uncompahgre (Nd62),Mowataviwatsiu,1860
+EA,Ab11,xd12,Xhosa,Xhosa (Ab11),"amaXhosa, Amakosa, Kaffirs, Xosa",1850
+EA,Ad5,xd120,Mbugwe,Mbugwe (Ad5),Wambugwe,1940
+EA,Nd63,xd1200,Bannock,Bannock (Nd63),Eastern Bannock,1860
+EA,Nd64,xd1201,Wind River Eastern Shoshone,Wind River (Nd64),"Wind River, Eastern Shoshoni, Kucundika, Buffalo Hunters, Buffalo-Eater",1860
+EA,Nd65,xd1202,Hualapai,Walapai (Nd65),Walapai,1870
+EA,Nd66,xd1203,Yavapai,Yavapai (Nd66),Apache-Mojave,1870
+EA,Nd67,xd1204,Tolkepaya,Tolkepaya (Nd67),"Apache-Yuma, Western Yavapai",1870
+EA,Nd7,xd1205,Kutenai,Kutenai (Nd7),"Ktunaxa, Kootenay, Kootenai",1880
+EA,Nd8,xd1206,Chilcotin,Chilcotin (Nd8),Tsilhqot'in,1880
+EA,Nd9,xd1207,Lillooet,Lillooet (Nd9),"St'at'imc, Stlatlum",1860
+EA,Ne1,xd1208,Gros Ventre,Gros Ventre (Ne1),"A'ani, A'aninin, Haaninin",1880
+EA,Ne10,xd1209,Arikara,Arikara (Ne10),"Sahnish, Ree",1860
+EA,Ad50,xd121,Kaguru,Kaguru (Ad50),,1900
+EA,Ne11,xd1210,Assiniboine,Assiniboin (Ne11),"Hohe, Nakota, Stoney",1870
+EA,Ne12,xd1211,Blackfoot,Blackfoot (Ne12),Siksika,1850
+EA,Ne13,xd1212,Kainai,Blood (Ne13),"Blood, Kainah, Blood Tribe",1850
+EA,Ne14,xd1213,Bungi,Bungi (Ne14),"Plains Ojibwa, Bungee, Manitoba Saulteaux, Ojibway, Ojibwe",1850
+EA,Ne15,xd1214,Hidatsa,Hidatsa (Ne15),,1860
+EA,Ne16,xd1215,Karankawa,Karankawa (Ne16),,1800
+EA,Ne17,xd1216,Kiowa,Kiowa (Ne17),,1860
+EA,Ne18,xd1217,Piegan,Piegan (Ne18),Pikuni,1850
+EA,Ne19,xd1218,Plains Cree,Plains Cree (Ne19),,1850
+EA,Ne2,xd1219,Kiowa Apache,Kiowa Apache (Ne2),"Naisha Dene, Na'isha",1870
+EA,Ad51,xd122,Ngulu,Ngulu (Ad51),"Nguru, Wanguru",1930
+EA,Ne20,xd1220,Santee,Santee (Ne20),"Isanti, Eastern Dakota",1850
+EA,Ne21,xd1221,Coahuilteco,Coahuilteco (Ne21),,1760
+EA,Ne3,xd1222,Comanche,Comanche (Ne3),,1870
+EA,Ne4,xd1223,Crow,Crow (Ne4),Apsaalooké,1870
+EA,Ne5,xd1224,Cheyenne,Cheyenne (Ne5),,1860
+EA,Ne6,xd1225,Mandan,Mandan (Ne6),,1830
+EA,Ne7,xd1226,Sarcee,Sarsi (Ne7),"Tsuu, Sarci",1880
+EA,Ne8,xd1227,Teton,Teton (Ne8),,1870
+EA,Ne9,xd1228,Arapaho,Arapaho (Ne9),"Hinono'eiteen, Arapahoe",1860
+EA,Ad6,xd123,Nyakyusa,Nyakyusa (Ad6),,1930
+EA,Nf10,xd1230,Iowa,Iowa (Nf10),"Bah Kho-je, Baxoje",1870
+EA,Nf11,xd1231,Otoe,Oto (Nf11),Oto,1870
+EA,Nf12,xd1232,Ponca,Ponca (Nf12),,1850
+EA,Nf13,xd1233,Shawnee,Shawnee (Nf13),,1820
+EA,Nf14,xd1234,Caddo,Caddo (Nf14),Kadohadacho,
+EA,Nf15,xd1235,Kickapoo,Kickapoo (Nf15),Kiikaapoi,1870
+EA,Nf2,xd1236,Ho Chunk,Winnebago (Nf2),Winnebago,1850
+EA,Nf3,xd1237,Omaha,Omaha (Nf3),Dhegiha,1850
+EA,Nf4,xd1238,Myaamia,Miami (Nf4),Miami,1720
+EA,Nf5,xd1239,Wichita,Wichita (Nf5),,1860
+EA,Ad7,xd124,Ganda,Ganda (Ad7),Baganda,1880
+EA,Nf6,xd1240,Pawnee,Pawnee (Nf6),,1867
+EA,Nf7,xd1241,Fox,Fox (Nf7),Meskwaki,1830
+EA,Nf8,xd1242,Hasinai,Hasinai (Nf8),"Southwestern Caddo, Texas",1770
+EA,Nf9,xd1243,Menominee,Menomini (Nf9),Menomini,1870
+EA,Ng1,xd1244,Huron,Huron (Ng1),"Bear and Cord Peoples, Wendat, Ouendat, Attignaouantan, Attinniaoenten, Attigneenongnahac, Hatingeennonniahak",1640
+EA,Ng10,xd1245,Seneca,Iroquois (Ng10),"O-non-dowa-gah, Iroquois",1750
+EA,Ng11,xd1246,Yuchi,Yuchi (Ng11),"Euchee, Uchee",1750
+EA,Ng12,xd1247,Choctaw,Choctaw (Ng12),,1760
+EA,Ng13,xd1248,Abenaki,Abnaki (Ng13),Abnaki,
+EA,Ng14,xd1249,Chickasaw,Chickasaw (Ng14),,
+EA,Ad8,xd125,Hehe,Hehe (Ad8),Wahehe,1910
+EA,Ng15,xd1250,Chitimacha,Chitimacha (Ng15),,1750
+EA,Ng2,xd1251,Seminole,Seminole (Ng2),,1940
+EA,Ng3,xd1252,Muscogee,Creek (Ng3),"Creek, Taskigi Creek",1750
+EA,Ng4,xd1253,Penobscot,Penobscot (Ng4),,1900
+EA,Ng5,xd1254,Cherokee,Cherokee (Ng5),,1750
+EA,Ng6,xd1255,Delaware,Delaware (Ng6),Lenape,1700
+EA,Ng7,xd1256,Natchez,Natchez (Ng7),,1700
+EA,Ng8,xd1257,Timucua,Timucua (Ng8),,1560
+EA,Ng9,xd1258,Catawba,Catawba (Ng9),Issa,1920
+EA,Nh1,xd1259,Chiricahua,Chiricahua (Nh1),"Chiricahua Apache, Eastern Apache",1880
+EA,Ad9,xd126,Gisu,Gisu (Ad9),"Bagesu, Gishu",1900
+EA,Nh10,xd1260,Isleta,Isleta (Nh10),,1920
+EA,Nh11,xd1261,San Ildefonso,Tewa (Nh11),"Tewa, San Ildefonso Pueblo",1900
+EA,Nh12,xd1262,Santa Ana,Santa Ana (Nh12),,1920
+EA,Nh13,xd1263,Acoma,Acoma (Nh13),,1920
+EA,Nh14,xd1264,Laguna,Laguna (Nh14),,1920
+EA,Nh15,xd1265,Mescalero,Mescalero (Nh15),,1870
+EA,Nh16,xd1266,Jicarilla,Jicarilla (Nh16),,1870
+EA,Nh17,xd1267,Western Apache,Western Apache (Nh17),Ndee,1870
+EA,Nh18,xd1268,Hopi,Hopi (Nh18),Hopi of Old Oraiibi,1920
+EA,Nh19,xd1269,Cocopa,Cocopa (Nh19),Cocopah,1850
+EA,Ae1,xd127,Amba,Amba (Ae1),"Awamba, Baamba, Bamba",1950
+EA,Nh2,xd1270,Hano,Hano (Nh2),,1950
+EA,Nh20,xd1271,Kamia,Kamia (Nh20),,1860
+EA,Nh21,xd1272,Mojave,Mohave (Nh21),Mohave,1850
+EA,Nh22,xd1273,Quechan,Yuma (Nh22),Yuma,1860
+EA,Nh23,xd1274,Kewyipaya,Kewyipaya (Nh23),Southeastern Yavapai,1870
+EA,Nh24,xd1275,Lipan Apache,Lipan (Nh24),Lipan,1880
+EA,Nh25,xd1276,Sia,Sia (Nh25),"Tsiya, Zia",1920
+EA,Nh26,xd1277,Santa Clara,Santa Clara (Nh26),,1910
+EA,Nh27,xd1278,Kewa,Santo Domingo (Nh27),"Santo Domingo, Santo Domingo Pueblo",1930
+EA,Nh3,xd1279,Navajo,Navaho (Nh3),"Diné Bizaad, Navaho",1930
+EA,Ae10,xd128,Banyaruanda,Ruanda (Ae10),Ruanda,1910
+EA,Nh4,xd1280,Zuni,Zuni (Nh4),,1910
+EA,Nh5,xd1281,Maricopa,Maricopa (Nh5),Piipash,1850
+EA,Nh6,xd1282,Taos,Taos (Nh6),,1890
+EA,Nh7,xd1283,Cochiti,Cochiti (Nh7),,1890
+EA,Nh8,xd1284,Jemez,Jemez (Nh8),"Walatowa, Towa",1920
+EA,Nh9,xd1285,Picuris,Picuris (Nh9),,1920
+EA,Ni1,xd1286,Tarahumara,Tarahumara (Ni1),Rarámuri,1930
+EA,Ni2,xd1287,Tohono O'odham,Papago (Ni2),Papago,1930
+EA,Ni3,xd1288,Huichol,Huichol (Ni3),Wixárika,1920
+EA,Ni4,xd1289,Seri,Seri (Ni4),Comcaac,1900
+EA,Ae11,xd129,Songola,Songola (Ae11),"Basongola, Wasongola",1900
+EA,Ni5,xd1290,Chichimeca,Chichimec (Ni5),Chichimec,1570
+EA,Ni6,xd1291,Pima,Pima (Ni6),Akimel O'Odham,1840
+EA,Ni7,xd1292,Yaqui,Yaqui (Ni7),Yoeme,1870
+EA,Ni8,xd1293,Opata,Opata (Ni8),,1550
+EA,Ni9,xd1294,Tepehuán,Tepehuan (Ni9),Tepehuan,1920
+EA,Nj1,xd1295,Chinantec,Chinantec (Nj1),,1940
+EA,Nj10,xd1296,Zapotec,Zapotec (Nj10),,1940
+EA,Nj11,xd1297,Huastec,Huastec (Nj11),,
+EA,Nj12,xd1298,Mixtec,Mixtec (Nj12),,1950
+EA,Nj13,xd1299,Otomí,Otomi (Nj13),Otomi,1900
+EA,Ab12,xd13,Zulu,Zulu (Ab12),Amazulu,1830
+EA,Ae12,xd130,Duala,Duala (Ae12),"Diwala, Koelle",1940
+EA,Nj14,xd1300,Tequistlatec,Tequistlatec (Nj14),,1960
+EA,Nj2,xd1301,Aztec,Aztec (Nj2),Aztec of Tenochtitlan,1520
+EA,Nj3,xd1302,Sierra Popoluca,Popoluca (Nj3),"Popoluca, Soteapanec Zoque, Soteapan Zoque, Soteapaneco, Soteapan Soke",1940
+EA,Nj4,xd1303,Totonac,Totonac (Nj4),,1940
+EA,Nj5,xd1304,Mazateco,Mazateco (Nj5),,1940
+EA,Nj6,xd1305,Huave,Huave (Nj6),,1950
+EA,Nj7,xd1306,Mixe,Mixe (Nj7),,1930
+EA,Nj8,xd1307,Tarasco,Tarasco (Nj8),,1500
+EA,Nj9,xd1308,Tlaxcalans,Tlaxdalans (Nj9),,1960
+EA,Sa1,xd1309,Guna,Cuna (Sa1),"Dule, Tule, Cuna, Kuna",1940
+EA,Ae13,xd131,Bashi,Bashi (Ae13),"Baniabungu, Wanyabungu",1920
+EA,Sa10,xd1310,Lacandon,Lacandon (Sa10),,1900
+EA,Sa11,xd1311,Kaqchikel,Cakchiquel (Sa11),Cakchiquel,1880
+EA,Sa12,xd1312,Lenca,Lenca (Sa12),,1948
+EA,Sa13,xd1313,K'iche',Quiche (Sa13),Quiche,1930
+EA,Sa14,xd1314,Ngäbe,Guaymi (Sa14),Guaymi,
+EA,Sa15,xd1315,Jakaltek,Jacaltec (Sa15),Jacaltec,1920
+EA,Sa16,xd1316,Tolupan,Jicaque (Sa16),"Jicaque, Xicaque",
+EA,Sa17,xd1317,Poqomam,Pokomam (Sa17),Pokomam,1950
+EA,Sa2,xd1318,Tzeltal,Tzeltal (Sa2),,1940
+EA,Sa3,xd1319,Ch'orti',Chorti (Sa3),Chorti,1930
+EA,Ae14,xd132,Ha,Ha (Ae14),"Abaha, Waha",1950
+EA,Sa4,xd1320,Emberá,Choco (Sa4),Choco,1960
+EA,Sa5,xd1321,Bribri,Bribri (Sa5),Talamanca,1950
+EA,Sa6,xd1322,Yucatec Maya,Yucatec Maya (Sa6),,1520
+EA,Sa7,xd1323,Garifuna,Black Carib (Sa7),"Black Carib, Garif",1940
+EA,Sa8,xd1324,Mam,Mam (Sa8),,1930
+EA,Sa9,xd1325,Miskito,Miskito (Sa9),"Mískitu, Mosquito",1920
+EA,Sb1,xd1326,Callinago,Callinago (Sb1),,1650
+EA,Sb2,xd1327,Cágaba,Cagaba (Sb2),"Cagaba, Kagaba, Kogi",1940
+EA,Sb3,xd1328,Barí (Motilon),Motilon (Sb3),"Bari, Motilon, Yuko, Motilones, Barí",1940
+EA,Sb4,xd1329,Cariña,Carinya (Sb4),Carinya,1950
+EA,Ae15,xd133,Hunde,Hunde (Ae15),Bahunde,1940
+EA,Sb5,xd1330,Paraujano,Paraujano (Sb5),Onoto,1950
+EA,Sb6,xd1331,Wayuu,Goajiro (Sb6),Goajiro,1940
+EA,Sb7,xd1332,Yupa,Yupa (Sb7),,1950
+EA,Sb8,xd1333,Taíno,Taino (Sb8),Taino,1520
+EA,Sb9,xd1334,Haitians,Haitians (Sb9),,1930
+EA,Sc1,xd1335,Warao,Warrau (Sc1),Warrau,1950
+EA,Sc10,xd1336,Lokono,Locono (Sc10),"Locono, Arawak",1900
+EA,Sc11,xd1337,Camaracoto,Camaracoto (Sc11),Pemon,1930
+EA,Sc12,xd1338,Macushi,Macusi (Sc12),Macusi,1910
+EA,Sc13,xd1339,Panare,Panare (Sc13),,1950
+EA,Ae16,xd134,Lulua,Lulua (Ae16),Bena Lulua,1910
+EA,Sc14,xd1340,Rucuyen,Rucuyen (Sc14),,1890
+EA,Sc15,xd1341,Taulípang,Taulipang (Sc15),"Taulipang, Arecuna, Arekuna",1910
+EA,Sc16,xd1342,Ye'kuana,Yekuana (Sc16),"So'to, Yekuana",1920
+EA,Sc17,xd1343,Piapoco,Piapoco (Sc17),,1950
+EA,Sc18,xd1344,Ndyuka,Djuka (Sc18),"Djuka, Bush Negroes, Ndjuka",1960
+EA,Sc2,xd1345,Pumé,Yaruro (Sc2),Yaruro,1950
+EA,Sc3,xd1346,Barama River Carib,Barama Carib (Sc3),"Barama Carib, Carib",1930
+EA,Sc4,xd1347,Guahibo,Guahibo (Sc4),,1950
+EA,Sc5,xd1348,Wapishana,Wapishana (Sc5),,1900
+EA,Sc6,xd1349,Saramaccan ,Saramacca (Sc6),"Saramaccan of Suriname , Saramacca, Bush Negroes",1920
+EA,Ae17,xd135,Rega,Rega (Ae17),"Balegga, Barega, Valega, Warega",1900
+EA,Sc7,xd1350,Yabarana,Yabarana (Sc7),,1950
+EA,Sc8,xd1351,Piaroa,Piaroa (Sc8),,1950
+EA,Sc9,xd1352,Curripaco,Curipaco (Sc9),Curipaco,1950
+EA,Sd1,xd1353,Munduruku,Mundurucu (Sd1),"Wuy Jugu, Mundurucu",1950
+EA,Sd2,xd1354,Tapirapé,Tapirape (Sd2),Tapirape,1930
+EA,Sd3,xd1355,Palikur,Palikur (Sd3),Wasa,1920
+EA,Sd4,xd1356,Guaica,Waica (Sd4),"Waica, Guiaika",1950
+EA,Sd5,xd1357,Sateré Mawé,Maue (Sd5),Maue,1950
+EA,Sd6,xd1358,Shiriana,Shiriana (Sd6),"Kirishana, Xiriana",1960
+EA,Sd7,xd1359,Wai-wai,Waiwai (Sd7),Waiwai,1950
+EA,Ae18,xd136,Songye,Songe (Ae18),"Songe, Basonge, Bassongo",1900
+EA,Sd8,xd1360,Sanema,Sanema (Sd8),,1950
+EA,Sd9,xd1361,Yanomami,Yanomamo (Sd9),"Yanomamo, Yanoama",1965
+EA,Se1,xd1362,Sirionó,Siriono (Se1),"Miá, Siriono",1940
+EA,Se10,xd1363,Cocama,Cocama (Se10),Ucayali,1670
+EA,Se11,xd1364,Chácobo,Chacobo (Se11),"Nóʔciria, Chacobo",1960
+EA,Se12,xd1365,Tucano,Tucano (Se12),Tukano,1950
+EA,Se2,xd1366,Ticuna,Tucuna (Se2),"Tucuna, Tikuna",1940
+EA,Se3,xd1367,Shuar,Jivaro (Se3),Jivaro,1930
+EA,Se4,xd1368,Yagua,Yagua (Se4),,1940
+EA,Se5,xd1369,Cubeo,Cubeo (Se5),"Jiwa, Tucano",1940
+EA,Ae19,xd137,Garanganze,Yeke (Ae19),"Yeke, Bayeke",1930
+EA,Se6,xd1370,Witoto,Witoto (Se6),"Ouitoto, Uitoto",1910
+EA,Se7,xd1371,Camba,Camba (Se7),,1950
+EA,Se8,xd1372,Amahuaca,Amahuaca (Se8),,1950
+EA,Se9,xd1373,Shipibo-Conibo,Conibo (Se9),Conibo,1920
+EA,Sf1,xd1374,Inca,Inca (Sf1),,1530
+EA,Sf2,xd1375,Aymara,Aymara (Sf2),,1940
+EA,Sf3,xd1376,Chachi,Cayapa (Sf3),Cayapa,1910
+EA,Sf4,xd1377,U'wa,Tunebo (Sf4),"Tunebo, Tabe",1950
+EA,Sf5,xd1378,Páez,Paez (Sf5),Paez,1900
+EA,Sf6,xd1379,Muisca,Chibcha (Sf6),Chibcha,1540
+EA,Ae2,xd138,Kpe,Kpe (Ae2),"Bakwedi, Bakwiri, Kpeli, Kwiri",1950
+EA,Sf7,xd1380,Asháninka,Campa (Sf7),"Campa, Ande, Anti, Kampa",1900
+EA,Sf8,xd1381,Piro,Piro (Sf8),Nomole,1950
+EA,Sf9,xd1382,Uru,Uru (Sf9),,1930
+EA,Sg1,xd1383,Yahgan,Yahgan (Sg1),,1870
+EA,Sg2,xd1384,Mapuche,Mapuche (Sg2),,1880
+EA,Sg3,xd1385,Ona,Ona (Sg3),,1880
+EA,Sg4,xd1386,Tehuelche,Tehuelche (Sg4),Patagon,1870
+EA,Sg5,xd1387,Alacaluf,Alacaluf (Sg5),Kawésqar,1900
+EA,Sh1,xd1388,Wichí,Mataco (Sh1),"Mataco, Nocten",1860
+EA,Sh2,xd1389,Terena,Terena (Sh2),Poké,1850
+EA,Ae20,xd139,Ekonda,Ekonda (Ae20),,1940
+EA,Sh3,xd1390,Abipón,Abipon (Sh3),"Abipon, Abipones",1800
+EA,Sh4,xd1391,Kadiwéu,Caduveo (Sh4),Caduveo,1940
+EA,Sh5,xd1392,Choroti,Choroti (Sh5),Zolota,1910
+EA,Sh6,xd1393,Chamacoco,Chamacoco (Sh6),Ishír,1890
+EA,Sh7,xd1394,Guaraní,Chiriguano (Sh7),"Chiriguano, Guarani",1900
+EA,Sh8,xd1395,Toba,Toba (Sh8),"Qom-lik, Qom, Tacshic, Toqoit",1964
+EA,Sh9,xd1396,Lengua,Lengua (Sh9),,1890
+EA,Si1,xd1397,Bororo,Bororo (Si1),,1920
+EA,Si10,xd1398,Kuikuru,Kuikuru (Si10),Ukuge,1950
+EA,Si2,xd1399,Trumai,Trumai (Si2),Ho kod ke,1930
+EA,Ab13,xd14,Tswana,Tswana (Ab13),"Batswana, Bechuana",1880
+EA,Ae21,xd140,Kela,Kela (Ae21),"Akela, Bakela, Ekela, Ikela",1920
+EA,Si3,xd1400,Bacairi,Bacairi (Si3),,1940
+EA,Si4,xd1401,Nambikwara,Nambicura (Si4),Nambicura,1940
+EA,Si5,xd1402,Kamayurá,Camayura (Si5),Camayura,1940
+EA,Si6,xd1403,Guató,Guato (Si6),Guato,1900
+EA,Si7,xd1404,Paresi,Paressi (Si7),Paressi,1910
+EA,Si8,xd1405,Umotina,Umotina (Si8),,1940
+EA,Si9,xd1406,Aweti,Aueto (Si9),"Aueto, Aueti",1940
+EA,Sj1,xd1407,Carajá,Caraja (Sj1),Caraja,1950
+EA,Sj10,xd1408,Cayua,Cayua (Sj10),"Abá, Cayua, Caingua, Guaraní, Guarani",1950
+EA,Sj11,xd1409,Shavante,Shavante (Sj11),,1958
+EA,Ae22,xd141,Kutsu,Kutshu (Ae22),"Kutshu, Ankutshu, Bankutshu, Wankutshu",1900
+EA,Sj2,xd1410,Sherente,Sherente (Sj2),Cherente,1850
+EA,Sj3,xd1411,Aweikoma,Aweikoma (Sj3),"Xokleng, Shokleng, Botocudo of Santa Catarina, Bugre, Kaingang of Santa Catarina (though Aweikoma and Kaingang today considered separate groups)",1910
+EA,Sj4,xd1412,Canela,Ramcocamecra (Sj4),"Ramcocamecra, Timbira, Canella",1930
+EA,Sj5,xd1413,Aimoré,Botocudo (Sj5),"Nac-nanuk, Nac-poruk, Botocudo",1880
+EA,Sj6,xd1414,Tenetehara,Tenetehara (Sj6),,1930
+EA,Sj7,xd1415,Apinaye,Apinaye (Sj7),,1920
+EA,Sj8,xd1416,Tupinambá,Tupinamba (Sj8),Tupinamba,1600
+EA,Sj9,xd1417,Kayapo,Coroa (Sj9),"Coroa, Northern Cayapo",1950
+EA,Ae23,xd142,Lalia,Lalia (Ae23),"Dzalia, Lolia",1930
+EA,Ae24,xd143,Mongo,Mongo (Ae24),"Balolo, Bamongo, Lolo, Mbongo",1920
+EA,Ae25,xd144,Tetela,Tetela (Ae25),Batetela,1920
+EA,Ae26,xd145,Topoke,Topoke (Ae26),"Foma, Tofoke",1910
+EA,Ae27,xd146,Lokele,Lokele (Ae27),"Likile, Lukelle",1910
+EA,Ae28,xd147,Ngala,Ngala (Ae28),"Bangala, Boloki, Gens d'Eau",1900
+EA,Ae29,xd148,Poto,Poto (Ae29),"Bapoto, Foto, Mafoto, Upoto",1900
+EA,Ae3,xd149,Fang,Fang (Ae3),"Fan, Pahouin, Pangwe",1910
+EA,Ab14,xd15,Lovedu,Lovedu (Ab14),Balovedu,1930
+EA,Ae30,xd150,Bira,Bira (Ae30),"Babeyru, Babira, Babila, Wabira",1920
+EA,Ae31,xd151,Budu,Budu (Ae31),"Babudu, Banabuddu, Mabudu, Wabuddu",1920
+EA,Ae32,xd152,Kumu,Kumu (Ae32),"Bakumu, Wakumu",1920
+EA,Ae33,xd153,Ndaka Babali,Ndaka Babali (Ae33),"Bandaka, Bali, Babali, Mabali, Mobale (formerly erroneously called Ndaka)",1920
+EA,Ae34,xd154,Plains Bira,Plains Bira (Ae34),Babira,1920
+EA,Ae35,xd155,Rumbi,Rumbi (Ae35),"Barumbi, Warumbi",1900
+EA,Ae36,xd156,Bombesa,Bombesa (Ae36),"Mbesa, Mombesa",1920
+EA,Ae37,xd157,Budja,Budja (Ae37),"Babudza, Mbudja",1930
+EA,Ae38,xd158,Ndoko,Ndoko (Ae38),Doko,1920
+EA,Ae39,xd159,Ngombe,Ngombe (Ae39),Gombe,1920
+EA,Ab15,xd16,Pedi,Pedi (Ab15),Bapedi,1860
+EA,Ae4,xd160,Nkundo,Nkundo (Ae4),,1930
+EA,Ae40,xd161,Dzem,Dzem (Ae40),"Djem, Ndjem, Nyem",1910
+EA,Ae41,xd162,Kota,Kota (Ae41),"Bakota, Ikota, Kuta",1940
+EA,Ae42,xd163,Ngumba,Ngumba (Ae42),Mvumba,1900
+EA,Ae43,xd164,Sanga,Sanga (Ae43),"Basanga, Bosanga, Masanga, Missanga",1900
+EA,Ae44,xd165,Bubi,Bubi (Ae44),"Adija, Ediya",1920
+EA,Ae45,xd166,Kundu,Kundu (Ae45),Bakundu,1900
+EA,Ae46,xd167,Mpongwe,Mpongwe (Ae46),"Empongwe, Pongo",1870
+EA,Ae47,xd168,Puku,Puku (Ae47),Bapuku,1900
+EA,Ae48,xd169,Bafia,Bafia (Ae48),"Bekpa, Fia",1930
+EA,Ab16,xd17,Lenge,Lenge (Ab16),Valenge,1930
+EA,Ae49,xd170,Bali Nyonga,Bali (Ae49),"Bali, Bulu, Bani, Li",1900
+EA,Ae5,xd171,Bamileke,Bamileke (Ae5),,1910
+EA,Ae50,xd172,Bamum,Bamum (Ae50),"Bamun, Mum",1920
+EA,Ae51,xd173,Banen,Banen (Ae51),,1940
+EA,Ae52,xd174,Fungom,Fungom (Ae52),,1950
+EA,Ae53,xd175,Koko,Koko (Ae53),"Bakoko, Betjek, Mwele",1920
+EA,Ae54,xd176,Kom,Kom (Ae54),"Bahom, Bamekom, Bikom",1950
+EA,Ae55,xd177,Ndob,Ndob (Ae55),"Bandob, Mburukem, Ndop",1950
+EA,Ae56,xd178,Nsaw,Nsaw (Ae56),Bansaw,1950
+EA,Ae57,xd179,Nsungli,Nsungli (Ae57),Dzungle,1930
+EA,Ab17,xd18,Ndau,Ndau (Ab17),Vandau,1920
+EA,Ae58,xd180,Tikar,Tikar (Ae58),,1910
+EA,Ae59,xd181,Widikum,Eidekum (Ae59),"Eidekum, Widekum",1950
+EA,Ae6,xd182,Luba,Luba (Ae6),Baluba,1930
+EA,Ae7,xd183,Baboa,Babwa (Ae7),"Babwa, Ababwa, Bobua",1910
+EA,Ae8,xd184,Rundi,Rundi (Ae8),"Barundi, Warundi",1910
+EA,Ae9,xd185,Fut,Fut (Ae9),"Bafut, Fu",1950
+EA,Af1,xd186,Fon,Fon (Af1),"Dahomey, Dahomeans",1890
+EA,Af10,xd187,Igbo,Ibo (Af10),Ibo,1930
+EA,Af11,xd188,Toma,Toma (Af11),,1920
+EA,Af12,xd189,Akyem,Akyem (Af12),Akwahu,1930
+EA,Ab18,xd19,Shona,Shona (Ab18),Mashona,1920
+EA,Af13,xd190,Ebira,Igbira (Af13),"Igbira, Egbiri, Kotokori",1920
+EA,Af14,xd191,Sherbro,Sherbro (Af14),Mampua,1930
+EA,Af15,xd192,Kpelle,Kpelle (Af15),"Guerse, Kpese",1920
+EA,Af16,xd193,Banyang,Banyang (Af16),"Banjangi, Konguan, Manyang, Nyangi",1910
+EA,Af17,xd194,Boki,Boki (Af17),Nki,1900
+EA,Af18,xd195,Ekoi,Ekoi (Af18),,1900
+EA,Af19,xd196,Efik,Efik (Af19),Riverain Ibibio,1950
+EA,Af2,xd197,Kissi,Kissi (Af2),Ghizi,1950
+EA,Af20,xd198,Ibibio,Ibibio (Af20),,1910
+EA,Af21,xd199,Ijaw,Ijaw (Af21),Ijo,1920
+EA,Aa2,xd2,Dorobo,Dorobo (Aa2),"Andorobo, Okiek, Wandorobbo",1920
+EA,Ab19,xd20,Ambo,Ambo (Ab19),Ovambo,1910
+EA,Af22,xd200,Itsekiri,Itsekiri (Af22),"Awerri, Jekri, Warri",1940
+EA,Af23,xd201,Afikpo,Afikpo (Af23),,1950
+EA,Af24,xd202,Edo,Edo (Af24),Bini,1900
+EA,Af25,xd203,Isoko,Isoko (Af25),,1930
+EA,Af26,xd204,Kukuruku,Kukuruku (Af26),,1900
+EA,Af27,xd205,Eloyi,Afo (Af27),"Eloyi, Afo",1950
+EA,Af28,xd206,Gbagyi,Gbari (Af28),"Gbari, Gwali",1910
+EA,Af29,xd207,Idoma,Idoma (Af29),,1950
+EA,Af3,xd208,Ashanti,Ashanti (Af3),Twi,1900
+EA,Af30,xd209,Igala,Igala (Af30),Igara,1920
+EA,Ab2,xd21,Swazi,Swazi (Ab2),Amaswazi,1880
+EA,Af31,xd210,Koro,Koro (Af31),,1960
+EA,Af32,xd211,Egba,Egba (Af32),,1920
+EA,Af33,xd212,Ekiti,Ekiti (Af33),,1950
+EA,Af34,xd213,Ife,Ife (Af34),,1930
+EA,Af35,xd214,Adangme,Adangme (Af35),Adampe,1940
+EA,Af36,xd215,Ewe,Ewe (Af36),,1900
+EA,Af37,xd216,Buem,Buem (Af37),,1900
+EA,Af38,xd217,Abron,Abron (Af38),Brong,1900
+EA,Af39,xd218,Anyi,Anyi (Af39),,1900
+EA,Af4,xd219,Yako,Yako (Af4),,1930
+EA,Ab20,xd22,Ngumbi,Ngumbi (Ab20),"Bangumbi, Humbe, Khumbi, Nkumbe, Ovakumbe, Vankumbe",1880
+EA,Af40,xd220,Assini,Assini (Af40),Issinese,1890
+EA,Af41,xd221,Attie,Attie (Af41),,1890
+EA,Af42,xd222,Fante,Fanti (Af42),Fanti,1900
+EA,Af43,xd223,Ga,Ga (Af43),,1930
+EA,Af44,xd224,Alagya,Alagya (Af44),Jackjack,1900
+EA,Af45,xd225,Avikam,Avikam (Af45),"Brignan, Kwakwa",1900
+EA,Af46,xd226,Bakwe,Bakwe (Af46),,1900
+EA,Af47,xd227,Krahn,Kran (Af47),"Kran, Bush Kru",1940
+EA,Af48,xd228,Kru,Kru (Af48),Krao,1850
+EA,Af49,xd229,Sapo,Sapo (Af49),"Pahn, Sapahn",1940
+EA,Ab21a,xd23,Kisama,Kisama (Ab21a),"Cisama, Quissama",1930
+EA,Af5,xd230,Mende,Mende (Af5),,1930
+EA,Af50,xd231,Dan,Dan (Af50),,1920
+EA,Af51,xd232,Gagu,Gagu (Af51),Gban,1920
+EA,Af52,xd233,Guro,Guro (Af52),,1920
+EA,Af53,xd234,Tura,Tura (Af53),Wen,1950
+EA,Af54,xd235,Gbande,Gbande (Af54),,1930
+EA,Af55,xd236,Gola,Gola (Af55),,1950
+EA,Af56,xd237,Ngere,Ngere (Af56),Guere,1930
+EA,Af57,xd238,Temne,Temne (Af57),Time,1910
+EA,Af58,xd239,Vai,Vai (Af58),Gallina,1900
+EA,Ab21b,xd24,Bomvana,Bomvana (Ab21b),,1925
+EA,Af6,xd240,Oyo Yoruba,Oyo Yoruba (Af6),,1950
+EA,Af7,xd241,Bete,Bete (Af7),,1950
+EA,Af8,xd242,Nupe,Nupe (Af8),,1930
+EA,Af9,xd243,Baule,Baule (Af9),,1900
+EA,Ag1,xd244,Bambara,Bambara (Ag1),Bamana,1920
+EA,Ag10,xd245,Konkomba,Konkomba (Ag10),"Bekpokpak, Konko, Kpankpam, Lekpokpam, Pangpana, Tyopo",1940
+EA,Ag11,xd246,Lobi,Lobi (Ag11),,1910
+EA,Ag12,xd247,Nankanse,Nankanse (Ag12),Nankana,1910
+EA,Ag13,xd248,Kasena,Kasena (Ag13),"Kasem, Kasuna",1910
+EA,Ag14,xd249,Baga,Baga (Ag14),,1950
+EA,Ab22,xd25,Chopi,Chopi (Ab22),Vachopi,1920
+EA,Ag15,xd250,Balanta,Balante (Ag15),Balante,1930
+EA,Ag16,xd251,Banyun,Banyune (Ag16),"Bainuk, Banhun, Banyune",1930
+EA,Ag17,xd252,Biafada,Biafada (Ag17),,1940
+EA,Ag18,xd253,Bijogo,Bijogo (Ag18),Bijago,1930
+EA,Ag19,xd254,Diola,Diola (Ag19),,1930
+EA,Ag2,xd255,Mossi (Yatenga),Yatenga (Ag2),"Yatenga, Massi, Moshi, Mossi",1950
+EA,Ag20,xd256,Papel,Pepel (Ag20),Pepel,1930
+EA,Ag21,xd257,Bassari,Bassari (Ag21),Biyan,1910
+EA,Ag22,xd258,Serer,Serer (Ag22),Kegueme,1920
+EA,Ag23,xd259,Kasonke,Kasonke (Ag23),,1910
+EA,Ab3,xd26,Lozi,Lozi (Ab3),,1890
+EA,Ag24,xd260,Koranko,Koranko (Ag24),,1910
+EA,Ag25,xd261,Soninke,Soninke (Ag25),Sarakole,1900
+EA,Ag26,xd262,Susu,Susu (Ag26),Soso,1930
+EA,Ag27,xd263,Diula,Diula (Ag27),Dyoura,1910
+EA,Ag28,xd264,Nononke,Nono (Ag28),"Nono, Marka, Marka-Dafing, Dafi",1930
+EA,Ag29,xd265,Samo,Samo (Ag29),Samako,1910
+EA,Ag3,xd266,Dogon,Dogon (Ag3),"Dagom, Habbe, Kado, Tombo",1930
+EA,Ag30,xd267,Bobo,Bobo (Ag30),,1910
+EA,Ag31,xd268,Minianka,Minianka (Ag31),,1910
+EA,Ag32,xd269,Senufo,Senufo (Ag32),"Sene, Siena",1900
+EA,Ab4,xd27,Tsonga,Thonga (Ab4),"Thonga, Tonga, Vatsonga ",1920
+EA,Ag33,xd270,Dyan,Dian (Ag33),"Dian, Dya",1920
+EA,Ag34,xd271,Dorosie,Dorosie (Ag34),Dorho,1930
+EA,Ag35,xd272,Kulango,Kulango (Ag35),Parkhalla,1910
+EA,Ag36,xd273,Lowiili,Lowiili (Ag36),,1950
+EA,Ag37,xd274,Awuna,Awuna (Ag37),"Atyulo, Frafra, Kassonfra, Yulu",1910
+EA,Ag38,xd275,Builsa,Builsa (Ag38),"Bura, Kanjaga",1910
+EA,Ag39,xd276,Dagara,Dagari (Ag39),"Dagari, Dagaba",1910
+EA,Ag4,xd277,Tallensi,Tallensi (Ag4),,1930
+EA,Ag40,xd278,Isala,Isala (Ag40),"Debe, Gelebagu, Hisala, Pasala",1910
+EA,Ag41,xd279,Kusasi,Kusasi (Ag41),Kusal,1920
+EA,Ab5,xd28,Mbundu,Mbundu (Ab5),"Banano, Mbari, Nano, Ovimbundu",1930
+EA,Ag42,xd280,Nunuma,Nunuma (Ag42),Gurunsi,1910
+EA,Ag43,xd281,Vagala,Vagala (Ag43),Siti,1920
+EA,Ag44,xd282,Dagomba,Dagomba (Ag44),Dagbamba,1910
+EA,Ag45,xd283,Gurma,Gurma (Ag45),"bigourmantcheba, Gourmantche",1930
+EA,Ag46,xd284,Manprusi,Manprusi (Ag46),Mampelle,1920
+EA,Ag47,xd285,Mossi (Ouagadougou),Mossi Ouagadou (Ag47),"Mossi Ouagadou, Massi, Moshi",1900
+EA,Ag48,xd286,Basari,Basari (Ag48),,1890
+EA,Ag49,xd287,Kabre,Kabre (Ag49),"Bekaburum, Kabure",1930
+EA,Ag5,xd288,Birifor,Birifor (Ag5),Birifon,1930
+EA,Ag50,xd289,Moba,Moba (Ag50),"Bmoba, Moab",1910
+EA,Ab6,xd29,Venda,Venda (Ab6),"Bavenda, Bawenda",1900
+EA,Ag51,xd290,Somba,Somba (Ag51),"Betammadibe, Tamprusi",1940
+EA,Ag52,xd291,Tem,Tem (Ag52),"Chancho, Kotokoli",1950
+EA,Ag53,xd292,Bisa,Bisa (Ag53),Busanse,1960
+EA,Ag54,xd293,Yalunka,Yalunka (Ag54),Dialonke,1910
+EA,Ag6,xd294,Futajalonke,Futajalonke (Ag6),Foutadjallonke,1890
+EA,Ag7,xd295,Bozo,Bozo (Ag7),,1930
+EA,Ag8,xd296,Coniagui,Coniagui (Ag8),"Awunlen, Koniagi",1910
+EA,Ag9,xd297,Malinke,Malinke (Ag9),"Mandingo, Wangara",1930
+EA,Ah1,xd298,Katab,Katab (Ah1),,1930
+EA,Ah10,xd299,Chawai,Chawai (Ah10),Atsam,1920
+EA,Aa3,xd3,Nama,Nama Hottentot (Aa3),"Khoekhoe, Namaqua, Nama Hottentot",1840
+EA,Ab7,xd30,Nyaneka,Nyaneka (Ab7),"Banianeka, Munyaneka, Ovanyaneka, Vanyaneka",1920
+EA,Ah11,xd300,Basa,Basa (Ah11),Bassa,1950
+EA,Ah12,xd301,Basakomo,Basakomo (Ah12),Bassa-Komo,1920
+EA,Ah13,xd302,Dakakari,Dakakari (Ah13),,1930
+EA,Ah14,xd303,Kamuku,Kamuku (Ah14),,1920
+EA,Ah15,xd304,Reshe,Reshe (Ah15),"Bareshe, Gungawa, Yauri",1920
+EA,Ah16,xd305,Angas,Angas (Ah16),,1900
+EA,Ah17,xd306,Birom,Birom (Ah17),"Burum, Kibo",1930
+EA,Ah18,xd307,Burmawa,Borrom (Ah18),Borrom,1930
+EA,Ah19,xd308,Adara,Kadara (Ah19),Kadara,1930
+EA,Ah2,xd309,Jukun,Jukun (Ah2),Juko,1920
+EA,Ab8,xd31,Sotho,Sotho (Ab8),Basuto,1860
+EA,Ah20,xd310,Kagoro,Kagoro (Ah20),,1920
+EA,Ah21,xd311,Kurama,Kurama (Ah21),,1920
+EA,Ah22,xd312,Yergum,Yergum (Ah22),,1900
+EA,Ah23,xd313,Jibu,Jibu (Ah23),Jubu,1920
+EA,Ah24,xd314,Kentu,Kentu (Ah24),,1920
+EA,Ah25,xd315,Tigon,Tigon (Ah25),"Tukum, Thgon",1920
+EA,Ah26,xd316,Ndoro,Ndoro (Ah26),,1920
+EA,Ah27,xd317,Zuande,Zuande (Ah27),"Bitare, Yukutare",1920
+EA,Ah28,xd318,Chamba,Chamba (Ah28),Tsamba,1920
+EA,Ah29,xd319,Daka,Daka (Ah29),Dekka,1920
+EA,Ab9,xd32,Ndebele,Ndebele (Ab9),"Amandebele, Matabele",1870
+EA,Ah3,xd320,Tiv,Tiv (Ah3),Munshi,1920
+EA,Ah30,xd321,Longuda,Longuda (Ah30),Nunguda,1920
+EA,Ah31,xd322,Mumuye,Mumuye (Ah31),,1910
+EA,Ah32,xd323,Vere,Vere (Ah32),Were,1920
+EA,Ah33,xd324,Yungur,Yungur (Ah33),Binna,1920
+EA,Ah34,xd325,Bata,Bata (Ah34),,1920
+EA,Ah35,xd326,Bura,Bura (Ah35),,1920
+EA,Ah36,xd327,Gude,Gude (Ah36),Cheke,1920
+EA,Ah37,xd328,Hwana,Hona (Ah37),Hona,1920
+EA,Ah38,xd329,Kapsiki,Kapsiki (Ah38),"Hiji, Hill Margi",1930
+EA,Ac1,xd33,Ila,Ila (Ac1),Baila,1920
+EA,Ah39,xd330,Podokwo,Podokwo (Ah39),Podogo,1950
+EA,Ah4,xd331,Mambila,Mambila (Ah4),Torbi,1920
+EA,Ah5,xd332,Margi,Margi (Ah5),Marghi,1930
+EA,Ah6,xd333,Gure,Gure (Ah6),Agbiri,1920
+EA,Ah7,xd334,Mafa,Matakam (Ah7),Matakam,1940
+EA,Ah8,xd335,Bafute,Wute (Ah8),"Wute, Bafute, Bute, Mfute",1910
+EA,Ah9,xd336,Anaguta,Anaguta (Ah9),Naguta,1920
+EA,Ai1,xd337,Banda,Banda (Ai1),,1920
+EA,Ai10,xd338,Otoro,Otoro (Ai10),"Otoro Nuba, Nuba",1940
+EA,Ai11,xd339,Mangbetu,Mangbetu (Ai11),Monbuttu,1900
+EA,Ac10,xd34,Chewa,Chewa (Ac10),"Achewa, Cewa, Sheva",1920
+EA,Ai12,xd340,Fali,Fali (Ai12),,1950
+EA,Ai13,xd341,Laka,Laka (Ai13),,1920
+EA,Ai14,xd342,Mbum,Mbum (Ai14),,1920
+EA,Ai15,xd343,Mundang,Mundang (Ai15),Moundan,1900
+EA,Ai16,xd344,Namshi,Namshi (Ai16),Doayo,1910
+EA,Ai17,xd345,Gisiga,Gisiga (Ai17),Guissiga,1930
+EA,Ai18,xd346,Kotoko,Kotoko (Ai18),"Logone, Makari",1880
+EA,Ai19,xd347,Musgu,Musgu (Ai19),Muzuk,1910
+EA,Ai2,xd348,Nyaro,Nyaro (Ai2),,1940
+EA,Ai20,xd349,Tupuri,Tuburi (Ai20),"Tuburi, Toupouri",1910
+EA,Ac11,xd35,Luvale,Luvale (Ac11),"Aluena, Balovale, Lobare, Luena",1930
+EA,Ai21,xd350,Bagirmi,Bagirmi (Ai21),,1880
+EA,Ai22,xd351,Sara,Sara (Ai22),,1890
+EA,Ai23,xd352,Bwaka,Bwaka (Ai23),"Gbwaka, Mbaka, Ngbaka",1920
+EA,Ai24,xd353,Mandja,Mandja (Ai24),,1900
+EA,Ai25,xd354,Mbandja,Mbandja (Ai25),Banza,1950
+EA,Ai26,xd355,Ngbandi,Ngbandi (Ai26),"Gbandi, Mogwandi",1920
+EA,Ai27,xd356,Abarambo,Abarambo (Ai27),,1890
+EA,Ai28,xd357,Popoi,Popoi (Ai28),"Bagunda, Bapopoie",1910
+EA,Ai29,xd358,Lendu,Lendu (Ai29),"Bale, Walega, Walendu",1920
+EA,Ai3,xd359,Azande,Azande (Ai3),Niam-Niam,1920
+EA,Ac12,xd36,Chokwe,Chokwe (Ac12),"Badjok, Kioko, Tsokwe",1920
+EA,Ai30,xd360,Lese,Lese (Ai30),"Balese, Walese",1920
+EA,Ai31,xd361,Logo,Logo (Ai31),,1920
+EA,Ai32,xd362,Lugbara,Lugbara (Ai32),Lugware,1920
+EA,Ai33,xd363,Madi,Madi (Ai33),,1940
+EA,Ai34,xd364,Moru,Moru (Ai34),,1880
+EA,Ai35,xd365,Bongo,Bongo (Ai35),Dor,1870
+EA,Ai36,xd366,Jur,Jur (Ai36),"Gour, Jo-Luo",1920
+EA,Ai37,xd367,Koalib,Koalib (Ai37),,1940
+EA,Ai38,xd368,Korongo,Korongo (Ai38),,1930
+EA,Ai39,xd369,Mesakin,Mesakin (Ai39),,1940
+EA,Ac13,xd37,Tonga,Lake Tonga (Ac13),"Lake Tonga, Batonga, Matoka",1950
+EA,Ai4,xd370,Ingassana,Ingassana (Ai4),"Engassana, Metabe, Tabi",1920
+EA,Ai40,xd371,Moro,Moro (Ai40),,1940
+EA,Ai41,xd372,Tira,Tira (Ai41),,1930
+EA,Ai42,xd373,Tullishi,Tullishi (Ai42),,1940
+EA,Ai43,xd374,Nyimang,Nyima (Ai43),"Nyima, Nyamang",1930
+EA,Ai44,xd375,Anuak,Anuak (Ai44),Yambo,1920
+EA,Ai45,xd376,Meban,Meban (Ai45),"Gura, Maban",1930
+EA,Ai46,xd377,Koma,Koma (Ai46),"Gwama, Coma",1930
+EA,Ai47,xd378,Mao,Mao (Ai47),,1939
+EA,Ai5,xd379,Mamvu,Mamvu (Ai5),Mornvu,1920
+EA,Ac14,xd38,Bakongo,Kongo (Ac14),Kongo,1900
+EA,Ai6,xd380,Shilluk,Shilluk (Ai6),,1900
+EA,Ai7,xd381,Gbaya,Baya (Ai7),"Baya, Baja",1910
+EA,Ai8,xd382,Dilling,Dilling (Ai8),,1930
+EA,Ai9,xd383,Masa,Masa (Ai9),Massa,1910
+EA,Aj1,xd384,Teso,Teso (Aj1),"Bateso, Iteso, Kedi",1950
+EA,Aj10,xd385,Acholi,Acholi (Aj10),Acooli,1920
+EA,Aj11,xd386,Dinka,Dinka (Aj11),Denkawi,1900
+EA,Aj12,xd387,Lotuko,Lotuko (Aj12),Latuka,1920
+EA,Aj13,xd388,Pojulu,Fajulu (Aj13),Fajulu,1930
+EA,Aj14,xd389,Kakwa,Kakwa (Aj14),Kakuak,1931
+EA,Ac15,xd39,Mbala,Mbala (Ac15),"Ambala, Bambala",1900
+EA,Aj15,xd390,Kuku,Kuku (Aj15),,1900
+EA,Aj16,xd391,Mondari,Mondari (Aj16),Mandari,1930
+EA,Aj17,xd392,Alur,Alur (Aj17),"Aloro, Lur",1890
+EA,Aj18,xd393,Bodi,Bodi (Aj18),,1950
+EA,Aj19,xd394,Didinga,Didinga (Aj19),"Birra, Karoko, Toi",1920
+EA,Aj2,xd395,Maasi,Masai (Aj2),Masai,1900
+EA,Aj20,xd396,Suri,Suri (Aj20),"Churi, Kichepo, Thauk, Thuri",1940
+EA,Aj21,xd397,Jie,Jie (Aj21),,1930
+EA,Aj22,xd398,Labwor,Labwor (Aj22),,1930
+EA,Aj23,xd399,Plains Suk,Plains Suk (Aj23),Pokot,1950
+EA,Aa4,xd4,Bergdama,Bergdama (Aa4),"Hakouin, Mountain Damara",1920
+EA,Ac16,xd40,Mitsogho,Shogo (Ac16),"Shogo, Ashogo, Issogo, Mitsogo",1940
+EA,Aj24,xd400,Toposa,Topotha (Aj24),"Topotha, Dabosa",1930
+EA,Aj25,xd401,Keyu,Keyu (Aj25),Elgeyu,1920
+EA,Aj26,xd402,Hill Suk,Hill Suk (Aj26),Pokot,1910
+EA,Aj27,xd403,Sapei,Sapei (Aj27),Sabei,1920
+EA,Aj28,xd404,Tatoga,Tatoga (Aj28),"Datoga, Mangati, Taturu",1940
+EA,Aj29,xd405,Samburu,Samburu (Aj29),"Lokop, Loikop",1950
+EA,Aj3,xd406,Nuer,Nuer (Aj3),Nath,1930
+EA,Aj30,xd407,Karamojong,Karamojong (Aj30),,1950
+EA,Aj31,xd408,Pari,Pari (Aj31),"Jo-Pari, Beri, Fori",1920
+EA,Aj4,xd409,Lango,Lango (Aj4),Umiro,1920
+EA,Ac17,xd41,Suku,Suku (Ac17),,1910
+EA,Aj5,xd410,Turkana,Turkana (Aj5),"ŋiTurkana, Elgume",1920
+EA,Aj6,xd411,Luo,Luo (Aj6),"Jaluo, Luwo, Nilotic Kavirondo, Nyifwa",1940
+EA,Aj7,xd412,Nandi,Nandi (Aj7),,1910
+EA,Aj8,xd413,Bari,Bari (Aj8),,1920
+EA,Aj9,xd414,Kipsigis,Kipsigis (Aj9),"Lumbwa, Sikisi",1920
+EA,Ca1,xd415,Konso,Konso (Ca1),,1930
+EA,Ca10,xd416,Esa,Esa (Ca10),"Eissa, Isa",1880
+EA,Ca11,xd417,Arusi,Arusi (Ca11),,1890
+EA,Ca12,xd418,Gibe,Gibe (Ca12),Oromo of Gibe Region,1880
+EA,Ca13,xd419,Macha,Macha (Ca13),Mecca,1950
+EA,Ac18,xd42,Sundi,Sundi (Ac18),Basundi,1910
+EA,Ca14,xd420,Burji,Burji (Ca14),,1950
+EA,Ca15,xd421,Darasa,Darasa (Ca15),,1930
+EA,Ca16,xd422,Sidama,Sidamo (Ca16),Sidamo,1930
+EA,Ca17,xd423,Tsamai,Tsamai (Ca17),Tsamako,1950
+EA,Ca18,xd424,Arbore,Arbore (Ca18),Harbora,1940
+EA,Ca19,xd425,Banna,Banna (Ca19),Bunna,1950
+EA,Ca2,xd426,Somali,Somali (Ca2),,1950
+EA,Ca20,xd427,Galab,Galab (Ca20),"Darthanaic, Geleba, Reshiat",1890
+EA,Ca21,xd428,Hamar,Hammar (Ca21),"Hammar, Amar, Amarcocche, Hamarkoke",1950
+EA,Ca22,xd429,Male,Male (Ca22),Maale,1950
+EA,Ac19,xd43,Teke,Teke (Ac19),Bateke,1880
+EA,Ca23,xd430,Bako,Bako (Ca23),"Ari, Baka",1950
+EA,Ca24,xd431,Dime,Dime (Ca24),,1950
+EA,Ca25,xd432,Shangama,Shangama (Ca25),,1950
+EA,Ca26,xd433,Ubamer,Ubamer (Ca26),Wubahamer,1950
+EA,Ca27,xd434,Anfillo,Anfillo (Ca27),Southern Mao,1930
+EA,Ca28,xd435,Basketo,Basketo (Ca28),,1950
+EA,Ca29,xd436,Yem,Janjero (Ca29),Janjero,1920
+EA,Ca3,xd437,Tigrinya,Tigrinya (Ca3),,1950
+EA,Ca30,xd438,Kafa,Kafa (Ca30),"Kafecho, Kaffa",1890
+EA,Ca31,xd439,Beta Israel,Falasha (Ca31),"Falasha, Black Jews",1860
+EA,Ac2,xd44,Pende,Pende (Ac2),Bapende,1920
+EA,Ca32,xd440,Nara,Barea (Ca32),"Barea, Baria",1860
+EA,Ca33,xd441,Kunama,Kunama (Ca33),Cunama,1860
+EA,Ca34,xd442,Ababda,Ababda (Ca34),,1920
+EA,Ca35,xd443,Amarar,Amarar (Ca35),,1930
+EA,Ca36,xd444,Beni-Amer,Beni Amer (Ca36),Beni Amer,1860
+EA,Ca37,xd445,Blin,Bogo (Ca37),"Bogo, Belen, Bilin",1850
+EA,Ca38,xd446,Tigre,Tigre (Ca38),,1860
+EA,Ca39,xd447,Jimma,Jimma (Ca39),,1930
+EA,Ca4,xd448,Iraqw,Iraqw (Ca4),"Erokh, Mbulu, Wambulu",1950
+EA,Ca40,xd449,Baditu,Baditu (Ca40),"Amarro, Koira",1950
+EA,Ac20,xd45,Yaka,Yaka (Ac20),"Bayaka, Giaka, Maiaca",1920
+EA,Ca41,xd450,Dorse,Dorse (Ca41),Dorze,1950
+EA,Ca42,xd451,Shako,Shako (Ca42),"Chako, Shekke, Tschako",1950
+EA,Ca43,xd452,Hadendowa,Hadendowa (Ca43),Hendawa,1930
+EA,Ca5,xd453,Bisharin,Bisharin (Ca5),,1930
+EA,Ca6,xd454,Afar,Afar (Ca6),"Danakil, Dankali",1880
+EA,Ca7,xd455,Amhara,Amhara (Ca7),,1950
+EA,Ca8,xd456,Gurage,Gurage (Ca8),,1940
+EA,Ca9,xd457,Goroa,Goroa (Ca9),"Fiome, Guruma",1890
+EA,Cb1,xd458,Maguzawa,Maguzawa (Cb1),Pagan Hausa,1940
+EA,Cb10,xd459,Karekare,Karekare (Cb10),,1920
+EA,Ac21,xd46,Bunda,Bunda (Ac21),"Ambundu, Babunda",1910
+EA,Cb11,xd460,Midobi,Midobi (Cb11),Meidob,1900
+EA,Cb12,xd461,Gimma,Gimma (Cb12),Gimaa,1920
+EA,Cb13,xd462,Habbaniya,Habbania (Cb13),Habbania,1930
+EA,Cb14,xd463,Hemat,Hemat (Cb14),"Baggara, Heimad",1910
+EA,Cb15,xd464,Messiria Humr,Messiria Humr (Cb15),,1940
+EA,Cb16,xd465,Shuwa,Shuwa (Cb16),"Chiwa, Shoa",1920
+EA,Cb17,xd466,Fur,Fur (Cb17),Darfur,1880
+EA,Cb18,xd467,Kanembu,Kanembu (Cb18),,1930
+EA,Cb19,xd468,Kanuri,Kanuri (Cb19),,1870
+EA,Cb2,xd469,Wolof,Wolof (Cb2),,1950
+EA,Ac22,xd47,Dzing,Dzing (Ac22),"Badinga, Dinga",1930
+EA,Cb20,xd470,Zerma,Zerma (Cb20),Dyerma,1920
+EA,Cb21,xd471,Djafun,Djafun (Cb21),Djafun Fulani,1930
+EA,Cb22,xd472,Liptako,Liptako (Cb22),,1920
+EA,Cb23,xd473,Tukulor,Tukulor (Cb23),"Tekrur, Torado",1930
+EA,Cb24,xd474,Wodaabe Fulani,Wodaabe Fulani (Cb24),"Pastoral Fulani, Wodaabe",1950
+EA,Cb25,xd475,Tazarawa,Tazarawa (Cb25),,1930
+EA,Cb26,xd476,Zazzagawa Hausa,Zazzagawa Hausa (Cb26),"Hausa, Zazzagawa",1950
+EA,Cb27,xd477,Bachama,Bachama (Cb27),,1920
+EA,Cb28,xd478,Dera,Dera (Cb28),Kanakuru,1920
+EA,Cb29,xd479,Ngizim,Ngizim (Cb29),,1920
+EA,Ac23,xd48,Lele,Lele (Ac23),"Bashilele, Wongo",1950
+EA,Cb3,xd480,Songhai,Songhai (Cb3),,1940
+EA,Cb4,xd481,Hasania,Hasania (Cb4),Hassanyeh,1920
+EA,Cb5,xd482,Buduma,Buduma (Cb5),"Yedina, Yedina",1910
+EA,Cb6,xd483,Tera,Tera (Cb6),,1920
+EA,Cb7,xd484,Bolewa,Bolewa (Cb7),"Bole, Borlawa, Fika",1920
+EA,Cb8,xd485,Bororo Fulani,Bororo Fulani (Cb8),"Fulbe, Fuel",1920
+EA,Cb9,xd486,Hausa Kanawa,Hausa Kanawa (Cb9),Hausa,1940
+EA,Cc1,xd487,Regeibat,Regeibat (Cc1),Rgibat,1950
+EA,Cc10,xd488,Asben,Asben (Cc10),"Air Tuareg, Kel Air",1900
+EA,Cc11,xd489,Azjer,Azjer (Cc11),Adjeur,1860
+EA,Ac24,xd49,Sakata,Sakata (Ac24),"Balesa, Basakata, Lesa",1910
+EA,Cc12,xd490,Ifora,Ifora (Cc12),,1944
+EA,Cc13,xd491,Udalan Tuareg,Udalan (Cc13),Udalan,1920
+EA,Cc14,xd492,Daza,Daza (Cc14),"Dasa, Dazagada",1880
+EA,Cc15,xd493,Drawa,Drawa (Cc15),,1920
+EA,Cc16,xd494,Chaambra,Chaambra (Cc16),Schanba,1930
+EA,Cc17,xd495,Delim,Delim (Cc17),Oulad Delim,1930
+EA,Cc18,xd496,Kunta,Kunta (Cc18),Kounta,1910
+EA,Cc19,xd497,Trarza,Trarza (Cc19),,1950
+EA,Cc2,xd498,Teda,Teda (Cc2),Toubou,1950
+EA,Cc20,xd499,Zenaga,Zenaga (Cc20),,1910
+EA,Aa5,xd5,Mbuti,Mbuti (Aa5),"Sua, BaSua, Kango, BaKango, Bambuti, BaMbuti Pygmies",1930
+EA,Ac25,xd50,Songo,Songo (Ac25),Basongo,1930
+EA,Cc3,xd500,Siwans,Siwans (Cc3),,1920
+EA,Cc4,xd501,Mzab,Mzab (Cc4),"Beni Mzab, Mozabites",1920
+EA,Cc5,xd502,Kel Antessar,Antessar (Cc5),"Antessar, Kel Antessar, Tuareg north of Timbuctoo",1910
+EA,Cc6,xd503,Kababish,Kababish (Cc6),Kubbabish,1910
+EA,Cc7,xd504,Barabish,Barabish (Cc7),,1950
+EA,Cc8,xd505,Aulliminden,Aulliminden (Cc8),Oulliminden,1890
+EA,Cc9,xd506,Tuareg Ahaggar,Tuareg Ahaggar (Cc9),Tuareg,1920
+EA,Cd1,xd507,Barabra,Barabra (Cd1),Kenuzi Nubians ,1920
+EA,Cd10,xd508,Zekara,Zekara (Cd10),Zkara,1900
+EA,Cd11,xd509,Guanche,Guanche (Cd11),,1500
+EA,Ac26,xd51,Yanzi,Yanzi (Ac26),"Bayansi, Wachanzi",1920
+EA,Cd12,xd510,Algerians,Algerians (Cd12),,1870
+EA,Cd13,xd511,Hamama,Hamama (Cd13),,1930
+EA,Cd14,xd512,Hamyan,Hamyan (Cd14),Hamian,1870
+EA,Cd15,xd513,Jebala,Jebala (Cd15),Djebala,1910
+EA,Cd16,xd514,Moroccans,Moroccans (Cd16),,1930
+EA,Cd17,xd515,Nail,Nail (Cd17),Ulad Nail,1920
+EA,Cd18,xd516,Saadi,Saadi (Cd18),,1920
+EA,Cd19,xd517,Sahel,Sahel (Cd19),Eastern Tunisians (Sahel Region),1920
+EA,Cd2,xd518,Egyptians,Egyptians (Cd2),"Fellahin, Fellaheen",1950
+EA,Cd20,xd519,Sanusi,Sanusi (Cd20),Cyrenaican Bedouin,1940
+EA,Ac27,xd52,Luchazi,Luchazi (Ac27),"Balochasi, Kaluchazi, Valuchazi",1930
+EA,Cd21,xd520,Tunisians,Tunisians (Cd21),,1930
+EA,Cd3,xd521,Riffians,Riffians (Cd3),,1920
+EA,Cd4,xd522,Kabyle,Kabyle (Cd4),,1890
+EA,Cd5,xd523,Shluh,Shluh (Cd5),"Shilha, Islhiyn, Chleuch",1920
+EA,Cd6,xd524,Ancient Egyptians,Ancient Egypt (Cd6),Ancient Egypt,-1400
+EA,Cd7,xd525,Beraber,Beraber (Cd7),,1910
+EA,Cd8,xd526,Shawiya,Shawiya (Cd8),Chaouia,1910
+EA,Cd9,xd527,Tekna,Tekna (Cd9),Tekena,1900
+EA,Ce1,xd528,Gheg,Gheg (Ce1),Albanians,1900
+EA,Ce2,xd529,Portuguese,Portuguese (Ce2),,1950
+EA,Ac28,xd53,Luimbe,Luimbe (Ac28),"Baluimbi, Valuimbe",1930
+EA,Ce3,xd530,Ancient Romans,Romans (Ce3),Romans,100
+EA,Ce4,xd531,French Basques,Basques (Ce4),"Euskaldunak, Basques, French Basques",1930
+EA,Ce5,xd532,Neapolitans,Neapolitians (Ce5),Neapolitians,1960
+EA,Ce6,xd533,Spaniards,Spaniards (Ce6),,1950
+EA,Ce7,xd534,Greeks,Greeks (Ce7),Hellenes,1950
+EA,Ce8,xd535,Spanish Basques,Spanish Basques (Ce8),Spanish Basques,1934
+EA,Cf1,xd536,New Englanders,New England (Cf1),New England,1920
+EA,Cf2,xd537,Boers,Boers (Cf2),Afrikanders,1850
+EA,Cf3,xd538,Tristan da Cunha,Tristan da Cunha (Cf3),,1930
+EA,Cf4,xd539,Brazilians,Brazilians (Cf4),,1940
+EA,Ac29,xd54,Luwa,Luwa (Ac29),Balua,1930
+EA,Cf5,xd540,French Canadians,French Canadians (Cf5),,1930
+EA,Cg1,xd541,Dutch,Dutch (Cg1),,1950
+EA,Cg2,xd542,Icelanders,Icelanders (Cg2),,1100
+EA,Cg3,xd543,Irish,Irish (Cg3),Gaelic,1930
+EA,Cg4,xd544,Sami,Lapps (Cg4),Lapps,1950
+EA,Cg5,xd545,Walloons,Walloons (Cg5),,1950
+EA,Ch1,xd546,Serbs,Serbs (Ch1),Serbians,1950
+EA,Ch10,xd547,Romanians,Romanians (Ch10),,1910
+EA,Ch11,xd548,Russians,Russians (Ch11),,1955
+EA,ch12,xd549,Bashkir,Bashkir (ch12),"Basquort, Bashkort, Bashkiry",1899
+EA,Ac3,xd55,Bemba,Bemba (Ac3),Awemba,1900
+EA,ch13,xd550,Besermyan,Besermyan (ch13),"Beserman, Besermen, Besermyane",1894
+EA,ch14,xd551,Chuvash,Chuvash (ch14),"Chavash, Chuvashy",1908
+EA,ch15,xd552,Erzya Mordvins,Erzia mordva (ch15),"Erzia mordva, Erzia Mordvins, Erzja Mordvins",1895
+EA,ch16,xd553,Estonians,Estonians (ch16),"Eestlased, Maarahvas, Hiumaases, Saaremaased, Setu, Estontsy, Chud",1908
+EA,ch17,xd554,Gagauz,Gagauz (ch17),"Christian Bulgars, Hıristiyan-Bulgar, Gagauzi, Gagauzy",1894
+EA,ch18,xd555,Ingrians,Ingrians (ch18),"Izhorians, Izhora, Inkerilainen, Inkeroine, Izhoralaine, Karjalain, Inkerin Suomalainen, Ingrian Finns, Izhortsy",1927
+EA,ch19,xd556,Karelians,Karelians (ch19),"Karjalaizet, Karjalaini, Karely, Livgilyajne, Livvikjoj, Lyuudilaine, Lyuudikjo",1874
+EA,Ch2,xd557,Hutsuls,Hutsul (Ch2),"Hutsul, Hucul, Huzul",1890
+EA,ch20,xd558,Kazan tatar,Kazan tatar (ch20),"Kazanskie Tatary, Kazanly, Tatarlar",1910
+EA,ch21,xd559,Latvians,Latvians (ch21),"Latvieshi, Latyshi",1881
+EA,Ac30,xd56,Plateau Tonga,Plateau Tonga (Ac30),Batonga,1940
+EA,ch22,xd560,Lithuanian Karaim,Lithuanian Karaim (ch22),"Karaites, Karaila",1895
+EA,ch23,xd561,Lithuanian Tatar,Lithuanian Tatar (ch23),,1905
+EA,ch24,xd562,Livs,Livs (ch24),"Livians, Livonians, Liivod, Liibod, Liivnikad, Liivlist, Kalamied, Raandalis",1847
+EA,ch25,xd563,Moldovans,Moldovans (ch25),"Moldoven, Moldavans, Moldavane",1900
+EA,ch26,xd564,Udmurt,Udmurt (ch26),"Utmort, Ukmort, Udmurty, Votiak, Votyak, Votjaki",1890
+EA,ch27,xd565,Veps,Veps (ch27),"Vepsians, Chudy, Chukhari, Chuhari, Bepsya, Bepsja, Veps' Lyudinikad, Tyagalazhet, Tjagalazhet",1900
+EA,ch28,xd566,Votes,Votes (ch28),"Vod', Maavaitchi, Vod",1900
+EA,Ch3,xd567,Czechs,Czechs (Ch3),,1940
+EA,Ch4,xd568,Mari,Cheremis (Ch4),Cheremis,1900
+EA,Ch5,xd569,Bulgarians,Bulgarians (Ch5),,1940
+EA,Ac31,xd57,Buye,Buye (Ac31),Babui,1910
+EA,Ch6,xd570,Byelorussians,Byelorussians (Ch6),White Russians,1910
+EA,Ch7,xd571,Ukranians,Ukranians (Ch7),,1930
+EA,Ch8,xd572,Magyar,Hungarian (Ch8),"Magyarok, Hungarian",1940
+EA,Ch9,xd573,Lithuanians,Lithuanians (Ch9),,1930
+EA,Ci1,xd574,Kalmyk,Kalmyk (Ci1),Kalmuck,1920
+EA,Ci10,xd575,Armenians,Armenians (Ci10),,1900
+EA,Ci11,xd576,Kurd,Kurd (Ci11),,1940
+EA,Ci12,xd577,Abkhaz,Abkhaz (Ci12),,1880
+EA,Ci2,xd578,Khevsur,Khevsur (Ci2),Chevsur,1930
+EA,Ci3,xd579,Kumyk,Kumyk (Ci3),Kumuk,1900
+EA,Ac32,xd58,Kaonde,Kaonde (Ac32),Bakaonde,1920
+EA,Ci4,xd580,Cherkess,Cherkess (Ci4),Circassians,1920
+EA,Ci5,xd581,Turks,Turks (Ci5),,1950
+EA,Ci6,xd582,Ossetians,Osset (Ci6),"Osset, Ossete",1880
+EA,Ci7,xd583,Chechen,Chechen (Ci7),,1900
+EA,Ci8,xd584,Georgians,Georgians (Ci8),"Kartvelebi, Grusians, Kartveli",1850
+EA,Ci9,xd585,Svan,Svan (Ci9),Mushüan,1910
+EA,Cj1,xd586,Syrians,Syrians (Cj1),,1950
+EA,Cj10,xd587,Madan,Madan (Cj10),"Marsh Arabs, Ma'dan, Ma'adan",1950
+EA,Cj2,xd588,Rwala,Rwala (Cj2),Rwala Bedouin,1920
+EA,Cj3,xd589,Hebrews,Hebrews (Cj3),,-800
+EA,Ac33,xd59,Lala,Lala (Ac33),Balala,1940
+EA,Cj4,xd590,Babylonians,Babylonians (Cj4),,-2000
+EA,Cj5,xd591,Mutair,Mutair (Cj5),,1930
+EA,Cj6,xd592,Jordanians,Jordanians (Cj6),,1950
+EA,Cj7,xd593,Lebanese,Lebanese (Cj7),,1950
+EA,Cj8,xd594,Druze,Druze (Cj8),,1930
+EA,Cj9,xd595,Yemeni,Yemeni (Cj9),,1950
+EA,Ea1,xd596,Sindhi,Sindhi (Ea1),Hindu Sindhi,1950
+EA,Ea10,xd597,Marri,Marri (Ea10),,1950
+EA,Ea11,xd598,Ghilzai,Afghans (Ea11),"Pashtuns, Pushtun, Afghans",1950
+EA,Ea12,xd599,Qashqui,Quahgai (Ea12),"Quahgai, Qashgai ",1940
+EA,Aa6,xd6,Sandawe,Sandawe (Aa6),Wasandaui,1920
+EA,Ac34,xd60,Luapula,Luapula (Ac34),Bena Kazembe,1940
+EA,Ea13,xd600,Punjabi,"Punjabi, West (Ea13)",Punjabi (West) ,1950
+EA,Ea2,xd601,Yusufzai,Pathan (Ea2),"Pukhtun, Pathan, Yusufsai, Yūsufzai, Yousafzai",1950
+EA,Ea3,xd602,Hazara,Hazara (Ea3),,1930
+EA,Ea4,xd603,Kohistani,Kohistani (Ea4),"Kohistei, Mayan",1950
+EA,Ea5,xd604,Nuristani,Nuri (Ea5),"Nuri, Kafirs, Kafiristanis",1890
+EA,Ea6,xd605,Basseri,Basseri (Ea6),,1958
+EA,Ea7,xd606,Moghol,Moghol (Ea7),Mongols of Afghanistan,1950
+EA,Ea8,xd607,Bakhtiari,Bakhtiari (Ea8),,1920
+EA,Ea9,xd608,Iranians,Iranians (Ea9),,1950
+EA,Eb1,xd609,Kazakh,Kazak (Eb1),Kazak,1910
+EA,Ac35,xd61,Shila,Shila (Ac35),"Awasira, Bashila, Wasira",1900
+EA,Eb2,xd610,Tu,Monguor (Eb2),Monguor,1920
+EA,Eb3,xd611,Khalka,Khalka (Eb3),"Xanx, Khalka Mongols",1940
+EA,Eb4,xd612,Dagur,Dagur (Eb4),Dagor,1940
+EA,Eb5,xd613,Turkmen,Turkmen (Eb5),,1910
+EA,Eb6,xd614,Buryat,Buryat (Eb6),,1900
+EA,Eb7,xd615,Chahar,Chahar (Eb7),,1930
+EA,Eb8,xd616,Uzbek,Uzbek (Eb8),,1800
+EA,Ec1,xd617,Nivkh,Gilyak (Ec1),Gilyak,1920
+EA,Ec10,xd618,Ob Ostyak,Ob Ostyak (Ec10),,1880
+EA,Ec11,xd619,Selkup,Selkup (Ec11),Ostyak Samoyed,1900
+EA,Ac36,xd62,Tumbuka,Tumbuka (Ac36),"Atimbuka, Batumbaka, Watumbaka",1920
+EA,ec12,xd620,Nganasan,Nganasan (ec12),Tavgi Samoyed,1930
+EA,ec13,xd621,Itelmen,Itelmen (ec13),"Itelymem, Kamchadal",1710
+EA,ec14,xd622,Ungazikmit,Ungazikmit (ec14),"Eskaleut, Asian Eskimo",1880
+EA,ec15,xd623,Mansi,Mansi (ec15),"Vogul, Gogulich, Mansiy, Voguly",1880
+EA,ec16,xd624,Evenk,Evenk (ec16),"Ewenki, Tungus, Chapogir, Avanki, Avankil, Solon, Khamnigan",1890
+EA,ec17,xd625,Negidal,Negidal (ec17),"Negidaly, Neghidal",1890
+EA,ec18,xd626,Ulch,Ulch (ec18),"Ulchi, Ulcha, Ulych, Olch, Olcha, Olchis, Hoche, Hol-Chih.",1890
+EA,ec19,xd627,Orok,Orok (ec19),"Uilta, Ul'ta, Nani, Oroki, Oroc, Ulta, Ujlta",1890
+EA,Ec2,xd628,Yakut,Yakut (Ec2),Sakha,1900
+EA,ec20,xd629,Oroch,Oroch (ec20),Orochi,1890
+EA,Ac37,xd63,Kunda,Kunda (Ac37),Achikunda,1950
+EA,ec21,xd630,Udihe,Udihe (ec21),"Udeghes, Udyhe, Udekhe, Udegeis",1890
+EA,Ec3,xd631,Chukchi,Chukchee (Ec3),"lygoravetlyan, Ankalyn, Chavchu, Chukchee",1900
+EA,Ec4,xd632,Yurak-Samoyeds,Yurak (Ec4),"Nenets, Yurak",1900
+EA,Ec5,xd633,Koryak,Koryak (Ec5),,1900
+EA,Ec6,xd634,Yukaghir,Yukaghir (Ec6),,1850
+EA,Ec7,xd635,Ainu,Ainu (Ec7),"Ainu (Hokkaido), Hokkaido",1900
+EA,Ec8,xd636,Ket,Ket (Ec8),"Yenisei Ostyak, Yeniseians",1900
+EA,Ec9,xd637,Nanai,Goldi (Ec9),"Goldi, Gold",1920
+EA,Ed1,xd638,Koreans,Koreans (Ed1),,1950
+EA,Ed10,xd639,Shantung,Shantung (Ed10),,1930
+EA,Ac38,xd64,Nyanja,Nyanja (Ac38),"Nyanja, Anyanja, Wanyanja, Waanyanja",1910
+EA,Ed13,xd640,Ishigakians,Ishigakians (Ed13),,1940
+EA,Ed14,xd641,Man,Man (Ed14),Yao,
+EA,Ed15a,xd642,Miyakans,Miyakans (Ed15a),,1950
+EA,Ed15b,xd643,Chekiang,Chekiang (Ed15b),Chinese,1936
+EA,Ed16,xd644,Cantonese,Cantonese (Ed16),,1940
+EA,Ed2,xd645,Lolo,Lolo (Ed2),"Yi, Nosu",1940
+EA,Ed3,xd646,Manchu,Manchu (Ed3),,1920
+EA,Ed4,xd647,Miao,Miao (Ed4),,1940
+EA,Ed5,xd648,Japanese,Japanese (Ed5),,1950
+EA,Ed6,xd649,Min Chinese,Min Chinese (Ed6),,1920
+EA,Ac39,xd65,Nyasa,Nyasa (Ac39),"Anyassa, Wanyassa",1920
+EA,Ed7,xd650,Okinawans,Okinawans (Ed7),,1950
+EA,Ed8,xd651,Minchia,Minchia (Ed8),,1930
+EA,Ed9,xd652,Li,Li (Ed9),"Sai, Hlai, Lai, Loi",1930
+EA,Ee1,xd653,Adi,Abor (Ee1),Abor,1940
+EA,Ee2,xd654,Burusho,Burusho (Ee2),,1930
+EA,Ee3,xd655,Lepcha,Lepcha (Ee3),Rong,1930
+EA,Ee4,xd656,Tibetans,Tibetans (Ee4),,1920
+EA,Ee5,xd657,Shina,Dard (Ee5),Dard,1870
+EA,Ee6,xd658,Sherpa,Sherpa (Ee6),,1950
+EA,Ee7,xd659,Kachari,Kachari (Ee7),Bodo,1840
+EA,Ac4,xd66,Kuba,Kuba (Ac4),Bakuba,1910
+EA,Ee8,xd660,Magar,Magar (Ee8),,1950
+EA,Ef1,xd661,Santal,Santal (Ef1),"Santhal, Saontal",1940
+EA,Ef10,xd662,Bihari,Bihari (Ef10),"Bihar, Behari",1880
+EA,Ef11,xd663,Uttar Pradesh,Uttar Pradesh (Ef11),,1945
+EA,Ef2,xd664,Bengali,Bengali (Ef2),,1940
+EA,Ef3,xd665,Indo-Iranian,Aryans (Ef3),"Aryans, Indo-Aryans",-800
+EA,Ef4,xd666,Ho,Ho (Ef4),,1920
+EA,Ef5,xd667,Bhil,Bhil (Ef5),,1900
+EA,Ef6,xd668,Kurukh,Oraon (Ef6),Oraon,1940
+EA,Ef7,xd669,Pahari,Pahari (Ef7),,1950
+EA,Ac40,xd67,Sena,Sena (Ac40),"Asena, Wasena",1900
+EA,Ef8,xd670,Kashmiri,Kashmir (Ef8),"Kashmir, Kashmiri, Pandit, Sarasvati Brahmans",1950
+EA,Ef9,xd671,Gujarati,Gujarati (Ef9),,1136
+EA,Eg1,xd672,Chenchu,Chenchu (Eg1),,1940
+EA,Eg10,xd673,Telugu,Telugu (Eg10),,1950
+EA,Eg11,xd674,Koya,Koya (Eg11),Koitur,1960
+EA,Eg12,xd675,Khond,Khond (Eg12),,1940
+EA,Eg13,xd676,Muria Gond,Muria Gond (Eg13),,1941
+EA,Eg14,xd677,Reddi,Reddi (Eg14),,1940
+EA,Eg2,xd678,Tamil,Tamil (Eg2),,1880
+EA,Eg3,xd679,Madia,Maria Gond (Eg3),"Maria Gond, Gond",1938
+EA,Ac41,xd68,Makonde,Makonde (Ac41),Wamakonde,1900
+EA,Eg4,xd680,Toda,Toda (Eg4),,1900
+EA,Eg5,xd681,Kodavas,Coorg (Eg5),Coorg,1930
+EA,Eg6,xd682,Kerala,Kerala (Eg6),,1799
+EA,Eg7,xd683,Hill Bhuiya,Hill Bhuiya (Eg7),Pauri,1930
+EA,Eg8,xd684,Kol,Kol (Eg8),,1940
+EA,Eg9,xd685,Baiga,Baiga (Eg9),,1930
+EA,Eh1,xd686,Andamanese,Andamese (Eh1),"Big Andaman Island, Andamese",1870
+EA,Eh10,xd687,Betsileo,Betsileo (Eh10),,
+EA,Eh2,xd688,Merina,Merina (Eh2),"Antimerina, Hova, Imerina",1900
+EA,Eh3,xd689,Tanala,Tanala (Eh3),,1930
+EA,Ac42,xd69,Makua,Makua (Ac42),Wamakua,1900
+EA,Eh4,xd690,Vedda,Vedda (Eh4),"Wanniyalaeto, Veddah",1900
+EA,Eh5,xd691,Nicobarese,Nicobarese (Eh5),Holchu,1890
+EA,Eh6,xd692,Sinhalese,Sinhalese (Eh6),,1950
+EA,Eh7,xd693,Antandroy,Antandroy (Eh7),Tandroy,1900
+EA,Eh8,xd694,Sakalava,Sakalava (Eh8),,1900
+EA,Eh9,xd695,Antaisaka,Antaisaka (Eh9),,1930
+EA,Ei1,xd696,Garo,Garo (Ei1),A.Chik,1900
+EA,Ei10,xd697,Chakma,Chakma (Ei10),Chuckmah,1870
+EA,Ei11,xd698,Aimol,Aimol (Ei11),,1910
+EA,Ei12,xd699,Thado,Thado (Ei12),,1910
+EA,Aa7,xd7,Naron,Naron (Aa7),Aikwe,1910
+EA,Ac43,xd70,Mambwe,Mambwe (Ac43),Amambwe,1910
+EA,Ei13,xd700,Angami,Angami (Ei13),,1910
+EA,Ei14,xd701,Ao,Ao (Ei14),,1920
+EA,Ei15,xd702,Rengma,Rengama (Ei15),"Rengama, Rengma Naga",1930
+EA,Ei16,xd703,Sema,Sema (Ei16),,1910
+EA,Ei17,xd704,Karbi,Mikir (Ei17),"Arleng, Mikir",1900
+EA,Ei18,xd705,Palaung,Palaung (Ei18),,1920
+EA,Ei19,xd706,Chin,Chin (Ei19),Khyang,1940
+EA,Ei2,xd707,Lhota,Lhota (Ei2),,1920
+EA,Ei20,xd708,Kuki,Kuki (Ei20),"Chin, Mizo, Kuki",1940
+EA,Ei3,xd709,Burmese,Burmese (Ei3),Bamar people,1950
+EA,Ac5,xd71,Lamba,Lamba (Ac5),"Balamba, Walamba",1920
+EA,Ei4,xd710,Maras,Lakher (Ei4),Lakher,1930
+EA,Ei5,xd711,Kachin,Kachin (Ei5),,1940
+EA,Ei6,xd712,Purum,Purum (Ei6),,1930
+EA,Ei7,xd713,Karen,Karen (Ei7),,1910
+EA,Ei8,xd714,Khasi,Khasi (Ei8),,1900
+EA,Ei9,xd715,Mogh,Mogh (Ei9),"Marma, Morma, Mog, Magh",1880
+EA,Ej1,xd716,Lamet,Lamet (Ej1),,1940
+EA,Ej10,xd717,Rade,Rhade (Ej10),Rhade,1950
+EA,Ej11,xd718,Cham,Cham (Ej11),,1950
+EA,Ej12,xd719,Lawa,Lawa (Ej12),Lua,1960
+EA,Ac6,xd72,Ndembu,Ndembu (Ac6),"Andembu, Southern Lunda",1930
+EA,Ej13,xd720,Muong,Muong (Ej13),,1940
+EA,Ej14,xd721,Senoi,Senoi (Ej14),,1960
+EA,Ej15,xd722,Ancient Khmer,Khmer (Ej15),Khmer,1292
+EA,Ej16,xd723,Negri Sembilan,Negri Sembilan (Ej16),Negeri Sembilan,1958
+EA,Ej2,xd724,Mnong Gar,Mnong Gar (Ej2),,1940
+EA,Ej3,xd725,Semang,Semang (Ej3),,1920
+EA,Ej4,xd726,Annamese,Annamese (Ej4),Vietnamese,1950
+EA,Ej5,xd727,Khmer,Cambodians (Ej5),Cambodians,1950
+EA,Ej6,xd728,Moken,Selung (Ej6),"Selung, Mawken, Salon, Sea Gypsies",1920
+EA,Ej7,xd729,Akha,Akha (Ej7),"e-Kaw, Kaw",1950
+EA,Ac7,xd73,Yao,Yao (Ac7),"Achawa, Wayao",1920
+EA,Ej8,xd730,Malays,Malays (Ej8),,1940
+EA,Ej9,xd731,Thai,Siamese (Ej9),"Siamese, Central Thai",1940
+EA,Ia1,xd732,Atayal,Atayal (Ia1),,1930
+EA,Ia10,xd733,Bunun,Bunun (Ia10),,1930
+EA,Ia11,xd734,Puyuma,Puyuma (Ia11),,1930
+EA,Ia12,xd735,Sugbuanon,Sugbuhanon (Ia12),"Cebuanos, Sugbuhanon, Cebuan Bisaya, Cebuans",1950
+EA,Ia13,xd736,Badjau Tawi-Tawi,Badjau Tawi-Tawi (Ia13),"Tawi-Tawi Badjaw, Badjau",1960
+EA,Ia14,xd737,Tao,Yami (Ia14),Yami,1930
+EA,Ia15,xd738,Manobo,Manobo (Ia15),,1920
+EA,Ia16,xd739,Kalinga,Kalinga (Ia16),,1910
+EA,Ac8,xd74,Yombe,Yombe (Ac8),"Bayombe, Mayombe",1930
+EA,Ia17,xd740,Bilaan,Bilaan (Ia17),,1910
+EA,Ia18,xd741,Bisayan,Bisayan (Ia18),Visayan,1950
+EA,Ia2,xd742,Sagada,Sagada (Ia2),Sagada Igorot,1950
+EA,Ia3,xd743,Ifugao,Ifugao (Ia3),,1920
+EA,Ia4,xd744,Subanun,Subanun (Ia4),,1950
+EA,Ia5,xd745,Hanunoo,Hanunoo (Ia5),,1950
+EA,Ia6,xd746,Paiwan,Paiwan (Ia6),,1930
+EA,Ia7,xd747,Tagbanua,Tagbanua (Ia7),,1950
+EA,Ia8,xd748,Bontok,Bontok (Ia8),,1900
+EA,Ia9,xd749,Ami,Ami (Ia9),Pangcah,1930
+EA,Ac9,xd75,Ngoni,Ngoni (Ac9),Angoni,1940
+EA,Ib1,xd750,Iban,Iban (Ib1),"Dayak, Sea Dayak",1950
+EA,Ib2,xd751,Javanese,Javanese (Ib2),,1950
+EA,Ib3,xd752,Balinese,Balinese (Ib3),,1950
+EA,Ib4,xd753,Toba Batak,Batak (Ib4),"Toba, Batak",1930
+EA,Ib5,xd754,Kadazan-Dusun,Dusun (Ib5),Dusun,1920
+EA,Ib6,xd755,Minangkabau,Minangkabau (Ib6),,1920
+EA,Ib7,xd756,Mentaweians,Mentaweians (Ib7),,1920
+EA,Ib8,xd757,Anak Dalam,Kubu (Ib8),"Orang Batin Sembilan, Orang Rimba, Kubu",1900
+EA,Ib9,xd758,Punan,Punan (Ib9),,1950
+EA,Ic1,xd759,Macassarese,Macassarese (Ic1),,1940
+EA,Ad1,xd76,Bajuni,Bajun (Ad1),"Wabajuni, Bajun, Bagiuni, Barjun, Wagunya",1950
+EA,Ic10,xd760,Tobelorese,Tobelorese (Ic10),Togutil,1910
+EA,Ic11,xd761,Ambonese,Ambonese (Ic11),,1950
+EA,Ic12,xd762,Sumbawanese,Sumbawanese (Ic12),,1951
+EA,Ic13,xd763,Kodi,Kodi (Ic13),West Sumbanese,1950
+EA,Ic2,xd764,Alorese,Alorese (Ic2),Abui,1940
+EA,Ic3,xd765,Belu,Belu (Ic3),,1950
+EA,Ic4,xd766,Rotinese,Rotinese (Ic4),"Atahori Rote, Hataholi Lote",1920
+EA,Ic5,xd767,Toradja,Toradja (Ic5),,1910
+EA,Ic6,xd768,Tanimbarese,Tanimbarese (Ic6),,1930
+EA,Ic7,xd769,Ili-Mandiri,Ili-Mandiri (Ic7),,1920
+EA,Ad10,xd77,Shambaa,Shambala (Ad10),"Wasambaa, Shambala, Sambara, Waschambala",1910
+EA,Ic8,xd770,Kei,Kei (Ic8),Kei Islanders,1890
+EA,Ic9,xd771,Sumbanese,Sumbanese (Ic9),Tau Humba,1930
+EA,Id1,xd772,Northern Aranda,Aranda (Id1),"Aranda (Northern), Northern Arenda, Arunta",1900
+EA,Id10,xd773,Walbiri,Walbiri (Id10),Warlpiri,1930
+EA,Id11,xd774,Gidjingali,Gidjingali (Id11),"Burarra, Gun-nartpa",1950
+EA,Id12,xd775,Yir Yoront,Yir Yoront (Id12),,1930
+EA,Id13,xd776,Anindilyagwa,Groote Eylandt (Id13),"Enindilywakwa, Groote Eylandt, Groote Eyelandt",1930
+EA,Id2,xd777,"Yolngu, Dhuwal",Murngin (Id2),"Murngin, Wulamba, Dhuwal",1930
+EA,Id3,xd778,Tiwi,Tiwi (Id3),,1920
+EA,Id4,xd779,Diyari,Dieri (Id4),"Dieri, Dieri",1900
+EA,Ad11,xd78,Bena,Bena (Ad11),Wabena,1930
+EA,Id5,xd780,Kariyarra,Kariera (Id5),Kariera,1910
+EA,Id6,xd781,Wikmunkan,Wikmunkan (Id6),Wikmunkun,1920
+EA,Id7,xd782,Murriny Patha,Murinbata (Id7),"Murriny Patha, Murinbata",1940
+EA,Id8,xd783,Tasmanians (northwestern),Tasmanians (Id8),"Palawa, Tasmanians (northwestern), Tasmanians (Western), Tasmanians (West Coast)",1830
+EA,Id9,xd784,Ngiyambaa,Wongaibon (Id9),Wongaibon,1910
+EA,Ie1,xd785,Mee,Kapauku (Ie1),Kapauku,1950
+EA,Ie10,xd786,Motu,Motu (Ie10),,1950
+EA,Ie11,xd787,Kakoli,Kakoli (Ie11),,1950
+EA,Ie12,xd788,Kwoma,Kwoma (Ie12),,1930
+EA,Ie13,xd789,Kiwai,Kiwai (Ie13),,1920
+EA,Ad12,xd79,Gusii,Gusii (Ad12),"Abagusii, Gizii, Kissi, Kosova",1940
+EA,Ie14,xd790,Miriam,Miriam (Ie14),,1900
+EA,Ie15,xd791,Abelam,Abelam (Ie15),,1930
+EA,Ie16,xd792,Kutubu,Kutubu (Ie16),,1940
+EA,Ie17,xd793,Siane,Siane (Ie17),,1940
+EA,Ie18,xd794,Kimam,Kimam (Ie18),Frederik-Hendrik Islanders,1940
+EA,Ie19,xd795,Marind-Amin,Marindamin (Ie19),"Marindamin, Tugeri",1910
+EA,Ie2,xd796,Wantoat,Wantoat (Ie2),,1920
+EA,Ie20,xd797,Koita,Koita (Ie20),,1900
+EA,Ie21,xd798,Mailu,Mailu (Ie21),,1900
+EA,Ie22,xd799,Mekeo,Mekeo (Ie22),,1900
+EA,Aa8,xd8,/Xam,Xam (Aa8),"Xam, Cape Bushman",1850
+EA,Ad13,xd80,Kiga,Chiga (Ad13),"Chiga, Bachiga, Ciga, Kyiga",1930
+EA,Ie23,xd800,Muju,Muju (Ie23),,1950
+EA,Ie24,xd801,Koiari,Koiari (Ie24),,1870
+EA,Ie25,xd802,Mafulu,Mafulu (Ie25),,1920
+EA,Ie26,xd803,Ngarawapum,Ngarawapum (Ie26),,1940
+EA,Ie27,xd804,Banaro,Banaro (Ie27),,1910
+EA,Ie28,xd805,Busama,Busama (Ie28),,1940
+EA,Ie29,xd806,Manam,Manam (Ie29),,1930
+EA,Ie3,xd807,Arapesh,Arapesh (Ie3),,1930
+EA,Ie30,xd808,Mimika,Mimika (Ie30),,1950
+EA,Ie31,xd809,Fore,Fore (Ie31),,1950
+EA,Ad14,xd81,Luguru,Luguru (Ad14),Waluguru,1930
+EA,Ie32,xd810,Sio,Sio (Ie32),,1964
+EA,Ie33,xd811,Soromadja,Soromadja (Ie33),Tor,1950
+EA,Ie34,xd812,Bgu,Bgu (Ie34),,1960
+EA,Ie35,xd813,Iatmul,Iatmul (Ie35),,1930
+EA,Ie36,xd814,Samarokena,Samarokena (Ie36),,1950
+EA,Ie37,xd815,Star Mountain,Star Mountain (Ie37),Star Mountain Papuans,1960
+EA,Ie38,xd816,Dani,Dani (Ie38),,1960
+EA,Ie39,xd817,Elema,Elema (Ie39),,1920
+EA,Ie4,xd818,Wogeo,Wogeo (Ie4),,1930
+EA,Ie5,xd819,Keraki,Keraki (Ie5),,1930
+EA,Ad15,xd82,Iwa,Iwa (Ad15),"Awiwa, Wawiwa, Wiwa",1900
+EA,Ie6,xd820,Waropen,Waropen (Ie6),,1930
+EA,Ie7,xd821,Enga,Enga (Ie7),,1950
+EA,Ie8,xd822,Purari,Purari (Ie8),,1910
+EA,Ie9,xd823,Orokaiva,Orokaiva (Ie9),,1920
+EA,If1,xd824,Palauans,Palauans (If1),,1940
+EA,If10,xd825,Nomoians,Nomoians (If10),Mortlock Islanders,1940
+EA,If11,xd826,Kosraeans,Kusaians (If11),Kusaians,1860
+EA,If12,xd827,Bikinians,Bikinians (If12),,1940
+EA,If13,xd828,Nauruans,Nauruans (If13),,1900
+EA,If14,xd829,Makin,Makin (If14),Gilbertese,1890
+EA,Ad16,xd83,Ngonde,Ngonde (Ad16),"Konde, Nkonde, Wangonde",1920
+EA,If15,xd830,Carolinians,Carolinians (If15),,1930
+EA,If16,xd831,Lamotrek,Lamotrek (If16),,1960
+EA,If17,xd832,Marshallese,Marshallese (If17),,1900
+EA,If2,xd833,Trukese,Trukese (If2),Chuukese,1940
+EA,If3,xd834,Majuro,Majuro (If3),Marshallese,1940
+EA,If4,xd835,Ifaluk,Ifuluk (If4),Ifuluk,1940
+EA,If5,xd836,Ponapeans,Ponapeans (If5),Pohnpeian,1910
+EA,If6,xd837,Yapese,Yapese (If6),,1910
+EA,If7,xd838,Gilbert Onotoa,Gilbert Onotoa (If7),"Onotoa, Gilbertese",1940
+EA,If8,xd839,Chamorro,Chamorro (If8),,1950
+EA,Ad17,xd84,Safwa,Safwa (Ad17),Wassafwa,1920
+EA,If9,xd840,Ulithians,Ulithians (If9),,1900
+EA,Ig1,xd841,Siuai,Siuai (Ig1),,1940
+EA,Ig10,xd842,Usiai,Usiai (Ig10),,1950
+EA,Ig11,xd843,Rossel Islanders,Rossel (Ig11),Rossel,1920
+EA,Ig12,xd844,Choiseulese,Choiseulese (Ig12),,1900
+EA,Ig13,xd845,Aua,Aua (Ig13),,1900
+EA,Ig14,xd846,Dahuni,Dahuni (Ig14),,1900
+EA,Ig15,xd847,Bakovi,Bakovi (Ig15),,1950
+EA,Ig16,xd848,Bwaidoga,Bwaidoga (Ig16),,1950
+EA,Ig17,xd849,Kombe,Koobe (Ig17),Koobe,1950
+EA,Ad18,xd85,Bende,Bende (Ad18),"Vende, Wabende",1910
+EA,Ig18,xd850,Kwaio,Kwaio (Ig18),,1960
+EA,Ig19,xd851,Molima,Molima (Ig19),,1950
+EA,Ig2,xd852,Trobriands,Trobriands (Ig2),,1910
+EA,Ig20,xd853,Kaoka,Kaoka (Ig20),Kaukau,1920
+EA,Ig21,xd854,Tangu,Tangu (Ig21),Tanga,1930
+EA,Ig3,xd855,Kurtatchi,Kurtatchi (Ig3),Buka,1930
+EA,Ig4,xd856,Lesu,Lesu (Ig4),New Irelanders,1930
+EA,Ig5,xd857,Dobuans,Dobuans (Ig5),,1920
+EA,Ig6,xd858,Ulawans,Ulawans (Ig6),,1900
+EA,Ig7,xd859,Lakalai,Lakalai (Ig7),Western Nakanai,1950
+EA,Ad19,xd86,Fipa,Fipa (Ad19),Wafipa,1910
+EA,Ig8,xd860,Simboese,Simboese (Ig8),Eddystone Islanders,1910
+EA,Ig9,xd861,Manus,Manus (Ig9),,1920
+EA,Ih1,xd862,Mota,Mota (Ih1),,1890
+EA,Ih10,xd863,Tannese,Tannese (Ih10),,1920
+EA,Ih11,xd864,Epi,Epi (Ih11),,1920
+EA,Ih12,xd865,Eromangans,Eromangans (Ih12),,1920
+EA,Ih13,xd866,Ranon,Ranon (Ih13),,1920
+EA,Ih14,xd867,Mbau Fijians,Mbau Fijians (Ih14),,1840
+EA,Ih2,xd868,Seniang,Seniang (Ih2),,1930
+EA,Ih3,xd869,Bunlap,Bunlap (Ih3),Pentecost,1950
+EA,Ad2,xd87,Nyoro,Nyoro (Ad2),"Banyoro, Kitara",1950
+EA,Ih4,xd870,Lau,Lau (Ih4),,1920
+EA,Ih5,xd871,Ajie,Ajie (Ih5),,1860
+EA,Ih6,xd872,Rotumans,Rotumans (Ih6),,1890
+EA,Ih7,xd873,Lifu,Lifu (Ih7),Lifu Islanders,1910
+EA,Ih8,xd874,Vanua Levu,Vanua Levu (Ih8),,1940
+EA,Ih9,xd875,Santa Cruz Islanders,Santa Cruz (Ih9),Santa Cruz,1930
+EA,Ii1,xd876,American Samoans,Samoans (Ii1),,1920
+EA,Ii10,xd877,Rennell Islanders,Rennell (Ii10),"Mugaba, Rennell",1950
+EA,Ii12,xd878,Tongans,Tongans (Ii12),,1920
+EA,Ii13,xd879,Uveans,Uveans (Ii13),Wallis Islanders,1830
+EA,Ad20,xd88,Nyamwezi,Nyamwezi (Ad20),"Banyamwezi, Wanyamwezi",1920
+EA,Ii14,xd880,Upolu Samoans,Upolu (Ii14),"Upolu, Western Samoans",1829
+EA,Ii2,xd881,Tikopia,Tikopia (Ii2),,1930
+EA,Ii3,xd882,Pukapukans,Pukapukans (Ii3),Danger Islanders,1930
+EA,Ii4,xd883,Ellice,Ellice (Ii4),Tuvalu Islanders,1890
+EA,Ii5,xd884,Ontong Java,Ontong Java (Ii5),"Leuenuwa, Lord Howe's Islanders",1920
+EA,Ii6,xd885,Tokelau,Tokelau (Ii6),,1900
+EA,Ii7,xd886,Kapingamarangi,Kapingamarang (Ii7),Kapingamarang,1910
+EA,Ii8,xd887,Futunans,Futunans (Ii8),Horne Islanders,1840
+EA,Ii9,xd888,Niueans,Niueans (Ii9),,1840
+EA,Ij1,xd889,Mangaians,Mangaians (Ij1),,1820
+EA,Ad21,xd89,Pimbwe,Pimbwe (Ad21),Bapimbwe,1930
+EA,Ij10,xd890,Tongarevans,Tongarevans (Ij10),Penrhyn Islanders,1900
+EA,Ij2,xd891,Māori,Maori (Ij2),Maori,1820
+EA,Ij3,xd892,Marquesans,Marquesans (Ij3),,1900
+EA,Ij4,xd893,Manihikians,Manihikians (Ij4),,1850
+EA,Ij5,xd894,Raroians,Raroians (Ij5),Rareians,1900
+EA,Ij6,xd895,Hawaiians,Hawaiians (Ij6),,1800
+EA,Ij7,xd896,Mangarevans,Mangarevans (Ij7),,1900
+EA,Ij8,xd897,Tahitians,Tahitians (Ij8),Society Islanders,1900
+EA,Ij9,xd898,Easter Islanders,Easter Island (Ij9),Easter Island,1860
+EA,Aa9,xd9,Hadza,Hatsa Kindiga (Aa9),"Hadzabe, Hatsa Kindiga, Hadza, Kindiga",1910
+EA,Ad22,xd90,Sukuma,Sukuma (Ad22),"Basukuma, Wassukuma",1950
+EA,Ad23,xd91,Sangu,Sangu (Ad23),Rori,1910
+EA,Ad24,xd92,Gogo,Gogo (Ad24),Wagogo,1910
+EA,Ad25,xd93,Rangi,Rangi (Ad25),"Irangi, Langi, Warangi",1900
+EA,Ad26,xd94,Turu,Turu (Ad26),"Lima, Walimi, Waniaturu",1910
+EA,Ad27,xd95,Kwere,Kwere (Ad27),Wakwere,1880
+EA,Ad28,xd96,Zigula,Zigula (Ad28),"Seguha, Wazigua, Zegura",1880
+EA,Ad29,xd97,Hadimu,Hadimu (Ad29),Wahadimu,1930
+EA,Ad3,xd98,Chagga,Chagga (Ad3),"Dschagga, Wachagga",1910
+EA,Ad30,xd99,Digo,Digo (Ad30),"Adigo, Wadigo",1890
+EA,Nd26,xd992,Wadatkuht,Wadatkuht (Nd26),Honey Lake Paiute,1870
+EA,Nd39,xd995,Spring Valley Shoshoni,Spring Valley (Nd39),"Spring Valley, Snake Valley Shoshoni, Antelope Valley Shoshoni",1870
+Binford,B72,xd1,!Kung,!Kung (B72),"Kung Bushmen, !Kung (Was Nyae), Was Nyae",1950
+Binford,B296,xd1000,Kuskowagmut,Kuskowagmut (B296),,1850
+Binford,B322,xd1001,Syilx,Okanagan (B322),Okanagan,1860
+Binford,B335,xd1003,Round Lake Ojibwa,Round Lake Ojibwa (B335),"Weagamow, North Caribou Lake, Round Lake",1900
+Binford,B339,xd1004,North Albany Ojibwa,North Albany Ojibwa (B339),North Albany,1850
+Binford,B340,xd1005,Waswanipi Cree,Waswanipi Cree (B340),Waswanipi,1900
+Binford,B341,xd1006,Wegamon Ojibwa,Wegamon Ojibwa (B341),Wegamon,1890
+Binford,B350,xd1007,Mountain Dene,Mountain (B350),"Mountain, Sahaptin, Sahtu, Sahtu Dene",1800
+Binford,B351,xd1008,Hän,Han (B351),Han,1880
+Binford,B352,xd1009,Hare,Hare (B352),"K'ahsho Got'ine, Sahtu, Sahtu Dene",1860
+Binford,B354,xd1010,Koyukon,Koyukon (B354),,1880
+Binford,B360,xd1011,Waskaganish,Rupert House Cree (B360),"Rupert House Cree, Rupert House",1900
+Binford,B363,xd1012,Tutchone,Tutchone (B363),,1890
+Binford,B364,xd1013,Holikachuk,Holikachuk (B364),,1860
+Binford,B369,xd1014,Norton Sound Inuit,Norton Sound Inuit (B369),Norton Sound Eskimo,1870
+Binford,B370,xd1015,Kobuk Inuit,Kobuk Inuit (B370),Kobuk Eskimo,1890
+Binford,B371,xd1016,Kotzebue Sound Inuit,Kotzebue Sound Inuit (B371),Kotzebue Sound,1880
+Binford,B373,xd1017,Great Whale Inuit,Great Whale Inuit (B373),"Great Whale Eskimo, Kuujjuarapik",1890
+Binford,B375,xd1018,Noatak Inuit,Noatak Inuit (B375),"Nuataaq Inupiaq, Nuataagmiut, Noatak Eskimo",1900
+Binford,B378,xd1019,Inuvialuit,Mackenzie Inuit (B378),"Western Canadian Inuit, Mackenzie Eskimo, Mackenzie Inuit",1910
+Binford,B379,xd1020,Sivokamiut Inuit,Sivokamiut Inuit (B379),Sivokamiut Eskimo,1920
+Binford,B380,xd1021,Inupiat,Point Hope Inuit (B380),"Tikigagmiut, Inupiat, Point Hope Inuit, Point Hope Eskimo",1880
+Binford,B381,xd1022,Copper Inuit,Copper Inuit (B381),"Kitlinermiut, Copper Eskimo",1920
+Binford,B382,xd1023,Utkuhikhalingmiut,Utkuhikhalingmiut (B382),,1920
+Binford,B383,xd1024,Aivilingmiut Inuit,Aivilingmiut Inuit (B383),Aivilingmiut Eskimo,1880
+Binford,B384,xd1025,Iglulik Inuit,Iglulik Inuit (B384),"Igloolik, Iglulingmiut",1920
+Binford,B359,xd1026,Nabesna,Nabesna (B359),Upper Tanana Indians,1930
+Binford,B297,xd1027,Chugach,Chugash (B297),"Chugachigmiut, Chugash",1930
+Binford,B377,xd1029,Nunamiut,Nunamiut Inuit (B377),"Inland North Alaskan Eskimo, Nunamiut Eskimo",1950
+Binford,B386,xd1030,Baffin Island Inuit,Baffin Island Inuit (B386),Baffinland,1880
+Binford,B390,xd1031,Inughuit (Northern Greenland),Polar Inuit (B390),"Polar Eskimo, Arctic Highlanders, Smith Sound Inuit, Smith Sound Eskimo",1880
+Binford,B361,xd1032,Tlicho,Dogrib (B361),Dogrib,1860
+Binford,B358,xd1033,Délįne,Satudene-Bear Lake (B358),"Bear Lake Dene, Satudene, Great Bear Lake People, Sahtu, Sahtu Dene",1860
+Binford,B345,xd1034,DeneTha,Slave (B345),"Slave, Deh Cho (Southern Slavey), Slavey, Dene (distinguish from speakers of the Dene language)",1860
+Binford,B349,xd1035,Dakelh,Carrier (B349),"Carrier, Takulli",1880
+Binford,B389,xd1036,Tareumiut,Tareumiut Inuit (B389),"Tagiumiut, Point Barrow Eskimo, Barrow",1880
+Binford,B356,xd1037,Kutchin,Kutchin (B356),"Gwich'in, Loucheux",1880
+Binford,B374,xd1038,Caribou Inuit,Caribou Inuit (B374),Caribou Eskimo,1900
+Binford,B372,xd1039,Labrador Inuit,Labrador Inuit (B372),"Sukinninmiut, Labrador Eskimo",1890
+Binford,B388,xd1040,Tasiilaq,Angmaksalik (B388),"Angmagsalik (East Greenland), Ammassalik, East Greenland Eskimo, Polar Eskimo",1880
+Binford,B385,xd1041,Kalaallit (West Greenland),West Greenland (B385),"West Greenland Eskimo, West Greenland Inuit",1880
+Binford,B362,xd1042,Dena'ina,Tanaina (B362),Tanaina,1870
+Binford,B347,xd1043,Tahltan,Tahltan (B347),Southwestern Nahane,1870
+Binford,B343,xd1044,Sekani,Sekani (B343),"Tsek'ene, Sicauni",1880
+Binford,B344,xd1045,Beaver,Beaver (B344),"Denezaa, Tsattine",1850
+Binford,B355,xd1046,Dene,Chippewyan (B355),Chipewyan,1880
+Binford,B342,xd1048,Montagnais,Montagnais (B342),"Innu, Naskapi",1880
+Binford,B332,xd1049,Northern Saulteaux,North Saulteaux (B332),"N. Saulteaux, North Sauteaux",1870
+Binford,B334,xd1050,Pekangekum,Pekangekum Ojibwa (B334),,1940
+Binford,B337,xd1051,Nipigon,Nipigon Ojibwa (B337),"Lake Nipigon Ojibway, Anishinaabek, Southern Saulteaux",1800
+Binford,B331,xd1053,Rainy River Ojibwe,Rainy River Ojibwa (B331),"Gojijiwininiwag, Rainy River, Emo",1880
+Binford,B328,xd1054,Katikitegon,Katikitegon (B328),Wisconsin Ojibwa,1800
+Binford,B327,xd1055,Eastern Ojibwa,Kitchibaun Ojibwa (B327),"Kitchibuan, Kitchibuan Ojibwa; Kitchibaun Ojibwa",1870
+Binford,B346,xd1056,Kaska,Kaska (B346),Nahane,1920
+Binford,B329,xd1058,Mi'kmaq,Micmac (B329),Micmac,1700
+Binford,B387,xd1060,Netsilik,Netsilik Inuit (B387),"Netsilik Inuit, Netsilik Eskimo",1880
+Binford,B338,xd1062,Mistissini Cree,Mistassini Cree (B338),Mistassini Cree,1880
+Binford,B365,xd1063,Naskapi,Naskapi (B365),,1890
+Binford,B299,xd1064,Nunivak,Nunivak (B299),Nunivak Cup'ig,1930
+Binford,B353,xd1065,Attawapiskat Cree,Attawapiskat Cree (B353),Attawapiskat,1900
+Binford,B357,xd1066,Deg Xit'an,Ingalik (B357),Ingalik,1880
+Binford,B298,xd1067,Aleut,Aleut (B298),Unagan,1830
+Binford,B290,xd1068,Haida,Haida (B290),,1890
+Binford,B336,xd1069,Alkatcho,Alkatcho (B336),"Tsuu'Tina, Alkatcho Carrier, Ilgatcho, Ilgachuz",1865
+Binford,B273,xd1070,Nootka,Nootka (B273),"Nuu-chah-nulth, Aht, Central Nootka",1880
+Binford,B268,xd1072,Squamish,Squamish (B268),,1880
+Binford,B282,xd1073,Comox,Comox (B282),K'ómoks,1860
+Binford,B277,xd1074,Lummi,Lummi (B277),Lhaq'temish,1880
+Binford,B285,xd1075,Klallam,Clallam (B285),Clallum,1860
+Binford,B270,xd1076,Puyallup,Puyallup (B270),,1870
+Binford,B284,xd1077,Quileute,Quileute (B284),,1880
+Binford,B274,xd1078,Lower Chinook,Chinook (B274),Chinook,1850
+Binford,B271,xd1079,Twana,Twana (B271),,1850
+Binford,B281,xd1080,Tillamook,Tillamook (B281),Nehalem,
+Binford,B275,xd1081,Coos,Coos (B275),,1860
+Binford,B292,xd1082,Tlingit,Tlingit (B292),"Kolosh, Southern Tlingit",1880
+Binford,B283,xd1083,Heiltsuk,Bella-Bella (B283),"Bellabella, Bella Bella",1880
+Binford,B286,xd1084,Makah,Makah (B286),,1860
+Binford,B278,xd1085,Quinault,Quinault (B278),,1860
+Binford,B280,xd1086,Cowichan,Cowichan (B280),Hul'q'umi'num Mustimuhw,1880
+Binford,B279,xd1087,Stó:lō,Stalo (B279),"Stalo, Halkomelem, Fraser River Cowichan",1880
+Binford,B269,xd1088,Alsea,Alsea (B269),,1860
+Binford,B288,xd1090,Kwakiutl,Kwakiutl (B288),"Southern Kwakiutl,Kwagu'ł, Kwagyewlth",1890
+Binford,B176,xd1091,Takelma,Tekelma (B176),"Rogue River Indians, Tekelma",1860
+Binford,B181,xd1092,Tututni,Tututni (B181),,1870
+Binford,B179,xd1093,Shasta,Shasta (B179),,1860
+Binford,B162,xd1094,Chimariko,Chimariko (B162),,1860
+Binford,B182,xd1095,Karuk,Karok (B182),Karok,1860
+Binford,B180,xd1096,Hupa,Hupa (B180),,1860
+Binford,B184,xd1097,Wiyot,Wiyot (B184),,1860
+Binford,B167,xd1098,Lassik,Lassik (B167),,
+Binford,B169,xd1099,Mattole-Bear River,Mattole (B169),"Mattole, Bear River",
+Binford,B166,xd1100,Sinkyone,Sinkyone (B166),,1860
+Binford,B186,xd1101,Yurok,Yurok (B186),,1850
+Binford,B295,xd1102,Eyak,Eyak (B295),dAXunhyuu,1890
+Binford,B178,xd1103,Tolowa,Tolowa (B178),,1870
+Binford,B289,xd1104,Tsimshian,Tsimshim (B289),Ts’msyan,1880
+Binford,B287,xd1105,Haisla,Haisla (B287),Kitimat,1880
+Binford,B291,xd1106,Nuxalk,Bella-Coola (B291),"Nuxalkmc, Bellacoola, Bilqula, Bella Coola",1880
+Binford,B153,xd1107,Nomlaki,Nomlaki (B153),Central Wintun,1850
+Binford,B187,xd1108,Achumawi,Achomawi (B187),Achomawi,1860
+Binford,B174,xd1109,Yana,Northern Yana (B174),Nozi,1860
+Binford,B185,xd1110,Maidu,Mountain Maidu (B185),Pujunan,1850
+Binford,B163,xd1111,Nisenan,Nisenan (B163),"Southern Maidu, Nisenan Southern Maidu",1850
+Binford,B160,xd1112,Wintu,Wintu (B160),Northern Wintu,1860
+Binford,B177,xd1113,Coast Yuki,Coast Yuki (B177),,1860
+Binford,B173,xd1115,Northern Pomo,Nothern Pomo (B173),,1860
+Binford,B158,xd1116,Eastern Pomo,Eastern Pomo (B158),,1860
+Binford,B159,xd1116,Clear Lake Pomo,Clear Lake Pomo (B159),Eastern Pomo,1860
+Binford,B152,xd1118,Tübalulabal,Tubatulabal (B152),Tubatulabal,1850
+Binford,B172,xd1119,Wappo,Wappo (B172),,1860
+Binford,B170,xd1120,Lake Miwok,Lake Miwok (B170),,
+Binford,B155,xd1121,Patwin,Patwin (B155),Southern Wintun,1850
+Binford,B157,xd1122,Western Mono,Monache (B157),"Monachi, Western Mono, Monache",1870
+Binford,B148,xd1123,Southern Valley Yokuts,Lake Yokuts (B148),"Lake Yokuts, Tachi Yokuts, Chunut Yokuts",1860
+Binford,B151,xd1124,Wukchumni,Wukchumi (B151),Central Foothills Yokuts,1860
+Binford,B164,xd1125,Salinan,Salinan (B164),,1805
+Binford,B199,xd1126,Kawaiisu,Kawaiisu Shoshoni (B199),Kawaiisu Shoshoni,1860
+Binford,B161,xd1127,Chumash,Chumash (B161),,1860
+Binford,B156,xd1128,Tongva,Gabrieleno (B156),"Gabrielo, Gabrielino, Gabrieleno",1770
+Binford,B154,xd1129,Northern Foothills Yokuts,Yokuts (northern foothill) (B154),Northern Foothill Yokuts,1850
+Binford,B149,xd1130,Serrano,Serrano (B149),,1870
+Binford,B144,xd1131,Cahuilla (Desert),Cahuilla (B144),Desert Cahuilla,1870
+Binford,B145,xd1132,Cupeño,Cupeno (B145),"Kuupangaxwichem, Cupeno",1870
+Binford,B150,xd1133,Luiseño,Luiseno (B150),"Payómkawichum, Luiseno",1860
+Binford,B146,xd1134,Kiliwa,Kiliwa (B146),K'olew,1880
+Binford,B183,xd1135,Atsugewi,Atsugewi (B183),,1860
+Binford,B175,xd1136,Central Sierra Miwok,Sierra Miwok (B175),Miwok,1850
+Binford,B147,xd1137,Kumeyaay,Diegueno (B147),"Diegueño, Diegueno",1850
+Binford,B171,xd1138,Yuki,Yuki (B171),,1850
+Binford,B189,xd1139,Klamath,Klamath (B189),,1860
+Binford,B188,xd1140,Modoc,Modoc (B188),,1860
+Binford,B315,xd1141,Tenino,Tenino (B315),"Warmsprings Sahaptin, Yenino",1850
+Binford,B325,xd1142,Nlaka'pamux,Thompson (B325),"Thompson, Nitlakapamuk, Thompson River Salish",1860
+Binford,B333,xd1143,Shuswap,Shuswap (B333),Secwepemc,1850
+Binford,B330,xd1144,Bitterroot Salish,Flathead (B330),"Salish, Flathead",1860
+Binford,B326,xd1145,Kalispel,Kalispel (B326),,1870
+Binford,B320,xd1146,Coeur d’Alene,Coeur d'Alene (B320),"Schitsu'umsh, Skitswish",1860
+Binford,B321,xd1147,Sinkaitk,Sinkaietk (B321),Southern Okanagon,1880
+Binford,B317,xd1148,Wenatchi,Wenatchi (B317),,1870
+Binford,B318,xd1149,Klikitat,Yakima (B318),Yakima,1880
+Binford,B319,xd1150,Wishram,Wishram (B319),,1860
+Binford,B316,xd1151,Umatilla,Umatilla (B316),,1860
+Binford,B222,xd1152,Southern Ute,Southern Ute (Wimonantci Ute) (B222),"Wimonuntci, Weminute, Wimonantci Ute",1860
+Binford,B324,xd1153,Nez Perce,Nez Perce (B324),"Nimi'ipuu, Sahaptin",1850
+Binford,B231,xd1155,Wadadokado,Wadadokado Paiute (B231),"Paiute, Northern Paiute",1870
+Binford,B226,xd1157,Kidutokado,Kidutokado (Surprise Valley Paiute) (B226),"Gididika, Surprise Valley Paiute",1870
+Binford,B208,xd1160,Kuyuidokado,Kuyuidokado (Pyramid Lake Paiute) (B208),Pyramid Lake Paiute,1860
+Binford,B210,xd1161,Toedokado,Cattail Paiute (B210),"Stillwater Paiute, Cattail Paiute",1870
+Binford,B206,xd1162,Tunava (Deep Springs),Deep Springs Paiute (B206),Deep Springs Valley Paiute,1860
+Binford,B211,xd1162,Tunava (Fish Lake),Fish Lake Paiute (B211),Fish Lake Valley Paiute,1860
+Binford,B202,xd1164,Eastern Mono,Owens Valley Paiute (Eastern Mono) (B202),"Owens Valley Paiute, Eastern Mono",1870
+Binford,B197,xd1165,Koso,Koso Mountain Shoshoni (B197),"Western Panamint, Koso Mountain Shoshoni, Little Lake Shoshoni",1860
+Binford,B192,xd1166,Tümpisa Shoshone (Death Valley),Death Valley Shoshoni (B192),Death Valley Shoshoni,1860
+Binford,B195,xd1166,Tümpisa Shoshone (Panamint),Panamint Shoshoni (B195),Panamint Shoshoni,1850
+Binford,B200,xd1166,Tümpisa Shoshone (Saline),Saline Valley Shoshoni (B200),Saline Valley Shoshoni,1860
+Binford,B218,xd1169,Mahaguaduka,Reese River Shoshoni (B218),Reese River Shoshoni,1860
+Binford,B233,xd1170,Wiyambituka,Little Smokey Shoshoni (B233),"Morey Shoshoni, Great Smokey Valley Shoshoni, Little Smokey Valley Shoshoni",1860
+Binford,B217,xd1171,Railroad Valley Shoshoni,Railroad Valley Shoshoni (B217),Hamilton,1860
+Binford,B323,xd1174,Sanpoil,Sanpoil (B323),,1870
+Binford,B221,xd1175,Tubaduka,Grouse Creek Shoshoni (B221),Grouse Creek Shoshoni,1860
+Binford,B228,xd1176,Wadaduka,Wadaduica (Ruby Valley Shoshoni) (B228),"Ruby Valley Shoshoni, Pine Creek Shoshoni, Diamond Valley Shoshoni, Egan Canyon Shoshoni",1860
+Binford,B216,xd1178,White Knife Shoshoni,White Knife Shoshoni (B216),"Battle Mountain Shoshoni, Tosawihi",1860
+Binford,B229,xd1180,Bohogue,Bohogue (Northern Shoshoni) (B229),Fort Hall Shoshoni,1860
+Binford,B232,xd1181,Tukudika,Sheep Eater Shoshoni (B232),"Sheep-Eater Shoshoni, Lemhi Mountain Shoshoni",1860
+Binford,B207,xd1182,Agaiduka,Salmon Eater Shoshoni (B207),"Salmon-Eater Shoshoni, Lemhi River Shoshoni",1860
+Binford,B214,xd1183,Gosiute,Gosiute Shoshoni (B214),"Gosiute Shoshoni, Deep Creek Shoshoni",1860
+Binford,B201,xd1184,Antarianunts,Antarianunts Southern Paiute (B201),"Henry Mountains Paiute, Kaiparowits",1860
+Binford,B213,xd1185,Hukundika,Hukundika Shoshoni (B213),"Seed-Eaters, Northern Shoshoni, Hukunduka, Hukuniduica",1870
+Binford,B204,xd1189,Southern Paiute (Kaibab and Las Vegas),Kaibab Southern Paiute (B204),"Kaivavwits, Southern Paiute, Las Vegas, Southern Paiute",1860
+Binford,B230,xd1194,Uintah Ute,Uintah Ute (B230),"Tompanowots, Yampa",1860
+Binford,B225,xd1196,Washo,Washo (B225),,1850
+Binford,B234,xd1199,Uncompahgre Ute,Uncompahgre Ute (B234),Mowataviwatsiu,1860
+Binford,B252,xd1200,Bannock,Bannock (B252),Eastern Bannock,1860
+Binford,B227,xd1201,Wind River Eastern Shoshone,Wind River Shoshoni (B227),"Wind River, Eastern Shoshoni, Kucundika, Buffalo Hunters, Buffalo-Eater",1860
+Binford,B198,xd1202,Hualapai,Walapai (B198),Walapai,1870
+Binford,B196,xd1203,Yavapai,Yavapai (B196),Apache-Mojave,1870
+Binford,B250,xd1205,Kutenai,Kutenai (B250),"Ktunaxa, Kootenay, Kootenai",1880
+Binford,B348,xd1206,Chilcotin,Chilcotin (B348),Tsilhqot'in,1880
+Binford,B276,xd1207,Lillooet,Lillooet (B276),"St'at'imc, Stlatlum",1860
+Binford,B253,xd1208,Gros Ventre,Gros-Ventre (B253),"A'ani, A'aninin, Haaninin",1870
+Binford,B257,xd1210,Assiniboine,Assiniboine (B257),"Hohe, Nakota, Stoney",1870
+Binford,B256,xd1211,Blackfoot,Blackfoot (B256),Siksika,1850
+Binford,B259,xd1212,Kainai,Blood (B259),"Blood, Kainah, Blood Tribe",1850
+Binford,B254,xd1213,Bungi,Bungi (Plains Ojibwa) (B254),"Plains Ojibwa, Bungee, Manitoba Saulteaux, Ojibway, Ojibwe",1850
+Binford,B193,xd1215,Karankawa,Karankawa (B193),,1800
+Binford,B243,xd1216,Kiowa,Kiowa (B243),,1870
+Binford,B255,xd1217,Piegan,Piegan (B255),Pikuni,1850
+Binford,B258,xd1218,Plains Cree,Plains Cree (B258),,1850
+Binford,B244,xd1219,Kiowa Apache,Kiowa Apache (B244),"Naisha Dene, Na'isha",1860
+Binford,B194,xd1221,Coahuilteco,Coahuilenos (B194),,1715
+Binford,B241,xd1222,Comanche,Comanche (B241),,1870
+Binford,B248,xd1223,Crow,Crow (B248),Apsaalooké,1870
+Binford,B245,xd1224,Cheyenne,Cheyenne (B245),,1860
+Binford,B260,xd1226,Sarcee,Sarsi (B260),"Tsuu, Sarci",1880
+Binford,B249,xd1227,Teton,Teton Sioux (Lakota) (B249),,1870
+Binford,B246,xd1228,Arapaho,Arapaho (B246),"Hinono'eiteen, Arapahoe",1860
+Binford,B242,xd1259,Chiricahua,Chiricahua Apache (B242),"Chiricahua Apache, Eastern Apache",1880
+Binford,B240,xd1275,Lipan Apache,Lipan Apache (B240),Lipan,1880
+Binford,B143,xd1289,Seri,Seri (B143),Comcaac,1900
+Binford,B191,xd1290,Chichimeca,Chichimec (B191),Chichimec,1570
+Binford,B35,xd1330,Paraujano,Paraujano (B35),Onoto,1950
+Binford,B38,xd1345,Pumé,Yaruro-Pume (B38),Yaruro,1989
+Binford,B39,xd1347,Guahibo,Guahibo (B39),,1960
+Binford,B36,xd1358,Shiriana,Shiriana (B36),"Kirishana, Xiriana",1960
+Binford,B43,xd1362,Sirionó,Siriono (B43),"Miá, Siriono",1940
+Binford,B55,xd1383,Yahgan,Yaghan (B55),,1870
+Binford,B54,xd1385,Ona,Ona (B54),,1880
+Binford,B51,xd1386,Tehuelche,Tehuelche (B51),Patagon,1870
+Binford,B53,xd1387,Alacaluf,Alacaluf (B53),Kawésqar,1900
+Binford,B41,xd1397,Bororo,Bororo (B41),,1920
+Binford,B45,xd1401,Nambikwara,Nambikwara (B45),Nambicura,1938
+Binford,B42,xd1403,Guató,Guato (B42),Guato,1901
+Binford,B50,xd1411,Aweikoma,Aweikomo (B50),"Xokleng, Shokleng, Botocudo of Santa Catarina, Bugre, Kaingang of Santa Catarina (though Aweikoma and Kaingang today considered separate groups)",1910
+Binford,B48,xd1413,Aimoré,Botocudo (B48),"Nac-nanuk, Nac-poruk, Botocudo",1880
+Binford,B165,xd1418,Kashaya Pomo,Southern Pomo (B165),"Southwest dialect, Southern Pomo",1860
+Binford,B70,xd2,Dorobo,Dorobo (B70),"Andorobo, Okiek, Wandorobbo",1920
+Binford,B65,xd5,Mbuti,Mbuti (B65),"Sua, BaSua, Kango, BaKango, Bambuti, BaMbuti Pygmies",1930
+Binford,B25,xd617,Nivkh,Gilyak (B25),Gilyak,1920
+Binford,B27,xd620,Nganasan,Nganasan (B27),Tavgi Samoyed,1933
+Binford,B28,xd622,Ungazikmit,Siberian Eskimo (B28),"Eskaleut, Asian Eskimo",1860
+Binford,B26,xd634,Yukaghir,Yukaghir (B26),,1900
+Binford,B22,xd635,Ainu,Ainu (B22),"Ainu (Hokkaido), Hokkaido",1900
+Binford,B24,xd636,Ket,Ket (B24),"Yenisei Ostyak, Yeniseians",1900
+Binford,B15,xd672,Chenchu,Chenchu (B15),,1940
+Binford,B8,xd686,Andamanese,Big Andaman Island (B8),"Big Andaman Island, Andamese",1870
+Binford,B10,xd690,Vedda,Vedda (B10),"Wanniyalaeto, Veddah",1900
+Binford,B73,xd7,Naron,Nharo (B73),Aikwe,1910
+Binford,B9,xd725,Semang,Semang (B9),,1920
+Binford,B3,xd757,Anak Dalam,Kubu (B3),"Orang Batin Sembilan, Orang Rimba, Kubu",1900
+Binford,B1,xd758,Punan,Punan (B1),0,1970
+Binford,B124,xd772,Northern Aranda,Northern Arenda (B124),"Aranda (Northern), Northern Arenda, Arunta",1900
+Binford,B109,xd773,Walbiri,Walbiri (B109),Warlpiri,1965
+Binford,B87,xd774,Gidjingali,Gidjingali (B87),"Burarra, Gun-nartpa",1950
+Binford,B94,xd775,Yir Yoront,Yir-yoront (B94),,1937
+Binford,B97,xd776,Anindilyagwa,Groote Eylandt (B97),"Enindilywakwa, Groote Eylandt, Groote Eyelandt",1930
+Binford,B88,xd777,"Yolngu, Dhuwal",Murngin (B88),"Murngin, Wulamba, Dhuwal",1930
+Binford,B95,xd778,Tiwi,Tiwi (B95),,1920
+Binford,B121,xd779,Diyari,Dieri (B121),"Dieri, Dieri",1900
+Binford,B106,xd780,Kariyarra,Kariera (B106),Kariera,1910
+Binford,B90,xd781,Wikmunkan,Wikmunkan (B90),Wikmunkun,1920
+Binford,B137,xd783,Tasmanians (northwestern),Tasmanians (western) (B137),"Palawa, Tasmanians (northwestern), Tasmanians (Western), Tasmanians (West Coast)",1830
+Binford,B130,xd784,Ngiyambaa,Wongaibon (B130),Wongaibon,1910
+Binford,B79,xd8,/Xam,/Xam (B79),"Xam, Cape Bushman",
+Binford,B69,xd9,Hadza,Hadza (B69),"Hadzabe, Hatsa Kindiga, Hadza, Kindiga",1910
+Binford,B2,xd900,Palawan Batak,Batek (B2),"Batek, Batak, Batek (Palawan), Palawan",1968
+Binford,B4,xd901,Shompen,Shompen (B4),Shamhap,1989
+Binford,B5,xd902,Onge,Onge (B5),"Andaman Islands (Onge), Onge Andamanese",1952
+Binford,B6,xd903,Jarawa,Jarwa (B6),"Andaman Islands (Jarwa), Jarawa Andamanese",1906
+Binford,B7,xd904,Ayta (Pinatubo),Ayta (Pinatubo) (B7),,1903
+Binford,B11,xd905,Hill Pandaram,Hill Pandaran (B11),"Hill Pandaran, Malapantāram, Malapandaram",1972
+Binford,B12,xd906,Agta (Casiguran),Agta (Casiguran) (B12),,1965
+Binford,B13,xd907,Agta (Isabela),Agta (Isabela) (B13),,1979
+Binford,B14,xd908,Agta (Cagayan),Agta (Cagayan) (B14),,1924
+Binford,B16,xd909,Mlabri,Mrabri (B16),Mrabri,1963
+Binford,B17,xd910,Paliyans,Paliyans (B17),,1963
+Binford,B18,xd911,Birhor,Birhor (B18),,1963
+Binford,B19,xd912,Kadar,Kadar (B19),,1946
+Binford,B20,xd913,Cholanaikkan,Cholanaickan (B20),"Malanaikan, Sholanaikan, Cholanaickan",1974
+Binford,B21,xd914,Nayaka,Nayaka (B21),,1978
+Binford,B23,xd915,Orogens,Orogens (B23),,1900
+Binford,B37,xd916,Akurio,Akuriyo (B37),Akuriyo,1968
+Binford,B40,xd917,Nukak,Nukak (B40),Macu Nukak,1990
+Binford,B44,xd918,Yuqui,Yuqui (B44),Mbia,1968
+Binford,B46,xd919,Calusa,Calusa (B46),,1600
+Binford,B47,xd920,Aché,Guayaki (Ache) (B47),"Guayaki (Ache), Guayaki, Ache",1975
+Binford,B49,xd921,Héta,Heta (B49),Heta,1954
+Binford,B52,xd922,Chono,Chono (B52),Chona,1880
+Binford,B60,xd923,Aka,Aka (B60),,1980
+Binford,B61,xd924,Bayaka,Bayaka (B61),,1976
+Binford,B62,xd925,Bambote,Bambote (B62),Bambote of Lake Tanganyika,1977
+Binford,B63,xd926,Baka,Baka (B63),Baka Pygmies,1980
+Binford,B64,xd927,Efe,Efe (B64),"BaMbuti, Mbuti, Bambuti Pygmies",1980
+Binford,B66,xd928,Mikea,Mikea (B66),"Vezo-Mikea, Masikoro-Mikea",
+Binford,B67,xd929,Hukwe,Hukwe (B67),,1950
+Binford,B68,xd930,Ha//om,Hai//om (B68),Hai//om,1920
+Binford,B71,xd931,Sekele,Sekele (B71),,1928
+Binford,B74,xd932,G/wi,G/wi (B74),,1962
+Binford,B75,xd933,Kua,Kua (B75),,1976
+Binford,B76,xd934,!Ko,!Ko (B76),,1968
+Binford,B77,xd935,/'Auni-Khomani,/Auni-Khomani (B77),/Auni-Khomani,1920
+Binford,B78,xd936,//Xegwi,//Xegwi (B78),Batwa (Lake Chrissie),1950
+Binford,B82,xd937,Kaurareg,Kaurareg (B82),,1848
+Binford,B83,xd938,Larikia,Larikia (B83),,1900
+Binford,B84,xd939,Gunwinygu,Gunwinggu (B84),Gunwinggu,1978
+Binford,B85,xd940,Mirrngadja,Mirrngadja (B85),,1970
+Binford,B86,xd941,Burarra,Anbarra (B86),"Anbarra, Gun-nartpa",1973
+Binford,B89,xd942,Yiiji,Jeidji (B89),Jeidji,1920
+Binford,B91,xd943,Kaakutju,Kakadu (B91),Kakadu,1920
+Binford,B92,xd944,Nunggubuyu,Nunggubuyu (B92),Wubuy,1960
+Binford,B93,xd945,Yintjingga,Yintjingga (B93),,1930
+Binford,B96,xd946,Kuku (Yalanji),Kuku (Yalanji) (B96),Yuku,1880
+Binford,B98,xd947,Walmbaria,Walmbaria (B98),,1926
+Binford,B99,xd948,Mulluk,Mulluk (B99),Malakmalak,1900
+Binford,B100,xd949,Worrorra,Worora (B100),Worora,
+Binford,B101,xd950,Kija,Lungga (B101),"Kija, Lungga, Kija, Lungka",1934
+Binford,B102,xd951,Lardil,Lardil (B102),,1909
+Binford,B103,xd952,Kaiadilt,Kaiadilt (B103),Kayardild,1928
+Binford,B104,xd953,Karajarri,Karadjeri (B104),Karadjeri,
+Binford,B105,xd954,Mamu,Mamu (B105),,1900
+Binford,B107,xd955,Warunggu,Warunggu (B107),Woronggo,1870
+Binford,B108,xd956,Djaru,Djaru (B108),Jaru,1934
+Binford,B110,xd957,Ngatjan,Ngatjan (B110),,1880
+Binford,B111,xd958,Mardudjara,Mardudjara (B111),Ngatjan,1960
+Binford,B112,xd959,Ildawongga,Ildawongga (B112),,1968
+Binford,B113,xd960,Pintubi,Pintubi (B113),,1936
+Binford,B114,xd961,Undanbi,Undanbi (B114),Undambi,1848
+Binford,B115,xd962,Jinibarra,Jinibarra (B115),,1840
+Binford,B116,xd963,Karuwali,Karuwali (B116),,1900
+Binford,B117,xd964,Alyawara,Alyawara (B117),,1965
+Binford,B118,xd965,Ngatatjara,Ngatatjara (B118),,1968
+Binford,B119,xd966,Badjalang,Badjalang (B119),,1850
+Binford,B120,xd967,Pitjandjara,Pitjandjara (B120),Pitjantjatjara,1968
+Binford,B122,xd968,Southern Aranda,Southern Arenda (B122),"Aranda (Southern), Southern Arenda",1870
+Binford,B123,xd969,Jankundjara,Jankundjara (B123),Yankunytjatjara,1922
+Binford,B125,xd970,Yuwaalaraay,Ualarai (B125),Ualarai,1880
+Binford,B126,xd971,Nakako,Nakako (B126),,1912
+Binford,B127,xd972,Ooldea,Ooldea (B127),,1941
+Binford,B128,xd973,Paakintji,Barkindji (B128),Barkindji,1890
+Binford,B129,xd974,Kaurna,Kaurna (B129),Karuna,1840
+Binford,B131,xd975,Yaraldi,Jaralde (B131),Jaralde,1850
+Binford,B132,xd976,Mirniny,Mineng (B132),"Mirniny, Mineng, Mount Barker Tribe, Minang, Noongar",1850
+Binford,B133,xd977,Tjapwurong,Tjapwurong (B133),,1850
+Binford,B134,xd978,Bunurong,Bunurong (B134),,1850
+Binford,B135,xd979,Kurnai,Kurnai (B135),,1850
+Binford,B136,xd980,Tasmanians (southeastern),Tasmanians (eastern) (B136),"Palawa, Tasmanians (southern), Tasmanians (eastern), Tasmanians (East Coast)",1830
+Binford,B168,xd983,Coast Miwok,Coast Miwok (B168),,1850
+Binford,B190,xd985,Guaicura,Guaicura (B190),Guaycura,1760
+Binford,B203,xd988,Kawich Mountain Shoshoni,Kawich Mountain Shoshoni (B203),,1860
+Binford,B205,xd989,Mono Lake Northern Paiute,Mono Lake Paiute (B205),"Kutzadika'a, Mono Lake Paiute, Kutzadika",1870
+Binford,B209,xd991,Timponogas,Ute-timanogas (B209),"Timponogas Ute, Ute-timanogas, Ute-timpanogas, Ute-timinogas",1860
+Binford,B212,xd992,Wadatkuht,Honey Lake Paiute (B212),Honey Lake Paiute,1870
+Binford,B219,xd993,North Fork Mono,North Fork Mono Paiute (B219),"Mono (North Fork), Mono-North Fork Paiute, Norfolk Mono",1860
+Binford,B223,xd994,Bear Creek Northern Paiute,Bear Creek Paiute (B223),Bear Creek Paiute,1870
+Binford,B215,xd995,Spring Valley Shoshoni,Spring Valley Shoshoni (B215),Spring Valley,1870
+Binford,B224,xd995,Antelope Valley Shoshoni,Antelope Valley Shoshoni (B224),"Spring Valley, Antelope Valley Shoshoni",1860
+Binford,B272,xd997,Chehalis,Chehalis (B272),,1880
+Binford,B293,xd998,Gitxsan,Gitksan (B293),Gitksan,1880
+Binford,B294,xd999,Konaig,Konaig (B294),,1840
+Jorgensen,J1,xd1431,North Tlingit,North Tlingit (J1),North Tlinkit,
+Jorgensen,J2,xd1082,Tlingit,South Tlingit (J2),"Kolosh, Southern Tlingit, South Tlingit",
+Jorgensen,J3,xd1068,Haida (Northern),North Masset Haida (J3),North Masset Haida,
+Jorgensen,J4,xd1438,Haida (Southern),South Skidegate Haida (J4),South Skidegate Haida,
+Jorgensen,J5,xd1104,Tsimshian,Tsimshian (J5),Ts’msyan,
+Jorgensen,J6,xd998,Gitxsan,Gitksan Tsimshian (J6),"Gitksan, Gitksan Tsimshian",
+Jorgensen,J7,xd1105,Haisla,Haisla Kwakiutl (J7),"Kitimat, Haisla Kwakiutl",
+Jorgensen,J8,xd1424,Haihais,Haihais Kwakiutl (J8),"Haihais, XaiXais",
+Jorgensen,J9,xd1083,Heiltsuk,Bella Bella Kwakiutl (J9),"Bellabella, Bella Bella, Bella Bella Kwakiutl",
+Jorgensen,J10,xd1090,Kwakiutl,Fort Rupert Kwakiutl (J10),"Southern Kwakiutl,Kwagu'ł, Kwagyewlth, Fort Rupert Kwakiutl",
+Jorgensen,J11,xd1106,Nuxalk,Bella Coola Salish (J11),"Nuxalkmc, Bellacoola, Bilqula, Bella Coola, Bella Coola Salish",
+Jorgensen,J12,xd1070,Nootka,Clayoquot Nootka (J12),"Nuu-chah-nulth, Aht, Central Nootka, Clayoquot Nootka",
+Jorgensen,J13,xd1084,Makah,Makah Nootkan (J13),Makah Nootkan,
+Jorgensen,J14,xd1071,Klahoose,Klahuse Salish (J14),"Klahoose, Klahuse",
+Jorgensen,J15,xd1427,Pentlatch,Pentlatch Salish (J15),Pentlatch Salish,
+Jorgensen,J16,xd1072,Squamish,Squamish Salish (J16),Squamish Salish,
+Jorgensen,J17,xd1086,Cowichan,Cowichan Salish (J17),"Hul'q'umi'num Mustimuhw, Cowichan Salish",
+Jorgensen,J18,xd1428,West Saanich,West Sanetch Salish (J18),West Sanetch Salish,
+Jorgensen,J19,xd1087,Stó:lō,Upper Stalo Salish (J19),"Stalo, Halkomelem, Fraser River Cowichan, Upper Stalo Salish",
+Jorgensen,J20,xd1441,Musqueam,Lower Fraser Salish (J20),Lower Fraser Salish,
+Jorgensen,J21,xd1074,Lummi,Lummi Salish (J21),"Lhaq'temish, Lummi Salish",
+Jorgensen,J22,xd1075,Klallam,Klallam Salish (J22),"Clallum, Klallam Salish",
+Jorgensen,J23,xd1079,Twana,Twana Salish (J23),Twana Salish,
+Jorgensen,J24,xd1085,Quinault,Quinault Salish (J24),Quinault Salish,
+Jorgensen,J25,xd1076,Puyallup,Puyallup Salish (J25),Puyallup Salish,
+Jorgensen,J26,xd1077,Quileute,Quileute Chimakuan (J26),Quileute Chimakuan,
+Jorgensen,J27,xd1078,Lower Chinook,Lower Chinook (J27),Chinook,
+Jorgensen,J28,xd1080,Tillamook,Tillamook Salish (J28),"Nehalem, Tillamook Salish",
+Jorgensen,J29,xd1088,Alsea,Alsea (J29),,
+Jorgensen,J30,xd1089,Siuslaw,Siuslaw (J30),,
+Jorgensen,J31,xd1081,Coos,Coos (J31),,
+Jorgensen,J32,xd1092,Tututni,Tututni Athapaskan (J32),Tututni Athapaskan,
+Jorgensen,J33,xd1422,Chetco,Chetco Athapaskan (J33),Chetco Athapaskan,
+Jorgensen,J34,xd1423,Taltushtuntede,Galice Creek Athapaskan (J34),"Taltushtuntude, Galice Creek or Tal-tuc-tun-te-de",
+Jorgensen,J35,xd1103,Tolowa,Tolowa Athapaskan (J35),Tolowa Athapaskan,
+Jorgensen,J36,xd1101,Yurok,Yurok (J36),,
+Jorgensen,J37,xd1095,Karuk,Karok (J37),Karok,
+Jorgensen,J38,xd1096,Hupa,Hupa Athapaskan (J38),Hupa Athapaskan,
+Jorgensen,J39,xd1097,Wiyot,Wiyot (J39),,
+Jorgensen,J40,xd1100,Sinkyone,Sinkyone Athapaskan (J40),Sinkyone Athapaskan,
+Jorgensen,J41,xd1099,Mattole-Bear River,Mattole Athapaskan (J41),"Mattole, Bear River",
+Jorgensen,J42,xd1434,Nongatl,Nongatl Athapaskan (J42),Nongatl Athapaskan,
+Jorgensen,J43,xd1425,Cahto,Kato Athapaskan (J43),"Kato, Kato Athapaskan",
+Jorgensen,J44,xd1093,Shasta (East),East Shasta (J44),East Shasta,
+Jorgensen,J45,xd1093,Shasta (West),West Shasta (J45),West Shasta,
+Jorgensen,J46,xd1094,Chimariko,Chimariko (J46),,
+Jorgensen,J47,xd1112,Wintu (Trinity River),Trinity River Wintu (J47),"Northern Wintu, Trinity River Wintu",
+Jorgensen,J48,xd1112,Wintu (McCloud River),McCloud River Wintu (J48),"Northern Wintu, McCloud River Wintu",
+Jorgensen,J49,xd1112,Wintu (Sacramento River),Sacramento River Wintu (J49),"Northern Wintu, Sacramento River Wintu",
+Jorgensen,J50,xd1107,Nomlaki,Nomlaki Wintun (J50),"Central Wintun, Nomlaki Wintun",
+Jorgensen,J51,xd1108,Achumawi (East),East Achomawi (J51),"Achomawi, East Achomawi",
+Jorgensen,J52,xd1108,Achumawi (West),West Achomawi (J52),"Achomawi, West Achomawi",
+Jorgensen,J53,xd1135,Atsugewi,Atsugewei (J53),Atsugewei,
+Jorgensen,J54,xd1432,Valley Maidu,Valley Maidu (J54),,
+Jorgensen,J55,xd1433,Foothill Maidu,Foothill Maidu (J55),,
+Jorgensen,J56,xd1110,Maidu,Mountain Maidu (J56),"Pujunan, Mountain Maidu",
+Jorgensen,J57,xd1111,Nisenan (Foothill),Foothill Nisenan (J57),"Southern Maidu, Nisenan Southern Maidu, Foothill Nisenan",
+Jorgensen,J58,xd1111,Nisenan (Mountain),Mountain Nisenan (J58),"Southern Maidu, Nisenan Southern Maidu, Mountain Nisenan",
+Jorgensen,J59,xd1111,Nisenan (Southern),Southern Nisenan (J59),"Southern Maidu, Nisenan Southern Maidu, Southern Nisenan",
+Jorgensen,J60,xd1113,Coast Yuki,Coast Yuki (J60),,
+Jorgensen,J61,xd1138,Yuki,Yuki (J61),,
+Jorgensen,J62,xd1109,Yana,Yana (J62),Nozi,
+Jorgensen,J63,xd1115,Northern Pomo,Northern Pomo (J63),,
+Jorgensen,J64,xd1116,Eastern Pomo,Eastern Pomo (J64),"Clear Lake Pomo, Eastern Pomo",
+Jorgensen,J65,xd1117,Southern Pomo,Southern Pomo (J65),Southern Pomo,
+Jorgensen,J66,xd1119,Wappo,Wappo Yukian (J66),Wappo Yukian,
+Jorgensen,J67,xd1121,Patwin,Patwin Wintun (J67),"Southern Wintun, Patwin Wintun",
+Jorgensen,J68,xd1420,Northern Miwok,Northern Miwok (J68),,
+Jorgensen,J69,xd1136,Central Sierra Miwok,Central Miwok (J69),"Central Sierra Miwok, Miwok",
+Jorgensen,J70,xd1421,Southern Miwok,Southern Miwok (J70),,
+Jorgensen,J71,xd993,North Fork Mono,San Joaquin Mono (Uto-Aztecan) (J71),"North Fork Mono, Northfork Mono, Mono-North Fork Paiute, Norfolk Mono, Western Mono, San Joaquin Mono (Uto-Aztecan)",
+Jorgensen,J72,xd1122,Kings River Western Mono,Kings River Mono (Uto-Aztecan) (J72),"Monachi, Western Mono, Monache, Kings River Mono (Uto-Aztecan)",
+Jorgensen,J73,xd1129,Northern Foothills Yokuts,Chuckchansi Yokuts (J73),"Northern Foothill Yokuts, Chuckchansi Yokuts",
+Jorgensen,J74,xd1436,Kings River Yokuts,Kings River Yokuts (J74),Central Foothill Yokuts,
+Jorgensen,J75,xd1124,Wukchumni,Kaweah Yokuts (J75),"Kawi'a, Kaweah, Kaweah Yokuts, Central Foothills Yokuts",
+Jorgensen,J76,xd1123,Southern Valley Yokuts (Lake),Lake Yokuts (J76),"Lake Yokuts, Tachi Yokuts, Chunut Yokuts",
+Jorgensen,J77,xd1123,Southern Valley Yokuts (Yauelmani),Yauelmani Yokuts (J77),"Yowlumne, Yawelmani, Southern Valley Yokuts",
+Jorgensen,J78,xd1118,Tübalulabal,Tubatulabal (J78),Tubatulabal,
+Jorgensen,J79,xd1126,Kawaiisu,Kawaiisu (J79),Kawaiisu Shoshoni,
+Jorgensen,J80,xd1125,Salinan,Salinan (J80),,
+Jorgensen,J81,xd1128,Tongva,Gabrielino (J81),"Gabrielo, Gabrielino, Gabrieleno",
+Jorgensen,J82,xd1133,Luiseño,Luiseno (J82),"Payómkawichum, Luiseno",
+Jorgensen,J83,xd1132,Cupeño,Cupeno (J83),"Kuupangaxwichem, Cupeno",
+Jorgensen,J84,xd1130,Serrano,Serrano (J84),,
+Jorgensen,J85,xd1131,Cahuilla (Desert),Desert Cahuilla (J85),Desert Cahuilla,
+Jorgensen,J86,xd1439,Cahuilla (Pass),Pass Cahuilla (J86),Pass Cahuilla,
+Jorgensen,J87,xd1440,Cahuilla (Mountain),Mountain Cahuilla (J87),Mountain Cahuilla,
+Jorgensen,J88,xd1437,Kumeyaay (Mountain Diegueno),Mountain Diegueno (J88),"Eastern Ipai, Northern Kumeyaay",
+Jorgensen,J89,xd1137,Kumeyaay (Western Diegueno),Western Diegueno (J89),"Western Ipai and Western Tipai, Southern Kumeyaay",
+Jorgensen,J90,xd1137,Kumeyaay (Desert Diegueno),Desert Diegueno (J90),"Tipai, Central and Southern Kumeyaay",
+Jorgensen,J91,xd1134,Kiliwa,Kaliwa (Hokan) (J91),"K'olew, Kaliwa (Hokan)",
+Jorgensen,J92,xd1426,Akwa’ala,Akwa’ala (Hokan) (J92),"Paipai, Akwa’ala (Hokan)",
+Jorgensen,J93,xd1035,Dakelh (Alkatcho Carrier),Alkatcho Carrier (J93),"Carrier, Takulli, Alkatcho Carrier",
+Jorgensen,J94,xd1035,Dakelh (Lower Carrier),Lower Carrier (J94),"Carrier, Takulli, Lower Carrier",
+Jorgensen,J95,xd1206,Chilcotin,Chilcotin (J95),Tsilhqot'in,
+Jorgensen,J96,xd1143,Shuswap,Shuswap (J96),Secwepemc,
+Jorgensen,J97,xd1207,Lillooet,Upper Lillooet (J97),"St'at'imc, Stlatlum, Upper Lillooet",
+Jorgensen,J98,xd1142,Nlaka'pamux,Upper Thompson (J98),"Thompson, Nitlakapamuk, Thompson River Salish, Upper Thompson",
+Jorgensen,J99,xd1001,Syilx,Southern Okanagon (J99),"Okanagan, Southern Okanagon",
+Jorgensen,J100,xd1174,Sanpoil,Sanpoil (J100),,
+Jorgensen,J101,xd1419,Sinkiuse-Columbia,"Columbia (Salish, Interior) (J101)","Sinkiuse, Columbia (Salish, Interior)",
+Jorgensen,J102,xd1148,Wenatchi,Wenatchi (J102),,
+Jorgensen,J103,xd1146,Coeur d’Alene,Coeur d’Alene (J103),"Schitsu'umsh, Skitswish",
+Jorgensen,J104,xd1145,Kalispel,Kalispel (J104),,
+Jorgensen,J105,xd1144,Bitterroot Salish,Flathead (J105),"Salish, Flathead",
+Jorgensen,J106,xd1205,Kutenai,Kutenai (J106),"Ktunaxa, Kootenay, Kootenai",
+Jorgensen,J107,xd1153,Nez Perce,Nez Perce (J107),"Nimi'ipuu, Sahaptin",
+Jorgensen,J108,xd1151,Umatilla,Umatilla (J108),,
+Jorgensen,J109,xd1435,Klikitat,Klikitat (J109),Klickitat,
+Jorgensen,J110,xd1150,Wishram,Wishram (J110),,
+Jorgensen,J111,xd1141,Tenino,Tenino (J111),"Warmsprings Sahaptin, Yenino",
+Jorgensen,J112,xd1139,Klamath,Klamath (J112),,
+Jorgensen,J113,xd1140,Modoc,Modoc (J113),,
+Jorgensen,J114,xd1155,Wadadokado,Wada-Dokado Northern Paiute (J114),"Paiute, Northern Paiute, Wada-Dokado Northern Paiute",
+Jorgensen,J115,xd1157,Kidutokado,Kidu-Dokado Northern Paiute (J115),"Gididika, Surprise Valley Paiute, Kidu-Dokado Northern Paiute",
+Jorgensen,J116,xd1160,Kuyuidokado,Kuyui-Dokado Northern Paiute (J116),"Pyramid Lake Paiute, Kuyui-Dokado Northern Paiute",
+Jorgensen,J117,xd1164,Eastern Mono,Owens Valley Northern Paiute (J117),"Owens Valley Paiute, Owens Valley Northern Paiute",
+Jorgensen,J118,xd1166,Tümpisa Shoshone (Panamint),Panamint Shoshone (J118),"Panamint, California Shoshone",
+Jorgensen,J119,xd1196,Washo,Washo (J119),,
+Jorgensen,J120,xd1169,Mahaguaduka,Reese River Shoshone (J120),"Reese River Shoshoni, Reese River Shoshone",
+Jorgensen,J121,xd995,Spring Valley Shoshoni,Spring Valley Shoshone (J121),Spring Valley,
+Jorgensen,J122,xd1176,Wadaduka,Ruby Valley Shoshone (J122),"Ruby Valley Shoshoni, Pine Creek Shoshoni, Diamond Valley Shoshoni, Egan Canyon Shoshoni, Ruby Valley Shoshone",
+Jorgensen,J123,xd1178,White Knife Shoshoni,Battle Mountain Shoshone (J123),"Battle Mountain (White Knife) Shoshone, White Knife Shoshoni, Battle Mountain Shoshoni, Tosawihi",
+Jorgensen,J124,xd1183,Gosiute,Gosiute Shoshone (J124),"Gosiute Shoshoni, Deep Creek Shoshoni, Gosiute Shoshone",
+Jorgensen,J125,xd1180,Bohogue,Bohogue Shoshone (J125),"Fort Hall Shoshoni, Bohogue Shoshone",
+Jorgensen,J126,xd1182,Agaiduka,Agaiduka Shoshone (J126),"Agaiduka, Salmon-Eater Shoshoni, Lemhi River Shoshoni, Agaiduku (Lemhi) Shoshone",
+Jorgensen,J127,xd1185,Hukundika,Hukundika Shoshone (J127),"Seed-Eaters, Northern Shoshoni, Hukunduka, Hukuniduica, Hukundika Shoshone, Promontory Shoshone",
+Jorgensen,J128,xd1201,Wind River Eastern Shoshone,Wind River Shoshone (J128),"Wind River, Eastern Shoshoni, Kucundika, Buffalo Hunters, Buffalo-Eater, Wind River Shoshone",
+Jorgensen,J129,xd1194,Uintah Ute,Uintah Ute (J129),"Tompanowots, Yampa",
+Jorgensen,J130,xd1199,Uncompahgre Ute,Uncompaghre Ute (J130),Mowataviwatsiu,
+Jorgensen,J131,xd1152,Southern Ute,Wimonuch Ute (Shoshonean) (J131),"Wimonuch Utes, Ute Mountain Ute,  Wimonutsi, Navajo Springs, Wimonuntci, Weminute, Wimonantci Ute",
+Jorgensen,J132,xd1188,Shivwits,Shivwits Southern Paiute (J132),"Shivwits, Suwuntsu (St. George), Suwuntsu, St. George, Gunlock, Uinkaret, Southern Paiute",
+Jorgensen,J133,xd1189,Southern Paiute (Kaibab and Las Vegas),Kaibab Southern Paiute (J133),"Kaivavwits, Southern Paiute, Southern Paiute, Kaibab Southern Paiute",
+Jorgensen,J134,xd1192,San Juan,San Juan Southern Paiute (J134),"San Juan, Kwaanitikwokets",
+Jorgensen,J135,xd1190,Chemehuevi,Chemehuevi Southern Paiute (J135),"Chemehuevi, Colorado River Reservation",
+Jorgensen,J136,xd1163,Havasupai,Havasupai (J136),Plateau Yuma,
+Jorgensen,J137,xd1202,Hualapai,Walapai (J137),Walapai,
+Jorgensen,J138,xd1203,Yavapai (Northeast),Northeast Yavapai (J138),"Apache-Mojave, Northeast Yavapai",
+Jorgensen,J139,xd1203,Yavapai (Southeast),Southeast Yavapai (J139),"Apache-Mojave, Southeast Yavapai",
+Jorgensen,J140,xd1272,Mojave,Mohave (J140),Mohave,
+Jorgensen,J141,xd1273,Quechan,Yuma (J141),Yuma,
+Jorgensen,J142,xd1271,Kamia,Kamia (J142),,
+Jorgensen,J143,xd1269,Cocopa,Cocopa (J143),Cocopah,
+Jorgensen,J144,xd1281,Maricopa,Maricopa (J144),Piipash,
+Jorgensen,J145,xd1291,Pima,Pima (J145),Akimel O'Odham,
+Jorgensen,J146,xd1287,Tohono O'odham,Papago (J146),Papago,
+Jorgensen,J147,xd1267,Western Apache (North Tonto),North Tonto Western Apache (J147),"Ndee, Western Apache, North Tonto Western Apache",
+Jorgensen,J148,xd1267,Western Apache (South Tonto),South Tonto Western Apache (J148),"Ndee, Western Apache, South Tonto Western Apache",
+Jorgensen,J149,xd1267,Western Apache (San Carlos),San Carlos Western Apache (J149),"Ndee, Western Apache, San Carlos Western Apache",
+Jorgensen,J150,xd1267,Western Apache (Cibecue),Cibecue Western Apache (J150),"Ndee, Western Apache, Cibecue Western Apache",
+Jorgensen,J151,xd1267,Western Apache (White Mountain),White Mountain Western Apache (J151),"Ndee, Western Apache, White Mountain Western Apache",
+Jorgensen,J152,xd1259,Chiricahua (Warm Springs),Warm Springs Chiricahua Apache (J152),"Chiricahua Apache, Eastern Apache, Warm Springs Chiricahua Apache",
+Jorgensen,J153,xd1259,Chiricahua (Huachuca),Huachuca Chiricahua Apache (J153),"Chiricahua Apache, Eastern Apache, Huachuca Chiricahua Apache",
+Jorgensen,J154,xd1265,Mescalero,Mescalero Apache (J154),Mescalero Apache,
+Jorgensen,J155,xd1275,Lipan Apache,Lipan Apache (J155),Lipan,
+Jorgensen,J156,xd1266,Jicarilla,Jicarilla Apache (J156),Jicarilla Apache,
+Jorgensen,J157,xd1279,Navajo (Western),Western Navaho (J157),"Diné Bizaad, Navaho, Western Navaho",
+Jorgensen,J158,xd1279,Navajo (Eastern),Eastern Navaho (J158),"Diné Bizaad, Navaho, Eastern Navaho",
+Jorgensen,J159,xd1268,Hopi,Hopi (J159),Hopi of Old Oraiibi,
+Jorgensen,J160,xd1280,Zuni,Zuni (J160),,
+Jorgensen,J161,xd1263,Acoma,Acoma (J161),,
+Jorgensen,J162,xd1276,Sia,Sia Keres (J162),"Sia, Tsiya, Zia",
+Jorgensen,J163,xd1262,Santa Ana,Santa Ana Keres (J163),Santa Ana Keres,
+Jorgensen,J164,xd1278,Kewa,Santo Domingo Keres (J164),"Kewa, Santo Domingo, Santo Domingo Pueblo",
+Jorgensen,J165,xd1283,Cochiti,Cochiti (J165),,
+Jorgensen,J166,xd1429,Ohkay Owingeh,San Juan Tewa (J166),San Juan Tewa,
+Jorgensen,J167,xd1261,San Ildefonso,San Ildefonso Tewa (J167),"San Ildefonso, Tewa, San Ildefonso Pueblo",
+Jorgensen,J168,xd1277,Santa Clara,Santa Clara Tewa (J168),Santa Clara Tewa,
+Jorgensen,J169,xd1430,Nambé Pueblo,Nambe Tewa (J169),Nambe Tewa,
+Jorgensen,J170,xd1282,Taos,Taos (J170),,
+Jorgensen,J171,xd1260,Isleta,Isleta (J171),,
+Jorgensen,J172,xd1284,Jemez,Jemez (J172),"Walatowa, Towa",
+SCCS,2,xd1,!Kung,Kung (SCCS2),"Kung Bushmen, !Kung (Was Nyae), Was Nyae",1950
+SCCS,1,xd3,Nama,Nama (SCCS1),"Khoekhoe, Namaqua, Nama Hottentot",1860
+SCCS,13,xd5,Mbuti,Mbuti (SCCS13),"Sua, BaSua, Kango, BaKango, Bambuti, BaMbuti Pygmies",1950
+SCCS,9,xd9,Hadza,Hadza (SCCS9),"Hadzabe, Hatsa Kindiga, Hadza, Kindiga",1930
+SCCS,4,xd26,Lozi,Lozi (SCCS4),,1900
+SCCS,3,xd27,Tsonga,Thonga (SCCS3),"Thonga, Tonga, Vatsonga, Bathonga ",1895
+SCCS,5,xd28,Mbundu,Mbundu (SCCS5),"Banano, Mbari, Nano, Ovimbundu",1890
+SCCS,6,xd41,Suku,Suku (SCCS6),,1920
+SCCS,7,xd55,Bemba,Bemba (SCCS7),Awemba,1897
+SCCS,10,xd81,Luguru,Luguru (SCCS10),Waluguru,1925
+SCCS,11,xd109,Kikuyu,Kikuyu (SCCS11),Aikikuyu,1920
+SCCS,8,xd123,Nyakyusa,Nyakyusa (SCCS8),,1934
+SCCS,12,xd124,Ganda,Ganda (SCCS12),Baganda,1875
+SCCS,14,xd160,Nkundo,Nkundo Mongo (SCCS14),,1930
+SCCS,15,xd173,Banen,Banen (SCCS15),Banyin,1935
+SCCS,18,xd186,Fon,Fon (SCCS18),"Dahomey, Dahomeans",1890
+SCCS,17,xd187,Igbo,Igbo (SCCS17),Ibo,1935
+SCCS,19,xd208,Ashanti,Ashanti (SCCS19),Twi,1895
+SCCS,20,xd230,Mende,Mende (SCCS20),,1945
+SCCS,22,xd244,Bambara,Bambara (SCCS22),Bamana,1902
+SCCS,23,xd277,Tallensi,Tallensi (SCCS23),,1934
+SCCS,16,xd320,Tiv,Tiv (SCCS16),Munshi,1920
+SCCS,30,xd338,Otoro,Otoro (SCCS30),"Otoro Nuba, Nuba",1930
+SCCS,28,xd359,Azande,Azande (SCCS28),Niam-Niam,1905
+SCCS,32,xd378,Mao,Mao (SCCS32),,1939
+SCCS,31,xd380,Shilluk,Shilluk (SCCS31),,1910
+SCCS,27,xd383,Masa,Masa (SCCS27),Massa,1910
+SCCS,34,xd395,Maasi,Masai (SCCS34),Masai,1900
+SCCS,35,xd415,Konso,Konso (SCCS35),,1935
+SCCS,36,xd426,Somali,Somali (SCCS36),,1900
+SCCS,33,xd438,Kafa,Kafa (SCCS33),"Kafecho, Kaffa",1905
+SCCS,38,xd445,Blin,Bogo (SCCS38),"Bogo, Belen, Bilin",1855
+SCCS,37,xd455,Amhara,Amhara (SCCS37),,1953
+SCCS,29,xd466,Fur,Fur (SCCS29),Darfur,1880
+SCCS,21,xd469,Wolof,Wolof (SCCS21),,1950
+SCCS,25,xd474,Wodaabe Fulani,Pastoral Fulani (SCCS25),"Pastoral Fulani, Wodaabe",1951
+SCCS,26,xd476,Zazzagawa Hausa,Hausa (SCCS26),"Hausa, Zazzagawa",1900
+SCCS,24,xd480,Songhai,Songhai (SCCS24),,1940
+SCCS,40,xd498,Teda,Teda (SCCS40),Toubou,1950
+SCCS,41,xd506,Tuareg Ahaggar,Tuareg (SCCS41),Tuareg,1900
+SCCS,39,xd507,Barabra,Kenuzi Nubians  (SCCS39),Kenuzi Nubians ,1900
+SCCS,43,xd518,Egyptians,Egyptians (SCCS43),"Fellahin, Fellaheen",1950
+SCCS,42,xd521,Riffians,Riffians (SCCS42),,1926
+SCCS,48,xd528,Gheg,Gheg Albanians (SCCS48),Albanians,1910
+SCCS,49,xd530,Ancient Romans,Romans (SCCS49),Romans,110
+SCCS,50,xd535,Spanish Basques,Basques (SCCS50),Spanish Basques,1934
+SCCS,51,xd543,Irish,Irish (SCCS51),Gaelic,1932
+SCCS,52,xd544,Sami,Lapps (SCCS52),Lapps,1950
+SCCS,54,xd548,Russians,Russians (SCCS54),,1955
+SCCS,56,xd575,Armenians,Armenians (SCCS56),,1843
+SCCS,57,xd576,Kurd,Kurd (SCCS57),,1951
+SCCS,55,xd577,Abkhaz,Abkhaz (SCCS55),,1880
+SCCS,47,xd581,Turks,Turks (SCCS47),,1950
+SCCS,46,xd588,Rwala,Rwala Bedouin (SCCS46),Rwala Bedouin,1913
+SCCS,44,xd589,Hebrews,Hebrews (SCCS44),,-0621
+SCCS,45,xd590,Babylonians,Babylonians (SCCS45),,-1750
+SCCS,59,xd600,Punjabi,Punjabi (West) (SCCS59),Punjabi (West) ,1950
+SCCS,58,xd605,Basseri,Basseri (SCCS58),,1958
+SCCS,65,xd609,Kazakh,Kazak (SCCS65),Kazak,1885
+SCCS,66,xd611,Khalka,Khalka Mongols (SCCS66),"Xanx, Khalka Mongols",1920
+SCCS,119,xd617,Nivkh,Gilyak (SCCS119),Gilyak,1890
+SCCS,121,xd631,Chukchi,Chukchee (SCCS121),"lygoravetlyan, Ankalyn, Chavchu, Chukchee",1900
+SCCS,53,xd632,Yurak-Samoyeds,Yurak Samoyed (SCCS53),"Nenets, Yurak",1894
+SCCS,120,xd634,Yukaghir,Yukaghir (SCCS120),,1850
+SCCS,118,xd635,Ainu,Ainu (SCCS118),"Ainu (Hokkaido), Hokkaido",1880
+SCCS,116,xd638,Koreans,Koreans (SCCS116),,1947
+SCCS,114,xd643,Chekiang,Chinese (SCCS114),Chinese,1936
+SCCS,67,xd645,Lolo,Lolo (SCCS67),"Yi, Nosu",1910
+SCCS,115,xd646,Manchu,Manchu (SCCS115),,1915
+SCCS,117,xd648,Japanese,Japanese (SCCS117),,1950
+SCCS,64,xd654,Burusho,Burusho (SCCS64),,1934
+SCCS,68,xd655,Lepcha,Lepcha (SCCS68),Rong,1937
+SCCS,62,xd661,Santal,Santal (SCCS62),"Santhal, Saontal",1940
+SCCS,63,xd663,Uttar Pradesh,Uttar Pradesh (SCCS63),,1945
+SCCS,60,xd679,Madia,Gond (SCCS60),"Maria Gond, Gond",1938
+SCCS,61,xd680,Toda,Toda (SCCS61),,1900
+SCCS,79,xd686,Andamanese,Andamanese (SCCS79),"Big Andaman Island, Andamese",1860
+SCCS,81,xd689,Tanala,Tanala (SCCS81),,1925
+SCCS,80,xd690,Vedda,Vedda (SCCS80),"Wanniyalaeto, Veddah",1860
+SCCS,78,xd691,Nicobarese,Nicobarese (SCCS78),Holchu,1870
+SCCS,69,xd696,Garo,Garo (SCCS69),A.Chik,1955
+SCCS,71,xd709,Burmese,Burmese (SCCS71),Bamar people,1965
+SCCS,70,xd710,Maras,Lakher (SCCS70),Lakher,1930
+SCCS,72,xd716,Lamet,Lamet (SCCS72),,1940
+SCCS,74,xd717,Rade,Rhade (SCCS74),Rhade,1962
+SCCS,75,xd722,Ancient Khmer,Khmer (SCCS75),Khmer,1292
+SCCS,82,xd723,Negri Sembilan,Negri Sembilan (SCCS82),Negeri Sembilan,1958
+SCCS,77,xd725,Semang,Semang (SCCS77),,1925
+SCCS,73,xd726,Annamese,Vietnamese (SCCS73),Vietnamese,1930
+SCCS,76,xd731,Thai,Siamese (SCCS76),"Siamese, Central Thai",1955
+SCCS,113,xd732,Atayal,Atayal (SCCS113),,1930
+SCCS,86,xd736,Badjau Tawi-Tawi,Badjau (SCCS86),"Tawi-Tawi Badjaw, Badjau",1963
+SCCS,112,xd743,Ifugao,Ifugao (SCCS112),,1910
+SCCS,85,xd750,Iban,Iban (SCCS85),"Dayak, Sea Dayak",1950
+SCCS,83,xd751,Javanese,Javanese (SCCS83),,1954
+SCCS,84,xd752,Balinese,Balinese (SCCS84),,1958
+SCCS,88,xd760,Tobelorese,Tobelorese (SCCS88),Togutil,
+SCCS,89,xd764,Alorese,Alorese (SCCS89),Abui,1938
+SCCS,87,xd767,Toradja,Toradja (SCCS87),,1910
+SCCS,91,xd772,Northern Aranda,Aranda (SCCS91),"Aranda (Northern), Northern Arenda, Arunta",1896
+SCCS,90,xd778,Tiwi,Tiwi (SCCS90),,1929
+SCCS,94,xd785,Mee,Kapauku (SCCS94),Kapauku,1955
+SCCS,95,xd788,Kwoma,Kwoma (SCCS95),,1937
+SCCS,93,xd794,Kimam,Kimam (SCCS93),Frederik-Hendrik Islanders,1960
+SCCS,92,xd823,Orokaiva,Orokaiva (SCCS92),,1925
+SCCS,111,xd824,Palauans,Palauans (SCCS111),,1873
+SCCS,107,xd829,Makin,Gilbertese (SCCS107),Gilbertese,
+SCCS,108,xd832,Marshallese,Marshallese (SCCS108),,1900
+SCCS,109,xd833,Trukese,Trukese (SCCS109),Chuukese,1947
+SCCS,110,xd837,Yapese,Yapese (SCCS110),,1910
+SCCS,99,xd841,Siuai,Siuai (SCCS99),,1939
+SCCS,98,xd852,Trobriands,Trobrianders (SCCS98),,1914
+SCCS,97,xd856,Lesu,New Ireland (SCCS97),New Irelanders,1930
+SCCS,96,xd861,Manus,Manus (SCCS96),,1929
+SCCS,102,xd867,Mbau Fijians,Mbau Fijians (SCCS102),,1840
+SCCS,101,xd869,Bunlap,Pentecost (SCCS101),Pentecost,1953
+SCCS,103,xd871,Ajie,Ajie (SCCS103),,1845
+SCCS,106,xd880,Upolu Samoans,Western Samoans (SCCS106),"Western Samoans, Upolu",1829
+SCCS,100,xd881,Tikopia,Tikopia (SCCS100),,1930
+SCCS,104,xd891,Māori,Maori (SCCS104),Maori,1820
+SCCS,105,xd892,Marquesans,Marquesans (SCCS105),,1800
+SCCS,128,xd1034,DeneTha,Slave (SCCS128),"Slave, Deh Cho (Southern Slavey), Slavey, Dene (distinguish from speakers of the Dene language)",1940
+SCCS,124,xd1022,Copper Inuit,Copper Eskimo (SCCS124),"Kitlinermiut, Copper Eskimo",1915
+SCCS,125,xd1048,Montagnais,Montagnais (SCCS125),"Innu, Naskapi",1910
+SCCS,127,xd1049,Northern Saulteaux,Saulteaux (SCCS127),"N. Saulteaux, North Sauteaux",1930
+SCCS,129,xd1056,Kaska,Kaska (SCCS129),Nahane,1900
+SCCS,126,xd1058,Mi'kmaq,Micmac (SCCS126),Micmac,1650
+SCCS,122,xd1066,Deg Xit'an,Ingalik (SCCS122),Ingalik,1885
+SCCS,123,xd1067,Aleut,Aleut (SCCS123),Unagan,1824
+SCCS,131,xd1068,Haida,Haida (SCCS131),,1875
+SCCS,133,xd1079,Twana,Twana (SCCS133),,1860
+SCCS,134,xd1101,Yurok,Yurok (SCCS134),,1850
+SCCS,130,xd1102,Eyak,Eyak (SCCS130),dAXunhyuu,1890
+SCCS,132,xd1106,Nuxalk,Bellacoola (SCCS132),"Nuxalkmc, Bellacoola, Bilqula, Bella Coola",1880
+SCCS,135,xd1116,Eastern Pomo,Pomo (Eastern) (SCCS135),"Clear Lake Pomo, Eastern Pomo",1850
+SCCS,136,xd1123,Southern Valley Yokuts,Yokuts (Lake) (SCCS136),"Lake Yokuts, Tachi Yokuts, Chunut Yokuts",1850
+SCCS,138,xd1139,Klamath,Klamath (SCCS138),,1860
+SCCS,137,xd1155,Wadadokado,Paiute (Northern) (SCCS137),"Paiute, Northern Paiute",1870
+SCCS,150,xd1163,Havasupai,Havasupai (SCCS150),Plateau Yuma,1918
+SCCS,139,xd1205,Kutenai,Kutenai (SCCS139),"Ktunaxa, Kootenay, Kootenai",1890
+SCCS,140,xd1208,Gros Ventre,Gros Ventre (SCCS140),"A'ani, A'aninin, Haaninin",1880
+SCCS,141,xd1214,Hidatsa,Hidatsa (SCCS141),,1836
+SCCS,147,xd1222,Comanche,Comanche (SCCS147),,1870
+SCCS,143,xd1237,Omaha,Omaha (SCCS143),Dhegiha,1860
+SCCS,142,xd1240,Pawnee,Pawnee (SCCS142),,1867
+SCCS,144,xd1244,Huron,Huron (SCCS144),"Bear and Cord Peoples, Wendat, Ouendat, Attignaouantan, Attinniaoenten, Attigneenongnahac, Hatingeennonniahak",1634
+SCCS,145,xd1252,Muscogee,Creek (SCCS145),"Creek, Taskigi Creek",1800
+SCCS,146,xd1256,Natchez,Natchez (SCCS146),,1718
+SCCS,148,xd1259,Chiricahua,Chiricahua (SCCS148),"Chiricahua Apache, Eastern Apache",1870
+SCCS,149,xd1280,Zuni,Zuni (SCCS149),,1880
+SCCS,151,xd1287,Tohono O'odham,Papago (SCCS151),Papago,1910
+SCCS,152,xd1288,Huichol,Huichol (SCCS152),Wixárika,1890
+SCCS,153,xd1301,Aztec,Aztec (SCCS153),Aztec of Tenochtitlan,1520
+SCCS,154,xd1302,Sierra Popoluca,Popoluca (SCCS154),"Popoluca, Soteapanec Zoque, Soteapan Zoque, Soteapaneco, Soteapan Soke",1940
+SCCS,158,xd1309,Guna,Cuna (Tule) (SCCS158),"Dule, Tule, Cuna, Kuna",1927
+SCCS,155,xd1313,K'iche',Quiche (SCCS155),Quiche,1930
+SCCS,157,xd1321,Bribri,Bribri (SCCS157),Talamanca,1917
+SCCS,156,xd1325,Miskito,Miskito (SCCS156),"Mískitu, Mosquito",1921
+SCCS,161,xd1326,Callinago,Callinago (SCCS161),,1650
+SCCS,159,xd1331,Wayuu,Goajiro (SCCS159),Goajiro,1947
+SCCS,160,xd1334,Haitians,Haitians (SCCS160),,1935
+SCCS,162,xd1335,Warao,Warrau (SCCS162),Warrau,1935
+SCCS,164,xd1346,Barama River Carib,Barama Carib (SCCS164),"Barama Carib, Carib",1932
+SCCS,165,xd1349,Saramaccan ,Saramacca (SCCS165),"Saramaccan of Suriname , Saramacca, Bush Negroes",1928
+SCCS,166,xd1353,Munduruku,Mundurucu (SCCS166),"Wuy Jugu, Mundurucu",1850
+SCCS,163,xd1361,Yanomami,Yanomamo (SCCS163),"Yanomamo, Yanoama",1965
+SCCS,173,xd1362,Sirionó,Siriono (SCCS173),"Miá, Siriono",1942
+SCCS,169,xd1367,Shuar,Jivaro (SCCS169),Jivaro,1920
+SCCS,167,xd1369,Cubeo,Cubeo (SCCS167),"Jiwa, Tucano",1939
+SCCS,170,xd1372,Amahuaca,Amahuaca (SCCS170),,1960
+SCCS,171,xd1374,Inca,Inca (SCCS171),,1530
+SCCS,172,xd1375,Aymara,Aymara (SCCS172),,1940
+SCCS,168,xd1376,Chachi,Cayapa (SCCS168),Cayapa,1908
+SCCS,186,xd1383,Yahgan,Yahgan (SCCS186),,1865
+SCCS,184,xd1384,Mapuche,Mapuche (SCCS184),,1950
+SCCS,185,xd1386,Tehuelche,Tehuelche (SCCS185),Patagon,1870
+SCCS,183,xd1390,Abipón,Abipon (SCCS183),"Abipon, Abipones",1750
+SCCS,182,xd1396,Lengua,Lengua (SCCS182),,1889
+SCCS,175,xd1399,Trumai,Trumai (SCCS175),Ho kod ke,1938
+SCCS,174,xd1401,Nambikwara,Nambicuara (SCCS174),Nambicura,1940
+SCCS,181,xd1408,Cayua,Cayua (SCCS181),"Abá, Cayua, Caingua, Guaraní, Guarani",1890
+SCCS,179,xd1409,Shavante,Shavante (SCCS179),,1958
+SCCS,180,xd1411,Aweikoma,Aweikoma (SCCS180),"Xokleng, Shokleng, Botocudo of Santa Catarina, Bugre, Kaingang of Santa Catarina (though Aweikoma and Kaingang today considered separate groups)",1932
+SCCS,176,xd1412,Canela,Timbira (SCCS176),"Ramcocamecra, Timbira, Canella",1915
+SCCS,178,xd1413,Aimoré,Botocudo (SCCS178),"Nac-nanuk, Nac-poruk, Botocudo",1884
+SCCS,177,xd1416,Tupinambá,Tupinamba (SCCS177),Tupinamba,1550
