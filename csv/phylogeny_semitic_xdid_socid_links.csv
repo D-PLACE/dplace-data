@@ -2,7 +2,7 @@ Name_on_tree_tip,xd_id,soc_id,fixed_order
 Argobba,,,
 Akkadian,,,
 Amharic,xd455,"Ca7, SCCS37",0
-'Moroccan.Arabic',"xd514, xd513","Cd16, Cd15",1
+Moroccan.Arabic,"xd514, xd513","Cd16, Cd15",1
 Mehri,,,
 Geez,,,
 Gafat,,,
@@ -23,4 +23,4 @@ Walani,,,
 Zway,,,
 Aramaic,,,
 Ugaritic,,,
-'Ogaden.Arabic',,,
+Ogaden.Arabic,,,
