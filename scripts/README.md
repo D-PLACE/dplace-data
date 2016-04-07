@@ -29,9 +29,11 @@ Require `csvkit`, `fiona` and `shapely`, all of which can be installed with `pip
    ```
    python geo.py
    ```
+
 2. Merge region-mapping and `csv/LatLong_data.csv` into `csv/society_locations.csv`.
    ```
    cd ../csv
    csvjoin LatLong_data.csv society_region.csv -c soc_id | csvcut -C 8  > society_locations.csv
    rm society_region.csv
    ```
+
