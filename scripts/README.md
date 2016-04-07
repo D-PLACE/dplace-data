@@ -27,6 +27,7 @@ Require `csvkit`, `fiona` and `shapely`, all of which can be installed with `pip
 
 1. Compute mapping:
    ```
+   cd scripts
    python geo.py
    ```
 
