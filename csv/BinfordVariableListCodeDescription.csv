@@ -1,0 +1,83 @@
+Dataset,VarID,Code,DND.VarID_Code,CodeDescription,ShortName
+LRB,1,NA,1_NA,Missing data,Missing data
+LRB,2,NA,2_NA,Missing data,Missing data
+LRB,3,NA,3_NA,Missing data,Missing data
+LRB,4,NA,4_NA,Missing data,Missing data
+LRB,4,1,4_1,Majority of a group's nutritional intake comes from terrestrial animal resources,Hunting
+LRB,4,2,4_2,Majority of a group's nutritional intake comes from terrestrial plant resources,Gathering
+LRB,4,3,4_3,Majority of a group's nutritional intake comes from aquatic resources,Fishing (aquatic)
+LRB,5,NA,5_NA,Missing data,Missing data
+LRB,5,1,5_1,"Normal HGF group: at time of contact, subsistence was based exclusively on hunting, gathering and/or fishing. No domesticated resources were exploited, except perhas the dog or plant substance such as tobacco.",Normal
+LRB,5,2,5_2,"Suspect: altrough the group may be organized similarly to hunter-gatherer-fishers, some subsistence may come from exchanges with non-HGF groups",Suspect
+LRB,6,NA,6_NA,Missing data,Missing data
+LRB,7,NA,7_NA,Missing data,Missing data
+LRB,8,NA,8_NA,Missing data,Missing data
+LRB,9,NA,9_NA,Missing data,Missing data
+LRB,9,1,9_1,Group is mobile and moves entire population from camp to camp as they go about the subsistence round,Mobile
+LRB,9,2,9_2,Group is completely sedentary or group moves into and out of a central location that is maintained for more than one year,Sedentary
+LRB,10,NA,10_NA,Missing data,Missing data
+LRB,11,NA,11_NA,Missing data,Missing data
+LRB,12,NA,12_NA,Missing data,Missing data
+LRB,13,NA,13_NA,Missing data,Missing data
+LRB,14,NA,14_NA,Missing data,Missing data
+LRB,20,NA,20_NA,Missing data,Missing data
+LRB,21,NA,21_NA,Missing data,Missing data
+LRB,23,NA,23_NA,Missing data,Missing data
+LRB,25,NA,25_NA,Missing data,Missing data
+LRB,27,NA,27_NA,Missing data,Missing data
+LRB,29,NA,29_NA,Missing data,Missing data
+LRB,29,1,29_1,"Local autonomy, senior male ""guidance""",Autonomous
+LRB,29,2,29_2,"Local autonomy with performance-based leadership, leaders are acknowledged","Local autonomy with performance-based leadership, leaders are acknowledged"
+LRB,29,3,29_3,Local autonomy with a formal council and a leader who assembles the council and has other group duties,Local autonomy with a formal council and a leader who assembles the council and has other group duties
+LRB,29,4,29_4,Neighbourhoods of villages/settlements/large camps integrated into an overarching leadership and decision making organization,Neighbourhoods of villages/settlements/large camps integrated into an overarching leadership and decision making organization
+LRB,30,NA,30_NA,Missing data,Missing data
+LRB,30,1,30_1,Group is autonomous and exists in a matrix of similarly scaled hunter-gatherer systems,Group is autonomous and exists in a matrix of similarly scaled hunter-gatherer systems
+LRB,30,2,30_2,Group is autonomous but is articularted to a socially or politically more complex group of hunter-gatherers,Group is autonomous but is articularted to a socially or politically more complex group of hunter-gatherers
+LRB,30,3,30_3,"Group exists in a culturally heterogeneous region and is articulated to a non-hunter gatherer society, either mutualistically or in a patron-client relationship","Group exists in a culturally heterogeneous region and is articulated to a non-hunter gatherer society, either mutualistically or in a patron-client relationship"
+LRB,31,NA,31_NA,Missing data,Missing data
+LRB,31,1,31_1,Absence of any significant class distinctions,Absence of any significant class distinctions
+LRB,31,2,31_2,Wealth distinctions only,Wealth distinctions only
+LRB,31,3,31_3,Dual stratification into a hereditary aristocracy and a lower class of ordinary people,Dual stratification into a hereditary aristocracy and a lower class of ordinary people
+LRB,32,NA,32_NA,Missing data,Missing data
+LRB,32,1,32_1,No special prerogatives,No special prerogatives
+LRB,32,2,32_2,"No relief from subsistence and no special dress prerogatives, but messengers as regular assistants","No relief from subsistence and no special dress prerogatives, but messengers as regular assistants"
+LRB,32,3,32_3,"No relief from subsistence and only minor dress prerogatives, but both messengers and a talking chief or speaker for the leader","No relief from subsistence and only minor dress prerogatives, but both messengers and a talking chief or speaker for the leader"
+LRB,32,4,32_4,"Some regular relief from subsistence, in-kind contributions to the leader from the ""people,"" sometimes special roles for the leader's wife","Some regular relief from subsistence, in-kind contributions to the leader from the ""people,"" sometimes special roles for the leader's wife"
+LRB,32,5,32_5,"Complete relief from subsistence duties, more assistants, special roles associated with the leader, visible symbols associated with the office, perhaps a permanent ""guard,"" perhaps special marriage rules, and very distinctive clothing","Complete relief from subsistence duties, more assistants, special roles associated with the leader, visible symbols associated with the office, perhaps a permanent ""guard,"" perhaps special marriage rules, and very distinctive clothing"
+LRB,33,NA,33_NA,Missing data,Missing data
+LRB,33,1,33_1,Absent,Absent
+LRB,33,2,33_2,Rarely used,Rarely used
+LRB,33,3,33_3,Commonly used,Commonly used
+LRB,33,4,33_4,Many convertible items,Many convertible items
+LRB,34,NA,34_NA,Missing data,Missing data
+LRB,34,1,34_1,Absent,Absent
+LRB,34,2,34_2,Few (1-3),Few (1-3)
+LRB,34,3,34_3,Moderate (4-7),Moderate (4-7)
+LRB,34,4,34_4,Many (equal to or greater than 8),Many (equal to or greater than 8)
+LRB,35,NA,35_NA,Missing data,Missing data
+LRB,35,1,35_1,Exogamous,Exogamous
+LRB,35,2,35_2,Exogamous clan,Exogamous clan
+LRB,35,3,35_3,Agamous,Agamous
+LRB,35,4,35_4,Endogamous Demed,Endogamous Demed
+LRB,35,5,35_5,Endogamous segmented,Endogamous segmented
+LRB,36,NA,36_NA,Missing data,Missing data
+LRB,36,1,36_1,No permanent community structures,No permanent community structures
+LRB,36,2,36_2,Rituals and ceremmonies held in host's residence,Rituals and ceremmonies held in host's residence
+LRB,36,3,36_3,Sweat lodge,Sweat lodge
+LRB,36,4,36_4,Dance house,Dance house
+LRB,36,5,36_5,"Dance house or men's house, and sweat house","Dance house or men's house, and sweat house"
+LRB,36,6,36_6,Functionally specific community house,Functionally specific community house
+LRB,36,7,36_7,Complex of community structures present,Complex of community structures present
+LRB,37,NA,37_NA,Missing data,Missing data
+LRB,37,1,37_1,No ownership reported,No ownership reported
+LRB,37,2,37_2,Use rights recognized by others,Use rights recognized by others
+LRB,37,3,37_3,"The local group claims exclusive use rights over resource location, residential sites, while households may claim special trees and similar features of the landscape","The local group claims exclusive use rights over resource location, residential sites, while households may claim special trees and similar features of the landscape"
+LRB,37,4,37_4,Elite ownership of land and resources,Elite ownership of land and resources
+LRB,38,NA,38_NA,Missing data,Missing data
+LRB,38,1,38_1,Mounted hunters,Mounted hunters
+LRB,38,2,38_2,Agriculturalists,Agriculturalists
+LRB,38,3,38_3,Mutualists,Mutualists
+LRB,38,4,38_4,Egalitarian but without leaders,Egalitarian but without leaders
+LRB,38,5,38_5,Egalitarian with leaders,Egalitarian with leaders
+LRB,38,6,38_6,Ranked wealth,Ranked wealth
+LRB,38,7,38_7,Ranked elites,Ranked elites
