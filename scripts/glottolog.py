@@ -17,6 +17,11 @@ from sqlalchemy import create_engine
 IS_GLOTTOCODE = re.compile(r"""'.* <([a-z0-9]{4}\d{4})>.*'$""")
 
 
+def clean_newick(newick):
+    # hack to keep ISO code in leaf name
+    return newick.replace("[", "<").replace("]", ">")
+
+
 def clean_tree(tree):  # pragma: no cover
     """Renames taxa to Glottocodes."""
     to_keep = []
@@ -30,10 +35,13 @@ def clean_tree(tree):  # pragma: no cover
         if len(glotto) == 1:
             node.name = glotto[0]  # rename to glotto code
             to_keep.append(node.name)
+    print 'pruning ...'
 
     try:
         tree.prune(to_keep)
+        print '... done'
     except:
+        raise
         print "Exception pruning tree, returning un-pruned tree!"
     return True
 
@@ -44,9 +52,9 @@ SUFFIX = '.glotto.trees'
 
 def trees():
     outdir = os.path.join('..', 'trees')
-    urls = {}
+    urls = {'global': 'http://glottolog.org/static/trees/tree-glottolog-newick.txt'}
 
-    for entry in bs(requests.get(GLOTTOLOG_FAMILIES).text).find_all('entry'):
+    for entry in bs(requests.get(GLOTTOLOG_FAMILIES).text, 'html.parser').find_all('entry'):
         urls[entry.find('title').text] = entry.find('id').text
 
     for fname in os.listdir(outdir):
@@ -55,13 +63,23 @@ def trees():
 
     for family in sorted(urls):
         url = urls[family]
+        if not url.endswith('newick.txt'):
+            url += '.newick.txt'
 
-        filename = os.path.join(outdir, family + SUFFIX)
+        filename = os.path.join(outdir, (family + SUFFIX) if family != 'global' else family + '.trees')
         print("%30s <- %s" % (family, url))
-        newick = requests.get(url + '.newick.txt').text.encode('utf-8')
-        # hack to keep ISO code in leaf name
-        newick = newick.replace("[", "<").replace("]", ">")
-        tree = Tree(newick, format=3)
+        newick = requests.get(url).text.encode('utf-8')
+        if family == 'global':
+            tree = Tree()
+            for n in newick.split(';\n'):
+                subtree = Tree(clean_newick(n + ';'), format=3)
+                nodenames = [_n.name for _n in subtree.traverse()]
+                if len(nodenames) == len(set(nodenames)) + 1:
+                    print 'skipping isolate', n.split(')')[-1].split(':')[0]
+                else:
+                    tree.add_child(child=subtree, dist=1.0)
+        else:
+            tree = Tree(clean_newick(newick), format=3)
 
         if clean_tree(tree):
             newick_string = str(tree.write(format=3))
