@@ -75,7 +75,10 @@ def trees():
                 subtree = Tree(clean_newick(n + ';'), format=3)
                 nodenames = [_n.name for _n in subtree.traverse()]
                 if len(nodenames) == len(set(nodenames)) + 1:
-                    print 'skipping isolate', n.split(')')[-1].split(':')[0]
+                    # FIXME: we must include isolates!
+                    # just add single child?
+                    tree.add_child(child=Tree(name=subtree.name), dist=1.0)
+                    print 'adding isolate', subtree.name
                 else:
                     tree.add_child(child=subtree, dist=1.0)
         else:
