@@ -2,6 +2,28 @@
 Data curation scripts
 =====================
 
+Adding NA values to DATA files
+------------------------------
+
+To fill in NA values for all societies in a dataset which have no row for a variable in
+the corresponding `DATA` file, run
+
+```bash
+cd scripts
+python add_na.py
+```
+
+This script is idempotent, i.e. running it for a second time should result in
+
+```
+$ python add_na.py 
+EA 1291 societies
+0 NA values added
+Binford 339 societies
+0 NA values added
+```
+
+
 Data from Glottolog
 -------------------
 
