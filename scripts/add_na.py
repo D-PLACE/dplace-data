@@ -7,16 +7,13 @@ from io import open
 from clldutils.dsv import UnicodeWriter, reader
 
 
-def fill(data, societies):
+def fill(dataset, data, socids):
     lines_old = set(open(data, encoding='utf8').readlines())
     res = defaultdict(list)
     for item in reader(data, dicts=True):
         res[(item['Dataset'], item['VarID'], item['soc_id'])].append(item)
         keys = list(item.keys())
-        dataset = item['Dataset']
 
-    societies = {s['soc_id']: s['xd_id'] for s in societies}
-    socids = set(societies.keys())
     print(dataset, len(socids), 'societies')
 
     for var_id, socs in groupby(sorted(res.keys(), key=lambda t: t[1]), key=lambda t: t[1]):
@@ -25,8 +22,6 @@ def fill(data, societies):
             for key in keys:
                 rec[key] = ''
             rec.update(soc_id=soc_id, Dataset=dataset, Code='NA', VarID=var_id)
-            if 'xd_id' in keys:
-                rec['xd_id'] = societies[soc_id]
             res[(dataset, var_id, soc_id)].append(rec)
         assert sum(len(v) for k, v in res.items() if k[1] == var_id) >= len(socids)
 
@@ -48,8 +43,10 @@ def fill(data, societies):
 
 
 if __name__ == '__main__':
-    for socs, data in [
-        ('../csv/EA_header_data_24Feb2016.csv', '../csv/EA_DATA_Stacked.csv'),
-        ('../csv/Binford_header_data_24Feb2016.csv', '../csv/Binford_DATA_stacked.csv'),
-    ]:
-        fill(data, reader(socs, dicts=True))
+    all_socs = set()
+    for dataset in ['EA', 'Binford']:
+        socids = set(soc['soc_id'] for
+                     soc in reader('../csv/%s_societies.csv' % dataset, dicts=True))
+        all_socs = all_socs.union(socids)
+        fill(dataset, '../csv/%s_data.csv' % dataset, socids)
+    fill('environmental', '../csv/environmental_data.csv', all_socs)

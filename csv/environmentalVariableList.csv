@@ -1,0 +1,25 @@
+VarID,Name,IndexCategory,VarType,Description,Units,CountOfNonMissingValues
+AnnualMeanTemperature,Annual Mean Temperature,Climate,Continuous,Mean value of monthly temperature across the year,°C,1979
+AnnualTemperatureVariance,Annual Temperature Variance,Climate,Continuous,Variance in monthly temperature means,,1979
+MonthlyMeanPrecipitation,Monthly Mean Precipitation,Climate,Continuous,Mean value of monthly precipitation across the year,mm,1979
+PrecipitationConstancy,Precipitation Constancy,Climate,Continuous,Colwell's (1974) information theoretic index. Indicates the extent to which a climate patterns are predictable because conditions are constant. Varies between 0 (completely unpredictable) and 1 (fully predictable).,,1979
+PrecipitationContingency,Precipitation Contingency,Climate,Continuous,Colwell's (1974) information theoretic index. Indicates the extent to which a climate patterns are predictable because conditions oscillate in a very predictable manner.  Varies between 0 (completely unpredictable) and 1 (fully predictable).,,1979
+PrecipitationPredictability,Precipitation Predictability,Climate,Continuous,Colwell's (1974) information theoretic index. Indicates the extent to which a climate patterns are predictable due to either constancy or contingency.  Varies between 0 (completely unpredictable) and 1 (fully predictable).,,1979
+TemperatureConstancy,Temperature Constancy,Climate,Continuous,Colwell's (1974) information theoretic index. Indicates the extent to which a climate patterns are predictable because conditions are constant. Varies between 0 (completely unpredictable) and 1 (fully predictable).,,1979
+TemperatureContingency,Temperature Contingency,Climate,Continuous,Colwell's (1974) information theoretic index. Indicates the extent to which a climate patterns are predictable because conditions oscillate in a very predictable manner.  Varies between 0 (completely unpredictable) and 1 (fully predictable).,,1979
+TemperaturePredictability,Temperature Predictability,Climate,Continuous,Colwell's (1974) information theoretic index. Indicates the extent to which a climate patterns are predictable due to either constancy or contingency.  Varies between 0 (completely unpredictable) and 1 (fully predictable).,,1979
+AmphibianRichness,Amphibian Richness,Ecology,Continuous,Number of coexisting amphibian species.,,1793
+BirdRichness,Bird Richness,Ecology,Continuous,Number of coexisting bird species.,,1901
+MammalRichness,Mammal Richness,Ecology,Continuous,Number of coexisting mammal species.,,1897
+VascularPlantsRichness,Vascular Plants Richness,Ecology,Continuous,Number of coexisting vascular plant species.,,1836
+Elevation,Elevation,Physical Landscape,Continuous,Meters above sea level,masl,1978
+Slope,Slope,Physical Landscape,Continuous,Mean incline (in degrees) in the terrain (unit of sample 0.5 by 0.5 degree cell),degrees,1764
+AnnualNetPrimaryProductionVariance,Annual Net Primary Production Variance,Ecology,Continuous,Variance in net primary production per month,,1977
+AnnualPrecipitationVariance,Annual Precipitation Variance,Climate,Continuous,Variance in monthly precipitation means,,1979
+DistToCoast_km,Distance to coast,Physical Landscape,Continuous,Distance to coast,km,1988
+MonthlyMeanNetPrimaryProduction,Monthly Mean Net Primary Production,Ecology,Continuous,Net primary production per month (grams of carbon uptake per square meter of land per month),gC m-2 month-1,1977
+NetPrimaryProductionConstancy,Net Primary Production Constancy,Ecology,Continuous,Colwell's (1974) information theoretic index. Indicates the extent to which a climate patterns are predictable because conditions are constant. Varies between 0 (completely unpredictable) and 1 (fully predictable).,,1969
+NetPrimaryProductionContingency,Net Primary Production Contingency,Ecology,Continuous,Colwell's (1974) information theoretic index. Indicates the extent to which a climate patterns are predictable because conditions oscillate in a very predictable manner.  Varies between 0 (completely unpredictable) and 1 (fully predictable).,,1969
+NetPrimaryProductionPredictability,Net Primary Production Predictability,Ecology,Continuous,Colwell's (1974) information theoretic index. Indicates the extent to which a climate patterns are predictable due to either constancy or contingency.  Varies between 0 (completely unpredictable) and 1 (fully predictable).,,1969
+OlsonBiome,Biome,Ecology,Categorical,Classification by Olson et al. (2001) of the earth into fourteen units that host similar formations of plants and animals due to their climates. A single biome can be found over a range of continents. ,,1988
+OlsonEcoRegion,EcoRegion,Ecology,Categorical,Classification by Olson et al. (2001) of the earth into zones (ecoregions) encompassing distinct biotas. Ecoregions are nested within Biomes. ,,1981
