@@ -43,6 +43,9 @@ def fill(dataset, data, socids):
 
 
 if __name__ == '__main__':
+    #
+    # FIXME: must look for (Dataset, soc_id) pairs!
+    #
     all_socs = set()
     for dataset in ['EA', 'Binford']:
         socids = set(soc['soc_id'] for
