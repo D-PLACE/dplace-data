@@ -17,12 +17,12 @@ def fill(dataset, data, socids):
     print(dataset, len(socids), 'societies')
 
     for var_id, socs in groupby(sorted(res.keys(), key=lambda t: t[1]), key=lambda t: t[1]):
-        for soc_id in socids.difference(set(s[2] for s in socs)):
+        for ds, soc_id in socids.difference(set((s[0], s[2]) for s in socs)):
             rec = OrderedDict()
             for key in keys:
                 rec[key] = ''
-            rec.update(soc_id=soc_id, Dataset=dataset, Code='NA', VarID=var_id)
-            res[(dataset, var_id, soc_id)].append(rec)
+            rec.update(soc_id=soc_id, Dataset=ds, Code='NA', VarID=var_id)
+            res[(ds, var_id, soc_id)].append(rec)
         assert sum(len(v) for k, v in res.items() if k[1] == var_id) >= len(socids)
 
     with UnicodeWriter(data) as fp:
@@ -45,7 +45,7 @@ def fill(dataset, data, socids):
 if __name__ == '__main__':
     all_socs = set()
     for dataset in ['EA', 'Binford']:
-        socids = set(soc['soc_id'] for
+        socids = set((dataset, soc['soc_id']) for
                      soc in reader('../csv/%s_societies.csv' % dataset, dicts=True))
         all_socs = all_socs.union(socids)
         fill(dataset, '../csv/%s_data.csv' % dataset, socids)
