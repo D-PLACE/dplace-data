@@ -1,7 +1,7 @@
 VarID,Name,IndexCategory,VarType,Description,Units,CountOfNonMissingValues
 AnnualMeanTemperature,Annual Mean Temperature,Climate,Continuous,Mean value of monthly temperature across the year,°C,1979
 AnnualTemperatureVariance,Annual Temperature Variance,Climate,Continuous,Variance in monthly temperature means,,1979
-MonthlyMeanPrecipitation,Monthly Mean Precipitation,Climate,Continuous,Mean value of monthly precipitation across the year,mm,1979
+AnnualMeanPrecipitation,Annual Mean Precipitation,Climate,Continuous,Mean value of annual precipitation across the year,mm,1979
 PrecipitationConstancy,Precipitation Constancy,Climate,Continuous,Colwell's (1974) information theoretic index. Indicates the extent to which a climate patterns are predictable because conditions are constant. Varies between 0 (completely unpredictable) and 1 (fully predictable).,,1979
 PrecipitationContingency,Precipitation Contingency,Climate,Continuous,Colwell's (1974) information theoretic index. Indicates the extent to which a climate patterns are predictable because conditions oscillate in a very predictable manner.  Varies between 0 (completely unpredictable) and 1 (fully predictable).,,1979
 PrecipitationPredictability,Precipitation Predictability,Climate,Continuous,Colwell's (1974) information theoretic index. Indicates the extent to which a climate patterns are predictable due to either constancy or contingency.  Varies between 0 (completely unpredictable) and 1 (fully predictable).,,1979
