@@ -5,11 +5,10 @@ Each directory within the phylogenies subdirectory contains the following:
 
 1. original/ -- a directory storing the original tree files.
 
-2. xdid_socid_links.csv -- a csv file linking the taxon labels in original/* to DPLACE:
+2. languages.csv -- a csv file linking the taxon labels in original/* to their
+     correct glottocodes
 
-    Name_on_tree_tip,xd_id,soc_id,fixed_order
-    PunanKelai,xd1442,B1,0
-    MinyaifuinGebe,xd460,Cb11,0
+    Taxon,Glottocode,ISOCode
 
 3. summary.trees -- a single summary tree in nexus tree format.
 4. posterior.trees -- a posterior probability distribution of the trees (if available) in nexus tree format.
