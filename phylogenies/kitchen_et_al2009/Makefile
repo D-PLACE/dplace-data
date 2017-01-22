@@ -4,7 +4,7 @@ NM='nexus_treemanip.py'
 all: summary.trees posterior.trees
 
 summary.trees: original/kitchen2009.mcct.trees
-	$(NM) -c $< $@
+	$(NM) -c -t $< $@
 
 posterior.trees: original/Semitic.Greenhill.trees.gz
 	$(NM) -c -d 1-200 $< tmp
