@@ -1,0 +1,112 @@
+1 trees found with 0 translated taxa
+#NEXUS
+
+begin taxa;
+	dimensions ntax=34;
+	taxlabels
+	[1] 'Pipil'
+	[2] 'Aztec_Tetelcingo'
+	[3] 'Aztec_Zacapoaxtla'
+	[4] 'ClassicalAztec'
+	[5] 'Cora'
+	[6] 'Huichol'
+	[7] 'Tubar'
+	[8] 'Opata'
+	[9] 'Eudeve'
+	[10] 'Guarijio'
+	[11] 'Tarahumara'
+	[12] 'Mayo'
+	[13] 'Yaqui'
+	[14] 'NorthernTepehuan'
+	[15] 'PimadeOnavas'
+	[16] 'PapagoPima'
+	[17] 'SoutheasternTepehuan'
+	[18] 'Gabrielino'
+	[19] 'Serrano'
+	[20] 'Kitanemuk'
+	[21] 'Cupeno'
+	[22] 'Cahuilla'
+	[23] 'Luiseno'
+	[24] 'Mono'
+	[25] 'NorthernPaiute'
+	[26] 'Shoshoni_GosiuteDialect'
+	[27] 'Comanche'
+	[28] 'Pannamint'
+	[29] 'SouthernPaiute'
+	[30] 'SouthernUte'
+	[31] 'Chemehuevi'
+	[32] 'Kawaiisu'
+	[33] 'Tubatulabel'
+	[34] 'Hopi'
+;
+end;
+begin trees;
+	tree TREE1 =  (((((Pipil:0.6123736419,((Aztec_Tetelcingo:0.1713929363,Aztec_Zacapoaxtla:0.7186935987):0.416295626,ClassicalAztec:0.0023615599):0.2336521694):3.8738264894,(Cora:1.8616800006,Huichol:0.9252681742):1.2037342198):0.1370083527,(Tubar:2.6247392595,(((Opata:1.3862059811,Eudeve:0.7678501408):1.462503822,(Guarijio:0.103254856,Tarahumara:0.5406524802):1.7062531061):0.2551193232,(Mayo:0.1356332712,Yaqui:0.0546850887):1.5817639979):0.1423294413):0.0177528647):0.7607704421,(NorthernTepehuan:0.0621798937,((PimadeOnavas:0.4692024454,PapagoPima:0.2576887852):0.2825928232,SoutheasternTepehuan:0.8690983761):0.479404101):1.8196437224):0.019773559,(((Gabrielino:2.924197399,((Serrano:0.8373183214,Kitanemuk:0.4603928015):1.7419824128,((Cupeno:1.3737675615,Cahuilla:1.2077809266):0.1951493878,Luiseno:2.7582025262):1.6681550751):0.4446726611):1.3701452878,(((Mono:0.7551549373,NorthernPaiute:0.6456325301):1.058826101,(((Shoshoni_GosiuteDialect:0.0743867342,Comanche:0.442677232):0.2668111249,Pannamint:0.1550582663):0.7980706437,(((SouthernPaiute:0.0321231263,SouthernUte:0.5177534444):0.0904580136,Chemehuevi:0.5895767395):0.1707635144,Kawaiisu:0.3810208827):0.7864091101):0.0517747386):2.0128195358,Tubatulabel:2.0168175217):0.5456399767):0.3522784028,Hopi:4.0856229947):1.0973236109);
+end;
+
+begin figtree;
+set appearance.backgroundColorAttribute="User Selection";
+set appearance.backgroundColour=#-1;
+set appearance.branchColorAttribute="User Selection";
+set appearance.branchLineWidth=1.0;
+set appearance.foregroundColour=#-16777216;
+set appearance.selectionColour=#-2144520576;
+set branchLabels.colorAttribute="User Selection";
+set branchLabels.displayAttribute="Branch times";
+set branchLabels.fontName="Helvetica";
+set branchLabels.fontSize=14;
+set branchLabels.fontStyle=0;
+set branchLabels.isShown=false;
+set branchLabels.significantDigits=4;
+set layout.expansion=0;
+set layout.layoutType="RECTILINEAR";
+set layout.zoom=0;
+set nodeBars.barWidth=4.0;
+set nodeLabels.colorAttribute="User Selection";
+set nodeLabels.displayAttribute="posterior";
+set nodeLabels.fontName="Helvetica";
+set nodeLabels.fontSize=14;
+set nodeLabels.fontStyle=0;
+set nodeLabels.isShown=true;
+set nodeLabels.significantDigits=2;
+set polarLayout.alignTipLabels=false;
+set polarLayout.angularRange=0;
+set polarLayout.rootAngle=0;
+set polarLayout.rootLength=100;
+set polarLayout.showRoot=true;
+set radialLayout.spread=0.0;
+set rectilinearLayout.alignTipLabels=true;
+set rectilinearLayout.curvature=0;
+set rectilinearLayout.rootLength=100;
+set scale.offsetAge=0.0;
+set scale.rootAge=1.0;
+set scale.scaleFactor=1.0;
+set scale.scaleRoot=false;
+set scaleAxis.automaticScale=true;
+set scaleAxis.fontSize=8.0;
+set scaleAxis.isShown=false;
+set scaleAxis.lineWidth=1.0;
+set scaleAxis.majorTicks=1.0;
+set scaleAxis.origin=0.0;
+set scaleAxis.reverseAxis=false;
+set scaleAxis.showGrid=true;
+set scaleAxis.significantDigits=4;
+set scaleBar.automaticScale=true;
+set scaleBar.fontSize=18.0;
+set scaleBar.isShown=false;
+set scaleBar.lineWidth=1.0;
+set scaleBar.scaleRange=0.8;
+set scaleBar.significantDigits=4;
+set tipLabels.colorAttribute="User Selection";
+set tipLabels.displayAttribute="Names";
+set tipLabels.fontName="Helvetica";
+set tipLabels.fontSize=18;
+set tipLabels.fontStyle=0;
+set tipLabels.isShown=true;
+set tipLabels.significantDigits=4;
+set trees.order=false;
+set trees.orderType="increasing";
+set trees.rooting=false;
+set trees.rootingType="User Selection";
+set trees.transform=false;
+set trees.transformType="cladogram";

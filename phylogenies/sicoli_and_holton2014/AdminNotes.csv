@@ -1,0 +1,41 @@
+Name_on_tree_tip,xd_id,ISO,glottologID,xd_id,other_xd_id,,N_xdid,AdminComment,full_matches1,soc_id_matches1,full_matches2,soc_id_matches2,full_matches3,soc_id_matches3,,FINAL
+hax,xd1438,hax,,xd1438,,,1,Society name in paper is 'Haida',South Skidegate Haida (J4),J4,,,,,,J4
+gwi,xd1037,gwi,,xd1037,,,1,Society name in paper is 'Gwich'in',"Kutchin (Na20), Kutchin (B356)","Na20, B356",,,,,,"Na20, B356"
+dgr,xd1032,dgr,,xd1032,,,1,Society name in paper is 'Dogrib',"Dogrib (Na15), Dogrib (B361)","Na15, B361",,,,,,"Na15, B361"
+scsh,xd1009,scs,,xd1009,,,1,"Society name in paper is 'Hare'; Code in author's nexus file is 'scsh', iso code is scs only (h presumably indicates ""Hare"" dialect)",Hare (B352),B352,,,,,,B352
+xsl,xd1034,xsl,,xd1034,,,1,Society name in paper is 'Slave',"Slave (Na17), Slave (B345), Slave (SCCS128)","Na17, B345, SCCS128",,,,,,"Na17, B345, SCCS128"
+bea,xd1045,bea,,xd1045,,,1,Society name in paper is 'Beaver',"Beaver (Na29), Beaver (B344)","Na29, B344",,,,,,"Na29, B344"
+crx,xd1035,crx,,xd1035,,,1,Society name in paper is 'Carrier',"Carrier (Na19), Carrier (B349), Alkatcho Carrier (J93), Lower Carrier (J94)","Na19, B349, J93, J94",,,,,,"Na19, B349, J93, J94"
+chp,xd1046,chp,,xd1046,,,1,Society name in paper is 'Dene Suline',"Chipewyan (Na30), Chippewyan (B355)","Na30, B355",,,,,,"Na30, B355"
+txc,,txc,,,,,0,Society name in paper is 'Tsetsaut',,,,,,,,
+haa,xd1008,haa,,xd1008,,,1,Society name in paper is 'Han',Han (B351),B351,,,,,,B351
+ing,xd1066,ing,,xd1066,,,1,Society name in paper is 'Deg Xinag',"Ingalik (Na8), Ingalik (B357), Ingalik (SCCS122)","Na8, B357, SCCS122",,,,,,"Na8, B357, SCCS122"
+kuu,,kuu,,,,,0,Society name in paper is 'Upper Kuskokwim',,,,,,,,
+hoi,xd1013,hoi,,xd1013,,,1,Society name in paper is 'Holikachuk',Holikachuk (B364),B364,,,,,,B364
+koy,xd1010,koy,,xd1010,,,1,Society name in paper is 'Koyukon',Koyukon (B354),B354,,,,,,B354
+taa,,taa,,,,,0,Society name in paper is 'Tanana',,,,,,,,
+aht,,aht,,,,,0,Society name in paper is 'Ahtna',,,,,,,,
+tfn,xd1042,tfn,,xd1042,,,1,Society name in paper is 'Dena'ina',"Tanaina (Na26), Tanaina (B362)","Na26, B362",,,,,,"Na26, B362"
+kkz,xd1056,kkz,,xd1056,,,1,Society name in paper is 'Kaska',"Kaska (Na4), Kaska (B346), Kaska (SCCS129)","Na4, B346, SCCS129",,,,,,"Na4, B346, SCCS129"
+tcb,,tcb,,,,,0,Society name in paper is 'Tanacross',,,,,,,,
+tau,xd1026,tau,,xd1026,,,1,Society name in paper is 'Upper Tanana',"Nabesna (Na1), Nabesna (B359)","Na1, B359",,,,,,"Na1, B359"
+ttmN,xd1012,ttm,,xd1012,,,1,Society name in paper is 'N Tutchone',Tutchone (B363),B363,,,,,,B363
+tceS,,tce,,,,,0,Society name in paper is 'S Tutchone',,,,,,,,
+eya,xd1102,eya,,xd1102,,,1,Society name in paper is 'Eyak',"Eyak (Nb5), Eyak (B295), Eyak (SCCS130)","Nb5, B295, SCCS130",,,,,,"Nb5, B295, SCCS130"
+tli,"xd1082, xd1431",tli,,xd1082,xd1431,,2,Society name in paper is 'Tlingit',"Tlingit (Nb22), Tlingit (B292), South Tlingit (J2)","Nb22, B292, J2",North Tlingit (J1),J1,,,,"Nb22, B292, J2, J1"
+gce,xd1423,gce,,xd1423,,,1,Society name in paper is 'Galice',Galice Creek Athapaskan (J34),J34,,,,,,J34
+tol,xd1103,tol,,xd1103,,,1,Society name in paper is 'Tolowa',"Tolowa (Nb6), Tolowa (B178), Tolowa Athapaskan (J35)","Nb6, B178, J35",,,,,,"Nb6, B178, J35"
+cco,,coq,,,,,0,"Society name in paper is 'Chasta Costa'; Code in author's nexus file is 'cco', which is WALS code for Chasta Costa, but iso code Comaltepec Chinantec; coq is iso code for ""Coquille"", which Glottolog states has alternative name ""Chasta Costa""",,,,,,,,
+hup,xd1096,hup,,xd1096,,,1,Society name in paper is 'Hupa',"Hupa (Nb35), Hupa (B180), Hupa Athapaskan (J38)","Nb35, B180, J38",,,,,,"Nb35, B180, J38"
+mtl,xd1099,mvb,,xd1099,,,1,"Society name in paper is 'Mattole'; Code in author's nexus file is 'mtl', which is iso code for Montol","Mattole (Nb38), Mattole (B169), Mattole Athapaskan (J41)","Nb38, B169, J41",,,,,,"Nb38, B169, J41"
+wlk,"xd1100, xd1098, xd1434",wlk,,xd1100,xd1098,xd1434,3,"Society name in paper is 'Wailaki'; Could be linked to D-PLACE societies Sinkyone,Lassik,Nongatl; Lat/Long from paper not helpful in resolving, so have left both as options","Sinkyone (Nb39), Sinkyone (B166), Sinkyone Athapaskan (J40)","Nb39, B166, J40","Lassik (Nb37), Lassik (B167)","Nb37, B167",Nongatl Athapaskan (J42),J42,,"Nb39, B166, J40, Nb37, B167, J42"
+kto,xd1425,ktw,,xd1425,,,1,"Society name in paper is 'Kato'; Code in author's nexus file is 'kto', which is WALS code for Kato, but iso code for Kuot",Kato Athapaskan (J43),J43,,,,,,J43
+apc,xd1259,apm,,xd1259,,,1,"Society name in paper is 'Chiricahua Apache'; Code in author's nexus file is 'apc', which is WALS code for Chricahua, but iso code for North Levantine Arabic","Chiricahua (Nh1), Chiricahua Apache (B242), Warm Springs Chiricahua Apache (J152), Huachuca Chiricahua Apache (J153), Chiricahua (SCCS148)","Nh1, B242, J152, J153, SCCS148",,,,,,"Nh1, B242, J152, J153, SCCS148"
+apw,xd1267,apw,,xd1267,,,1,Society name in paper is 'Western Apache',"Western Apache (Nh17), North Tonto Western Apache (J147), South Tonto Western Apache (J148), San Carlos Western Apache (J149), Cibecue Western Apache (J150), White Mountain Western Apache (J151)","Nh17, J147, J148, J149, J150, J151",,,,,,"Nh17, J147, J148, J149, J150, J151"
+apj,xd1266,apj,,xd1266,,,1,Society name in paper is 'Jicarila',"Jicarilla (Nh16), Jicarilla Apache (J156)","Nh16, J156",,,,,,"Nh16, J156"
+nav,xd1279,nav,,xd1279,,,1,Society name in paper is 'Navajo',"Navaho (Nh3), Western Navaho (J157), Eastern Navaho (J158)","Nh3, J157, J158",,,,,,"Nh3, J157, J158"
+apk,xd1219,apk,,xd1219,,,1,Society name in paper is 'Kiowa Apache',"Kiowa Apache (Ne2), Kiowa Apache (B244)","Ne2, B244",,,,,,"Ne2, B244"
+apl,xd1275,apl,,xd1275,,,1,Society name in paper is 'Lipan Apache',"Lipan (Nh24), Lipan Apache (B240), Lipan Apache (J155)","Nh24, B240, J155",,,,,,"Nh24, B240, J155"
+srs,xd1226,srs,,xd1226,,,1,Society name in paper is 'Tsuuti'ina',"Sarsi (Ne7), Sarsi (B260)","Ne7, B260",,,,,,"Ne7, B260"
+ket,xd636,ket,,xd636,,,1,Society name in paper is 'Ket',"Ket (Ec8), Ket (B24)","Ec8, B24",,,,,,"Ec8, B24"
+zko,,zko,,,,,0,Society name in paper is 'Kott',,,,,,,,
