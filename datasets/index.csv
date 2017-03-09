@@ -1,0 +1,9 @@
+id,type,abbr,name,description,year,author,citation
+EA,cultural,EA,Ethnographic Atlas,,1999,Murdock et al.,"Murdock, G. P., R. Textor, H. Barry, III, D. R. White, J. P. Gray, and W. T. Divale. 1999. Ethnographic Atlas. World Cultures 10:24-136 (codebook)"
+Binford,cultural,B,Binford Hunter-Gatherer,,2001,Binford,"Binford, L. 2001. Constructing Frames of Reference: An Analytical Method for Archaeological Theory Building Using Hunter-gatherer and Environmental Data Sets. University of California Press"
+SCCS,cultural,S,Standard cross-cultural sample,,1969,Murdock,""
+WNAI,cultural,J,Western North American Indian database,,1966,Jorgensen,""
+MODIS,environmental,MODIS,Moderate Resolution Imaging Spectroradiometer,,,,
+CRUTS,environmental,CRUTS,Climatic Research Unit Time-Series,,,,
+TEOW,environmental,TEOW,Terrestrial Ecoregions of the World,,2001,Olson et al.,"Olson, D. M., Dinerstein, E., Wikramanayake, E. D., Burgess, N. D., Powell, G. V. N., Underwood, E. C., D'Amico, J. A., Itoua, I., Strand, H. E., Morrison, J. C., Loucks, C. J., Allnutt, T. F., Ricketts, T. H., Kura, Y., Lamoreux, J. F., Wettengel, W. W., Hedao, P., Kassem, K. R. 2001. Terrestrial ecoregions of the world: a new map of life on Earth. Bioscience 51(11):933-938."
+GTOPO30,environmental,GT,Global 30 Arc-Second Elevation,,,U.S. Geological Survey,Data available from the U.S. Geological Survey.

@@ -1,0 +1,109 @@
+var_id,code,description,name
+1,NA,Missing data,Missing data
+2,NA,Missing data,Missing data
+3,NA,Missing data,Missing data
+4,NA,Missing data,Missing data
+4,1,Majority of a group's nutritional intake comes from terrestrial animal resources,Hunting
+4,2,Majority of a group's nutritional intake comes from terrestrial plant resources,Gathering
+4,3,Majority of a group's nutritional intake comes from aquatic resources,Fishing (aquatic)
+5,NA,Missing data,Missing data
+5,1,"Normal HGF group: at time of contact, subsistence was based exclusively on hunting, gathering and/or fishing. No domesticated resources were exploited, except perhas the dog or plant substance such as tobacco.",Normal
+5,2,"Suspect: altrough the group may be organized similarly to hunter-gatherer-fishers, some subsistence may come from exchanges with non-HGF groups",Suspect
+6,NA,Missing data,Missing data
+7,NA,Missing data,Missing data
+8,NA,Missing data,Missing data
+9,NA,Missing data,Missing data
+9,1,Group is mobile and moves entire population from camp to camp as they go about the subsistence round,Mobile
+9,2,Group is completely sedentary or group moves into and out of a central location that is maintained for more than one year,Sedentary
+10,NA,Missing data,Missing data
+11,NA,Missing data,Missing data
+12,NA,Missing data,Missing data
+13,NA,Missing data,Missing data
+14,NA,Missing data,Missing data
+15,NA,Missing data,Missing data
+16,NA,Missing data,Missing data
+17,NA,Missing data,Missing data
+17,1,Independent nuclear families with monogamy,"Nuclear, monogamous"
+17,2,Independent nuclear families with occasional or limited polygyny,"Nuclear, limited polygyny"
+17,3,Independent polyandrous families,Polyandrous
+17,4,"Independent polygynous families, unusual co-wives pattern (either polygyny is preferentially sororal, with cowives in separate quarters or it is typically non-sororal, with cowives in same quarters ","Polygyny, atypical cowives pattern"
+17,5,"Independent polygynous families, usual co-wives pattern (either polygyny is preferentially sororal, with cowives in same quarters, OR typically non-sororal, with cowives in separate quarters) ","Polygyny, typical cowives pattern"
+17,6,"Minimal extended or ""stem"" families, i.e., those consisting of only two related families of procreation (disregarding polygamous unions), particularly of adjacent generations",Minimal extended
+17,7,"Small extended families, i.e., those normally embracing the families of procreation of only one individual in the senior generation but of at least two in the next generation. Such families usually dissolve on the death of the head",Small extended
+17,8,"Large extended families, i.e., corporate aggregations of smaller family units occupying a single dwelling or a number of adjacent dwellings and normally embracing the families of procreation of at least two siblings or cousins in each of at least two adjacent generations",Large extended
+18,NA,Missing data,Missing data
+18,1,Monogamous,Monogamous
+18,2,"Polygynous, with polygyny occasional or limited",Limited polygyny
+18,3,"Polygynous, with polygyny common and preferentially sororal, and co-wives not reported to occupy separate quarters","Polygyny, sororal cohabit"
+18,4,"Polygynous, with polygyny common and preferentially sororal, and co-wives typically occupying separate quarters","Polygyny, sororal separate"
+18,5,"Polygynous, with polygyny general and not reported to be preferentially sororal, and co-wives typically occupying separate quarters","Polygyny, non-sororal cohabit"
+18,6,"Polygynous, with polygyny general and not reported to be preferentially sororal, and co-wives not reported to occupy separate quarters","Polygyny, non-sororal separate"
+18,7,Polyandrous,Polyandrous
+19,NA,Missing data,Missing data
+20,NA,Missing data,Missing data
+21,NA,Missing data,Missing data
+22,NA,Missing data,Missing data
+23,NA,Missing data,Missing data
+24,NA,Missing data,Missing data
+25,NA,Missing data,Missing data
+27,NA,Missing data,Missing data
+29,NA,Missing data,Missing data
+29,1,"Local autonomy, senior male ""guidance""",Autonomous
+29,2,"Local autonomy with performance-based leadership, leaders are acknowledged",Local autonomy with leader
+29,3,Local autonomy with a formal council and a leader who assembles the council and has other group duties,Local autonomy with leader and council
+29,4,Neighbourhoods of villages/settlements/large camps integrated into an overarching leadership and decision making organization,Regional leaders
+30,NA,Missing data,Missing data
+30,1,Group is autonomous and exists in a matrix of similarly scaled hunter-gatherer systems,"Autonomous, matrix of similar HG groups"
+30,2,Group is autonomous but is articularted to a socially or politically more complex group of hunter-gatherers,"Autonomous, articulated to more complex HG group(s)"
+30,3,"Group exists in a culturally heterogeneous region and is articulated to a non-hunter gatherer society, either mutualistically or in a patron-client relationship",Articulated to a non-HG society
+31,NA,Missing data,Missing data
+31,1,Absence of any significant class distinctions,Absence of distinctions
+31,2,Wealth distinctions only,Wealth distinctions only
+31,3,Dual stratification into a hereditary aristocracy and a lower class of ordinary people,Dual: hereditary aristocracy and lower class
+32,NA,Missing data,Missing data
+32,1,No special prerogatives,No special prerogatives
+32,2,"No relief from subsistence and no special dress prerogatives, but messengers as regular assistants",No subsistence relief; some assistants
+32,3,"No relief from subsistence and only minor dress prerogatives, but both messengers and a talking chief or speaker for the leader",No subsistence relief; some assistants and dress
+32,4,"Some regular relief from subsistence, in-kind contributions to the leader from the ""people,"" sometimes special roles for the leader's wife",Some subsistence relief
+32,5,"Complete relief from subsistence duties, more assistants, special roles associated with the leader, visible symbols associated with the office, perhaps a permanent ""guard,"" perhaps special marriage rules, and very distinctive clothing","Complete subsistence relief; assistants, distinctive dress"
+33,NA,Missing data,Missing data
+33,1,Absent,Absent
+33,2,Rarely used,Rarely used
+33,3,Commonly used,Commonly used
+33,4,Many convertible items,Many convertible items
+34,NA,Missing data,Missing data
+34,1,Absent,Absent
+34,2,Few (1-3),Few (1-3)
+34,3,Moderate (4-7),Moderate (4-7)
+34,4,Many (equal to or greater than 8),Many (>= 8)
+35,NA,Missing data,Missing data
+35,1,Exogamous,Exogamous
+35,2,Exogamous clan,Exogamous clan
+35,3,Agamous,Agamous
+35,4,Endogamous demed,Endogamous demed
+35,5,Endogamous segmented,Endogamous segmented
+36,NA,Missing data,Missing data
+36,1,No permanent community structures,No permanent structures
+36,2,Rituals and ceremonies held in host's residence,Host's residence
+36,3,Sweat lodge,Sweat lodge
+36,4,Dance house,Dance house
+36,5,"Dance house or men's house, and sweat house",Dance or Men's house and Sweat lodge
+36,6,Functionally specific community house,Functionally specific comm. house
+36,7,Complex of community structures present,Complex of structures
+37,NA,Missing data,Missing data
+37,1,"No ownership reported, use rights recognized by others","No ownership, use rights recognized"
+37,2,"Local group claims exclusive use rights over resource location, residential sites, while households may claim special trees and similar features of the landscape","Grp ownership, hh claim trees/similar features"
+37,3,"Local group claims for hunting areas, dominant animals, fishing sites, and animal drive locations, such claims administered by group leader, but smaller segments may claim exclusive access to resource locations","Grp ownership, subgrps claim excl. access to resources"
+37,4,Elite ownership of land and resources,Elite ownership
+38,NA,Missing data,Missing data
+38,1,Mounted hunters,Mounted hunters
+38,2,Agriculturalists,Agriculturalists
+38,3,Mutualists,Mutualists
+38,4,Egalitarian but without leaders,"Egalitarian, no leaders"
+38,5,Egalitarian with leaders,"Egalitarian, leaders"
+38,6,Ranked wealth,Ranked wealth
+38,7,Ranked elites,Ranked elites
+39,NA,Missing data,Missing data
+40,NA,Missing data,Missing data
+41,NA,Missing data,Missing data
+42,NA,Missing data,Missing data
