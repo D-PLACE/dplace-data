@@ -1,4 +1,4 @@
-id,type,abbr,name,description,year,author,citation
+id,type,abbr,name,description,year,author,reference
 EA,cultural,EA,Ethnographic Atlas,,1999,Murdock et al.,"Murdock, G. P., R. Textor, H. Barry, III, D. R. White, J. P. Gray, and W. T. Divale. 1999. Ethnographic Atlas. World Cultures 10:24-136 (codebook)"
 Binford,cultural,B,Binford Hunter-Gatherer,,2001,Binford,"Binford, L. 2001. Constructing Frames of Reference: An Analytical Method for Archaeological Theory Building Using Hunter-gatherer and Environmental Data Sets. University of California Press"
 SCCS,cultural,S,Standard cross-cultural sample,,1969,Murdock,""
