@@ -5,6 +5,7 @@
 """
 from __future__ import unicode_literals, print_function, division
 import re
+from itertools import groupby
 
 from clldutils.path import Path
 from clldutils.dsv import reader, UnicodeWriter
@@ -13,39 +14,45 @@ from clldutils.misc import slug
 from pyglottolog.api import Glottolog
 
 
-biome_map = {
-    "Mediterranean Forests, Woodlands & Scrub":
-        "Mediterranean forests, woodlands, and scrub or sclerophyll forests",
-    "Temperate Conifer Forests":
-        "Temperate coniferous forests",
-    "Mangroves": "Mangrove",
-    "Missing data": "NA",
-}
-
-
 def main(data_dir):
-    codes = {}
-    for var in ['Biome', 'EcoRegion']:
-        codes[var] = {
-            slug(biome_map.get(r['description'], r['description']).replace('&', 'and')): r
-            for r in reader(data_dir.joinpath('datasets', 'TEOW', 'codes.csv'), dicts=True)
-            if r['var_id'] == var}
+    envvars = sorted(
+        reader(data_dir.joinpath('csv', 'environmentalVariableList.csv'), dicts=True),
+        key=lambda d: d['source'])
+    envdata = list(reader(data_dir.joinpath('csv', 'environmental_data.csv'), dicts=True))
+    datasets = {r['id']: r for r in reader(data_dir.joinpath('datasets', 'index.csv'), dicts=True)}
 
-    with UnicodeWriter(data_dir.joinpath('datasets', 'TEOW', 'data.csv')) as writer:
-        writer.writerow('dataset, soc_id, sub_case, year, var_id, code, comment, references, source_coded_data, admin_comment'.split(', '))
-        for r in reader(data_dir.joinpath('csv', 'environmental_data.csv'), dicts=True):
-            if r['VarID'] in ['OlsonBiome', 'OlsonEcoRegion']:
-                code = slug(r['Code'].replace('\xa0', ' ').strip())
-                if code not in codes[r['VarID'].replace('Olson', '')]:
-                    print(r)
-                else:
-                    writer.writerow([
+    for src, vars in groupby(envvars, lambda d: d['source']):
+        with UnicodeWriter(data_dir.joinpath('datasets', src, 'variables.csv')) as vwriter,\
+                UnicodeWriter(data_dir.joinpath('datasets', src, 'data.csv')) as dwriter:
+            vwriter.writerow('category,id,title,definition,type,units,source,changes,notes'.split(','))
+            dwriter.writerow('dataset,soc_id,sub_case,year,var_id,code,comment,references,source_coded_data,admin_comment'.split(','))
+
+            varids = []
+            for var in vars:
+                #VarID,Name,IndexCategory,VarType,Description,Units,CountOfNonMissingValues,source
+                varids.append(var['VarID'])
+                vwriter.writerow([
+                    var['IndexCategory'],
+                    var['VarID'],
+                    var['Description'],
+                    var['Description'],
+                    var['VarType'],
+                    var['Units'],
+                    datasets[src]['name'],
+                    '',
+                    ''
+                ])
+
+            for r in envdata:
+                #Dataset,soc_id,VarID,Code,Comment
+                if r['VarID'] in varids:
+                    dwriter.writerow([
                         r['Dataset'] if r['Dataset'] != 'Jorgensen' else 'WNAI',
                         r['soc_id'],
                         '',
-                        '1988' if r['VarID'] == 'OlsonBiome' else '1981',
-                        r['VarID'].replace('Olson', ''),
-                        codes[r['VarID'].replace('Olson', '')][code]['code'],
+                        datasets[src]['year'],
+                        r['VarID'],
+                        r['Code'],
                         r['Comment'],
                         '',
                         '',

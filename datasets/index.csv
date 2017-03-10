@@ -3,7 +3,10 @@ EA,cultural,EA,Ethnographic Atlas,,1999,Murdock et al.,"Murdock, G. P., R. Texto
 Binford,cultural,B,Binford Hunter-Gatherer,,2001,Binford,"Binford, L. 2001. Constructing Frames of Reference: An Analytical Method for Archaeological Theory Building Using Hunter-gatherer and Environmental Data Sets. University of California Press"
 SCCS,cultural,S,Standard cross-cultural sample,,1969,Murdock,""
 WNAI,cultural,J,Western North American Indian database,,1966,Jorgensen,""
-MODIS,environmental,MODIS,Moderate Resolution Imaging Spectroradiometer,,,,
-CRUTS,environmental,CRUTS,Climatic Research Unit Time-Series,,,,
+MODIS,environmental,MODIS,Moderate Resolution Imaging Spectroradiometer,,,,"NASA. Net Primary Productivity (1 month - TERRA/MODIS) [Internet]. Available: http://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD17A2_M_PSN"
+CRUTS,environmental,CRUTS,CRU-TS 3.1 Climate Database,,,,"Harris I, Jones PD, Osborn TJ, Lister DH. Updated high resolution grids of monthly climatic observations–the CRU TS3. 10 Dataset. Int J Climatol. 2014;34: 623–642."
 TEOW,environmental,TEOW,Terrestrial Ecoregions of the World,,2001,Olson et al.,"Olson, D. M., Dinerstein, E., Wikramanayake, E. D., Burgess, N. D., Powell, G. V. N., Underwood, E. C., D'Amico, J. A., Itoua, I., Strand, H. E., Morrison, J. C., Loucks, C. J., Allnutt, T. F., Ricketts, T. H., Kura, Y., Lamoreux, J. F., Wettengel, W. W., Hedao, P., Kassem, K. R. 2001. Terrestrial ecoregions of the world: a new map of life on Earth. Bioscience 51(11):933-938."
-GTOPO30,environmental,GT,Global 30 Arc-Second Elevation,,,U.S. Geological Survey,Data available from the U.S. Geological Survey.
+GTOPO30,environmental,GT,Global 30 Arc-Second Elevation,,,"LP DAAC (Land Processes Distributed Active Archive Center) USGS/EROS. Global 30 arc-second elevation (GTOPO30): Longterm archive [Internet]. Available: https://lta.cr.usgs.gov/GTOPO30"
+Kreft,environmental,Kr,Kreft and Jetz 2007,,2007,Kreft and Jetz,"Kreft H, Jetz W. Global patterns and determinants of vascular plant diversity. Proc Natl Acad Sci. 2007;104: 5925–5930."
+Jenkins,environmental,Je,Jenkins et al. 2013,,2013,Jenkins et al.,"Jenkins CN, Pimm SL, Joppa LN. Global patterns of terrestrial vertebrate diversity and conservation. Proc Natl Acad Sci. 2013;110: E2602–E2610."
+GSHHS,environmental,GSHHS,High-resolution Geography Database,,2015,Wessel and Smith,"Wessel P, Smith, W. H. F. Global Self-consistent, Hierarchical, High-resolution Geography Database (GSHHS) v2.3.4 [Internet]. 2015. Available: https://www.ngdc.noaa.gov/mgg/shorelines/gshhs.html"
