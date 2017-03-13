@@ -15,49 +15,21 @@ from pyglottolog.api import Glottolog
 
 
 def main(data_dir):
-    envvars = sorted(
-        reader(data_dir.joinpath('csv', 'environmentalVariableList.csv'), dicts=True),
-        key=lambda d: d['source'])
-    envdata = list(reader(data_dir.joinpath('csv', 'environmental_data.csv'), dicts=True))
-    datasets = {r['id']: r for r in reader(data_dir.joinpath('datasets', 'index.csv'), dicts=True)}
-
-    for src, vars in groupby(envvars, lambda d: d['source']):
-        with UnicodeWriter(data_dir.joinpath('datasets', src, 'variables.csv')) as vwriter,\
-                UnicodeWriter(data_dir.joinpath('datasets', src, 'data.csv')) as dwriter:
-            vwriter.writerow('category,id,title,definition,type,units,source,changes,notes'.split(','))
-            dwriter.writerow('dataset,soc_id,sub_case,year,var_id,code,comment,references,source_coded_data,admin_comment'.split(','))
-
-            varids = []
-            for var in vars:
-                #VarID,Name,IndexCategory,VarType,Description,Units,CountOfNonMissingValues,source
-                varids.append(var['VarID'])
-                vwriter.writerow([
-                    var['IndexCategory'],
-                    var['VarID'],
-                    var['Description'],
-                    var['Description'],
-                    var['VarType'],
-                    var['Units'],
-                    datasets[src]['name'],
-                    '',
-                    ''
-                ])
-
-            for r in envdata:
-                #Dataset,soc_id,VarID,Code,Comment
-                if r['VarID'] in varids:
-                    dwriter.writerow([
-                        r['Dataset'] if r['Dataset'] != 'Jorgensen' else 'WNAI',
-                        r['soc_id'],
-                        '',
-                        datasets[src]['year'],
-                        r['VarID'],
-                        r['Code'],
-                        r['Comment'],
-                        '',
-                        '',
-                        ''
-                    ])
+    for ds in ['CRUTS', 'GSHHS', 'GTOPO30', 'Jenkins', 'Kreft', 'MODIS', 'TEOW']:
+        data = list(reader(data_dir.joinpath('datasets', ds, 'data.csv')))
+        with UnicodeWriter(data_dir.joinpath('datasets', ds, 'data.csv')) as w:
+            for i, row in enumerate(data):
+                if i == 0:
+                    w.writerow(row[1:])
+                else:
+                    dsid = row.pop(0)
+                    if dsid not in ['EA', 'Binford']:
+                        try:
+                            socid = int(row[0])
+                            row[0] = '{0}{1}'.format(dsid, socid)
+                        except ValueError:
+                            pass
+                    w.writerow(row)
 
 
 if __name__ == "__main__":
