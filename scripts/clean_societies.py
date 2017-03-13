@@ -16,12 +16,12 @@ from pyglottolog.api import Glottolog
 
 def main(data_dir):
     p = re.compile('J[0-9]+$')
-    for ds in ['CRUTS', 'GSHHS', 'GTOPO30', 'Jenkins', 'Kreft', 'MODIS', 'TEOW']:
-        data = list(reader(data_dir.joinpath('datasets', ds, 'data.csv')))
-        with UnicodeWriter(data_dir.joinpath('datasets', ds, 'data.csv')) as w:
+    for ds, prefix in [('EA', 'EA'), ('Binford', 'B')]:
+        data = list(reader(data_dir.joinpath('datasets', ds, 'codes.csv')))
+        with UnicodeWriter(data_dir.joinpath('datasets', ds, 'codes.csv')) as w:
             for i, row in enumerate(data):
-                if p.match(row[0]):
-                    row[0] = 'WNAI' + row[0][1:]
+                if i > 0:
+                    row[0] = prefix + row[0].zfill(3)
                 w.writerow(row)
 
 
