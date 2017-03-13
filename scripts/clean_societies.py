@@ -15,21 +15,14 @@ from pyglottolog.api import Glottolog
 
 
 def main(data_dir):
+    p = re.compile('J[0-9]+$')
     for ds in ['CRUTS', 'GSHHS', 'GTOPO30', 'Jenkins', 'Kreft', 'MODIS', 'TEOW']:
         data = list(reader(data_dir.joinpath('datasets', ds, 'data.csv')))
         with UnicodeWriter(data_dir.joinpath('datasets', ds, 'data.csv')) as w:
             for i, row in enumerate(data):
-                if i == 0:
-                    w.writerow(row[1:])
-                else:
-                    dsid = row.pop(0)
-                    if dsid not in ['EA', 'Binford']:
-                        try:
-                            socid = int(row[0])
-                            row[0] = '{0}{1}'.format(dsid, socid)
-                        except ValueError:
-                            pass
-                    w.writerow(row)
+                if p.match(row[0]):
+                    row[0] = 'WNAI' + row[0][1:]
+                w.writerow(row)
 
 
 if __name__ == "__main__":
