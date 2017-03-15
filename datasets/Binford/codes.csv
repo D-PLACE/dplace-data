@@ -1,0 +1,109 @@
+var_id,code,description,name
+B001,NA,Missing data,Missing data
+B002,NA,Missing data,Missing data
+B003,NA,Missing data,Missing data
+B004,NA,Missing data,Missing data
+B004,1,Majority of a group's nutritional intake comes from terrestrial animal resources,Hunting
+B004,2,Majority of a group's nutritional intake comes from terrestrial plant resources,Gathering
+B004,3,Majority of a group's nutritional intake comes from aquatic resources,Fishing (aquatic)
+B005,NA,Missing data,Missing data
+B005,1,"Normal HGF group: at time of contact, subsistence was based exclusively on hunting, gathering and/or fishing. No domesticated resources were exploited, except perhas the dog or plant substance such as tobacco.",Normal
+B005,2,"Suspect: altrough the group may be organized similarly to hunter-gatherer-fishers, some subsistence may come from exchanges with non-HGF groups",Suspect
+B006,NA,Missing data,Missing data
+B007,NA,Missing data,Missing data
+B008,NA,Missing data,Missing data
+B009,NA,Missing data,Missing data
+B009,1,Group is mobile and moves entire population from camp to camp as they go about the subsistence round,Mobile
+B009,2,Group is completely sedentary or group moves into and out of a central location that is maintained for more than one year,Sedentary
+B010,NA,Missing data,Missing data
+B011,NA,Missing data,Missing data
+B012,NA,Missing data,Missing data
+B013,NA,Missing data,Missing data
+B014,NA,Missing data,Missing data
+B015,NA,Missing data,Missing data
+B016,NA,Missing data,Missing data
+B017,NA,Missing data,Missing data
+B017,1,Independent nuclear families with monogamy,"Nuclear, monogamous"
+B017,2,Independent nuclear families with occasional or limited polygyny,"Nuclear, limited polygyny"
+B017,3,Independent polyandrous families,Polyandrous
+B017,4,"Independent polygynous families, unusual co-wives pattern (either polygyny is preferentially sororal, with cowives in separate quarters or it is typically non-sororal, with cowives in same quarters ","Polygyny, atypical cowives pattern"
+B017,5,"Independent polygynous families, usual co-wives pattern (either polygyny is preferentially sororal, with cowives in same quarters, OR typically non-sororal, with cowives in separate quarters) ","Polygyny, typical cowives pattern"
+B017,6,"Minimal extended or ""stem"" families, i.e., those consisting of only two related families of procreation (disregarding polygamous unions), particularly of adjacent generations",Minimal extended
+B017,7,"Small extended families, i.e., those normally embracing the families of procreation of only one individual in the senior generation but of at least two in the next generation. Such families usually dissolve on the death of the head",Small extended
+B017,8,"Large extended families, i.e., corporate aggregations of smaller family units occupying a single dwelling or a number of adjacent dwellings and normally embracing the families of procreation of at least two siblings or cousins in each of at least two adjacent generations",Large extended
+B018,NA,Missing data,Missing data
+B018,1,Monogamous,Monogamous
+B018,2,"Polygynous, with polygyny occasional or limited",Limited polygyny
+B018,3,"Polygynous, with polygyny common and preferentially sororal, and co-wives not reported to occupy separate quarters","Polygyny, sororal cohabit"
+B018,4,"Polygynous, with polygyny common and preferentially sororal, and co-wives typically occupying separate quarters","Polygyny, sororal separate"
+B018,5,"Polygynous, with polygyny general and not reported to be preferentially sororal, and co-wives typically occupying separate quarters","Polygyny, non-sororal cohabit"
+B018,6,"Polygynous, with polygyny general and not reported to be preferentially sororal, and co-wives not reported to occupy separate quarters","Polygyny, non-sororal separate"
+B018,7,Polyandrous,Polyandrous
+B019,NA,Missing data,Missing data
+B020,NA,Missing data,Missing data
+B021,NA,Missing data,Missing data
+B022,NA,Missing data,Missing data
+B023,NA,Missing data,Missing data
+B024,NA,Missing data,Missing data
+B025,NA,Missing data,Missing data
+B027,NA,Missing data,Missing data
+B029,NA,Missing data,Missing data
+B029,1,"Local autonomy, senior male ""guidance""",Autonomous
+B029,2,"Local autonomy with performance-based leadership, leaders are acknowledged",Local autonomy with leader
+B029,3,Local autonomy with a formal council and a leader who assembles the council and has other group duties,Local autonomy with leader and council
+B029,4,Neighbourhoods of villages/settlements/large camps integrated into an overarching leadership and decision making organization,Regional leaders
+B030,NA,Missing data,Missing data
+B030,1,Group is autonomous and exists in a matrix of similarly scaled hunter-gatherer systems,"Autonomous, matrix of similar HG groups"
+B030,2,Group is autonomous but is articularted to a socially or politically more complex group of hunter-gatherers,"Autonomous, articulated to more complex HG group(s)"
+B030,3,"Group exists in a culturally heterogeneous region and is articulated to a non-hunter gatherer society, either mutualistically or in a patron-client relationship",Articulated to a non-HG society
+B031,NA,Missing data,Missing data
+B031,1,Absence of any significant class distinctions,Absence of distinctions
+B031,2,Wealth distinctions only,Wealth distinctions only
+B031,3,Dual stratification into a hereditary aristocracy and a lower class of ordinary people,Dual: hereditary aristocracy and lower class
+B032,NA,Missing data,Missing data
+B032,1,No special prerogatives,No special prerogatives
+B032,2,"No relief from subsistence and no special dress prerogatives, but messengers as regular assistants",No subsistence relief; some assistants
+B032,3,"No relief from subsistence and only minor dress prerogatives, but both messengers and a talking chief or speaker for the leader",No subsistence relief; some assistants and dress
+B032,4,"Some regular relief from subsistence, in-kind contributions to the leader from the ""people,"" sometimes special roles for the leader's wife",Some subsistence relief
+B032,5,"Complete relief from subsistence duties, more assistants, special roles associated with the leader, visible symbols associated with the office, perhaps a permanent ""guard,"" perhaps special marriage rules, and very distinctive clothing","Complete subsistence relief; assistants, distinctive dress"
+B033,NA,Missing data,Missing data
+B033,1,Absent,Absent
+B033,2,Rarely used,Rarely used
+B033,3,Commonly used,Commonly used
+B033,4,Many convertible items,Many convertible items
+B034,NA,Missing data,Missing data
+B034,1,Absent,Absent
+B034,2,Few (1-3),Few (1-3)
+B034,3,Moderate (4-7),Moderate (4-7)
+B034,4,Many (equal to or greater than 8),Many (>= 8)
+B035,NA,Missing data,Missing data
+B035,1,Exogamous,Exogamous
+B035,2,Exogamous clan,Exogamous clan
+B035,3,Agamous,Agamous
+B035,4,Endogamous demed,Endogamous demed
+B035,5,Endogamous segmented,Endogamous segmented
+B036,NA,Missing data,Missing data
+B036,1,No permanent community structures,No permanent structures
+B036,2,Rituals and ceremonies held in host's residence,Host's residence
+B036,3,Sweat lodge,Sweat lodge
+B036,4,Dance house,Dance house
+B036,5,"Dance house or men's house, and sweat house",Dance or Men's house and Sweat lodge
+B036,6,Functionally specific community house,Functionally specific comm. house
+B036,7,Complex of community structures present,Complex of structures
+B037,NA,Missing data,Missing data
+B037,1,"No ownership reported, use rights recognized by others","No ownership, use rights recognized"
+B037,2,"Local group claims exclusive use rights over resource location, residential sites, while households may claim special trees and similar features of the landscape","Grp ownership, hh claim trees/similar features"
+B037,3,"Local group claims for hunting areas, dominant animals, fishing sites, and animal drive locations, such claims administered by group leader, but smaller segments may claim exclusive access to resource locations","Grp ownership, subgrps claim excl. access to resources"
+B037,4,Elite ownership of land and resources,Elite ownership
+B038,NA,Missing data,Missing data
+B038,1,Mounted hunters,Mounted hunters
+B038,2,Agriculturalists,Agriculturalists
+B038,3,Mutualists,Mutualists
+B038,4,Egalitarian but without leaders,"Egalitarian, no leaders"
+B038,5,Egalitarian with leaders,"Egalitarian, leaders"
+B038,6,Ranked wealth,Ranked wealth
+B038,7,Ranked elites,Ranked elites
+B039,NA,Missing data,Missing data
+B040,NA,Missing data,Missing data
+B041,NA,Missing data,Missing data
+B042,NA,Missing data,Missing data

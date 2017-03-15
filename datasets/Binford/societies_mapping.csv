@@ -1,0 +1,340 @@
+id,related
+B72,EA: Kung [Aa1]; SCCS: Kung [SCCS2]
+B296,
+B322,WNAI: Southern Okanagon [WNAI99]
+B335,
+B339,
+B340,
+B341,
+B350,
+B351,
+B352,
+B354,
+B360,
+B363,
+B364,
+B369,
+B370,
+B371,
+B373,
+B375,
+B378,
+B379,
+B380,
+B381,EA: Copper Eskimo [Na3]; SCCS: Copper Eskimo [SCCS124]
+B382,
+B383,
+B384,EA: Iglulik [Na22]
+B359,EA: Nabesna [Na1]
+B297,EA: Chugach [Na10]
+B377,EA: Nunamiut [Na12]
+B386,EA: Baffinland [Na13]
+B390,EA: Polar Eskimo [Na14]
+B361,EA: Dogrib [Na15]
+B358,EA: Satudene [Na16]
+B345,EA: Slave [Na17]; SCCS: Slave [SCCS128]
+B349,EA: Carrier [Na19]; WNAI: Alkatcho Carrier [WNAI93]; WNAI: Lower Carrier [WNAI94]
+B389,EA: Tareumiut [Na2]
+B356,EA: Kutchin [Na20]
+B374,EA: Caribou Eskimo [Na21]
+B372,EA: Labrador Eskimo [Na23]
+B388,EA: Angmagsalik [Na24]
+B385,EA: Greenlanders [Na25]
+B362,EA: Tanaina [Na26]
+B347,EA: Tahltan [Na27]
+B343,EA: Sekani [Na28]
+B344,EA: Beaver [Na29]
+B355,EA: Chipewyan [Na30]
+B342,EA: Montagnais [Na32]; SCCS: Montagnais [SCCS125]
+B332,EA: Northern Saulteaux [Na33]; SCCS: Saulteaux [SCCS127]
+B334,EA: Pekangekum [Na34]
+B337,EA: Nipigon [Na35]
+B331,EA: Rainy River [Na37]
+B328,EA: Katikitegon [Na38]
+B327,EA: Eastern Ojibwa [Na39]
+B346,EA: Kaska [Na4]; SCCS: Kaska [SCCS129]
+B329,EA: Micmac [Na41]; SCCS: Micmac [SCCS126]
+B387,EA: Netsilik [Na43]
+B338,EA: Mistassini [Na45]
+B365,EA: Naskapi [Na5]
+B299,EA: Nunivak [Na6]
+B353,EA: Cree Attawapiskat [Na7]
+B357,EA: Ingalik [Na8]; SCCS: Ingalik [SCCS122]
+B298,EA: Aleut [Na9]; SCCS: Aleut [SCCS123]
+B290,EA: Haida [Nb1]; SCCS: Haida [SCCS131]; WNAI: North Masset Haida [WNAI3]
+B336,EA: Alkatcho [Nb10]
+B273,EA: Nootka [Nb11]; WNAI: Clayoquot Nootka [WNAI12]
+B268,EA: Squamish [Nb13]; WNAI: Squamish Salish [WNAI16]
+B282,EA: Comox [Nb14]
+B277,EA: Lummi [Nb15]; WNAI: Lummi Salish [WNAI21]
+B285,EA: Klallam [Nb16]; WNAI: Klallam Salish [WNAI22]
+B270,EA: Puyallup [Nb17]; WNAI: Puyallup Salish [WNAI25]
+B284,EA: Quileute [Nb18]; WNAI: Quileute Chimakuan [WNAI26]
+B274,EA: Chinook [Nb19]; WNAI: Lower Chinook [WNAI27]
+B271,EA: Twana [Nb2]; SCCS: Twana [SCCS133]; WNAI: Twana Salish [WNAI23]
+B281,EA: Tillamok [Nb20]; WNAI: Tillamook Salish [WNAI28]
+B275,EA: Coos [Nb21]; WNAI: Coos [WNAI31]
+B292,EA: Tlingit [Nb22]; WNAI: South Tlingit [WNAI2]
+B283,EA: Bellabella [Nb23]; WNAI: Bella Bella Kwakiutl [WNAI9]
+B286,EA: Makah [Nb24]; WNAI: Makah Nootkan [WNAI13]
+B278,EA: Quinault [Nb25]; WNAI: Quinault Salish [WNAI24]
+B280,EA: Cowichan [Nb26]; WNAI: Cowichan Salish [WNAI17]
+B279,EA: Stalo [Nb27]; WNAI: Upper Stalo Salish [WNAI19]
+B269,EA: Alsea [Nb28]; WNAI: Alsea [WNAI29]
+B288,EA: Kwakiutl [Nb3]; WNAI: Fort Rupert Kwakiutl [WNAI10]
+B176,EA: Takelma [Nb30]
+B181,EA: Tututni [Nb31]; WNAI: Tututni Athapaskan [WNAI32]
+B179,EA: Shasta [Nb32]; WNAI: East Shasta [WNAI44]; WNAI: West Shasta [WNAI45]
+B162,EA: Chimariko [Nb33]; WNAI: Chimariko [WNAI46]
+B182,EA: Karok [Nb34]; WNAI: Karok [WNAI37]
+B180,EA: Hupa [Nb35]; WNAI: Hupa Athapaskan [WNAI38]
+B184,EA: Wiyot [Nb36]; WNAI: Wiyot [WNAI39]
+B167,EA: Lassik [Nb37]
+B169,EA: Mattole [Nb38]; WNAI: Mattole Athapaskan [WNAI41]
+B166,EA: Sinkyone [Nb39]; WNAI: Sinkyone Athapaskan [WNAI40]
+B186,EA: Yurok [Nb4]; SCCS: Yurok [SCCS134]; WNAI: Yurok [WNAI36]
+B295,EA: Eyak [Nb5]; SCCS: Eyak [SCCS130]
+B178,EA: Tolowa [Nb6]; WNAI: Tolowa Athapaskan [WNAI35]
+B289,EA: Tsimshian [Nb7]; WNAI: Tsimshian [WNAI5]
+B287,EA: Haisla [Nb8]; WNAI: Haisla Kwakiutl [WNAI7]
+B291,EA: Bellacoola [Nb9]; SCCS: Bellacoola [SCCS132]; WNAI: Bella Coola Salish [WNAI11]
+B153,EA: Nomlaki [Nc1]; WNAI: Nomlaki Wintun [WNAI50]
+B187,EA: Achomawi [Nc10]; WNAI: East Achomawi [WNAI51]; WNAI: West Achomawi [WNAI52]
+B174,EA: Yana [Nc11]; WNAI: Yana [WNAI62]
+B185,EA: Maidu [Nc12]; WNAI: Mountain Maidu [WNAI56]
+B163,EA: Nisenan [Nc13]; WNAI: Foothill Nisenan [WNAI57]; WNAI: Mountain Nisenan [WNAI58]; WNAI: Southern Nisenan [WNAI59]
+B160,EA: Wintu [Nc14]; WNAI: Trinity River Wintu [WNAI47]; WNAI: McCloud River Wintu [WNAI48]; WNAI: Sacramento River Wintu [WNAI49]
+B177,EA: Coast Yuki [Nc15]; WNAI: Coast Yuki [WNAI60]
+B173,EA: Northern Pomo [Nc17]; WNAI: Northern Pomo [WNAI63]
+B158,EA: Eastern Pomo [Nc18]; SCCS: Pomo (Eastern) [SCCS135]; WNAI: Eastern Pomo [WNAI64]
+B159,EA: Eastern Pomo [Nc18]; SCCS: Pomo (Eastern) [SCCS135]; WNAI: Eastern Pomo [WNAI64]
+B152,EA: Tubatulabal [Nc2]; WNAI: Tubatulabal [WNAI78]
+B172,EA: Wappo [Nc20]; WNAI: Wappo Yukian [WNAI66]
+B170,EA: Lake Miwok [Nc21]
+B155,EA: Patwin [Nc22]; WNAI: Patwin Wintun [WNAI67]
+B157,EA: Monachi [Nc23]; WNAI: Kings River Mono (Uto-Aztecan) [WNAI72]
+B148,EA: Lake Yokuts [Nc24]; SCCS: Yokuts (Lake) [SCCS136]; WNAI: Lake Yokuts [WNAI76]; WNAI: Yauelmani Yokuts [WNAI77]
+B151,EA: Wukchumni [Nc25]; WNAI: Kaweah Yokuts [WNAI75]
+B164,EA: Salinan [Nc26]; WNAI: Salinan [WNAI80]
+B199,EA: Kawaiisu [Nc27]; WNAI: Kawaiisu [WNAI79]
+B161,EA: Chumash [Nc28]
+B156,EA: Gabrielo [Nc29]; WNAI: Gabrielino [WNAI81]
+B154,EA: Yokuts [Nc3]; WNAI: Chuckchansi Yokuts [WNAI73]
+B149,EA: Serrano [Nc30]; WNAI: Serrano [WNAI84]
+B144,EA: Cahuilla [Nc31]; WNAI: Desert Cahuilla [WNAI85]
+B145,EA: Cupeno [Nc32]; WNAI: Cupeno [WNAI83]
+B150,EA: Luiseno [Nc33]; WNAI: Luiseno [WNAI82]
+B146,EA: Kiliwa [Nc34]; WNAI: Kaliwa (Hokan) [WNAI91]
+B183,EA: Atsugewi [Nc4]; WNAI: Atsugewei [WNAI53]
+B175,EA: Miwok [Nc5]; WNAI: Central Miwok [WNAI69]
+B147,EA: Diegueno [Nc6]; WNAI: Western Diegueno [WNAI89]; WNAI: Desert Diegueno [WNAI90]
+B171,EA: Yuki [Nc7]; WNAI: Yuki [WNAI61]
+B189,EA: Klamath [Nc8]; SCCS: Klamath [SCCS138]; WNAI: Klamath [WNAI112]
+B188,EA: Modoc [Nc9]; WNAI: Modoc [WNAI113]
+B315,EA: Tenino [Nd1]; WNAI: Tenino [WNAI111]
+B325,EA: Thompson [Nd10]; WNAI: Upper Thompson [WNAI98]
+B333,EA: Shuswap [Nd11]; WNAI: Shuswap [WNAI96]
+B330,EA: Flathead [Nd12]; WNAI: Flathead [WNAI105]
+B326,EA: Kalispel [Nd13]; WNAI: Kalispel [WNAI104]
+B320,EA: Coeur d’Alene [Nd14]; WNAI: Coeur d’Alene [WNAI103]
+B321,EA: Sinkaitk [Nd15]
+B317,EA: Wenatchi [Nd16]; WNAI: Wenatchi [WNAI102]
+B318,EA: Klikitat [Nd17]
+B319,EA: Wishram [Nd18]; WNAI: Wishram [WNAI110]
+B316,EA: Umatilla [Nd19]; WNAI: Umatilla [WNAI108]
+B222,EA: Southern Ute [Nd2]; WNAI: Wimonuch Ute (Shoshonean) [WNAI131]
+B324,EA: Nez Perce [Nd20]; WNAI: Nez Perce [WNAI107]
+B231,EA: Wadadokado [Nd22]; SCCS: Paiute (Northern) [SCCS137]; WNAI: Wada-Dokado Northern Paiute [WNAI114]
+B226,EA: Kidutokado [Nd24]; WNAI: Kidu-Dokado Northern Paiute [WNAI115]
+B208,EA: Kuyuidokado [Nd27]; WNAI: Kuyui-Dokado Northern Paiute [WNAI116]
+B210,EA: Toedokado [Nd28]
+B206,EA: Tunava [Nd29]
+B211,EA: Tunava [Nd29]
+B202,EA: Eastern Mono [Nd30]; WNAI: Owens Valley Northern Paiute [WNAI117]
+B197,EA: Koso [Nd31]
+B192,EA: Panamint [Nd32]; WNAI: Panamint Shoshone [WNAI118]
+B195,EA: Panamint [Nd32]; WNAI: Panamint Shoshone [WNAI118]
+B200,EA: Panamint [Nd32]; WNAI: Panamint Shoshone [WNAI118]
+B218,EA: Mahaguaduka [Nd35]; WNAI: Reese River Shoshone [WNAI120]
+B233,EA: Wiyambituka [Nd36]
+B217,EA: Hamilton [Nd37]
+B323,EA: Sanpoil [Nd4]; WNAI: Sanpoil [WNAI100]
+B221,EA: Tubaduka [Nd40]
+B228,EA: Wadaduka [Nd41]; WNAI: Ruby Valley Shoshone [WNAI122]
+B216,EA: White Knife [Nd43]; WNAI: Battle Mountain Shoshone [WNAI123]
+B229,EA: Bohogue [Nd45]; WNAI: Bohogue Shoshone [WNAI125]
+B232,EA: Tukudika [Nd47]
+B207,EA: Agaiduka [Nd46]; WNAI: Agaiduka Shoshone [WNAI126]
+B214,EA: Gosiute [Nd48]; WNAI: Gosiute Shoshone [WNAI124]
+B201,EA: Antarianunts [Nd49]
+B213,EA: Hukundika [Nd5]; WNAI: Hukundika Shoshone [WNAI127]
+B204,EA: Kaibab [Nd53]; EA: Las Vegas [Nd55]; WNAI: Kaibab Southern Paiute [WNAI133]
+B230,EA: Uintah [Nd58]; WNAI: Uintah Ute [WNAI129]
+B225,EA: Washo [Nd6]; WNAI: Washo [WNAI119]
+B234,EA: Uncompahgre [Nd62]; WNAI: Uncompaghre Ute [WNAI130]
+B252,EA: Bannock [Nd63]
+B227,EA: Wind River [Nd64]; WNAI: Wind River Shoshone [WNAI128]
+B198,EA: Walapai [Nd65]; WNAI: Walapai [WNAI137]
+B196,EA: Yavapai [Nd66]; WNAI: Northeast Yavapai [WNAI138]; WNAI: Southeast Yavapai [WNAI139]
+B250,EA: Kutenai [Nd7]; SCCS: Kutenai [SCCS139]; WNAI: Kutenai [WNAI106]
+B348,EA: Chilcotin [Nd8]; WNAI: Chilcotin [WNAI95]
+B276,EA: Lillooet [Nd9]; WNAI: Upper Lillooet [WNAI97]
+B253,EA: Gros Ventre [Ne1]; SCCS: Gros Ventre [SCCS140]
+B257,EA: Assiniboin [Ne11]
+B256,EA: Blackfoot [Ne12]
+B259,EA: Blood [Ne13]
+B254,EA: Bungi [Ne14]
+B193,EA: Karankawa [Ne16]
+B243,EA: Kiowa [Ne17]
+B255,EA: Piegan [Ne18]
+B258,EA: Plains Cree [Ne19]
+B244,EA: Kiowa Apache [Ne2]
+B194,EA: Coahuilteco [Ne21]
+B241,EA: Comanche [Ne3]; SCCS: Comanche [SCCS147]
+B248,EA: Crow [Ne4]
+B245,EA: Cheyenne [Ne5]
+B260,EA: Sarsi [Ne7]
+B249,EA: Teton [Ne8]
+B246,EA: Arapaho [Ne9]
+B242,EA: Chiricahua [Nh1]; SCCS: Chiricahua [SCCS148]; WNAI: Warm Springs Chiricahua Apache [WNAI152]; WNAI: Huachuca Chiricahua Apache [WNAI153]
+B240,EA: Lipan [Nh24]; WNAI: Lipan Apache [WNAI155]
+B143,EA: Seri [Ni4]
+B191,EA: Chichimec [Ni5]
+B35,EA: Paraujano [Sb5]
+B38,EA: Yaruro [Sc2]
+B39,EA: Guahibo [Sc4]
+B36,EA: Shiriana [Sd6]
+B43,EA: Siriono [Se1]; SCCS: Siriono [SCCS173]
+B55,EA: Yahgan [Sg1]; SCCS: Yahgan [SCCS186]
+B54,EA: Ona [Sg3]
+B51,EA: Tehuelche [Sg4]; SCCS: Tehuelche [SCCS185]
+B53,EA: Alacaluf [Sg5]
+B41,EA: Bororo [Si1]
+B45,EA: Nambicura [Si4]; SCCS: Nambicuara [SCCS174]
+B42,EA: Guato [Si6]
+B50,EA: Aweikoma [Sj3]; SCCS: Aweikoma [SCCS180]
+B48,EA: Botocudo [Sj5]; SCCS: Botocudo [SCCS178]
+B165,
+B70,EA: Dorobo [Aa2]
+B65,EA: Mbuti [Aa5]; SCCS: Mbuti [SCCS13]
+B25,EA: Gilyak [Ec1]; SCCS: Gilyak [SCCS119]
+B27,EA: Nganasan [ec12]
+B28,EA: Ungazikmit [ec14]
+B26,EA: Yukaghir [Ec6]; SCCS: Yukaghir [SCCS120]
+B22,EA: Ainu [Ec7]; SCCS: Ainu [SCCS118]
+B24,EA: Ket [Ec8]
+B15,EA: Chenchu [Eg1]
+B8,EA: Andamese [Eh1]; SCCS: Andamanese [SCCS79]
+B10,EA: Vedda [Eh4]; SCCS: Vedda [SCCS80]
+B73,EA: Naron [Aa7]
+B9,EA: Semang [Ej3]; SCCS: Semang [SCCS77]
+B3,EA: Kubu [Ib8]
+B1,
+B124,EA: Aranda [Id1]; SCCS: Aranda [SCCS91]; CHIRILA: Eastern and Central Arrernte [CHIRILA1048]
+B109,EA: Walbiri [Id10]; CHIRILA: Warlpiri [CHIRILA192]
+B87,EA: Gidjingali [Id11]; CHIRILA: Burarra [CHIRILA1143]
+B94,EA: Yir Yoront [Id12]; CHIRILA: Yir-Yoront [CHIRILA27]
+B97,EA: Groote Eylandt [Id13]; CHIRILA: Anindilyakwa [CHIRILA1229]
+B88,EA: Murngin [Id2]; CHIRILA: Dhuwal [CHIRILA1093]
+B95,EA: Tiwi [Id3]; SCCS: Tiwi [SCCS90]; CHIRILA: Tiwi [CHIRILA300]
+B121,EA: Dieri [Id4]; CHIRILA: Diyari [CHIRILA1088]
+B106,EA: Kariera [Id5]; CHIRILA: Kariyarra [CHIRILA855]
+B90,EA: Wikmunkan [Id6]; CHIRILA: Wik-Mungkan [CHIRILA138]
+B137,EA: Tasmanians [Id8]
+B130,EA: Wongaibon [Id9]; CHIRILA: Ngiyambaa [CHIRILA520]
+B79,EA: Xam [Aa8]
+B69,EA: Hatsa Kindiga [Aa9]; SCCS: Hadza [SCCS9]
+B2,
+B4,
+B5,
+B6,
+B7,
+B11,
+B12,
+B13,
+B14,
+B16,
+B17,
+B18,
+B19,
+B20,
+B21,
+B23,
+B37,
+B40,
+B44,
+B46,
+B47,
+B49,
+B52,
+B60,
+B61,
+B62,
+B63,
+B64,
+B66,
+B67,
+B68,
+B71,
+B74,
+B75,
+B76,
+B77,
+B78,
+B82,CHIRILA: Kala Lagaw Ya [CHIRILA96]
+B83,CHIRILA: Larrakiya [CHIRILA759]
+B84,CHIRILA: Gunwinygu [CHIRILA936]
+B85,CHIRILA: Djinba [CHIRILA1066]
+B86,CHIRILA: Burarra [CHIRILA1143]
+B89,CHIRILA: Wunambal [CHIRILA81]
+B91,CHIRILA: Gagudju [CHIRILA1458]
+B92,CHIRILA: Wubuy [CHIRILA94]
+B93,CHIRILA: Umpila [CHIRILA283]
+B96,CHIRILA: Kuku Yalanji [CHIRILA802]
+B98,CHIRILA: Flinders Island [CHIRILA1044]
+B99,CHIRILA: Malak Malak [CHIRILA738]
+B100,CHIRILA: Worrorra [CHIRILA99]
+B101,CHIRILA: Kija [CHIRILA841]
+B102,CHIRILA: Lardil [CHIRILA760]
+B103,CHIRILA: Kayardild [CHIRILA846]
+B104,CHIRILA: Karajarri [CHIRILA860]
+B105,CHIRILA: Dyirbal [CHIRILA1050]
+B107,CHIRILA: Warungu [CHIRILA179]
+B108,CHIRILA: Jaru [CHIRILA888]
+B110,CHIRILA: Dyirbal [CHIRILA1050]
+B111,CHIRILA: Manjiljarra [CHIRILA714]
+B112,CHIRILA: Warnman [CHIRILA188]
+B113,CHIRILA: Pintupi [CHIRILA419]
+B114,CHIRILA: Turubul [CHIRILA291]
+B115,CHIRILA: Duungidjawu [CHIRILA1051]
+B116,CHIRILA: Karuwali [CHIRILA849]
+B117,CHIRILA: Alyawarr [CHIRILA1239]
+B118,CHIRILA: Ngaanyatjarra [CHIRILA577]
+B119,CHIRILA: Bandjalang [CHIRILA1203]
+B120,CHIRILA: Pitjantjatjara [CHIRILA413]
+B122,CHIRILA: Lower Southern Aranda [CHIRILA750]
+B123,CHIRILA: Yankunytjatjara [CHIRILA53]
+B125,CHIRILA: Yuwaalaraay [CHIRILA5]
+B126,CHIRILA: NA [CHIRILA413]
+B127,CHIRILA: Wirangu [CHIRILA121]
+B128,CHIRILA: Paakantyi [CHIRILA444]
+B129,CHIRILA: Kaurna [CHIRILA847]
+B131,CHIRILA: Yaraldi [CHIRILA50]
+B132,CHIRILA: Ngatjumaya [CHIRILA529]
+B133,CHIRILA: Tjapwurrung [CHIRILA297]
+B134,CHIRILA: Boonwurrung [CHIRILA1164]
+B135,CHIRILA: Kurnai [CHIRILA36]
+B136,
+B168,
+B190,
+B203,
+B205,
+B209,
+B212,EA: Wadatkuht [Nd26]
+B219,WNAI: San Joaquin Mono (Uto-Aztecan) [WNAI71]
+B223,
+B215,EA: Spring Valley [Nd39]; WNAI: Spring Valley Shoshone [WNAI121]
+B224,EA: Spring Valley [Nd39]; WNAI: Spring Valley Shoshone [WNAI121]
+B272,
+B293,WNAI: Gitksan Tsimshian [WNAI6]
+B294,

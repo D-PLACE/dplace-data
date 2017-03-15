@@ -6,12 +6,12 @@ import sys
 import os
 import re
 import codecs
-import csv
 
 import requests
 from bs4 import BeautifulSoup as bs
 from ete2 import Tree
-from sqlalchemy import create_engine
+from pyglottolog.api import Glottolog
+from clldutils.dsv import UnicodeWriter
 
 
 IS_GLOTTOCODE = re.compile(r"""'.* <([a-z0-9]{4}\d{4})>.*'$""")
@@ -137,13 +137,18 @@ order by languoid.id
 """
 
 
-def languoids(dburi):
-    db = create_engine(dburi)
-    with open('../csv/glottolog.csv', 'wb') as fp:
-        writer = csv.writer(fp)
+def languoids(repos):
+    glottolog = Glottolog(repos)
+    with UnicodeWriter('../csv/glottolog.csv') as writer:
         writer.writerow(['id', 'name', 'family_id', 'family_name', 'iso_code'])
-        for row in db.execute(SQL):
-            writer.writerow(['' if c is None else c.encode('utf8') for c in row])
+        for lang in Glottolog(repos).languoids():
+            writer.writerow([
+                lang.id,
+                lang.name,
+                lang.lineage[0][1] if lang.lineage else '',
+                lang.lineage[0][0] if lang.lineage else '',
+                lang.iso or ''
+            ])
 
 
 if __name__ == '__main__':  # pragma: no cover

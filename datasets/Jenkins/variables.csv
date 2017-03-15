@@ -1,0 +1,4 @@
+category,id,title,definition,type,units,source,changes,notes
+Ecology,AmphibianRichness,Number of coexisting amphibian species,Number of coexisting amphibian species.,Continuous,,Jenkins et al. 2013,,
+Ecology,BirdRichness,Number of coexisting bird species,Number of coexisting bird species.,Continuous,,Jenkins et al. 2013,,
+Ecology,MammalRichness,Number of coexisting mammal species,Number of coexisting mammal species.,Continuous,,Jenkins et al. 2013,,

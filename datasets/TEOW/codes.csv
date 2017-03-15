@@ -1,0 +1,846 @@
+var_id,code,description,name
+Biome,1,"Tropical & Subtropical Moist Broadleaf Forests","Tropical & Subtropical Moist Broadleaf Forests"
+Biome,2,"Tropical & Subtropical Dry Broadleaf Forests","Tropical & Subtropical Dry Broadleaf Forests"
+Biome,3,"Tropical & Subtropical Coniferous Forests","Tropical & Subtropical Coniferous Forests"
+Biome,4,"Temperate Broadleaf & Mixed Forests","Temperate Broadleaf & Mixed Forests"
+Biome,5,"Temperate Conifer Forests","Temperate Conifer Forests"
+Biome,6,"Boreal Forests/Taiga","Boreal Forests/Taiga"
+Biome,7,"Tropical & Subtropical Grasslands, Savannas & Shrublands","Tropical & Subtropical Grasslands, Savannas & Shrublands"
+Biome,8,"Temperate Grasslands, Savannas & Shrublands","Temperate Grasslands, Savannas & Shrublands"
+Biome,9,"Flooded Grasslands & Savannas","Flooded Grasslands & Savannas"
+Biome,10,"Montane Grasslands & Shrublands","Montane Grasslands & Shrublands"
+Biome,11,"Tundra","Tundra"
+Biome,12,"Mediterranean Forests, Woodlands & Scrub","Mediterranean Forests, Woodlands & Scrub"
+Biome,13,"Deserts & Xeric Shrublands","Deserts & Xeric Shrublands"
+Biome,14,"Mangroves","Mangroves"
+Biome,15,Ice,Ice
+Biome,16,"Inland Water","Inland Water"
+Biome,NA,Missing data,Missing data
+EcoRegion,NA,Missing data,Missing data
+EcoRegion,61404,"Northern Mesoamerican Pacific mangroves",NT1404
+EcoRegion,60228,"Sinaloan dry forests",NT0228
+EcoRegion,60904,"Everglades",NT0904
+EcoRegion,60301,"Bahamian pine mosaic",NT0301
+EcoRegion,61402,"Bahamian-Antillean mangroves",NT1402
+EcoRegion,60164,"South Florida rocklands",NT0164
+EcoRegion,61314,"San Lucan xeric scrub",NT1314
+EcoRegion,60176,"Veracruz moist forests",NT0176
+EcoRegion,60227,"Sierra de la Laguna dry forests",NT0227
+EcoRegion,60302,"Belizian pine forests",NT0302
+EcoRegion,60154,"Petén-Veracruz moist forests",NT0154
+EcoRegion,61403,"Mesoamerican Gulf-Caribbean mangroves",NT1403
+EcoRegion,60134,"Leeward Islands moist forests",NT0134
+EcoRegion,60113,"Chiapas montane forests",NT0113
+EcoRegion,60308,"Sierra Madre de Oaxaca pine-oak forests",NT0308
+EcoRegion,60309,"Sierra Madre del Sur pine-oak forests",NT0309
+EcoRegion,60179,"Windward Islands moist forests",NT0179
+EcoRegion,60112,"Central American montane forests",NT0112
+EcoRegion,61305,"Caribbean shrublands",NT1305
+EcoRegion,60220,"Lesser Antillean dry forests",NT0220
+EcoRegion,61407,"Southern Mesoamerican Pacific mangroves",NT1407
+EcoRegion,60303,"Central American pine-oak forests",NT0303
+EcoRegion,61401,"Amazon-Orinoco-Southern Caribbean mangroves",NT1401
+EcoRegion,61301,"Araya and Paria xeric scrub",NT1301
+EcoRegion,61308,"Guajira-Barranquilla xeric scrub",NT1308
+EcoRegion,60171,"Trinidad and Tobago moist forests",NT0171
+EcoRegion,60229,"Sinú Valley dry forests",NT0229
+EcoRegion,60119,"Costa Rican seasonal moist forests",NT0119
+EcoRegion,60159,"Santa Marta montane forests",NT0159
+EcoRegion,60709,"Llanos",NT0709
+EcoRegion,61006,"Northern Andean páramo",NT1006
+EcoRegion,60124,"Guianan Highlands moist forests",NT0124
+EcoRegion,60169,"Pantepui",NT0169
+EcoRegion,60707,"Guianan savanna",NT0707
+EcoRegion,61405,"South American Pacific mangroves",NT1405
+EcoRegion,60158,"Rio Negro campinarana",NT0158
+EcoRegion,60201,"Apure-Villavicencio dry forests",NT0201
+EcoRegion,60310,"Trans-Mexican Volcanic Belt pine-oak forests",NT0310
+EcoRegion,61306,"Cuban cactus scrub",NT1306
+EcoRegion,60120,"Cuban moist forests",NT0120
+EcoRegion,60902,"Cuban wetlands",NT0902
+EcoRegion,60213,"Cuban dry forests",NT0213
+EcoRegion,60146,"Oaxacan montane forests",NT0146
+EcoRegion,60127,"Hispaniolan moist forests",NT0127
+EcoRegion,60215,"Hispaniolan dry forests",NT0215
+EcoRegion,60181,"Yucatán moist forests",NT0181
+EcoRegion,60216,"Islas Revillagigedo dry forests",NT0216
+EcoRegion,60306,"Miskito pine forests",NT0306
+EcoRegion,60209,"Central American dry forests",NT0209
+EcoRegion,60307,"Sierra de la Laguna pine-oak forests",NT0307
+EcoRegion,60205,"Balsas dry forests",NT0205
+EcoRegion,60148,"Pantanos de Centla",NT0148
+EcoRegion,60906,"Orinoco wetlands",NT0906
+EcoRegion,60167,"Talamancan montane forests",NT0167
+EcoRegion,60117,"Cordillera La Costa montane forests",NT0117
+EcoRegion,61309,"La Costa xeric shrublands",NT1309
+EcoRegion,60155,"Puerto Rican moist forests",NT0155
+EcoRegion,60903,"Enriquillo wetlands",NT0903
+EcoRegion,60218,"Jamaican dry forests",NT0218
+EcoRegion,60131,"Jamaican moist forests",NT0131
+EcoRegion,60404,"Valdivian temperate forests",NT0404
+EcoRegion,60129,"Isthmian-Atlantic moist forests",NT0129
+EcoRegion,61005,"Cordillera de Merida páramo",NT1005
+EcoRegion,60182,"Guianan piedmont and lowland moist forests",NT0182
+EcoRegion,60173,"Uatuma-Trombetas moist forests",NT0173
+EcoRegion,60128,"Iquitos varzeá",NT0128
+EcoRegion,60123,"Fernando de Noronha-Atol das Rocas moist forests",NT0123
+EcoRegion,60133,"Juruá-Purus moist forests",NT0133
+EcoRegion,60174,"Ucayali moist forests",NT0174
+EcoRegion,60402,"Magellanic subpolar forests",NT0402
+EcoRegion,60805,"Patagonian steppe",NT0805
+EcoRegion,80608,"Scandinavian and Russian taiga",PA0608
+EcoRegion,81103,"Cherskii-Kolyma mountain tundra",PA1103
+EcoRegion,51114,"Low Arctic tundra",NA1114
+EcoRegion,50506,"British Columbia mainland coastal forests",NA0506
+EcoRegion,80402,"Atlantic mixed forests",PA0402
+EcoRegion,50606,"Eastern Canadian Shield taiga",NA0606
+EcoRegion,80811,"Kazakh upland",PA0811
+EcoRegion,80409,"Celtic broadleaf forests",PA0409
+EcoRegion,51102,"Aleutian Islands tundra",NA1102
+EcoRegion,50525,"Queen Charlotte Islands",NA0525
+EcoRegion,50605,"Eastern Canadian forests",NA0605
+EcoRegion,60217,"Jalisco dry forests",NT0217
+EcoRegion,60111,"Central American Atlantic moist forests",NT0111
+EcoRegion,60110,"Cayos Miskitos-San Andrés and Providencia moist forests",NT0110
+EcoRegion,60109,"Cauca Valley montane forests",NT0109
+EcoRegion,60130,"Isthmian-Pacific moist forests",NT0130
+EcoRegion,60125,"Guianan moist forests",NT0125
+EcoRegion,60226,"Puerto Rican dry forests",NT0226
+EcoRegion,61316,"Tehuacán Valley matorral",NT1316
+EcoRegion,60114,"Chimalapas montane forests",NT0114
+EcoRegion,60107,"Caqueta moist forests",NT0107
+EcoRegion,60156,"Purus varzeá",NT0156
+EcoRegion,60115,"Chocó-Darién moist forests",NT0115
+EcoRegion,60138,"Marajó varzeá",NT0138
+EcoRegion,61307,"Galápagos Islands scrubland mosaic",NT1307
+EcoRegion,60214,"Ecuadorian dry forests",NT0214
+EcoRegion,60304,"Cuban pine forests",NT0304
+EcoRegion,60147,"Orinoco Delta swamp forests",NT0147
+EcoRegion,60108,"Catatumbo moist forests",NT0108
+EcoRegion,60175,"Venezuelan Andes montane forests",NT0175
+EcoRegion,61303,"Atacama desert",NT1303
+EcoRegion,61406,"Southern Atlantic mangroves",NT1406
+EcoRegion,60703,"Campos Rupestres montane savanna",NT0703
+EcoRegion,60907,"Pantanal",NT0907
+EcoRegion,60165,"Southern Andean Yungas",NT0165
+EcoRegion,60104,"Bahia interior forests",NT0104
+EcoRegion,60206,"Bolivian montane dry forests",NT0206
+EcoRegion,60102,"Atlantic Coast restingas",NT0102
+EcoRegion,60704,"Cerrado",NT0704
+EcoRegion,60150,"Alto Paraná Atlantic forests",NT0150
+EcoRegion,51113,"Kalaallit Nunaat low arctic tundra",NA1113
+EcoRegion,51109,"Davis Highlands tundra",NA1109
+EcoRegion,51115,"Middle Arctic tundra",NA1115
+EcoRegion,80520,"Scandinavian coastal conifer forests",PA0520
+EcoRegion,81111,"Taimyr-Central Siberian tundra",PA1111
+EcoRegion,51110,"High Arctic tundra",NA1110
+EcoRegion,80602,"Iceland boreal birch forests and alpine tundra",PA0602
+EcoRegion,-9999,"Rock and Ice",Rock and Ice
+EcoRegion,81104,"Chukchi Peninsula tundra",PA1104
+EcoRegion,51111,"Interior Yukon-Alaska alpine tundra",NA1111
+EcoRegion,50524,"Puget lowland forests",NA0524
+EcoRegion,50602,"Central Canadian Shield forests",NA0602
+EcoRegion,81001,"Altai alpine meadow and tundra",PA1001
+EcoRegion,80512,"Khangai Mountains conifer forests",PA0512
+EcoRegion,50611,"Newfoundland Highland forests",NA0611
+EcoRegion,81007,"Khangai Mountains alpine meadow",PA1007
+EcoRegion,40163,"Tenasserim-South Thailand semi-evergreen rain forests",IM0163
+EcoRegion,40132,"Myanmar coastal rain forests",IM0132
+EcoRegion,31305,"Ethiopian xeric grasslands and shrublands",AT1305
+EcoRegion,40143,"Palawan rain forests",IM0143
+EcoRegion,70104,"Eastern Micronesia tropical moist forests",OC0104
+EcoRegion,31008,"Ethiopian montane moorlands",AT1008
+EcoRegion,40129,"Mindanao-Eastern Visayas rain forests",IM0129
+EcoRegion,30112,"Ethiopian montane forests",AT0112
+EcoRegion,30111,"Eastern Guinean forests",AT0111
+EcoRegion,40114,"Greater Negros-Panay rain forests",IM0114
+EcoRegion,61004,"Cordillera Central páramo",NT1004
+EcoRegion,60149,"Guianan freshwater swamp forests",NT0149
+EcoRegion,81110,"Scandinavian Montane Birch forest and grasslands",PA1110
+EcoRegion,51105,"Baffin coastal tundra",NA1105
+EcoRegion,51112,"Kalaallit Nunaat high arctic tundra",NA1112
+EcoRegion,51103,"Arctic coastal tundra",NA1103
+EcoRegion,81114,"Yamal-Gydan tundra",PA1114
+EcoRegion,60305,"Hispaniolan pine forests",NT0305
+EcoRegion,60136,"Magdalena Valley montane forests",NT0136
+EcoRegion,60122,"Eastern Panamanian montane forests",NT0122
+EcoRegion,60177,"Veracruz montane forests",NT0177
+EcoRegion,60235,"Yucatán dry forests",NT0235
+EcoRegion,60224,"Panamanian dry forests",NT0224
+EcoRegion,60116,"Cocos Island moist forests",NT0116
+EcoRegion,60204,"Bajío dry forests",NT0204
+EcoRegion,60121,"Eastern Cordillera real montane forests",NT0121
+EcoRegion,60166,"Southwest Amazon moist forests",NT0166
+EcoRegion,60702,"Beni savanna",NT0702
+EcoRegion,61315,"Sechura desert",NT1315
+EcoRegion,61003,"Central Andean wet puna",NT1003
+EcoRegion,81101,"Arctic desert",PA1101
+EcoRegion,51106,"Beringia lowland tundra",NA1106
+EcoRegion,60233,"Veracruz dry forests",NT0233
+EcoRegion,60161,"Sierra de los Tuxtlas",NT0161
+EcoRegion,60230,"Southern Pacific dry forests",NT0230
+EcoRegion,60126,"Gurupa varzeá",NT0126
+EcoRegion,60144,"Northeastern Brazil restingas",NT0144
+EcoRegion,60141,"Monte Alegre varzeá",NT0141
+EcoRegion,60106,"Caatinga Enclaves moist forests",NT0106
+EcoRegion,51107,"Beringia upland tundra",NA1107
+EcoRegion,80429,"North Atlantic moist mixed forests",PA0429
+EcoRegion,80436,"Sarmatic mixed forests",PA0436
+EcoRegion,50520,"Northern Pacific coastal forests",NA0520
+EcoRegion,51118,"Torngat Mountain tundra",NA1118
+EcoRegion,60211,"Chiapas Depression dry forests",NT0211
+EcoRegion,60162,"Sierra Madre de Chiapas moist forests",NT0162
+EcoRegion,61312,"Motagua Valley thornscrub",NT1312
+EcoRegion,61313,"Paraguana xeric scrub",NT1313
+EcoRegion,60219,"Lara-Falcón dry forests",NT0219
+EcoRegion,60118,"Cordillera Oriental montane forests",NT0118
+EcoRegion,60222,"Maracaibo dry forests",NT0222
+EcoRegion,61007,"Santa Marta páramo",NT1007
+EcoRegion,60137,"Magdalena-Urabá moist forests",NT0137
+EcoRegion,60140,"Mato Grosso seasonal forests",NT0140
+EcoRegion,60180,"Xingu-Tocantins-Araguaia moist forests",NT0180
+EcoRegion,60157,"Purus-Madeira moist forests",NT0157
+EcoRegion,60152,"Pernambuco interior forests",NT0152
+EcoRegion,81222,"Tyrrhenian-Adriatic Sclerophyllous and mixed forests",PA1222
+EcoRegion,80521,"Tian Shan montane conifer forests",PA0521
+EcoRegion,50411,"Northeastern coastal forests",NA0411
+EcoRegion,80414,"Changbai Mountains mixed forests",PA0414
+EcoRegion,80406,"Cantabrian mixed forests",PA0406
+EcoRegion,80808,"Gissaro-Alai open woodlands",PA0808
+EcoRegion,50508,"Central and Southern Cascades forests",NA0508
+EcoRegion,80435,"Rodope montane mixed forests",PA0435
+EcoRegion,80510,"Hokkaido montane conifer forests",PA0510
+EcoRegion,50516,"Klamath-Siskiyou forests",NA0516
+EcoRegion,81107,"Northeast Siberian coastal tundra",PA1107
+EcoRegion,81106,"Kola Peninsula tundra",PA1106
+EcoRegion,60145,"Northwestern Andean montane forests",NT0145
+EcoRegion,60207,"Cauca Valley dry forests",NT0207
+EcoRegion,60221,"Magdalena Valley dry forests",NT0221
+EcoRegion,60143,"Negro-Branco moist forests",NT0143
+EcoRegion,61311,"Malpelo Island xeric scrub",NT1311
+EcoRegion,60142,"Napo moist forests",NT0142
+EcoRegion,60178,"Western Ecuador moist forests",NT0178
+EcoRegion,81108,"Northwest Russian-Novaya Zemlya tundra",PA1108
+EcoRegion,60170,"Tocantins/Pindare moist forests",NT0170
+EcoRegion,60905,"Guayaquil flooded grasslands",NT0905
+EcoRegion,60135,"Madeira-Tapajós moist forests",NT0135
+EcoRegion,60168,"Tapajós-Xingu moist forests",NT0168
+EcoRegion,60139,"Maranhão Babaçu forests",NT0139
+EcoRegion,60232,"Tumbes-Piura dry forests",NT0232
+EcoRegion,81113,"Wrangel Island arctic desert",PA1113
+EcoRegion,80601,"East Siberian taiga",PA0601
+EcoRegion,80403,"Azores temperate mixed forests",PA0403
+EcoRegion,80812,"Middle East steppe",PA0812
+EcoRegion,81201,"Aegean and Western Turkey sclerophyllous and mixed forests",PA1201
+EcoRegion,80511,"Honshu alpine conifer forests",PA0511
+EcoRegion,80513,"Mediterranean conifer and mixed forests",PA0513
+EcoRegion,81006,"Karakoram-West Tibetan Plateau alpine steppe",PA1006
+EcoRegion,51117,"Pacific Coastal Mountain icefields and tundra",NA1117
+EcoRegion,61304,"Caatinga",NT1304
+EcoRegion,60210,"Dry Chaco",NT0210
+EcoRegion,50302,"Sierra Madre Occidental pine-oak forests",NA0302
+EcoRegion,41403,"Indus River Delta-Arabian Sea mangroves",IM1403
+EcoRegion,50502,"Alberta-British Columbia foothills forests",NA0502
+EcoRegion,81318,"Kazakh semi-desert",PA1318
+EcoRegion,81112,"Trans-Baikal Bald Mountain tundra",PA1112
+EcoRegion,80816,"Selenge-Orkhon forest steppe",PA0816
+EcoRegion,81207,"Eastern Mediterranean conifer-sclerophyllous-broadleaf forests",PA1207
+EcoRegion,40122,"Luzon montane rain forests",IM0122
+EcoRegion,30722,"West Sudanian savanna",AT0722
+EcoRegion,41402,"Indochina mangroves",IM1402
+EcoRegion,30707,"Guinean forest-savanna mosaic",AT0707
+EcoRegion,50802,"Canadian Aspen forests and parklands",NA0802
+EcoRegion,60153,"Peruvian Yungas",NT0153
+EcoRegion,60223,"Marañón dry forests",NT0223
+EcoRegion,60151,"Pernambuco coastal forests",NT0151
+EcoRegion,60202,"Atlantic dry forests",NT0202
+EcoRegion,51104,"Arctic foothills tundra",NA1104
+EcoRegion,50603,"Cook Inlet taiga",NA0603
+EcoRegion,40125,"Maldives-Lakshadweep-Chagos Archipelago tropical moist forests",IM0125
+EcoRegion,30130,"Western Guinean lowland forests",AT0130
+EcoRegion,30905,"Saharan flooded grasslands",AT0905
+EcoRegion,31007,"Ethiopian montane grasslands and woodlands",AT1007
+EcoRegion,80603,"Kamchatka-Kurile meadows and sparse forests",PA0603
+EcoRegion,60103,"Bahia coastal forests",NT0103
+EcoRegion,60212,"Chiquitano dry forests",NT0212
+EcoRegion,61002,"Central Andean puna",NT1002
+EcoRegion,60105,"Bolivian Yungas",NT0105
+EcoRegion,-9998,"Lake",Lake
+EcoRegion,61001,"Central Andean dry puna",NT1001
+EcoRegion,60708,"Humid Chaco",NT0708
+EcoRegion,60160,"Serra do Mar coastal forests",NT0160
+EcoRegion,61201,"Chilean matorral",NT1201
+EcoRegion,61010,"High Monte",NT1010
+EcoRegion,60101,"Araucaria moist forests",NT0101
+EcoRegion,61008,"Southern Andean steppe",NT1008
+EcoRegion,60908,"Paraná flooded savanna",NT0908
+EcoRegion,60403,"San Félix-San Ambrosio Islands temperate forests",NT0403
+EcoRegion,60909,"Southern Cone Mesopotamian savanna",NT0909
+EcoRegion,60710,"Uruguayan savanna",NT0710
+EcoRegion,60801,"Espinal",NT0801
+EcoRegion,60802,"Low Monte",NT0802
+EcoRegion,60803,"Humid Pampas",NT0803
+EcoRegion,60401,"Juan Fernández Islands temperate forests",NT0401
+EcoRegion,81102,"Bering tundra",PA1102
+EcoRegion,81105,"Kamchatka Mountain tundra and forest tundra",PA1105
+EcoRegion,80427,"Nihonkai evergreen forests",PA0427
+EcoRegion,50515,"Great Basin montane forests",NA0515
+EcoRegion,81008,"Kopet Dag woodlands and forest steppe",PA1008
+EcoRegion,80407,"Caspian Hyrcanian mixed forests",PA0407
+EcoRegion,40501,"Eastern Himalayan subalpine conifer forests",IM0501
+EcoRegion,50303,"Sierra Madre Oriental pine-oak forests",NA0303
+EcoRegion,40403,"Western Himalayan broadleaf forests",IM0403
+EcoRegion,50529,"Southeastern conifer forests",NA0529
+EcoRegion,40115,"Himalayan subtropical broadleaf forests",IM0115
+EcoRegion,81003,"Eastern Himalayan alpine shrub and meadows",PA1003
+EcoRegion,51101,"Alaska-St. Elias Range tundra",NA1101
+EcoRegion,81016,"Sayan Alpine meadows and tundra",PA1016
+EcoRegion,50608,"Mid-Continental Canadian forests",NA0608
+EcoRegion,81316,"Great Lakes Basin desert steppe",PA1316
+EcoRegion,80505,"Da Hinggan-Dzhagdy Mountains conifer forests",PA0505
+EcoRegion,80412,"Central European mixed forests",PA0412
+EcoRegion,10701,"Arnhem Land tropical savanna",AA0701
+EcoRegion,30105,"Comoros forests",AT0105
+EcoRegion,30202,"Madagascar dry deciduous forests",AT0202
+EcoRegion,30724,"Western Zambezian grasslands",AT0724
+EcoRegion,70105,"Fiji tropical moist forests",OC0105
+EcoRegion,31404,"Madagascar mangroves",AT1404
+EcoRegion,70115,"Tuamotu tropical moist forests",OC0115
+EcoRegion,70201,"Fiji tropical dry forests",OC0201
+EcoRegion,51301,"Baja California desert",NA1301
+EcoRegion,81332,"West Saharan montane xeric woodlands",PA1332
+EcoRegion,70109,"Ogasawara subtropical moist forests",OC0109
+EcoRegion,81333,"Red Sea coastal desert",PA1333
+EcoRegion,40303,"Northeast India-Myanmar pine forests",IM0303
+EcoRegion,40149,"South China-Vietnam subtropical evergreen forests",IM0149
+EcoRegion,40170,"Nansei Islands subtropical evergreen forests",IM0170
+EcoRegion,41303,"Northwestern thorn scrub forests",IM1303
+EcoRegion,70703,"Northwestern Hawaii scrub",OC0703
+EcoRegion,31303,"East Saharan montane xeric woodlands",AT1303
+EcoRegion,40123,"Luzon rain forests",IM0123
+EcoRegion,40148,"South China Sea Islands",IM0148
+EcoRegion,41404,"Myanmar Coast mangroves",IM1404
+EcoRegion,30904,"Lake Chad flooded savanna",AT0904
+EcoRegion,40209,"South Deccan Plateau dry deciduous forests",IM0209
+EcoRegion,50612,"Northern Canadian Shield taiga",NA0612
+EcoRegion,80419,"East European forest steppe",PA0419
+EcoRegion,50601,"Alaska Peninsula montane taiga",NA0601
+EcoRegion,50521,"Northern transitional alpine forests",NA0521
+EcoRegion,81204,"Corsican montane broadleaf and mixed forests",PA1204
+EcoRegion,80411,"Central China loess plateau mixed forests",PA0411
+EcoRegion,81217,"Pindus Mountains mixed forests",PA1217
+EcoRegion,81019,"Tian Shan montane steppe and meadows",PA1019
+EcoRegion,80428,"Nihonkai montane deciduous forests",PA0428
+EcoRegion,81308,"Caspian lowland desert",PA1308
+EcoRegion,50519,"Northern California coastal forests",NA0519
+EcoRegion,50504,"Atlantic coastal pine barrens",NA0504
+EcoRegion,80422,"Euxine-Colchic broadleaf forests",PA0422
+EcoRegion,81208,"Iberian conifer forests",PA1208
+EcoRegion,80405,"Baltic mixed forests",PA0405
+EcoRegion,60132,"Japurá-Solimoes-Negro moist forests",NT0132
+EcoRegion,60163,"Solimões-Japurá moist forests",NT0163
+EcoRegion,60225,"Patía Valley dry forests",NT0225
+EcoRegion,81109,"Novosibirsk Islands arctic desert",PA1109
+EcoRegion,80605,"Northeast Siberian taiga",PA0605
+EcoRegion,80504,"Carpathian montane forests",PA0504
+EcoRegion,81018,"Sulaiman Range alpine meadows",PA1018
+EcoRegion,40401,"Eastern Himalayan broadleaf forests",IM0401
+EcoRegion,50513,"Florida sand pine scrub",NA0513
+EcoRegion,40502,"Western Himalayan subalpine conifer forests",IM0502
+EcoRegion,41406,"Sundarbans mangroves",IM1406
+EcoRegion,50402,"Appalachian mixed mesophytic forests",NA0402
+EcoRegion,80442,"Tarim Basin deciduous forests and steppe",PA0442
+EcoRegion,50406,"Eastern forest-boreal transition",NA0406
+EcoRegion,50510,"Central Pacific coastal forests",NA0510
+EcoRegion,50410,"New England-Acadian forests",NA0410
+EcoRegion,80438,"South Sakhalin-Kurile mixed forests",PA0438
+EcoRegion,50414,"Southern Great Lakes forests",NA0414
+EcoRegion,81312,"Central Asian southern desert",PA1312
+EcoRegion,50407,"Eastern Great Lakes lowland forests",NA0407
+EcoRegion,51202,"California interior chaparral and woodlands",NA1202
+EcoRegion,50517,"Middle Atlantic coastal forests",NA0517
+EcoRegion,80507,"Elburz Range forest steppe",PA0507
+EcoRegion,80803,"Central Anatolian steppe",PA0803
+EcoRegion,50403,"Appalachian-Blue Ridge forests",NA0403
+EcoRegion,80518,"Qionglai-Minshan conifer forests",PA0518
+EcoRegion,81010,"Mediterranean High Atlas juniper steppe",PA1010
+EcoRegion,81214,"Mediterranean woodlands and forests",PA1214
+EcoRegion,81320,"Mesopotamian shrub desert",PA1320
+EcoRegion,81012,"Northwestern Himalayan alpine shrub and meadows",PA1012
+EcoRegion,80439,"Southern Korea evergreen forests",PA0439
+EcoRegion,51201,"California coastal sage and chaparral",NA1201
+EcoRegion,50405,"East Central Texas forests",NA0405
+EcoRegion,81328,"South Iran Nubo-Sindian desert and semi-desert",PA1328
+EcoRegion,80440,"Taiheiyo evergreen forests",PA0440
+EcoRegion,80441,"Taiheiyo montane deciduous forests",PA0441
+EcoRegion,51303,"Chihuahuan desert",NA1303
+EcoRegion,50806,"Edwards Plateau savanna",NA0806
+EcoRegion,50701,"Western Gulf coastal grasslands",NA0701
+EcoRegion,81021,"Western Himalayan alpine shrub and Meadows",PA1021
+EcoRegion,40701,"Terai-Duar savanna and grasslands",IM0701
+EcoRegion,80905,"Saharan halophytics",PA0905
+EcoRegion,81212,"Mediterranean acacia-argania dry woodlands and succulent thickets",PA1212
+EcoRegion,40301,"Himalayan subtropical pine forests",IM0301
+EcoRegion,51108,"Brooks-British Range tundra",NA1108
+EcoRegion,50614,"Northwest Territories taiga",NA0614
+EcoRegion,50607,"Interior Alaska-Yukon lowland taiga",NA0607
+EcoRegion,80611,"West Siberian taiga",PA0611
+EcoRegion,80610,"Ural montane forests and tundra",PA0610
+EcoRegion,40106,"Cardamom Mountains rain forests",IM0106
+EcoRegion,41301,"Deccan thorn scrub forests",IM1301
+EcoRegion,80606,"Okhotsk-Manchurian taiga",PA0606
+EcoRegion,51116,"Ogilvie-MacKenzie alpine tundra",NA1116
+EcoRegion,50610,"Muskwa-Slave Lake forests",NA0610
+EcoRegion,50616,"Southern Hudson Bay taiga",NA0616
+EcoRegion,80426,"Manchurian mixed forests",PA0426
+EcoRegion,80502,"Altai montane forest and forest steppe",PA0502
+EcoRegion,80418,"Dinaric Mountains mixed forests",PA0418
+EcoRegion,81314,"Eastern Gobi desert steppe",PA1314
+EcoRegion,80432,"Po Basin mixed forests",PA0432
+EcoRegion,80814,"Pontic steppe",PA0814
+EcoRegion,80907,"Suiphun-Khanka meadows and forest meadows",PA0907
+EcoRegion,50505,"Blue Mountains forests",NA0505
+EcoRegion,50416,"Western Great Lakes forests",NA0416
+EcoRegion,81311,"Central Asian riparian woodlands",PA1311
+EcoRegion,50805,"Central tall grasslands",NA0805
+EcoRegion,50201,"Sonoran-Sinaloan transition subtropical dry forest",NA0201
+EcoRegion,51306,"Gulf of California xeric scrub",NA1306
+EcoRegion,10204,"Timor and Wetar deciduous forests",AA0204
+EcoRegion,10110,"Louisiade Archipelago rain forests",AA0110
+EcoRegion,10120,"Southeastern Papuan rain forests",AA0120
+EcoRegion,30907,"Zambezian flooded grasslands",AT0907
+EcoRegion,10126,"Vanuatu rain forests",AA0126
+EcoRegion,10703,"Cape York Peninsula tropical savanna",AA0703
+EcoRegion,30128,"Southern Zanzibar-Inhambane coastal forest mosaic",AT0128
+EcoRegion,31015,"Southern Rift montane forest-grassland mosaic",AT1015
+EcoRegion,80503,"Caledon conifer forests",PA0503
+EcoRegion,80609,"Trans-Baikal conifer forests",PA0609
+EcoRegion,50408,"Gulf of St. Lawrence lowland forests",NA0408
+EcoRegion,81310,"Central Asian northern desert",PA1310
+EcoRegion,80903,"Nenjiang River grassland",PA0903
+EcoRegion,50415,"Upper Midwest forest-savanna transition",NA0415
+EcoRegion,51309,"Snake-Columbia shrub steppe",NA1309
+EcoRegion,80430,"Northeast China Plain deciduous forests",PA0430
+EcoRegion,80902,"Bohai Sea saline meadow",PA0902
+EcoRegion,81216,"Northwest Iberian montane forests",PA1216
+EcoRegion,70204,"Yap tropical dry forests",OC0204
+EcoRegion,50617,"Yukon Interior dry forests",NA0617
+EcoRegion,50604,"Copper Plateau taiga",NA0604
+EcoRegion,50613,"Northern Cordillera forests",NA0613
+EcoRegion,80807,"Faroe Islands boreal grasslands",PA0807
+EcoRegion,50810,"Northern mixed grasslands",NA0810
+EcoRegion,80421,"English Lowlands beech forests",PA0421
+EcoRegion,81301,"Afghan Mountains semi-desert",PA1301
+EcoRegion,81004,"Ghorat-Hazarajat alpine meadow",PA1004
+EcoRegion,81206,"Cyprus Mediterranean forests",PA1206
+EcoRegion,81309,"Central Afghan Mountains xeric woodlands",PA1309
+EcoRegion,81213,"Mediterranean dry woodlands and steppe",PA1213
+EcoRegion,81002,"Central Tibetan Plateau alpine steppe",PA1002
+EcoRegion,80425,"Madeira evergreen forests",PA0425
+EcoRegion,80607,"Sakhalin Island taiga",PA0607
+EcoRegion,80817,"South Siberian forest steppe",PA0817
+EcoRegion,80519,"Sayan montane conifer forests",PA0519
+EcoRegion,40101,"Andaman Islands rain forests",IM0101
+EcoRegion,31010,"Jos Plateau forest-grassland mosaic",AT1010
+EcoRegion,40211,"Southern Vietnam lowland dry forests",IM0211
+EcoRegion,80813,"Mongolian-Manchurian grassland",PA0813
+EcoRegion,80815,"Sayan Intermontane steppe",PA0815
+EcoRegion,80805,"Eastern Anatolian montane steppe",PA0805
+EcoRegion,50609,"Midwestern Canadian Shield forests",NA0609
+EcoRegion,80444,"Western Siberian hemiboreal forests",PA0444
+EcoRegion,80604,"Kamchatka-Kurile taiga",PA0604
+EcoRegion,50509,"Central British Columbia Mountain forests",NA0509
+EcoRegion,80809,"Kazakh forest steppe",PA0809
+EcoRegion,50514,"Fraser Plateau and Basin complex",NA0514
+EcoRegion,80810,"Kazakh steppe",PA0810
+EcoRegion,50501,"Alberta Mountain forests",NA0501
+EcoRegion,50518,"North Central Rockies forests",NA0518
+EcoRegion,81005,"Hindu Kush alpine meadow",PA1005
+EcoRegion,80517,"Qilian Mountains conifer forests",PA0517
+EcoRegion,51310,"Sonoran desert",NA1310
+EcoRegion,11401,"New Guinea mangroves",AA1401
+EcoRegion,10102,"Banda Sea Islands moist deciduous forests",AA0102
+EcoRegion,30125,"Northern Zanzibar-Inhambane coastal forest mosaic",AT0125
+EcoRegion,30708,"Itigi-Sumbu thicket",AT0708
+EcoRegion,31403,"Guinean mangroves",AT1403
+EcoRegion,30103,"Cameroonian Highlands forests",AT0103
+EcoRegion,40102,"Borneo lowland rain forests",IM0102
+EcoRegion,40156,"Sulu Archipelago rain forests",IM0156
+EcoRegion,31401,"Central African mangroves",AT1401
+EcoRegion,41405,"Sunda Shelf mangroves",IM1405
+EcoRegion,81203,"Canary Islands dry woodlands and forests",PA1203
+EcoRegion,40160,"Sumatran peat swamp forests",IM0160
+EcoRegion,30108,"East African montane forests",AT0108
+EcoRegion,40146,"Peninsular Malaysian rain forests",IM0146
+EcoRegion,30127,"Sao Tome, Principe and Annobon moist lowland forests",AT0127
+EcoRegion,10106,"Halmahera rain forests",AA0106
+EcoRegion,40161,"Sundaland heath forests",IM0161
+EcoRegion,10115,"Northern New Guinea lowland rain and freshwater swamp forests",AA0115
+EcoRegion,40157,"Sumatran freshwater swamp forests",IM0157
+EcoRegion,40104,"Borneo peat swamp forests",IM0104
+EcoRegion,10108,"Yapen rain forests",AA0108
+EcoRegion,30704,"Central Zambezian Miombo woodlands",AT0704
+EcoRegion,10123,"Sulawesi lowland rain forests",AA0123
+EcoRegion,10111,"New Britain-New Ireland lowland rain forests",AA0111
+EcoRegion,80804,"Daurian forest steppe",PA0804
+EcoRegion,81009,"Kuh Rud and Eastern Iran montane woodlands",PA1009
+EcoRegion,51203,"California montane chaparral and woodlands",NA1203
+EcoRegion,81220,"Southern Anatolian montane conifer and deciduous forests",PA1220
+EcoRegion,81205,"Crete Mediterranean forests",PA1205
+EcoRegion,80506,"East Afghan montane conifer forests",PA0506
+EcoRegion,81017,"Southeast Tibet shrublands and meadows",PA1017
+EcoRegion,50503,"Arizona Mountains forests",NA0503
+EcoRegion,81307,"Baluchistan xeric woodlands",PA1307
+EcoRegion,51311,"Tamaulipan matorral",NA1311
+EcoRegion,81331,"Tibesti-Jebel Uweinat montane xeric woodlands",PA1331
+EcoRegion,30114,"Guinean montane forests",AT0114
+EcoRegion,50507,"Cascade Mountains leeward forests",NA0507
+EcoRegion,80445,"Western European broadleaf forests",PA0445
+EcoRegion,50811,"Northern short grasslands",NA0811
+EcoRegion,50522,"Okanagan dry forests",NA0522
+EcoRegion,80901,"Amur meadow steppe",PA0901
+EcoRegion,50808,"Montana Valley and Foothill grasslands",NA0808
+EcoRegion,50812,"Northern tall grasslands",NA0812
+EcoRegion,80443,"Ussuri broadleaf and mixed forests",PA0443
+EcoRegion,80802,"Altai steppe and semi-desert",PA0802
+EcoRegion,80431,"Pannonian mixed forests",PA0431
+EcoRegion,81317,"Junggar Basin semi-desert",PA1317
+EcoRegion,50813,"Palouse grasslands",NA0813
+EcoRegion,80501,"Alps conifer and mixed forests",PA0501
+EcoRegion,80806,"Emin Valley steppe",PA0806
+EcoRegion,50512,"Eastern Cascades forests",NA0512
+EcoRegion,50528,"South Central Rockies forests",NA0528
+EcoRegion,50615,"South Avalon-Burin oceanic barrens",NA0615
+EcoRegion,81315,"Gobi Lakes Valley desert steppe",PA1315
+EcoRegion,80818,"Tian Shan foothill arid steppe",PA0818
+EcoRegion,50417,"Willamette Valley forests",NA0417
+EcoRegion,81210,"Illyrian deciduous forests",PA1210
+EcoRegion,81302,"Alashan Plateau semi-desert",PA1302
+EcoRegion,81215,"Northeastern Spain and Southern France Mediterranean forests",PA1215
+EcoRegion,51313,"Wyoming Basin shrub steppe",NA1313
+EcoRegion,80416,"Crimean Submediterranean forest complex",PA0416
+EcoRegion,81014,"Pamir alpine desert and tundra",PA1014
+EcoRegion,81323,"Persian Gulf desert and semi-desert",PA1323
+EcoRegion,81022,"Yarlung Tsangpo arid steppe",PA1022
+EcoRegion,41401,"Goadavari-Krishna mangroves",IM1401
+EcoRegion,40202,"Central Indochina dry forests",IM0202
+EcoRegion,40135,"North Western Ghats montane rain forests",IM0135
+EcoRegion,70202,"Hawaii tropical dry forests",OC0202
+EcoRegion,70702,"Hawaii tropical low shrublands",OC0702
+EcoRegion,70106,"Hawaii tropical moist forests",OC0106
+EcoRegion,40121,"Luang Prabang montane rain forests",IM0121
+EcoRegion,70203,"Marianas tropical dry forests",OC0203
+EcoRegion,40124,"Malabar Coast moist forests",IM0124
+EcoRegion,81304,"Atlantic coastal desert",PA1304
+EcoRegion,40159,"Sumatran montane rain forests",IM0159
+EcoRegion,70101,"Carolines tropical moist forests",OC0101
+EcoRegion,40304,"Sumatran tropical pine forests",IM0304
+EcoRegion,10202,"New Caledonia dry forests",AA0202
+EcoRegion,40165,"Tonle Sap-Mekong peat swamp forests",IM0165
+EcoRegion,80404,"Balkan mixed forests",PA0404
+EcoRegion,80423,"Hokkaido deciduous forests",PA0423
+EcoRegion,81211,"Italian sclerophyllous and semi-deciduous forests",PA1211
+EcoRegion,80401,"Appenine deciduous montane forests",PA0401
+EcoRegion,80801,"Alai-Western Tian Shan steppe",PA0801
+EcoRegion,80408,"Caucasus mixed forests",PA0408
+EcoRegion,51305,"Great Basin shrub steppe",NA1305
+EcoRegion,80433,"Pyrenees conifer and mixed forests",PA0433
+EcoRegion,81330,"Taklimakan desert",PA1330
+EcoRegion,50815,"Western short grasslands",NA0815
+EcoRegion,50809,"Nebraska Sand Hills mixed grasslands",NA0809
+EcoRegion,50401,"Allegheny Highlands forests",NA0401
+EcoRegion,81209,"Iberian sclerophyllous and semi-deciduous forests",PA1209
+EcoRegion,50511,"Colorado Rockies forests",NA0511
+EcoRegion,50804,"Central forest-grasslands transition",NA0804
+EcoRegion,50530,"Wasatch and Uinta montane forests",NA0530
+EcoRegion,50803,"Central and Southern mixed grasslands",NA0803
+EcoRegion,80515,"Northern Anatolian conifer and deciduous forests",PA0515
+EcoRegion,81305,"Azerbaijan shrub desert and steppe",PA1305
+EcoRegion,81218,"South Appenine mixed montane forests",PA1218
+EcoRegion,50527,"Sierra Nevada forests",NA0527
+EcoRegion,51304,"Colorado Plateau shrublands",NA1304
+EcoRegion,81202,"Anatolian conifer and deciduous mixed forests",PA1202
+EcoRegion,81221,"Southwest Iberian Mediterranean sclerophyllous and mixed forests",PA1221
+EcoRegion,50801,"California Central Valley grasslands",NA0801
+EcoRegion,81013,"Ordos Plateau steppe",PA1013
+EcoRegion,80410,"Central Anatolian steppe and woodlands",PA0410
+EcoRegion,80420,"Eastern Anatolian deciduous forests",PA0420
+EcoRegion,80413,"Central Korean deciduous forests",PA0413
+EcoRegion,80424,"Huang He Plain mixed forests",PA0424
+EcoRegion,50404,"Central U.S. hardwood forests",NA0404
+EcoRegion,81015,"Qilian Mountains subalpine meadows",PA1015
+EcoRegion,50413,"Southeastern mixed forests",NA0413
+EcoRegion,50807,"Flint Hills tall grasslands",NA0807
+EcoRegion,80508,"Helanshan montane conifer forests",PA0508
+EcoRegion,81324,"Qaidam Basin semi-desert",PA1324
+EcoRegion,81319,"Kopet Dag semi-desert",PA1319
+EcoRegion,81011,"North Tibetan Plateau-Kunlun Mountains alpine desert",PA1011
+EcoRegion,81306,"Badghyz and Karabil semi-desert",PA1306
+EcoRegion,80446,"Zagros Mountains forest steppe",PA0446
+EcoRegion,81322,"Paropamisus xeric woodlands",PA1322
+EcoRegion,51308,"Mojave desert",NA1308
+EcoRegion,81219,"Southeastern Iberian shrubs and woodlands",PA1219
+EcoRegion,81313,"Central Persian desert basins",PA1313
+EcoRegion,80908,"Yellow Sea saline meadow",PA0908
+EcoRegion,80434,"Qin Ling Mountains deciduous forests",PA0434
+EcoRegion,80904,"Nile Delta flooded savanna",PA0904
+EcoRegion,80415,"Changjiang Plain evergreen forests",PA0415
+EcoRegion,41302,"Indus Valley desert",IM1302
+EcoRegion,81321,"North Saharan steppe and woodlands",PA1321
+EcoRegion,80906,"Tigris-Euphrates alluvial salt marsh",PA0906
+EcoRegion,81325,"Red Sea Nubo-Sindian tropical desert and semi-desert",PA1325
+EcoRegion,40118,"Jian Nan subtropical evergreen forests",IM0118
+EcoRegion,30801,"Al Hajar montane woodlands",AT0801
+EcoRegion,70102,"Central Polynesian tropical moist forests",OC0102
+EcoRegion,30129,"Western Congolian swamp forests",AT0129
+EcoRegion,40145,"Peninsular Malaysian peat swamp forests",IM0145
+EcoRegion,70114,"Tongan tropical moist forests",OC0114
+EcoRegion,31402,"East African mangroves",AT1402
+EcoRegion,11307,"Pilbara shrublands",AA1307
+EcoRegion,10128,"Vogelkop-Aru lowland rain forests",AA0128
+EcoRegion,40152,"Southern Annamites montane rain forests",IM0152
+EcoRegion,70110,"Palau tropical moist forests",OC0110
+EcoRegion,40158,"Sumatran lowland rain forests",IM0158
+EcoRegion,50409,"Mississippi lowland forests",NA0409
+EcoRegion,81020,"Tibetan Plateau alpine shrublands and meadows",PA1020
+EcoRegion,50412,"Ozark Mountain forests",NA0412
+EcoRegion,50523,"Piney Woods forests",NA0523
+EcoRegion,30201,"Cape Verde Islands dry forests",AT0201
+EcoRegion,30705,"East Sudanian savanna",AT0705
+EcoRegion,40108,"Chao Phraya lowland moist deciduous forests",IM0108
+EcoRegion,40133,"Nicobar Islands rain forests",IM0133
+EcoRegion,70117,"Western Polynesian tropical moist forests",OC0117
+EcoRegion,30721,"Victoria Basin forest-savanna mosaic",AT0721
+EcoRegion,10124,"Sulawesi montane rain forests",AA0124
+EcoRegion,30716,"Southern Acacia-Commiphora bushlands and thickets",AT0716
+EcoRegion,30723,"Western Congolian forest-savanna mosaic",AT0723
+EcoRegion,50814,"Texas blackland prairies",NA0814
+EcoRegion,81303,"Arabian Desert and East Sahero-Arabian xeric shrublands",PA1303
+EcoRegion,80417,"Daba Mountains evergreen forests",PA0417
+EcoRegion,81326,"Registan-North Pakistan sandy desert",PA1326
+EcoRegion,50526,"Sierra Juarez and San Pedro Martir pine-oak forests",NA0526
+EcoRegion,80516,"Nujiang Langcang Gorge alpine conifer and mixed forests",PA0516
+EcoRegion,80509,"Hengduan Mountains subalpine conifer forests",PA0509
+EcoRegion,50301,"Bermuda subtropical conifer forests",NA0301
+EcoRegion,80437,"Sichuan Basin evergreen broadleaf forests",PA0437
+EcoRegion,80101,"Guizhou Plateau broadleaf and mixed forests",PA0101
+EcoRegion,40117,"Irrawaddy moist deciduous forests",IM0117
+EcoRegion,40116,"Irrawaddy freshwater swamp forests",IM0116
+EcoRegion,40205,"Irrawaddy dry forests",IM0205
+EcoRegion,40107,"Chao Phraya freshwater swamp forests",IM0107
+EcoRegion,30903,"Inner Niger Delta flooded savanna",AT0903
+EcoRegion,31302,"Arabian Peninsula coastal fog desert",AT1302
+EcoRegion,40210,"Southeastern Indochina dry evergreen forests",IM0210
+EcoRegion,31319,"Somali montane xeric woodlands",AT1319
+EcoRegion,40128,"Mindanao montane rain forests",IM0128
+EcoRegion,80514,"Northeastern Himalayan subalpine conifer forests",PA0514
+EcoRegion,40166,"Upper Gangetic Plains moist deciduous forests",IM0166
+EcoRegion,81327,"Sahara desert",PA1327
+EcoRegion,41304,"Thar desert",IM1304
+EcoRegion,51312,"Tamaulipan mezquital",NA1312
+EcoRegion,80102,"Yunnan Plateau subtropical evergreen forests",PA0102
+EcoRegion,40206,"Khathiar-Gir dry deciduous forests",IM0206
+EcoRegion,40105,"Brahmaputra Valley semi-evergreen forests",IM0105
+EcoRegion,40402,"Northern Triangle temperate forests",IM0402
+EcoRegion,40140,"Northern Triangle subtropical forests",IM0140
+EcoRegion,40120,"Lower Gangetic Plains moist deciduous forests",IM0120
+EcoRegion,40137,"Northern Indochina subtropical forests",IM0137
+EcoRegion,40131,"Mizoram-Manipur-Kachin rain forests",IM0131
+EcoRegion,40126,"Meghalaya subtropical forests",IM0126
+EcoRegion,31306,"Gulf of Oman desert and semi-desert",AT1306
+EcoRegion,51307,"Meseta Central matorral",NA1307
+EcoRegion,40207,"Narmada Valley dry deciduous forests",IM0207
+EcoRegion,40172,"Taiwan subtropical evergreen forests",IM0172
+EcoRegion,40203,"Chhota-Nagpur dry deciduous forests",IM0203
+EcoRegion,31320,"Southwestern Arabian foothills savanna",AT1320
+EcoRegion,40901,"Rann of Kutch seasonal salt marsh",IM0901
+EcoRegion,40109,"Chin Hills-Arakan Yoma montane forests",IM0109
+EcoRegion,40111,"Eastern highlands moist deciduous forests",IM0111
+EcoRegion,40162,"Sundarbans freshwater swamp forests",IM0162
+EcoRegion,51302,"Central Mexican matorral",NA1302
+EcoRegion,81329,"South Saharan steppe and woodlands",PA1329
+EcoRegion,40171,"South Taiwan monsoon rain forests",IM0171
+EcoRegion,31321,"Southwestern Arabian montane woodlands",AT1321
+EcoRegion,40208,"Northern dry deciduous forests",IM0208
+EcoRegion,40134,"North Western Ghats moist deciduous forests",IM0134
+EcoRegion,40201,"Central Deccan Plateau dry deciduous forests",IM0201
+EcoRegion,40147,"Red River freshwater swamp forests",IM0147
+EcoRegion,40142,"Orissa semi-evergreen forests",IM0142
+EcoRegion,40119,"Kayah-Karen montane rain forests",IM0119
+EcoRegion,30713,"Sahelian Acacia savanna",AT0713
+EcoRegion,70701,"Hawaii tropical high shrublands",OC0701
+EcoRegion,40169,"Hainan Island monsoon rain forests",IM0169
+EcoRegion,40139,"Northern Thailand-Laos moist deciduous forests",IM0139
+EcoRegion,40141,"Northern Vietnam lowland rain forests",IM0141
+EcoRegion,40136,"Northern Annamites rain forests",IM0136
+EcoRegion,40138,"Northern Khorat Plateau moist deciduous forests",IM0138
+EcoRegion,10101,"Admiralty Islands lowland rain forests",AA0101
+EcoRegion,30901,"East African halophytics",AT0901
+EcoRegion,31313,"Masai xeric grasslands and shrublands",AT1313
+EcoRegion,30715,"Somali Acacia-Commiphora bushlands and thickets",AT0715
+EcoRegion,40302,"Luzon tropical pine forests",IM0302
+EcoRegion,40204,"East Deccan dry-evergreen forests",IM0204
+EcoRegion,31304,"Eritrean coastal desert",AT1304
+EcoRegion,40164,"Tonle Sap freshwater swamp forests",IM0164
+EcoRegion,40130,"Mindoro rain forests",IM0130
+EcoRegion,40151,"South Western Ghats montane rain forests",IM0151
+EcoRegion,40150,"South Western Ghats moist deciduous forests",IM0150
+EcoRegion,31318,"Socotra Island xeric shrublands",AT1318
+EcoRegion,40153,"Southwest Borneo freshwater swamp forests",IM0153
+EcoRegion,40127,"Mentawai Islands rain forests",IM0127
+EcoRegion,30203,"Zambezian Cryptosepalum dry forests",AT0203
+EcoRegion,30118,"Madagascar subhumid forests",AT0118
+EcoRegion,30710,"Mandara Plateau mosaic",AT0710
+EcoRegion,40212,"Sri Lanka dry-zone dry evergreen forests",IM0212
+EcoRegion,30712,"Northern Congolian forest-savanna mosaic",AT0712
+EcoRegion,30123,"Nigerian lowland forests",AT0123
+EcoRegion,30126,"Northwestern Congolian lowland forests",AT0126
+EcoRegion,40144,"Peninsular Malaysian montane rain forests",IM0144
+EcoRegion,30121,"Mount Cameroon and Bioko montane forests",AT0121
+EcoRegion,30711,"Northern Acacia-Commiphora bushlands and thickets",AT0711
+EcoRegion,10121,"Southern New Guinea freshwater swamp forests",AA0121
+EcoRegion,40168,"Western Java rain forests",IM0168
+EcoRegion,30113,"Granitic Seychelles forests",AT0113
+EcoRegion,31002,"Angolan scarp savanna and woodlands",AT1002
+EcoRegion,70113,"Society Islands tropical moist forests",OC0113
+EcoRegion,31006,"Eastern Zimbabwe montane forest-grassland mosaic",AT1006
+EcoRegion,30902,"Etosha Pan halophytics",AT0902
+EcoRegion,10113,"New Caledonia rain forests",AA0113
+EcoRegion,10117,"Queensland tropical rain forests",AA0117
+EcoRegion,10125,"Trobriand Islands rain forests",AA0125
+EcoRegion,10201,"Lesser Sundas deciduous forests",AA0201
+EcoRegion,40113,"Eastern Java-Bali rain forests",IM0113
+EcoRegion,40110,"Christmas and Cocos Islands tropical forests",IM0110
+EcoRegion,30725,"Zambezian and Mopane woodlands",AT0725
+EcoRegion,70108,"Marquesas tropical moist forests",OC0108
+EcoRegion,40154,"Sri Lanka lowland rain forests",IM0154
+EcoRegion,40155,"Sri Lanka montane rain forests",IM0155
+EcoRegion,30107,"Cross-Sanaga-Bioko coastal forests",AT0107
+EcoRegion,31307,"Hobyo grasslands and shrublands",AT1307
+EcoRegion,30106,"Cross-Niger transition forests",AT0106
+EcoRegion,41001,"Kinabalu montane alpine meadows",IM1001
+EcoRegion,30122,"Niger Delta swamp forests",AT0122
+EcoRegion,30124,"Northeastern Congolian lowland forests",AT0124
+EcoRegion,11002,"Central Range sub-alpine grasslands",AA1002
+EcoRegion,10119,"Solomon Islands rain forests",AA0119
+EcoRegion,31001,"Angolan montane forest-grassland mosaic",AT1001
+EcoRegion,40103,"Borneo montane rain forests",IM0103
+EcoRegion,10704,"Carpentaria tropical savanna",AA0704
+EcoRegion,30718,"Southern Congolian forest-savanna mosaic",AT0718
+EcoRegion,30117,"Madagascar lowland forests",AT0117
+EcoRegion,10405,"North Island temperate forests",AA0405
+EcoRegion,11003,"South Island montane grasslands",AA1003
+EcoRegion,10410,"South Island temperate forests",AA0410
+EcoRegion,11309,"Tirari-Sturt stony desert",AA1309
+EcoRegion,30102,"Atlantic Equatorial coastal forests",AT0102
+EcoRegion,31013,"Rwenzori-Virunga montane moorlands",AT1013
+EcoRegion,70103,"Cook Islands tropical moist forests",OC0103
+EcoRegion,30120,"Mascarene forests",AT0120
+EcoRegion,40167,"Western Java montane rain forests",IM0167
+EcoRegion,10706,"Kimberly tropical savanna",AA0706
+EcoRegion,10413,"Tasmanian temperate rain forests",AA0413
+EcoRegion,10403,"Fiordland temperate forests",AA0403
+EcoRegion,21104,"Southern Indian Ocean Islands tundra",AN1104
+EcoRegion,10407,"Rakiura Island temperate forests",AA0407
+EcoRegion,61318,"St. Peter and St. Paul rocks",NT1318
+EcoRegion,60705,"Clipperton Island shrub and grasslands",NT0705
+EcoRegion,30101,"Albertine Rift montane forests",AT0101
+EcoRegion,30110,"Eastern Congolian swamp forests",AT0110
+EcoRegion,10127,"Vogelkop montane rain forests",AA0127
+EcoRegion,10104,"Buru rain forests",AA0104
+EcoRegion,10112,"New Britain-New Ireland montane rain forests",AA0112
+EcoRegion,10118,"Seram rain forests",AA0118
+EcoRegion,70112,"Samoan tropical moist forests",OC0112
+EcoRegion,11302,"Central Ranges xeric scrub",AA1302
+EcoRegion,30906,"Zambezian coastal flooded savanna",AT0906
+EcoRegion,31311,"Madagascar spiny thickets",AT1311
+EcoRegion,10702,"Brigalow tropical savanna",AA0702
+EcoRegion,31308,"Ile Europa and Bassas da India xeric scrub",AT1308
+EcoRegion,31012,"Maputaland-Pondoland bushland and thickets",AT1012
+EcoRegion,31405,"Southern Africa mangroves",AT1405
+EcoRegion,30104,"Central Congolian lowland forests",AT0104
+EcoRegion,31005,"East African montane moorlands",AT1005
+EcoRegion,31201,"Albany thickets",AT1201
+EcoRegion,31203,"Montane fynbos and renosterveld",AT1203
+EcoRegion,31202,"Lowland fynbos and renosterveld",AT1202
+EcoRegion,11206,"Mount Lofty woodlands",AA1206
+EcoRegion,31011,"Madagascar ericoid thickets",AT1011
+EcoRegion,70116,"Tubuai tropical moist forests",OC0116
+EcoRegion,30908,"Zambezian halophytics",AT0908
+EcoRegion,11310,"Western Australian Mulga shrublands",AA1310
+EcoRegion,31004,"Drakensberg montane grasslands, woodlands and forests",AT1004
+EcoRegion,10103,"Biak-Numfoor rain forests",AA0103
+EcoRegion,10122,"Southern New Guinea lowland rain forests",AA0122
+EcoRegion,31315,"Namib desert",AT1315
+EcoRegion,30109,"Eastern Arc forests",AT0109
+EcoRegion,30726,"Zambezian Baikiaea woodlands",AT0726
+EcoRegion,10401,"Chatham Island temperate forests",AA0401
+EcoRegion,10801,"Cantebury-Otago tussock grasslands",AA0801
+EcoRegion,30115,"Knysna-Amatole montane forests",AT0115
+EcoRegion,31322,"Succulent Karoo",AT1322
+EcoRegion,11202,"Esperance mallee",AA1202
+EcoRegion,10414,"Westland temperate forests",AA0414
+EcoRegion,30714,"Serengeti volcanic grasslands",AT0714
+EcoRegion,10116,"Northern New Guinea montane rain forests",AA0116
+EcoRegion,10105,"Central Range montane rain forests",AA0105
+EcoRegion,40112,"Eastern Java-Bali montane rain forests",IM0112
+EcoRegion,30709,"Kalahari Acacia-Baikiaea woodlands",AT0709
+EcoRegion,21101,"Marielandia Antarctic tundra",AN1101
+EcoRegion,21102,"Maudlandia Antarctic desert",AN1102
+EcoRegion,10107,"Huon Peninsula montane rain forests",AA0107
+EcoRegion,30706,"Eastern Miombo woodlands",AT0706
+EcoRegion,30701,"Angolan Miombo woodlands",AT0701
+EcoRegion,10708,"Trans Fly savanna and grasslands",AA0708
+EcoRegion,30703,"Ascension scrub and grasslands",AT0703
+EcoRegion,10203,"Sumba deciduous forests",AA0203
+EcoRegion,31301,"Aldabra Island xeric scrub",AT1301
+EcoRegion,30719,"Southern Miombo woodlands",AT0719
+EcoRegion,31310,"Kaokoveld desert",AT1310
+EcoRegion,31316,"Namibian savanna woodlands",AT1316
+EcoRegion,10709,"Victoria Plains tropical savanna",AA0709
+EcoRegion,30702,"Angolan Mopane woodlands",AT0702
+EcoRegion,31014,"South Malawi montane forest-grassland mosaic",AT1014
+EcoRegion,10705,"Einasleigh upland savanna",AA0705
+EcoRegion,30720,"St. Helena scrub and woodlands",AT0720
+EcoRegion,10707,"Mitchell grass downs",AA0707
+EcoRegion,11304,"Great Sandy-Tanami desert",AA1304
+EcoRegion,11207,"Murray-Darling woodlands and mallee",AA1207
+EcoRegion,11210,"Southwest Australia woodlands",AA1210
+EcoRegion,10109,"Lord Howe Island subtropical forests",AA0109
+EcoRegion,10412,"Tasmanian temperate forests",AA0412
+EcoRegion,21103,"Scotia Sea Islands tundra",AN1103
+EcoRegion,30717,"Southern Africa bushveld",AT0717
+EcoRegion,31309,"Kalahari xeric savanna",AT1309
+EcoRegion,31312,"Madagascar succulent woodlands",AT1312
+EcoRegion,31003,"Drakensberg alti-montane grasslands and woodlands",AT1003
+EcoRegion,11306,"Nullarbor Plains xeric shrublands",AA1306
+EcoRegion,30116,"KwaZulu-Cape coastal forest mosaic",AT0116
+EcoRegion,10114,"Norfolk Island subtropical forests",AA0114
+EcoRegion,70107,"Kermadec Islands subtropical moist forests",OC0107
+EcoRegion,11308,"Simpson desert",AA1308
+EcoRegion,11301,"Carnarvon xeric shrublands",AA1301
+EcoRegion,11303,"Gibson desert",AA1303
+EcoRegion,10402,"Eastern Australian temperate forests",AA0402
+EcoRegion,30119,"Maputaland coastal forest mosaic",AT0119
+EcoRegion,10802,"Eastern Australia mulga shrublands",AA0802
+EcoRegion,31009,"Highveld grasslands",AT1009
+EcoRegion,11209,"Southwest Australia savanna",AA1209
+EcoRegion,11305,"Great Victoria desert",AA1305
+EcoRegion,31314,"Nama Karoo",AT1314
+EcoRegion,70111,"Rapa Nui subtropical broadleaf forests",OC0111
+EcoRegion,10803,"Southeast Australia temperate savanna",AA0803
+EcoRegion,11201,"Coolgardie woodlands",AA1201
+EcoRegion,11205,"Swan Coastal Plain Scrub and Woodlands",AA1205
+EcoRegion,11203,"Eyre and York mallee",AA1203
+EcoRegion,10409,"Southeast Australia temperate forests",AA0409
+EcoRegion,11204,"Jarrah-Karri forest and shrublands",AA1204
+EcoRegion,10406,"Northland temperate kauri forests",AA0406
+EcoRegion,11208,"Naracoorte woodlands",AA1208
+EcoRegion,11001,"Australian Alps montane grasslands",AA1001
+EcoRegion,30803,"Tristan Da Cunha-Gough Islands shrub and grasslands",AT0803
+EcoRegion,30802,"Amsterdam and Saint-Paul Islands temperate grasslands",AT0802
+EcoRegion,10404,"Nelson Coast temperate forests",AA0404
+EcoRegion,10408,"Richmond temperate forests",AA0408
+EcoRegion,10411,"Tasmanian Central Highland forests",AA0411
+EcoRegion,11101,"Antipodes Subantarctic Islands tundra",AA1101
+EcoRegion,60172,"Trindade-Martin Vaz Islands tropical forests",NT0172

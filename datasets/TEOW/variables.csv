@@ -1,0 +1,3 @@
+category,id,title,definition,type,units,source,changes,notes
+Ecology,Biome,Biome,Classification by Olson et al. (2001) of the earth into fourteen units that host similar formations of plants and animals due to their climates. A single biome can be found over a range of continents.,Categorical,,,,1988
+Ecology,EcoRegion,EcoRegion,Classification by Olson et al. (2001) of the earth into zones (ecoregions) encompassing distinct biotas. Ecoregions are nested within Biomes.,Categorical,,,,1981
