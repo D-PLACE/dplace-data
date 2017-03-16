@@ -1,0 +1,18 @@
+#NEXUS
+Begin taxa;
+
+yoku1255
+gene1243
+pale1254
+buen1244
+nimy1236
+tule1245
+yoku1256
+nort2937
+sout2955
+vall1251
+;
+end;
+Begin trees;
+tree UNTITLED = (((buen1244:1,(tule1245:1,(nort2937:1,sout2955:1,vall1251:1)yoku1256:1)nimy1236:1)gene1243:1,pale1254:1)yoku1255:1);
+end;

@@ -1,0 +1,43 @@
+#NEXUS
+Begin taxa;
+
+surm1244
+maja1242
+sout2836
+sout2837
+sout2838
+kweg1241
+past1248
+baal1234
+didi1256
+mugu1242
+yidi1251
+meen1242
+suri1266
+kaci1244
+ngaa1241
+didi1257
+murl1244
+tenn1246
+bodi1253
+tish1239
+murs1242
+suri1267
+bale1254
+kaci1245
+kich1261
+suri1268
+west2496
+zilm1238
+didi1258
+nari1240
+boma1247
+loti1239
+olam1240
+chai1252
+tirm1240
+;
+end;
+Begin trees;
+tree UNTITLED = ((maja1242:1,(((mugu1242:1,yidi1251:1)kweg1241:1,((bodi1253:1,tish1239:1)meen1242:1,(murs1242:1,(chai1252:1,tirm1240:1)suri1267:1)suri1266:1)past1248:1)sout2837:1,(((bale1254:1,kaci1245:1,kich1261:1,suri1268:1,west2496:1,zilm1238:1)kaci1244:1,ngaa1241:1)baal1234:1,((didi1258:1,nari1240:1)didi1257:1,(boma1247:1,loti1239:1,olam1240:1)murl1244:1,tenn1246:1)didi1256:1)sout2838:1)sout2836:1)surm1244:1);
+end;

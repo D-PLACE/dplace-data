@@ -1,0 +1,15 @@
+#NEXUS
+Begin taxa;
+
+jodi1234
+yuwa1244
+sali1297
+maco1238
+sali1298
+maco1239
+piar1243
+;
+end;
+Begin trees;
+tree UNTITLED = ((yuwa1244:1,((maco1239:1,piar1243:1)maco1238:1,sali1298:1)sali1297:1)jodi1234:1);
+end;

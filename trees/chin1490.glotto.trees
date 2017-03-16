@@ -1,0 +1,18 @@
+#NEXUS
+Begin taxa;
+
+chin1490
+lowe1438
+uppe1460
+chin1286
+chin1272
+kath1253
+wasc1239
+clac1236
+kiks1237
+klat1237
+;
+end;
+Begin trees;
+tree UNTITLED = ((((clac1236:1,kiks1237:1,klat1237:1)chin1286:1,chin1272:1)lowe1438:1,(kath1253:1,wasc1239:1)uppe1460:1)chin1490:1);
+end;

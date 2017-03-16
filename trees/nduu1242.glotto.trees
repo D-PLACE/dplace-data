@@ -1,0 +1,42 @@
+#NEXUS
+Begin taxa;
+
+nduu1242
+boik1241
+ngal1300
+nucl1642
+cent2125
+east2525
+hari1250
+isla1275
+kuna1263
+kwus1239
+munj1245
+west2606
+ambu1246
+mana1303
+sawo1235
+ambu1247
+hang1263
+mana1298
+yelo1243
+bund1258
+sawo1234
+koiw1243
+seng1284
+mapr1240
+wing1239
+wose1244
+wose1243
+buru1309
+gaik1242
+iatm1242
+keak1239
+sosk1235
+nyau1244
+pali1278
+;
+end;
+Begin trees;
+tree UNTITLED = (((cent2125:1,east2525:1,hari1250:1,isla1275:1,kuna1263:1,kwus1239:1,munj1245:1,west2606:1)boik1241:1,ngal1300:1,(((mapr1240:1,wing1239:1,wose1244:1,wose1243:1)ambu1247:1,hang1263:1)ambu1246:1,(mana1298:1,yelo1243:1)mana1303:1,((buru1309:1,gaik1242:1)bund1258:1,((nyau1244:1,pali1278:1)iatm1242:1,keak1239:1,sosk1235:1)sawo1234:1,koiw1243:1,seng1284:1)sawo1235:1)nucl1642:1)nduu1242:1);
+end;

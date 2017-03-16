@@ -1,0 +1,31 @@
+#NEXUS
+Begin taxa;
+
+kiow1265
+kiow1266
+tewa1261
+tiwa1254
+jeme1245
+ariz1237
+tewa1260
+piro1248
+tiwa1255
+hano1247
+namb1296
+pojo1241
+sani1273
+sanj1276
+sant1421
+tesu1245
+sout2961
+taos1246
+isle1245
+sand1277
+picu1248
+nort1550
+taos1236
+;
+end;
+Begin trees;
+tree UNTITLED = ((kiow1266:1,((hano1247:1)ariz1237:1,(namb1296:1,pojo1241:1,sani1273:1,sanj1276:1,sant1421:1,tesu1245:1)tewa1260:1)tewa1261:1,(piro1248:1,((isle1245:1,sand1277:1)sout2961:1,(picu1248:1,(taos1236:1)nort1550:1)taos1246:1)tiwa1255:1)tiwa1254:1,jeme1245:1)kiow1265:1);
+end;

@@ -1,0 +1,20 @@
+#NEXUS
+Begin taxa;
+
+kxaa1236
+hoaa1235
+juku1256
+sasi1238
+huaa1249
+cent2300
+kung1261
+vase1234
+juho1239
+akho1238
+dzuo1238
+noga1250
+;
+end;
+Begin trees;
+tree UNTITLED = (((sasi1238:1,huaa1249:1)hoaa1235:1,(cent2300:1,(akho1238:1)kung1261:1,vase1234:1,(dzuo1238:1,noga1250:1)juho1239:1)juku1256:1)kxaa1236:1);
+end;

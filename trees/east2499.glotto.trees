@@ -1,0 +1,15 @@
+#NEXUS
+Begin taxa;
+
+east2499
+fiwa1240
+foii1241
+ifig1238
+kafa1243
+kutu1266
+mubi1239
+;
+end;
+Begin trees;
+tree UNTITLED = ((fiwa1240:1,(ifig1238:1,kafa1243:1,kutu1266:1,mubi1239:1)foii1241:1)east2499:1);
+end;

@@ -1,0 +1,15 @@
+#NEXUS
+Begin taxa;
+
+suki1244
+gogo1264
+suki1245
+ariw1234
+gogo1265
+arii1243
+waru1267
+;
+end;
+Begin trees;
+tree UNTITLED = ((((arii1243:1,waru1267:1)ariw1234:1,gogo1265:1)gogo1264:1,suki1245:1)suki1244:1);
+end;

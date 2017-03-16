@@ -1,0 +1,12 @@
+#NEXUS
+Begin taxa;
+
+araf1243
+anda1283
+nanu1240
+tape1242
+;
+end;
+Begin trees;
+tree UNTITLED = ((anda1283:1,nanu1240:1,tape1242:1)araf1243:1);
+end;

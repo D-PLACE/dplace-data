@@ -1,0 +1,24 @@
+#NEXUS
+Begin taxa;
+
+skoo1245
+kris1246
+skou1238
+skou1239
+serr1253
+wara1302
+nucl1634
+vani1248
+wutu1244
+puar1240
+rawo1243
+nori1242
+rawo1244
+womo1238
+suma1274
+womo1239
+;
+end;
+Begin trees;
+tree UNTITLED = ((kris1246:1,((nucl1634:1,vani1248:1,wutu1244:1)skou1239:1,(puar1240:1,(nori1242:1,rawo1244:1,(suma1274:1,womo1239:1)womo1238:1)rawo1243:1)serr1253:1,wara1302:1)skou1238:1)skoo1245:1);
+end;

@@ -1,0 +1,14 @@
+#NEXUS
+Begin taxa;
+
+kama1371
+masa1311
+nucl1661
+coto1237
+kama1372
+meni1247
+;
+end;
+Begin trees;
+tree UNTITLED = ((masa1311:1,(coto1237:1,kama1372:1,meni1247:1)nucl1661:1)kama1371:1);
+end;

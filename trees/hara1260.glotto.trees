@@ -1,0 +1,16 @@
+#NEXUS
+Begin taxa;
+
+hara1260
+amar1274
+huac1244
+kisa1267
+aras1241
+huac1245
+sapi1239
+toye1240
+;
+end;
+Begin trees;
+tree UNTITLED = (((kisa1267:1)amar1274:1,(aras1241:1,huac1245:1,sapi1239:1,toye1240:1)huac1244:1)hara1260:1);
+end;

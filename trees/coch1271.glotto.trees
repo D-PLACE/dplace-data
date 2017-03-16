@@ -1,0 +1,29 @@
+#NEXUS
+Begin taxa;
+
+coch1271
+coch1272
+yuma1250
+gene1244
+kili1268
+delt1253
+paii1252
+rive1260
+coco1261
+dieg1234
+kwat1246
+hava1248
+paip1241
+mari1440
+moha1256
+quec1382
+ipai1240
+kumi1248
+hava1249
+wala1270
+yava1252
+;
+end;
+Begin trees;
+tree UNTITLED = ((coch1272:1,(((coco1261:1,(ipai1240:1,kumi1248:1)dieg1234:1,kwat1246:1)delt1253:1,((hava1249:1,wala1270:1,yava1252:1)hava1248:1,paip1241:1)paii1252:1,(mari1440:1,moha1256:1,quec1382:1)rive1260:1)gene1244:1,kili1268:1)yuma1250:1)coch1271:1);
+end;

@@ -1,0 +1,16 @@
+#NEXUS
+Begin taxa;
+
+bain1263
+kair1267
+mali1284
+qaqe1238
+simb1259
+unun9989
+urap1240
+mako1250
+;
+end;
+Begin trees;
+tree UNTITLED = ((kair1267:1,mali1284:1,qaqe1238:1,simb1259:1,(mako1250:1)unun9989:1,urap1240:1)bain1263:1);
+end;

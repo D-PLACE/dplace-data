@@ -1,0 +1,16 @@
+#NEXUS
+Begin taxa;
+
+paho1240
+agob1244
+idii1243
+agob1245
+ende1235
+kawa1281
+nucl1597
+tame1238
+;
+end;
+Begin trees;
+tree UNTITLED = (((agob1245:1,ende1235:1,kawa1281:1)agob1244:1,(nucl1597:1,tame1238:1)idii1243:1)paho1240:1);
+end;

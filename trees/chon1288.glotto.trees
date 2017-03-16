@@ -1,0 +1,15 @@
+#NEXUS
+Begin taxa;
+
+chon1288
+cont1245
+insu1253
+tehu1242
+teus1236
+haus1240
+onaa1245
+;
+end;
+Begin trees;
+tree UNTITLED = (((tehu1242:1,teus1236:1)cont1245:1,(haus1240:1,onaa1245:1)insu1253:1)chon1288:1);
+end;

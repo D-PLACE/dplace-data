@@ -1,0 +1,12 @@
+#NEXUS
+Begin taxa;
+
+tequ1244
+high1242
+lowl1260
+tequ1245
+;
+end;
+Begin trees;
+tree UNTITLED = ((high1242:1,lowl1260:1,tequ1245:1)tequ1244:1);
+end;

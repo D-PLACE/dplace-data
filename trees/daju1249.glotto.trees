@@ -1,0 +1,29 @@
+#NEXUS
+Begin taxa;
+
+daju1249
+east2428
+west2501
+logo1261
+shat1244
+dard1243
+dars1235
+njal1239
+nyal1252
+ligu1250
+sabu1254
+tall1245
+bard1256
+eref1238
+gadj1244
+mong1340
+sila1248
+bayg1239
+darf1239
+lago1242
+nyal1253
+;
+end;
+Begin trees;
+tree UNTITLED = ((((ligu1250:1,sabu1254:1,tall1245:1)logo1261:1,shat1244:1)east2428:1,((bard1256:1,eref1238:1,gadj1244:1)dard1243:1,(mong1340:1,sila1248:1)dars1235:1,njal1239:1,(bayg1239:1,(lago1242:1,nyal1253:1)darf1239:1)nyal1252:1)west2501:1)daju1249:1);
+end;

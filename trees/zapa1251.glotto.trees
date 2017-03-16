@@ -1,0 +1,20 @@
+#NEXUS
+Begin taxa;
+
+zapa1251
+iqui1244
+zapa1252
+arab1396
+cahu1267
+aush1242
+zapa1253
+ando1255
+arab1268
+cahu1268
+iqui1243
+pint1253
+;
+end;
+Begin trees;
+tree UNTITLED = ((((ando1255:1,arab1268:1)arab1396:1,(cahu1268:1,(pint1253:1)iqui1243:1)cahu1267:1)iqui1244:1,(aush1242:1,zapa1253:1)zapa1252:1)zapa1251:1);
+end;

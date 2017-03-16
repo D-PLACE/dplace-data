@@ -1,0 +1,44 @@
+#NEXUS
+Begin taxa;
+
+kart1248
+geor1252
+svan1243
+geor1253
+zann1245
+lash1242
+lent1241
+lowe1397
+uppe1407
+nucl1302
+jude1258
+oldg1234
+lazz1240
+ming1252
+adzh1238
+fere1245
+fere1244
+guri1246
+imer1248
+imer1249
+imer1247
+ingi1240
+kaxe1238
+mesk1241
+moxe1238
+mtiu1238
+psha1238
+rach1238
+tush1241
+xevs1238
+atin1240
+chxa1238
+samu1241
+sena1260
+vice1240
+xopa1238
+;
+end;
+Begin trees;
+tree UNTITLED = (((((adzh1238:1,fere1245:1,fere1244:1,guri1246:1,imer1248:1,imer1249:1,imer1247:1,ingi1240:1,kaxe1238:1,mesk1241:1,moxe1238:1,mtiu1238:1,psha1238:1,rach1238:1,tush1241:1,xevs1238:1)nucl1302:1,jude1258:1,oldg1234:1)geor1253:1,((atin1240:1,chxa1238:1,samu1241:1,sena1260:1,vice1240:1,xopa1238:1)lazz1240:1,ming1252:1)zann1245:1)geor1252:1,(lash1242:1,lent1241:1,lowe1397:1,uppe1407:1)svan1243:1)kart1248:1);
+end;

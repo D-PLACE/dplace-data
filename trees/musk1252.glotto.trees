@@ -1,0 +1,22 @@
+#NEXUS
+Begin taxa;
+
+musk1252
+alab1247
+cree1270
+mika1239
+west2614
+alab1237
+apal1237
+koas1236
+nucl1645
+semi1265
+hitc1239
+nucl1245
+chic1270
+choc1276
+;
+end;
+Begin trees;
+tree UNTITLED = (((alab1237:1,apal1237:1,koas1236:1)alab1247:1,(nucl1645:1,semi1265:1)cree1270:1,(hitc1239:1,nucl1245:1)mika1239:1,(chic1270:1,choc1276:1)west2614:1)musk1252:1);
+end;

@@ -1,0 +1,23 @@
+#NEXUS
+Begin taxa;
+
+mirn1241
+djam1254
+west2433
+djam1255
+nung1291
+djin1251
+guda1245
+ngal1294
+guda1242
+wamb1258
+binb1241
+ngar1283
+binb1242
+guda1243
+nucl1328
+;
+end;
+Begin trees;
+tree UNTITLED = ((((ngal1294:1)djam1255:1,nung1291:1)djam1254:1,(djin1251:1,((binb1241:1,ngar1283:1)guda1242:1,(binb1242:1,guda1243:1,nucl1328:1)wamb1258:1)guda1245:1)west2433:1)mirn1241:1);
+end;

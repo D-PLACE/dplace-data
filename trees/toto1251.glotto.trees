@@ -1,0 +1,29 @@
+#NEXUS
+Begin taxa;
+
+toto1251
+tepe1243
+toto1252
+hueh1236
+pisa1237
+tlac1235
+cent1397
+yecu1235
+filo1235
+lowl1271
+nort3265
+west1511
+papa1238
+lowl1244
+tecp1235
+uppe1275
+xico1235
+coyu1235
+high1243
+zihu1238
+cerr1235
+;
+end;
+Begin trees;
+tree UNTITLED = (((hueh1236:1,pisa1237:1,tlac1235:1)tepe1243:1,((filo1235:1,(papa1238:1,((cerr1235:1)coyu1235:1,high1243:1)lowl1244:1)lowl1271:1,(tecp1235:1,uppe1275:1,(zihu1238:1)xico1235:1)nort3265:1,west1511:1)cent1397:1,yecu1235:1)toto1252:1)toto1251:1);
+end;

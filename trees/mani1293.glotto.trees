@@ -1,0 +1,18 @@
+#NEXUS
+Begin taxa;
+
+mani1293
+bure1237
+djee1236
+bure1238
+naka1260
+bura1267
+gura1252
+gunn1248
+gunn1247
+gunn1249
+;
+end;
+Begin trees;
+tree UNTITLED = (((((gunn1248:1,gunn1247:1,gunn1249:1)bura1267:1,gura1252:1)bure1238:1,naka1260:1)bure1237:1,djee1236:1)mani1293:1);
+end;

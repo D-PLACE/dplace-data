@@ -1,0 +1,17 @@
+#NEXUS
+Begin taxa;
+
+tang1340
+lard1243
+sout2758
+gang1267
+kaya1318
+kang1283
+ngub1238
+kaya1319
+nyan1300
+;
+end;
+Begin trees;
+tree UNTITLED = ((lard1243:1,((kang1283:1,ngub1238:1)gang1267:1,(kaya1319:1,nyan1300:1)kaya1318:1)sout2758:1)tang1340:1);
+end;

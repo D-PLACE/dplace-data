@@ -1,1 +1,2 @@
 python-nexus>=1.35
+pyglottolog>=0.3.2

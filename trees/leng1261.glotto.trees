@@ -1,0 +1,19 @@
+#NEXUS
+Begin taxa;
+
+leng1261
+guan1268
+leng1263
+toba1268
+echo1239
+laya1256
+anga1316
+leng1262
+sana1298
+nort2971
+sout2989
+;
+end;
+Begin trees;
+tree UNTITLED = (((echo1239:1,laya1256:1)guan1268:1,(anga1316:1,(nort2971:1,sout2989:1)leng1262:1,sana1298:1)leng1263:1,toba1268:1)leng1261:1);
+end;

@@ -1,0 +1,14 @@
+#NEXUS
+Begin taxa;
+
+ayma1253
+nucl1667
+jaqa1244
+cent2142
+sout2996
+cauq1239
+;
+end;
+Begin trees;
+tree UNTITLED = (((cent2142:1,sout2996:1)nucl1667:1,(cauq1239:1)jaqa1244:1)ayma1253:1);
+end;

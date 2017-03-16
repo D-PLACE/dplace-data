@@ -1,0 +1,23 @@
+#NEXUS
+Begin taxa;
+
+west1493
+sege1236
+sout1499
+moii1235
+sege1235
+kala1256
+mora1239
+tehi1237
+fkar1237
+imya1235
+mbol1235
+saif1237
+sawi1235
+sfar1238
+tehi1239
+;
+end;
+Begin trees;
+tree UNTITLED = (((moii1235:1,sege1235:1)sege1236:1,(kala1256:1,mora1239:1,(fkar1237:1,imya1235:1,mbol1235:1,saif1237:1,sawi1235:1,sfar1238:1,tehi1239:1)tehi1237:1)sout1499:1)west1493:1);
+end;

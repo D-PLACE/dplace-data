@@ -2,48 +2,25 @@
 Data curation scripts
 =====================
 
-Adding NA values to DATA files
-------------------------------
-
-To fill in NA values for all societies in a dataset which have no row for a variable in
-the corresponding `DATA` file, run
-
-```bash
-cd scripts
-python add_na.py
-```
-
-This script is idempotent, i.e. running it for a second time should result in
-
-```
-$ python add_na.py 
-EA 1291 societies
-0 NA values added
-Binford 339 societies
-0 NA values added
-```
-
-
 Data from Glottolog
 -------------------
 
-When [Glottolog](http://glottolog.org) releases a new version, the following steps have
-to be taken to recreate the dplace data which is derived from Glottolog:
-
-1. Recreate the NEXUS files for Glottolog top-level family trees running
-   ```
-   python glottolog.py trees
-   ```
-
-2. Recreate the languoid data in `csv/glottolog.csv` by running the following command
-   on a PostgreSQL database with the Glottolog SQL dump loaded:
-   ```
-   python glottolog.py languoids postgresql://dbuser@/glottolog
-   ```
+When [Glottolog](http://glottolog.org) releases a new version, the D-PLACE data which is derived from Glottolog must be recreated. 
+This is done by adapting the module globals `GLOTTOLOG_VERSION` and `GLOTTOLOG_YEAR` in [`glottolog.py`](glottolog.py) and
+running
+```
+python glottolog.py PATH/TO/GLOTTOLOG/REPOS
+```
+This will recreate 
+- the NEXUS files for Glottolog top-level family trees,
+- the corresponding [index](../trees/index.csv) and
+- the [languoid data](../csv/glottolog.csv).
 
 
 Precomputed society-region mapping
 ----------------------------------
+
+**FIXME: must be updated to work with new data layout!**
 
 Require `csvkit`, `fiona` and `shapely`, all of which can be installed with `pip`.
 

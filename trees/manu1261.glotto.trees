@@ -1,0 +1,21 @@
+#NEXUS
+Begin taxa;
+
+manu1261
+doro1266
+mari1438
+koki1244
+koki1243
+kori1263
+amot1240
+didi1260
+gebi1241
+imil1243
+mari1439
+oibu1239
+uder1239
+;
+end;
+Begin trees;
+tree UNTITLED = (((koki1244:1,koki1243:1,kori1263:1)doro1266:1,(amot1240:1,didi1260:1,gebi1241:1,imil1243:1,mari1439:1,oibu1239:1,uder1239:1)mari1438:1)manu1261:1);
+end;
