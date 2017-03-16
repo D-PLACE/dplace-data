@@ -66,7 +66,7 @@ def trees(langs, outdir):
                 index.append([
                     fname,
                     '{0} ({1})'.format(family.name, GLOTTOLOG_TITLE),
-                    GLOTTOLOG_TITLE,
+                    '{0} ({1})'.format(GLOTTOLOG_TITLE, family.name),
                     GLOTTOLOG_YEAR,
                     GLOTTOLOG_REFERENCE])
 
