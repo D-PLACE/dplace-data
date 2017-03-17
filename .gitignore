@@ -3,3 +3,4 @@
 *.pot
 *.pyc
 .DS_Store
+pydplace.egg-info
