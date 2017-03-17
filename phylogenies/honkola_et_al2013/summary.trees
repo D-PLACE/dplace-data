@@ -1,0 +1,94 @@
+#NEXUS
+
+begin taxa;
+	dimensions ntax=17;
+	taxlabels
+	[1] 'Selkup'
+	[2] 'Nenets'
+	[3] 'Hungarian'
+	[4] 'Mansi'
+	[5] 'Khanty'
+	[6] 'Udmurt'
+	[7] 'Komi'
+	[8] 'Mari'
+	[9] 'Mordvin'
+	[10] 'Northern_Sami'
+	[11] 'Ume_Sami'
+	[12] 'Skolt_Sami'
+	[13] 'Estonian'
+	[14] 'Livonian'
+	[15] 'Karelian'
+	[16] 'Veps'
+	[17] 'Finnish'
+;
+end;
+begin trees;
+	tree TREE1 =  ((Selkup:20.94766977174687,Nenets:20.94766977174687):31.712871058161127,((Hungarian:32.8135989625987,(Mansi:18.609661560862286,Khanty:18.609661560862286):14.203937401736408):6.602597589799416,((Udmurt:11.92679751849802,Komi:11.92679751849802):25.06332135340099,(Mari:32.04826749679521,(Mordvin:29.236140700896655,(((Northern_Sami:4.735657126626627,Ume_Sami:4.735657126626627):3.3176309465185625,Skolt_Sami:8.05328807314519):17.104127802591204,((Estonian:5.931102745888666,Livonian:5.931102745888666):6.134750197315611,((Karelian:4.5992841935788045,Veps:4.5992841935788045):3.351311980364022,Finnish:7.950596173942826):4.115256769261451):13.091562932532117):4.078724825160261):2.8121267958985534):4.941851375103802):2.426077680499098):13.244344277509889);
+end;
+
+begin figtree;
+set appearance.backgroundColorAttribute="User Selection";
+set appearance.backgroundColour=#-1;
+set appearance.branchColorAttribute="User Selection";
+set appearance.branchLineWidth=3.0;
+set appearance.foregroundColour=#-16777216;
+set appearance.selectionColour=#-2144520576;
+set branchLabels.colorAttribute="User Selection";
+set branchLabels.displayAttribute="posterior";
+set branchLabels.fontName="Arial";
+set branchLabels.fontSize=18;
+set branchLabels.fontStyle=0;
+set branchLabels.isShown=true;
+set branchLabels.significantDigits=2;
+set layout.expansion=0;
+set layout.layoutType="RECTILINEAR";
+set layout.zoom=0;
+set nodeBars.barWidth=4.0;
+set nodeLabels.colorAttribute="User Selection";
+set nodeLabels.displayAttribute="Node ages";
+set nodeLabels.fontName="Arial";
+set nodeLabels.fontSize=18;
+set nodeLabels.fontStyle=0;
+set nodeLabels.isShown=true;
+set nodeLabels.significantDigits=2;
+set polarLayout.alignTipLabels=false;
+set polarLayout.angularRange=0;
+set polarLayout.rootAngle=0;
+set polarLayout.rootLength=100;
+set polarLayout.showRoot=true;
+set radialLayout.spread=0.0;
+set rectilinearLayout.alignTipLabels=false;
+set rectilinearLayout.curvature=0;
+set rectilinearLayout.rootLength=100;
+set scale.offsetAge=0.0;
+set scale.rootAge=1.0;
+set scale.scaleFactor=1.0;
+set scale.scaleRoot=false;
+set scaleAxis.automaticScale=true;
+set scaleAxis.fontSize=8.0;
+set scaleAxis.isShown=true;
+set scaleAxis.lineWidth=1.0;
+set scaleAxis.majorTicks=10.0;
+set scaleAxis.origin=0.0;
+set scaleAxis.reverseAxis=true;
+set scaleAxis.showGrid=false;
+set scaleAxis.significantDigits=4;
+set scaleBar.automaticScale=true;
+set scaleBar.fontSize=10.0;
+set scaleBar.isShown=true;
+set scaleBar.lineWidth=1.0;
+set scaleBar.scaleRange=0.0;
+set scaleBar.significantDigits=4;
+set tipLabels.colorAttribute="User Selection";
+set tipLabels.displayAttribute="Names";
+set tipLabels.fontName="Arial";
+set tipLabels.fontSize=18;
+set tipLabels.fontStyle=0;
+set tipLabels.isShown=true;
+set tipLabels.significantDigits=4;
+set trees.order=true;
+set trees.orderType="increasing";
+set trees.rooting=false;
+set trees.rootingType="User Selection";
+set trees.transform=false;
+set trees.transformType="cladogram";
