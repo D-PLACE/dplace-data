@@ -3,21 +3,11 @@
 Recreate glottolog data files from the current version published at http://glottolog.org
 """
 from __future__ import unicode_literals
-import sys
 import re
-import os
 
-from clldutils.path import Path
 from clldutils.dsv import UnicodeWriter
 from ete3 import Tree
 from pyglottolog.api import Glottolog
-
-GLOTTOLOG_VERSION = "3.0"
-GLOTTOLOG_YEAR = "2017"
-GLOTTOLOG_TITLE = "Glottolog {0}".format(GLOTTOLOG_VERSION)
-GLOTTOLOG_REFERENCE = "Hammarström, Harald & Forkel, Robert & Haspelmath, Martin. {0}. " \
-    "{1}. Jena: Max Planck Institute for the Science of Human History. " \
-    "http://glottolog.org/".format(GLOTTOLOG_YEAR, GLOTTOLOG_TITLE)
 
 LABEL = re.compile("'[^\[]+\[([a-z0-9]{4}[0-9]{4})[^']*'")
 NEXUS_TEMPLATE = """#NEXUS\nBegin taxa;
@@ -29,13 +19,19 @@ tree UNTITLED = {1}
 end;"""
 
 
+def reference(title, year):
+    return "Hammarström, Harald & Forkel, Robert & Haspelmath, Martin. {0}. " \
+           "{1}. Jena: Max Planck Institute for the Science of Human History. " \
+           "http://glottolog.org/".format(title, year)
+
+
 def write_tree(tree, fname):
     with fname.open('w', encoding="utf-8") as handle:
         handle.write(NEXUS_TEMPLATE.format(
             '\n'.join(l.name for l in tree.traverse()), tree.write(format=3)))
 
 
-def trees(langs, outdir):
+def trees(langs, outdir, year, title):
     index = []
     outdir = outdir.joinpath('trees')
     languoids = {}
@@ -65,20 +61,20 @@ def trees(langs, outdir):
                 write_tree(tree, outdir.joinpath(fname))
                 index.append([
                     fname,
-                    '{0} ({1})'.format(family.name, GLOTTOLOG_TITLE),
-                    '{0} ({1})'.format(GLOTTOLOG_TITLE, family.name),
-                    GLOTTOLOG_YEAR,
-                    GLOTTOLOG_REFERENCE])
+                    '{0} ({1})'.format(family.name, title),
+                    '{0} ({1})'.format(title, family.name),
+                    year,
+                    reference(title, year)])
 
     fname = 'global.glotto.trees'
     write_tree(
         Tree("({0});".format(','.join(glob)), format=3), outdir.joinpath(fname))
     index.append([
         fname,
-        'Global Classification ({0})'.format(GLOTTOLOG_TITLE),
-        GLOTTOLOG_TITLE,
-        GLOTTOLOG_YEAR,
-        GLOTTOLOG_REFERENCE])
+        'Global Classification ({0})'.format(title),
+        title,
+        year,
+        reference(title, year)])
     with UnicodeWriter(outdir.joinpath('index.csv')) as writer:
         writer.writerow(['id', 'name', 'author', 'year', 'reference'])
         writer.writerows(index)
@@ -97,8 +93,7 @@ def languoids(langs, outdir):
             ])
 
 
-if __name__ == '__main__':  # pragma: no cover
-    langs = list(Glottolog(sys.argv[1]).languoids())
-    outdir = Path(os.getcwd()).parent
-    languoids(langs, outdir)
-    trees(langs, outdir)
+def update(repos, gl_repos, year, title):
+    langs = list(Glottolog(gl_repos).languoids())
+    languoids(langs, repos.dir)
+    trees(langs, repos.dir, year, title)

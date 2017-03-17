@@ -25,6 +25,7 @@ setup(
         'fiona',
         'shapely',
         'pyglottolog>=0.3.2',
+        'python-nexus>=1.4.2',
     ],
     entry_points={
         'console_scripts': [

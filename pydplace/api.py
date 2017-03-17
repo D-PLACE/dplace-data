@@ -20,6 +20,11 @@ def valid_enum_member(choices, instance, attribute, value):
         raise ValueError(value)
 
 
+def valid_range(min_, max_, instance, attribute, value):
+    if value < min_ or value > max_:
+        raise ValueError(value)
+
+
 @attr.s
 class Variable(object):
     category = attr.ib(convert=lambda s: [c.capitalize() for c in comma_split(s)])
@@ -96,8 +101,8 @@ class Society(UnicodeMixin):
     HRAF_link = attr.ib()
     origLat = attr.ib(convert=float)
     origLong = attr.ib(convert=float)
-    Lat = attr.ib(convert=float)
-    Long = attr.ib(convert=float)
+    Lat = attr.ib(convert=float, validator=partial(valid_range, -90, 90))
+    Long = attr.ib(convert=float, validator=partial(valid_range, -180, 180))
     Comment = attr.ib()
     glottocode_comment = attr.ib()
 
