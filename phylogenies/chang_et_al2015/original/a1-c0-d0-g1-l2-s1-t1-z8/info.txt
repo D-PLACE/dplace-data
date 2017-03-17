@@ -1,0 +1,100 @@
+[a1-c0-d0-g1-l2-s1-t1-z8] A1: Narrow dataset
+
+Reading clade constraints from [clades-caploans-52.txt].
+    52 languages
+
+Site substitution model: Restriction site, gamma-distributed rates.
+
+Reading lexical data from [ielex-130421-ag-cc.txt].
+    IELex, 2013 Apr 21 + CC, AG edits
+
+Reading glosses from [gloss-med.txt].
+    143 glosses
+
+Ignoring loanword tags.
+
+Trait matrix statistics
+
+    7436 slots, 33 empty; 2350 traits, 8615 attestations, 484 hidden cells
+
+    By gloss: languages, traits
+
+           I  52  3      all  52 16      and  52 21   animal  50 14
+       ashes  52 17     back  50 27      bad  52 36  because  52 35
+       belly  52 24      big  52 18     bird  52 15     bite  52 21
+       black  52 15    blood  52 12     bone  51  9  breathe  51 15
+        burn  52 21    child  52 39    cloud  52 16     cold  52 18
+        come  52 12      cut  52 23      day  52 10      die  52 14
+         dig  52 24      dog  52 12    drink  52  7      dry  52 13
+         ear  52  5    earth  52 23      eat  52 15      eye  52  6
+        fall  52 22      far  52 19      fat  51 24     fear  52 18
+         few  52 22    fight  52 35     fire  52 17     fish  52  8
+        five  51  1     flow  52 17   flower  51 14      fly  52 10
+        foot  52 12     four  52  2     give  52  7     good  52 24
+        hair  52 22     hand  52  8       he  51 13     head  52 19
+        hear  52 13    heart  51  8    heavy  52 13     here  52 24
+         hit  52 41      how  52  8  husband  52 28      ice  51 12
+          if  52 23     kill  52 26     know  52 12    laugh  51 11
+        leaf  52 14      leg  52 22      lie  51 27     live  51 12
+        long  52  9      man  52 16     many  52 29    mouth  52 13
+        name  52  1     near  52 43      new  52  4    night  52 11
+        nose  51 10      not  52  7      old  52 20      one  52  3
+       other  51 12   person  52 24     pull  52 27     rain  52 16
+         red  52 15 rightsid  51 14    river  52 16     road  52 33
+        root  52 10   rotten  51 30     salt  50  4      say  52 25
+         sea  51 15      see  52 16     seed  52 14    sharp  51 27
+       short  51 19     sing  52 15      sit  52  9     skin  52 21
+         sky  52 16    sleep  52 16    small  52 34    smoke  51  9
+       snake  51 14     snow  51  8     spit  52 16    stand  52 22
+        star  52  6    stone  52 21      sun  52  6    swell  51 15
+        that  52 25     they  52 14     this  52 11     thou  51  6
+       three  52  1    throw  52 41      tie  52 22   tongue  52  3
+       tooth  52  6     tree  52 22      two  52  1     walk  52 38
+        warm  52 19     wash  52 17    water  52 10       we  52  2
+         wet  52 29     what  52  5     when  52  7    where  51  8
+       white  52 21      who  52  1     wide  51 18     wife  52 32
+        wind  52 15     with  52 15    woman  52 21    woods  51 26
+        year  52 11   yellow  51 17      you  52 11
+    
+    By language: glosses, traits, empty cells
+
+             Old_Irish 143 181   0              Irish 143 170   0
+          Scots_Gaelic 143 163   0              Latin 143 147   0
+               Nuorese 142 146  27           Cagliari 142 145  27
+              Romanian 143 180   0            Catalan 143 197   0
+            Portuguese 143 184   0            Spanish 143 171   0
+                French 143 151   0          Provencal 143 187   0
+               Walloon 143 149   0              Ladin 143 165   0
+               Romansh 143 195   0           Friulian 143 183   0
+               Italian 143 161   0             Gothic 140 161  36
+        Old_West_Norse 143 188   0          Icelandic 143 154   0
+               Faroese 143 166   0          Norwegian 143 149   0
+           Old_English 143 168   0            English 143 145   0
+       Old_High_German 143 177   0             German 143 153   0
+         Luxembourgish 143 146   0       Swiss_German 143 143   0
+         Ancient_Greek 143 153   0       Modern_Greek 143 159   0
+    Classical_Armenian 143 191   0   Eastern_Armenian 143 193   0
+              Adapazar 139 142  48  Old_Church_Slavic 142 173  15
+               Avestan 139 161  43     Vedic_Sanskrit 143 181   0
+                Nepali 143 185   0           Assamese 142 195  26
+                 Oriya 143 201   0            Bengali 143 159   0
+                Bihari 142 183  18              Hindi 143 161   0
+                  Urdu 143 152   0             Lahnda 142 142  24
+               Panjabi 141 147  24           Gujarati 141 153  38
+               Marathi 143 180   0           Kashmiri 142 176  27
+            Singhalese 143 158   0             Romani 141 141  41
+           Tocharian_B 139 159  48            Hittite 138 145  42
+
+Tree prior: Generalized skyline coalescent
+
+Constrained to be ancestors:
+    Latin
+    Old_West_Norse
+    Old_High_German
+    Ancient_Greek
+    Classical_Armenian
+    Vedic_Sanskrit
+    Old_Irish
+    Old_English
+
+Chain length: 160000000
