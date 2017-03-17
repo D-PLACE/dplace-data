@@ -41,12 +41,11 @@ def check(args):
             f = p.dir.joinpath(filename)
             if not f.exists():
                 args.log.warn('{0} is missing {1}'.format(label, filename))
-            if filename == 'languages.csv':
-                check_language_file(f.as_posix())
-                # try:
-                #     check_language_file(f)
-                # except Exception as e:
-                #     args.log.warn('{0} - languages.csv badly formatted: {1}'.format(label, e))
+            elif filename == 'languages.csv':
+                try:
+                    check_language_file(f.as_posix())
+                except Exception as e:
+                    args.log.warn('{0} - languages.csv: {1}'.format(label, e))
 
 @command()
 def tdwg(args):
