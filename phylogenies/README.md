@@ -5,10 +5,9 @@ Each directory within the phylogenies subdirectory contains the following:
 
 1. original/ -- a directory storing the original tree files.
 
-2. languages.csv -- a csv file linking the taxon labels in original/* to their
-     correct glottocodes
+2. taxa.csv -- a csv file linking the taxon labels in original/ to their correct glottocodes and xd_ids and society ids:
 
-    Taxon,Glottocode,ISOCode
+    taxon	glottocode	xd_ids	soc_ids
 
 3. summary.trees -- a single summary tree in nexus tree format.
 4. posterior.trees -- a posterior probability distribution of the trees (if available) in nexus tree format.
