@@ -9,7 +9,7 @@ from clldutils.markup import Table
 from clldutils.jsonlib import update
 
 from pydplace import geo
-
+from pydplace.utils import check_language_file
 
 @command()
 def ls(args):
@@ -23,6 +23,7 @@ def ls(args):
 def check(args):
     glottolog = {l.id: l for l in
                  args.repos.read_csv('csv', 'glottolog.csv', namedtuples=True)}
+    # check datasets
     for ds in args.repos.datasets:
         for soc in ds.societies:
             label = '{0} society {1}'.format(ds.id, soc)
@@ -32,7 +33,20 @@ def check(args):
             elif glottolog[soc.glottocode].family_name == 'Bookkeeping':
                 args.log.warn('{0} mapped to Bookkeeping language: {1.glottocode}'.format(
                     label, soc))
-
+    
+    # check phylogenies
+    for p in args.repos.phylogenies:
+        label = 'Phylogeny {0}'.format(p.id)
+        for filename in ('languages.csv', 'source.bib', 'Makefile', 'summary.trees'):
+            f = p.dir.joinpath(filename)
+            if not f.exists():
+                args.log.warn('{0} is missing {1}'.format(label, filename))
+            if filename == 'languages.csv':
+                check_language_file(f.as_posix())
+                # try:
+                #     check_language_file(f)
+                # except Exception as e:
+                #     args.log.warn('{0} - languages.csv badly formatted: {1}'.format(label, e))
 
 @command()
 def tdwg(args):
