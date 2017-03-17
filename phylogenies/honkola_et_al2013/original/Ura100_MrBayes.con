@@ -1,0 +1,13 @@
+#NEXUS
+
+[ID: 8549827231]
+begin trees;
+   [Note: This tree contains information on the topology, 
+          branch lengths (if present), and the probability
+          of the partition indicated by the branch.]
+   tree con_50_majrule = (Proto-Uralic:0.010901,(((((Finnish:0.011730,(Karelian:0.005842,Veps:0.020876)0.96:0.007671)1.00:0.007799,(Estonian:0.019049,Livonian:0.017596)1.00:0.017892)1.00:0.027346,((Northern_Sami:0.008672,Ume_Sami:0.020849)1.00:0.010048,Skolt_Sami:0.011026)1.00:0.041594)0.99:0.008547,Mordvin:0.061956,Mari:0.055940)1.00:0.008877,((Komi:0.027498,Udmurt:0.020198)1.00:0.040654,(Hungarian:0.076802,(Mansi:0.045935,Khanty:0.051187)1.00:0.025504)0.86:0.006856)0.68:0.004411)1.00:0.030986,(Nenets:0.047251,Selkup:0.039757)1.00:0.023426);
+
+   [Note: This tree contains information only on the topology
+          and branch lengths (mean of the posterior probability density).]
+   tree con_50_majrule = (Proto-Uralic:0.010901,(((((Finnish:0.011730,(Karelian:0.005842,Veps:0.020876):0.007671):0.007799,(Estonian:0.019049,Livonian:0.017596):0.017892):0.027346,((Northern_Sami:0.008672,Ume_Sami:0.020849):0.010048,Skolt_Sami:0.011026):0.041594):0.008547,Mordvin:0.061956,Mari:0.055940):0.008877,((Komi:0.027498,Udmurt:0.020198):0.040654,(Hungarian:0.076802,(Mansi:0.045935,Khanty:0.051187):0.025504):0.006856):0.004411):0.030986,(Nenets:0.047251,Selkup:0.039757):0.023426);
+end;
