@@ -1,14 +1,14 @@
-Name_on_tree_tip,xd_id,soc_id,fixed_order
+taxon,glottocode,xd_ids,soc_ids
 Adnyamathanha,,,
 AghuTharrnggala,,,
-Alyawarr,xd964,B117,0
+Alyawarr,alya1239,xd964,B117
 Aminungo,,,
 Antekerrepenhe,,,
 Arabana,,,
 Awabakal,,,
 Badimaya,,,
 Badjiri,,,
-Bandjalang,xd966,B119,0
+Bandjalang,band1339,xd966,B119
 Batyala,,,
 BidyaraGungabula,,,
 Bilinarra,,,
@@ -27,17 +27,17 @@ Dharumbal,,,
 Dhayyi,,,
 Dhudhuroa,,,
 Dhurga,,,
-Dhuwal,xd777,"Id2, B88",0
+Dhuwal,dhuw1249,xd777,"Id2, B88"
 Dhuwala,,,
-Diyari,xd779,"Id4, B121",0
+Diyari,dier1241,xd779,"Id4, B121"
 Djabugay,,,
 Djambarrpuyngu,,,
 Djapu,,,
 Djinang,,,
-Durubul,xd961,B114,0
-Duungidjawu,xd962,B115,0
-Dyirbal,"xd954, xd957","B105, B110",0
-FlindersIsland,xd947,B98,0
+Durubul,tempxx01,xd961,B114
+Duungidjawu,tempxx02,xd962,B115
+Dyirbal,dyir1250,"xd954, xd957","B105, B110"
+FlindersIsland,flin1247,xd947,B98
 Gairi,,,
 Gamilaraay,,,
 Gangulu,,,
@@ -56,26 +56,26 @@ GuuguYimidhirr,,,
 Guwa,,,
 Guyani,,,
 Iyora,,,
-Jaru,xd956,B108,0
+Jaru,jaru1254,xd956,B108
 JaruMcC,,,
 Jiwarli,,,
 Jiwarliny,,,
 Kaanju,,,
 Kalkatungu,,,
 Kamilaroi,,,
-Karajarri,xd953,B104,0
+Karajarri,kara1476,xd953,B104
 KarajarriNW,,,
-Kariyarra,xd780,"Id5, B106",0
+Kariyarra,kari1304,xd780,"Id5, B106"
 Karree,,,
 Kartujarra,,,
-Karuwali,xd963,B116,0
+Karuwali,karr1236,xd963,B116
 Katthang,,,
-Kaurna,xd974,B129,0
+Kaurna,kaur1267,xd974,B129
 Keramin,,,
 KuguNganhcara,,,
 Kukatj,,,
 Kukatja,,,
-KukuYalanji,xd946,B96,0
+KukuYalanji,kuku1273,xd946,B96
 KukuYalanjiCurr,,,
 Kungadutyi,,,
 Kungkari,,,
@@ -91,7 +91,7 @@ Malyangapa,,,
 MangalaMcK,,,
 MangalaNW,,,
 Margany,,,
-MartuWangka,xd958,B111,0
+MartuWangka,many1256,xd958,B111
 MaryRiverandBunyaBunyaCountry,,,
 MathiMathi,,,
 MayiKulan,,,
@@ -108,8 +108,8 @@ Mudburra,,,
 MudburraMcC,,,
 Muruwari,,,
 Narrungga,,,
-Ngaanyatjarra,xd965,B118,0
-Ngadjumaya,xd976,B132,0
+Ngaanyatjarra,ngaa1240,xd965,B118
+Ngadjumaya,ngad1258,xd976,B132
 Ngadjuri,,,
 Ngaiawang,,,
 Ngamini,,,
@@ -118,10 +118,10 @@ Ngarigu,,,
 Ngarinyman,,,
 Ngarla,,,
 Ngarluma,,,
-Ngarrindjeri,xd975,B131,0
+Ngarrindjeri,narr1259,xd975,B131
 Ngawun,,,
 NggoiMwoi,,,
-Ngiyambaa,xd784,"Id9, B130",0
+Ngiyambaa,wang1291,xd784,"Id9, B130"
 Ngunawal,,,
 Nhanta,,,
 Nhirrpi,,,
@@ -130,23 +130,23 @@ NorthernNyangumarta,,,
 Nyamal,,,
 Nyangumarta,,,
 Nyungar,,,
-Paakantyi,xd973,B128,0
+Paakantyi,darl1243,xd973,B128
 Pakanh,,,
 Pallanganmiddang,,,
 Panyjima,,,
 Parnkala,,,
 Payungu,,,
 Piangil,,,
-PintupiLuritja,xd960,B113,0
+PintupiLuritja,pint1250,xd960,B113
 Pirriya,,,
-Pitjantjatjara,xd967,B120,0
+Pitjantjatjara,nucl1331,xd967,B120
 PittaPitta,,,
 Rirratjingu,,,
 Ritharrngu,,,
 SouthernWalmajarri,,,
 Thalanyji,,,
 Tharrgari,,,
-Umpila,xd945,B93,0
+Umpila,ump1239,xd945,B93
 Wadjabangayi,,,
 Wajarri,,,
 Wakaya,,,
@@ -161,20 +161,20 @@ WangkumaraMcDWur,,,
 Wardandi,,,
 Wargamay,,,
 Warlmanpa,,,
-Warlpiri,xd773,"Id10, B109",0
+Warlpiri,warl1254,xd773,"Id10, B109"
 Warluwarra,,,
-Warnman,xd959,B112,0
+Warnman,wanm1242,xd959,B112
 Warriyangga,,,
 Warumungu,,,
-Warungu,xd955,B107,0
+Warungu,waru1264,xd955,B107
 Wathawurrung,,,
 WathiWathi,,,
 Watjuk,,,
 WesternArrarnta,,,
-WikMungkan,xd781,"Id6, B90",0
+WikMungkan,wikm1247,xd781,"Id6, B90"
 Wiradjuri,,,
-Wirangu,xd972,B127,0
-Woiwurrung,xd978,B134,0
+Wirangu,wira1265,xd972,B127
+Woiwurrung,woiw1237,xd978,B134
 Wulguru,,,
 YabulaYabula,,,
 Yagara,,,
@@ -192,4 +192,4 @@ Yirandali,,,
 YortaYorta,,,
 Yugambeh,,,
 Yulparija,,,
-Yuwaalaraay,xd970,B125,0
+Yuwaalaraay,gami1243,xd970,B125

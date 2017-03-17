@@ -3,13 +3,13 @@ from __future__ import unicode_literals, print_function, division
 
 import fiona
 from shapely.geometry import Point
+from ete3 import Tree
 
-from clldutils.clilib import command
+from clldutils.clilib import command, ParserError
 from clldutils.markup import Table
 from clldutils.jsonlib import update
 
 from pydplace import geo
-from pydplace.utils import check_language_file
 from pydplace import glottolog
 
 
@@ -25,12 +25,13 @@ def ls(args):
 def check(args):
     glottolog = {l.id: l for l in
                  args.repos.read_csv('csv', 'glottolog.csv', namedtuples=True)}
-    # check datasets
-    socids = set()
+
+    socids, xdids, varids = set(), set(), set()
     for ds in args.repos.datasets:
         for soc in ds.societies:
             if soc.id in socids:
                 args.log.error('duplicate society ID: {0}'.format(soc.id))
+            xdids.add(soc.xd_id)
             socids.add(soc.id)
             label = '{0} society {1}'.format(ds.id, soc)
             if soc.glottocode not in glottolog:
@@ -39,19 +40,25 @@ def check(args):
             elif glottolog[soc.glottocode].family_name == 'Bookkeeping':
                 args.log.warn('{0} mapped to Bookkeeping language: {1.glottocode}'.format(
                     label, soc))
-    
-    # check phylogenies
+        for var in ds.variables:
+            if var.id in varids:
+                args.log.error('duplicate variable ID: {0}'.format(var.id))
+            varids.add(var.id)
+
     for p in args.repos.phylogenies:
-        label = 'Phylogeny {0}'.format(p.id)
-        for filename in ('languages.csv', 'source.bib', 'Makefile', 'summary.trees'):
-            f = p.dir.joinpath(filename)
-            if not f.exists():
-                args.log.warn('{0} is missing {1}'.format(label, filename))
-            elif filename == 'languages.csv':
-                try:
-                    check_language_file(f.as_posix())
-                except Exception as e:
-                    args.log.warn('{0} - languages.csv: {1}'.format(label, e))
+        for taxon in p.taxa:
+            if taxon.glottocode and taxon.glottocode not in glottolog:
+                args.log.error('{0}: invalid glottocode {1}'.format(p, taxon.glottocode))
+            for socid in taxon.soc_ids:
+                if socid not in socids:
+                    args.log.error('{0}: invalid soc_id {1}'.format(p, socid))
+            for xdid in taxon.xd_ids:
+                if xdid not in xdids:
+                    args.log.error('{0}: invalid xd_id {1}'.format(p, xdid))
+            assert p.nexus
+
+    for t in args.repos.trees:
+        assert Tree(t.newick, format=1)
 
 
 @command(name='glottolog')
@@ -60,6 +67,8 @@ def glottolog_(args):
 
     dplace glottolog PATH/TO/GLOTTOLOG/REPOS YEAR VERSION
     """
+    if len(args.args) != 3:
+        raise ParserError('not enough arguments')
     year, version = args.args[1:3]
     title = "Glottolog {0}".format(version)
     glottolog.update(args.repos, args.args[0], year, title)

@@ -10,6 +10,7 @@ from clldutils.dsv import reader
 from clldutils.path import Path
 from clldutils.misc import UnicodeMixin
 from clldutils import jsonlib
+from nexus import NexusReader
 
 comma_split = partial(split_text, separators=',', strip=True, brackets={})
 semicolon_split = partial(split_text, separators=';', strip=True, brackets={})
@@ -54,7 +55,7 @@ class Data(object):
 
 
 @attr.s
-class ObjectWithSource(object):
+class ObjectWithSource(UnicodeMixin):
     id = attr.ib()
     name = attr.ib()
     year = attr.ib()
@@ -65,6 +66,9 @@ class ObjectWithSource(object):
     @property
     def dir(self):
         return self.base_dir.joinpath(self.id)
+
+    def __unicode__(self):
+        return '{0.name} ({0.id})'.format(self)
 
 
 @attr.s
@@ -111,12 +115,9 @@ class Society(UnicodeMixin):
 
 
 @attr.s
-class Dataset(ObjectWithSource, UnicodeMixin):
+class Dataset(ObjectWithSource):
     type = attr.ib(validator=partial(valid_enum_member, ['cultural', 'environmental']))
     description = attr.ib()
-
-    def __unicode__(self):
-        return '{0.name} ({0.id})'.format(self)
 
     def _items(self, what, **kw):
         fname = self.dir.joinpath('{0}.csv'.format(what))
@@ -150,7 +151,31 @@ class Dataset(ObjectWithSource, UnicodeMixin):
 
 
 @attr.s
-class Phylogeny(ObjectWithSource):
+class Taxon(object):
+    taxon = attr.ib()
+    glottocode = attr.ib()
+    xd_ids = attr.ib(convert=comma_split)
+    soc_ids = attr.ib(convert=comma_split)
+
+
+class WithNexusTreesMixin(object):
+    @property
+    def nexus(self):
+        return NexusReader(self.trees.as_posix())
+
+    @property
+    def newick(self):
+        nexus = self.nexus
+        nexus.trees.detranslate()
+        newick = re.sub(r'\[.*?\]', '', nexus.trees.trees[0])
+        try:
+            return newick[newick.index('=') + 1:]
+        except ValueError:  # pragma: no cover
+            return newick
+
+
+@attr.s
+class Phylogeny(ObjectWithSource, WithNexusTreesMixin):
     scaling = attr.ib()
 
     @property
@@ -161,9 +186,13 @@ class Phylogeny(ObjectWithSource):
     def xdid_socid_links(self):
         return list(reader(self.dir.joinpath('xdid_socid_links.csv'), dicts=True))
 
+    @property
+    def taxa(self):
+        return [Taxon(**d) for d in reader(self.dir.joinpath('taxa.csv'), dicts=True)]
+
 
 @attr.s
-class Tree(ObjectWithSource):
+class Tree(ObjectWithSource, WithNexusTreesMixin):
     @property
     def trees(self):
         return self.dir

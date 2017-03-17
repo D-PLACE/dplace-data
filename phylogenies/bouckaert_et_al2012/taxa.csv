@@ -1,0 +1,104 @@
+taxon,glottocode,xd_ids,soc_ids
+Afghan,nort2646,"xd598, xd601","Ea11, Ea2"
+Albanian_C,arbe1236,,
+Albanian_G,gheg1238,xd528,"Ce1, SCCS48"
+Albanian_K,arva1236,,
+Albanian_Top,tosk1239,,
+Ancient_Greek,anci1242,,
+Armenian_List,nucl1235,,
+Armenian_Mod,nucl1235,xd575,"Ci10, SCCS56"
+Assamese,assa1263,,
+Avestan,aves1237,,
+Baluchi,east2304,xd597,Ea10
+Bengali,beng1280,xd664,Ef2
+Bihari,mait1250,xd662,Ef10
+Breton_List,bret1244,,
+Breton_SE,bret1244,,
+Breton_ST,bret1244,,
+Bulgarian,bulg1262,xd569,Ch5
+Byelorussian,bela1254,xd570,Ch6
+Catalan,stan1289,,
+Classical_Armenian,clas1249,,
+Cornish,corn1251,,
+Czech,czec1258,xd567,Ch3
+Czech_E,czec1258,,
+Danish,dani1285,,
+Digor_Ossetic,osse1243,xd582,Ci6
+Dutch_List,dutc1256,xd541,Cg1
+English_ST,stan1293,"xd536, xd538","Cf1, Cf3"
+Faroese,faro1244,,
+Flemish,vlaa1240,,
+French,stan1290,xd540,Cf5
+Frisian,east2288,,
+Friulian,friu1240,,
+German_ST,stan1295,,
+Gothic,goth1244,,
+Greek_ML,,,
+Greek_Mod,mode1248,xd534,Ce7
+Gujarati,guja1252,xd671,Ef9
+Hindi,hind1269,,
+Hittite,hitt1242,,
+Icelandic_ST,icel1247,xd542,Cg2
+Irish_A,iris1253,xd543,"Cg3, SCCS51"
+Iron_Ossetic,iron1242,,
+Italian,ital1282,,
+Kashmiri,kash1277,xd670,Ef8
+Kurdish,cent1972,xd576,"Ci11, SCCS57"
+Ladin,ladi1250,,
+Lahnda,west2386,,
+Latin,lati1261,xd530,"Ce3, SCCS49"
+Latvian,latv1249,xd559,ch21
+Lithuanian_ST,lith1251,xd573,Ch9
+Lusatian_L,lowe1385,,
+Lusatian_U,uppe1395,,
+Luvian,hier1240,,
+Luxembourgish,luxe1241,,
+Lycian,mily1238,,
+Macedonian,mace1250,,
+Marathi,mara1378,,
+Marwari,marw1260,,
+Nepali_List,east1436,,
+Old_Church_Slavonic,chur1257,,
+Old_English,olde1238,,
+Old_High_German,oldh1241,,
+Old_Irish,oldi1245,,
+Old_Norse,oldn1244,,
+Old_Persian,oldp1254,,
+Old_Prussian,prus1238,,
+Oriya,nucl1284,xd683,Eg7
+Oscan,osca1245,,
+Persian_List,west2369,"xd608, xd605","Ea9, Ea6, SCCS58"
+Polish,poli1260,,
+Portuguese_ST,port1283,"xd529, xd539","Ce2, Cf4"
+Provencal,occi1239,,
+Riksmal,norw1258,,
+Romani,balk1252,,
+Romanian_List,roma1327,"xd547, xd563","Ch10, ch25"
+Romansh,roma1326,,
+Russian,russ1263,xd548,"Ch11, SCCS54"
+Sardinian_C,camp1261,,
+Sardinian_L,logu1236,,
+Sardinian_N,nuor1238,,
+Scots_Gaelic,scot1245,,
+Serbocroatian,serb1264,xd546,Ch1
+Sindhi,sind1272,xd596,Ea1
+Singhalese,sinh1246,xd692,Eh6
+Slovak,slov1269,,
+Slovenian,slov1268,,
+Spanish,stan1288,xd533,Ce6
+Swedish_List,swed1254,,
+Swedish_Up,swed1254,,
+Swedish_VL,swed1254,,
+Tadzik,taji1245,,
+Tocharian_A,tokh1242,,
+Tocharian_B,tokh1243,,
+Ukrainian,ukra1253,"xd571, xd557","Ch7, Ch2"
+Umbrian,umbr1253,,
+Urdu,urdu1245,,
+Vedic_Sanskrit,sans1269,xd665,Ef3
+Vlach,arom1237,,
+Wakhi,wakh1245,,
+Walloon,wall1255,xd545,Cg5
+Waziri,waci1238,,
+Welsh_C,wels1247,,
+Welsh_N,wels1247,,
