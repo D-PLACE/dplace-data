@@ -10,12 +10,14 @@ from clldutils.jsonlib import update
 
 from pydplace import geo
 from pydplace.utils import check_language_file
+from pydplace import glottolog
+
 
 @command()
 def ls(args):
-    t = Table('id', 'name', 'type')
+    t = Table('id', 'name', 'type', 'variables', 'societies')
     for ds in args.repos.datasets:
-        t.append([ds.id, ds.name, ds.type])
+        t.append([ds.id, ds.name, ds.type, len(ds.variables), len(ds.societies)])
     print(t.render(condensed=False, verbose=True))
 
 
@@ -24,8 +26,12 @@ def check(args):
     glottolog = {l.id: l for l in
                  args.repos.read_csv('csv', 'glottolog.csv', namedtuples=True)}
     # check datasets
+    socids = set()
     for ds in args.repos.datasets:
         for soc in ds.societies:
+            if soc.id in socids:
+                args.log.error('duplicate society ID: {0}'.format(soc.id))
+            socids.add(soc.id)
             label = '{0} society {1}'.format(ds.id, soc)
             if soc.glottocode not in glottolog:
                 args.log.warn('{0} without valid glottocode {1.glottocode}'.format(
@@ -47,10 +53,22 @@ def check(args):
                 except Exception as e:
                     args.log.warn('{0} - languages.csv: {1}'.format(label, e))
 
+
+@command(name='glottolog')
+def glottolog_(args):
+    """Update data derived from Glottolog
+
+    dplace glottolog PATH/TO/GLOTTOLOG/REPOS YEAR VERSION
+    """
+    year, version = args.args[1:3]
+    title = "Glottolog {0}".format(version)
+    glottolog.update(args.repos, args.args[0], year, title)
+
+
 @command()
 def tdwg(args):
     """
-    Assign socities to
+    Assign socities to TDWG regions
     """
     def isclose(a, b, rel_tol=1e-09, abs_tol=0.0):
         return abs(a-b) <= max(rel_tol * max(abs(a), abs(b)), abs_tol)
