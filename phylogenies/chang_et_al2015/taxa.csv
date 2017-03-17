@@ -1,0 +1,53 @@
+taxon,glottocode,xd_ids,soc_ids
+Adapazar,,,
+Ancient_Greek,anci1242,,
+Assamese,assa1263,,
+Avestan,aves1237,,
+Bengali,beng1280,xd664,Ef2
+Bihari,mait1250,xd662,Ef10
+Cagliari,camp1261,,
+Catalan,stan1289,,
+Classical_Armenian,clas1249,,
+Eastern_Armenian,east2283,,
+English,stan1293,"xd536, xd538","Cf1, Cf3"
+Faroese,faro1244,,
+French,stan1290,xd540,Cf5
+Friulian,friu1240,,
+German,stan1295,,
+Gothic,goth1244,,
+Gujarati,guja1252,xd671,Ef9
+Hindi,hind1269,,
+Hittite,hitt1242,,
+Icelandic,icel1247,xd542,Cg2
+Irish,iris1253,xd543,"Cg3, SCCS51"
+Italian,ital1282,,
+Kashmiri,kash1277,xd670,Ef8
+Ladin,ladi1250,,
+Lahnda,west2386,,
+Latin,lati1261,xd530,"Ce3, SCCS49"
+Luxembourgish,luxe1241,,
+Marathi,mara1378,,
+Modern_Greek,mode1248,xd534,Ce7
+Nepali,east1436,,
+Norwegian,norw1258,,
+Nuorese,nuor1238,,
+Old_Church_Slavic,chur1257,,
+Old_English,olde1238,,
+Old_High_German,oldh1241,,
+Old_Irish,oldi1245,,
+Old_West_Norse,oldn1244,,
+Oriya,nucl1284,xd683,Eg7
+Panjabi,panj1256,xd600,Ea13
+Portuguese,port1283,"xd529, xd539","Ce2, Cf4"
+Provencal,occi1239,,
+Romani,balk1252,,
+Romanian,roma1327,"xd547, xd563","Ch10, ch25"
+Romansh,roma1326,,
+Scots_Gaelic,scot1245,,
+Singhalese,sinh1246,xd692,Eh6
+Spanish,stan1288,xd533,Ce6
+Swiss_German,swis1247,,
+Tocharian_B,tokh1243,,
+Urdu,urdu1245,,
+Vedic_Sanskrit,sans1269,xd665,Ef3
+Walloon,wall1255,xd545,Cg5
