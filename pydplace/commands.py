@@ -8,6 +8,8 @@ from ete3 import Tree
 from clldutils.clilib import command, ParserError
 from clldutils.markup import Table
 from clldutils.jsonlib import update
+from clldutils.dsv import UnicodeWriter
+
 
 from pydplace import geo
 from pydplace import glottolog
@@ -110,3 +112,70 @@ def tdwg(args):
                             soc, region['properties']['REGION_NAM'], dist))
 
                 soc_tdwg[soc.id] = spec
+
+@command()
+def extract(args):
+    import argparse
+    parser = argparse.ArgumentParser(prog='extract')
+    parser.add_argument('filename', help='filename', default=None)
+    parser.add_argument('--dataset', help='dataset', default="EA")
+    parser.add_argument('--tree', help='tree', default='global.glotto.trees')
+    parser.add_argument('--variable', help='variable', default=None)
+    xargs = parser.parse_args(args.args)
+    
+    # get dataset
+    try:
+        ds = [_ for _ in args.repos.datasets if _.id == xargs.dataset][0]
+    except IndexError:
+        raise SystemExit("Failed to find Dataset %s" % xargs.dataset)
+    
+    # get trees
+    trees = {t.id: t for t in args.repos.trees + args.repos.phylogenies}
+    try:
+        tree = trees.get(xargs.tree)
+    except IndexError:
+        raise SystemExit("Failed to find Tree %s" % xargs.tree)
+    
+    # get variables
+    if xargs.variable:
+        variables = {v.id: v for v in ds.variables if v.id == xargs.variable}
+    else:
+        variables = {v.id: v for v in ds.variables}
+    variable_list = sorted(variables.keys())
+
+    # collect data
+    glottocodes = [t.glottocode for t in tree.taxa]
+    societies = {s.id: s for s in ds.societies if s.glottocode in glottocodes}
+    
+    # prefilter data to remove things we don't want -> speed up the next step
+    data = [d for d in ds.data if d.soc_id in societies and d.var_id in variable_list]
+    
+    with UnicodeWriter(f=xargs.filename) as out:
+        # header
+        header = [
+            'ID',
+            'XD_ID',
+            'Glottocode',
+            'Name',
+            'OriginalName',
+            'FocalYear',
+            'Latitude',
+            'Longitude',
+        ]
+        header.extend(variable_list)
+        out.writerow(header)
+        for s in societies:
+            sdata = {d.var_id: d for d in data if d.soc_id == s}
+            row = [
+                societies[s].id,
+                societies[s].xd_id,
+                societies[s].glottocode,
+                societies[s].pref_name_for_society,
+                societies[s].ORIG_name_and_ID_in_this_dataset,
+                societies[s].main_focal_year, 
+                societies[s].Lat,
+                societies[s].Long
+            ]
+            for v in variable_list:
+                row.append(sdata.get(v).code)
+            out.writerow(row)
