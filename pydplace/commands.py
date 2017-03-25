@@ -116,42 +116,46 @@ def tdwg(args):
 @command()
 def extract(args):
     import argparse
-    parser = argparse.ArgumentParser(prog='extract')
+    usage = """
+    dplace %(prog)s - extracts subsets of data for further processing.
+    
+    To filter societies:
+    
+    > dplace %(prog)s --society Cj4,Cj5,Cj6 output.csv
+
+    To filter societies on a given tree:
+    
+    > dplace %(prog)s --tree gray_et_al2009 output.csv
+    
+    To filter societies only from a given dataset:
+    
+    > dplace %(prog)s --dataset EA output.csv
+    """
+    parser = argparse.ArgumentParser(prog='extract', usage=usage)
     parser.add_argument('filename', help='filename', default=None)
-    parser.add_argument('--dataset', help='dataset', default="EA")
-    parser.add_argument('--tree', help='tree', default='global.glotto.trees')
-    parser.add_argument('--variable', help='variable', default=None)
+    parser.add_argument('--society', help='restrict to these society ids (x,y,z)', default=None)
+    parser.add_argument('--tree', help='restrict to this tree', default=None)
+    parser.add_argument('--dataset', help='restrict to these datasets (x,y,z)', default=None)
+    parser.add_argument('--variable', help='restrict to thes dataset (x,y,z)', default=None)
     xargs = parser.parse_args(args.args)
     
-    # get dataset
-    try:
-        ds = [_ for _ in args.repos.datasets if _.id == xargs.dataset][0]
-    except IndexError:
-        raise SystemExit("Failed to find Dataset %s" % xargs.dataset)
+    datasets = xargs.dataset.split(",") if xargs.dataset else None
+    variables = xargs.variable.split(",") if xargs.variable else None
+    societies = xargs.society.split(",") if xargs.society else None
     
-    # get trees
-    trees = {t.id: t for t in args.repos.trees + args.repos.phylogenies}
-    try:
-        tree = trees.get(xargs.tree)
-    except IndexError:
-        raise SystemExit("Failed to find Tree %s" % xargs.tree)
-    
-    # get variables
-    if xargs.variable:
-        variables = {v.id: v for v in ds.variables if v.id == xargs.variable}
-    else:
-        variables = {v.id: v for v in ds.variables}
-    variable_list = sorted(variables.keys())
-
-    # collect data
-    glottocodes = [t.glottocode for t in tree.taxa]
-    societies = {s.id: s for s in ds.societies if s.glottocode in glottocodes}
-    
-    # prefilter data to remove things we don't want -> speed up the next step
-    data = [d for d in ds.data if d.soc_id in societies and d.var_id in variable_list]
+    # get tree if given
+    if xargs.tree:
+        # get trees
+        trees = {t.id: t for t in args.repos.trees + args.repos.phylogenies}
+        try:
+            tree = trees.get(xargs.tree)
+        except IndexError:
+            raise SystemExit("Failed to find Tree %s" % xargs.tree)
+        societies = [
+            s for sublist in [t.soc_ids for t in tree.taxa] for s in sublist
+        ]
     
     with UnicodeWriter(f=xargs.filename) as out:
-        # header
         header = [
             'ID',
             'XD_ID',
@@ -161,21 +165,31 @@ def extract(args):
             'FocalYear',
             'Latitude',
             'Longitude',
+            'Variable',
+            'Value'
         ]
-        header.extend(variable_list)
         out.writerow(header)
-        for s in societies:
-            sdata = {d.var_id: d for d in data if d.soc_id == s}
+        
+        for record in args.repos.iter_data(
+            datasets=datasets, variables=variables, societies=societies):
+            
+            s = args.repos.societies.get(record.soc_id, None)
+            if s is None:
+                # we get these warnings as we are currently missing the SCCS
+                # and WNAI data
+                args.log.warn("Missing society definition for %s" % record.soc_id)
+                continue
+            
             row = [
-                societies[s].id,
-                societies[s].xd_id,
-                societies[s].glottocode,
-                societies[s].pref_name_for_society,
-                societies[s].ORIG_name_and_ID_in_this_dataset,
-                societies[s].main_focal_year, 
-                societies[s].Lat,
-                societies[s].Long
+                s.id,
+                s.xd_id,
+                s.glottocode,
+                s.pref_name_for_society,
+                s.ORIG_name_and_ID_in_this_dataset,
+                s.main_focal_year, 
+                s.Lat,
+                s.Long,
+                record.var_id,
+                record.code
             ]
-            for v in variable_list:
-                row.append(sdata.get(v).code)
             out.writerow(row)
