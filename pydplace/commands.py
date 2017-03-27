@@ -8,6 +8,8 @@ from ete3 import Tree
 from clldutils.clilib import command, ParserError
 from clldutils.markup import Table
 from clldutils.jsonlib import update
+from clldutils.dsv import UnicodeWriter
+
 
 from pydplace import geo
 from pydplace import glottolog
@@ -110,3 +112,84 @@ def tdwg(args):
                             soc, region['properties']['REGION_NAM'], dist))
 
                 soc_tdwg[soc.id] = spec
+
+@command()
+def extract(args):
+    import argparse
+    usage = """
+    dplace %(prog)s - extracts subsets of data for further processing.
+    
+    To filter societies:
+    
+    > dplace %(prog)s --society Cj4,Cj5,Cj6 output.csv
+
+    To filter societies on a given tree:
+    
+    > dplace %(prog)s --tree gray_et_al2009 output.csv
+    
+    To filter societies only from a given dataset:
+    
+    > dplace %(prog)s --dataset EA output.csv
+    """
+    parser = argparse.ArgumentParser(prog='extract', usage=usage)
+    parser.add_argument('filename', help='filename', default=None)
+    parser.add_argument('--society', help='restrict to these society ids (x,y,z)', default=None)
+    parser.add_argument('--tree', help='restrict to this tree', default=None)
+    parser.add_argument('--dataset', help='restrict to these datasets (x,y,z)', default=None)
+    parser.add_argument('--variable', help='restrict to thes dataset (x,y,z)', default=None)
+    xargs = parser.parse_args(args.args)
+    
+    datasets = xargs.dataset.split(",") if xargs.dataset else None
+    variables = xargs.variable.split(",") if xargs.variable else None
+    societies = xargs.society.split(",") if xargs.society else None
+    
+    # get tree if given
+    if xargs.tree:
+        # get trees
+        trees = {t.id: t for t in args.repos.trees + args.repos.phylogenies}
+        try:
+            tree = trees.get(xargs.tree)
+        except IndexError:
+            raise SystemExit("Failed to find Tree %s" % xargs.tree)
+        societies = [
+            s for sublist in [t.soc_ids for t in tree.taxa] for s in sublist
+        ]
+    
+    with UnicodeWriter(f=xargs.filename) as out:
+        header = [
+            'ID',
+            'XD_ID',
+            'Glottocode',
+            'Name',
+            'OriginalName',
+            'FocalYear',
+            'Latitude',
+            'Longitude',
+            'Variable',
+            'Value'
+        ]
+        out.writerow(header)
+        
+        for record in args.repos.iter_data(
+            datasets=datasets, variables=variables, societies=societies):
+            
+            s = args.repos.societies.get(record.soc_id, None)
+            if s is None:
+                # we get these warnings as we are currently missing the SCCS
+                # and WNAI data
+                args.log.warn("Missing society definition for %s" % record.soc_id)
+                continue
+            
+            row = [
+                s.id,
+                s.xd_id,
+                s.glottocode,
+                s.pref_name_for_society,
+                s.ORIG_name_and_ID_in_this_dataset,
+                s.main_focal_year, 
+                s.Lat,
+                s.Long,
+                record.var_id,
+                record.code
+            ]
+            out.writerow(row)
