@@ -1,0 +1,9 @@
+#NEXUS
+Begin taxa;
+
+bank1259
+;
+end;
+Begin trees;
+tree UNTITLED = (bank1259:3);
+end;

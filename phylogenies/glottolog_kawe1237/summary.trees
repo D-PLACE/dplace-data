@@ -1,0 +1,9 @@
+#NEXUS
+Begin taxa;
+
+aksa1237
+;
+end;
+Begin trees;
+tree UNTITLED = (aksa1237:4);
+end;

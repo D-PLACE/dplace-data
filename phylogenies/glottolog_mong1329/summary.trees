@@ -1,0 +1,18 @@
+#NEXUS
+Begin taxa;
+
+daur1238
+mogh1245
+oira1264
+tuuu1240
+khal1273
+kalm1243
+mong1331
+russ1264
+halh1238
+peri1253
+;
+end;
+Begin trees;
+tree UNTITLED = (daur1238:1,mogh1245:1,(((halh1238:1,peri1253:1)mong1331:1,russ1264:2)khal1273:1,kalm1243:2)oira1264:2,tuuu1240:3);
+end;

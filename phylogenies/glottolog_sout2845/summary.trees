@@ -1,0 +1,12 @@
+#NEXUS
+Begin taxa;
+
+ahkk1235
+dime1235
+aari1239
+hame1242
+;
+end;
+Begin trees;
+tree UNTITLED = ((aari1239:2,hame1242:2)ahkk1235:1,dime1235:1);
+end;

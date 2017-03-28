@@ -1,0 +1,10 @@
+#NEXUS
+Begin taxa;
+
+wapp1239
+yuki1243
+;
+end;
+Begin trees;
+tree UNTITLED = (wapp1239:1,yuki1243:1);
+end;

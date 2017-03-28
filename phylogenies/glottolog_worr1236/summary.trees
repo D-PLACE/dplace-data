@@ -1,0 +1,10 @@
+#NEXUS
+Begin taxa;
+
+wuna1249
+worr1237
+;
+end;
+Begin trees;
+tree UNTITLED = (wuna1249:2,worr1237:2);
+end;

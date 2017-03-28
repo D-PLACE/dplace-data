@@ -1,0 +1,28 @@
+#NEXUS
+Begin taxa;
+
+core1249
+cata1286
+mand1446
+miss1254
+miss1252
+dako1257
+winn1245
+omah1247
+crow1244
+hida1246
+assi1247
+siou1253
+hoch1243
+iowa1245
+omah1248
+ponc1241
+dako1258
+lako1247
+iowa1246
+otoo1241
+;
+end;
+Begin trees;
+tree UNTITLED = ((mand1446:1,((assi1247:1,(dako1258:1,lako1247:1)siou1253:1)dako1257:1,(hoch1243:1,(iowa1246:1,otoo1241:1)iowa1245:1)winn1245:1,(omah1248:1,ponc1241:1)omah1247:2)miss1254:1,(crow1244:1,hida1246:1)miss1252:1)core1249:1,cata1286:2);
+end;

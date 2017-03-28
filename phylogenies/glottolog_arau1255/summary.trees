@@ -1,0 +1,11 @@
+#NEXUS
+Begin taxa;
+
+molu1245
+pehu1241
+picu1247
+;
+end;
+Begin trees;
+tree UNTITLED = (molu1245:1,pehu1241:1,picu1247:1);
+end;

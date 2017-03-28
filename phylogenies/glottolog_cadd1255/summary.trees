@@ -1,0 +1,14 @@
+#NEXUS
+Begin taxa;
+
+cadd1256
+nort2950
+wich1260
+pawn1253
+arik1262
+pawn1254
+;
+end;
+Begin trees;
+tree UNTITLED = (cadd1256:1,(wich1260:1,(arik1262:1,pawn1254:1)pawn1253:2)nort2950:1);
+end;

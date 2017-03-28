@@ -179,23 +179,16 @@ class Phylogeny(ObjectWithSource, WithNexusTreesMixin):
     scaling = attr.ib()
 
     @property
+    def is_glottolog(self):
+        return self.id.startswith('glottolog_')
+
+    @property
     def trees(self):
         return self.dir.joinpath('summary.trees')
 
     @property
-    def xdid_socid_links(self):
-        return list(reader(self.dir.joinpath('xdid_socid_links.csv'), dicts=True))
-
-    @property
     def taxa(self):
         return [Taxon(**d) for d in reader(self.dir.joinpath('taxa.csv'), dicts=True)]
-
-
-@attr.s
-class Tree(ObjectWithSource, WithNexusTreesMixin):
-    @property
-    def trees(self):
-        return self.dir
 
 
 class Repos(object):
@@ -207,9 +200,6 @@ class Repos(object):
         self.phylogenies = [
             Phylogeny(base_dir=self.dir.joinpath('phylogenies'), **r) for r in
             reader(self.dir.joinpath('phylogenies', 'index.csv'), dicts=True)]
-        self.trees = [
-            Tree(base_dir=self.dir.joinpath('trees'), **r) for r in
-            reader(self.dir.joinpath('trees', 'index.csv'), dicts=True)]
         self.societies = {
             s.id: s for s in chain.from_iterable(d.societies for d in self.datasets)
         }
@@ -235,4 +225,3 @@ class Repos(object):
                     if societies and record.soc_id not in societies:
                         continue
                     yield record
-    

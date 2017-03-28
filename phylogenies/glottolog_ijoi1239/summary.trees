@@ -1,0 +1,9 @@
+#NEXUS
+Begin taxa;
+
+kala1381
+;
+end;
+Begin trees;
+tree UNTITLED = (kala1381:6);
+end;

@@ -1,0 +1,37 @@
+#NEXUS
+Begin taxa;
+
+bell1243
+cent2129
+inte1241
+till1254
+coas1311
+clal1241
+como1259
+halk1245
+squa1248
+twan1247
+sout2965
+lumm1243
+nort2948
+sout1559
+lowe1427
+quin1251
+isla1276
+slia1241
+chil1281
+cowi1241
+lill1248
+shus1248
+thom1243
+coeu1236
+okan1243
+wena1241
+kali1309
+sanp1257
+sout2963
+;
+end;
+Begin trees;
+tree UNTITLED = (bell1243:1,(clal1241:1,(isla1276:1,slia1241:1)como1259:1,(chil1281:1,cowi1241:1)halk1245:1,squa1248:1,twan1247:1,sout2965:2,lumm1243:2)cent2129:1,((lill1248:1,shus1248:1,thom1243:1)nort2948:1,(coeu1236:1,(sanp1257:1,sout2963:1)okan1243:1,wena1241:2,kali1309:3)sout1559:1)inte1241:1,till1254:1,(lowe1427:1,quin1251:1)coas1311:2);
+end;

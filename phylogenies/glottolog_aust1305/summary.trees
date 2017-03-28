@@ -1,0 +1,34 @@
+#NEXUS
+Begin taxa;
+
+khas1273
+cent1987
+east2333
+cent1989
+mlab1235
+kher1245
+carn1240
+viet1251
+pala1352
+khas1269
+kens1248
+sema1266
+nucl1298
+sout2688
+mund1336
+sant1410
+viet1252
+muon1246
+east2331
+shwe1236
+birh1242
+homu1234
+lame1256
+west2396
+hooo1248
+mund1320
+;
+end;
+Begin trees;
+tree UNTITLED = ((((lame1256:1,west2396:4)east2331:1,shwe1236:3)pala1352:1,khas1269:4)khas1273:1,(kens1248:4,sema1266:2)cent1987:2,east2333:5,(nucl1298:1,sout2688:1)cent1989:2,mlab1235:2,((birh1242:1,(hooo1248:1,mund1320:1)homu1234:1)mund1336:1,sant1410:2)kher1245:3,carn1240:2,(viet1252:1,muon1246:2)viet1251:2);
+end;

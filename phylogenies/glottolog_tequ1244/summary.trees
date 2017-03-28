@@ -1,0 +1,9 @@
+#NEXUS
+Begin taxa;
+
+high1242
+;
+end;
+Begin trees;
+tree UNTITLED = (high1242:2);
+end;

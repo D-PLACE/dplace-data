@@ -1,0 +1,9 @@
+#NEXUS
+Begin taxa;
+
+port1278
+;
+end;
+Begin trees;
+tree UNTITLED = (port1278:2);
+end;

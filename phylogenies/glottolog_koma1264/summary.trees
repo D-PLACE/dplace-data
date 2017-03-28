@@ -1,0 +1,12 @@
+#NEXUS
+Begin taxa;
+
+beil1238
+chal1268
+koma1265
+koma1255
+;
+end;
+Begin trees;
+tree UNTITLED = (beil1238:1,chal1268:1,koma1265:1,koma1255:1);
+end;

@@ -1,0 +1,10 @@
+#NEXUS
+Begin taxa;
+
+chin1286
+wasc1239
+;
+end;
+Begin trees;
+tree UNTITLED = (chin1286:2,wasc1239:2);
+end;

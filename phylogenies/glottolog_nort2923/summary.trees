@@ -1,0 +1,11 @@
+#NEXUS
+Begin taxa;
+
+boan1244
+dodi1239
+nucl1628
+;
+end;
+Begin trees;
+tree UNTITLED = (boan1244:1,dodi1239:1,nucl1628:1);
+end;

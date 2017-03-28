@@ -1,0 +1,12 @@
+#NEXUS
+Begin taxa;
+
+cher1273
+nort2947
+sene1264
+wyan1247
+;
+end;
+Begin trees;
+tree UNTITLED = (cher1273:1,(sene1264:1,wyan1247:1)nort2947:1);
+end;

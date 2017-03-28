@@ -1,0 +1,14 @@
+#NEXUS
+Begin taxa;
+
+nezp1238
+saha1240
+sout1502
+nucl1237
+teni1238
+umat1237
+;
+end;
+Begin trees;
+tree UNTITLED = (nezp1238:1,((teni1238:1,umat1237:1)sout1502:1,nucl1237:3)saha1240:1);
+end;

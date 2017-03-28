@@ -1,0 +1,12 @@
+#NEXUS
+Begin taxa;
+
+gawi1240
+hali1245
+sout2944
+tuge1242
+;
+end;
+Begin trees;
+tree UNTITLED = (gawi1240:1,hali1245:1,sout2944:1,tuge1242:1);
+end;

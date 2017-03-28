@@ -1,0 +1,10 @@
+#NEXUS
+Begin taxa;
+
+hokk1243
+tara1248
+;
+end;
+Begin trees;
+tree UNTITLED = (hokk1243:1,tara1248:1);
+end;

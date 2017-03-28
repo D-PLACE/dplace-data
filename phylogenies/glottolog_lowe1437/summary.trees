@@ -1,0 +1,9 @@
+#NEXUS
+Begin taxa;
+
+tang1355
+;
+end;
+Begin trees;
+tree UNTITLED = (tang1355:5);
+end;

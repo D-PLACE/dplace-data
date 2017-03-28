@@ -1,0 +1,12 @@
+#NEXUS
+Begin taxa;
+
+chuk1272
+itel1242
+chuk1273
+kory1246
+;
+end;
+Begin trees;
+tree UNTITLED = ((chuk1273:1,kory1246:1)chuk1272:1,itel1242:1);
+end;

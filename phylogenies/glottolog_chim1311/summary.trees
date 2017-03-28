@@ -1,0 +1,10 @@
+#NEXUS
+Begin taxa;
+
+hohh1236
+nucl1246
+;
+end;
+Begin trees;
+tree UNTITLED = (hohh1236:1,nucl1246:1);
+end;

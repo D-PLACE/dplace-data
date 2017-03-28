@@ -1,0 +1,12 @@
+#NEXUS
+Begin taxa;
+
+ifig1238
+kafa1243
+kutu1266
+mubi1239
+;
+end;
+Begin trees;
+tree UNTITLED = (ifig1238:1,kafa1243:1,kutu1266:1,mubi1239:1);
+end;
