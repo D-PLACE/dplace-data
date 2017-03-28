@@ -33,10 +33,18 @@ def write_tree(tree, fname, taxa_in_dplace, societies_by_glottocode):
         handle.write(NEXUS_TEMPLATE.format(
             '\n'.join(l.name for l in tree.traverse()), tree.write(format=3)))
     with UnicodeWriter(fname.joinpath('taxa.csv')) as writer:
-        writer.writerow(['taxon', 'glottocode', 'xd_ids', 'soc_ids'])
+        writer.writerow([
+            'taxon',
+            'glottocode',
+            'xd_ids',
+            'soc_ids'])
         for gc in sorted(taxa_in_dplace):
-            writer.writerow(
-                [gc, gc, '', ', '.join(s.id for s in societies_by_glottocode[gc])])
+            socs = societies_by_glottocode[gc]
+            writer.writerow([
+                gc,
+                gc,
+                ', '.join(set(s.xd_id for s in socs)),
+                ', '.join(s.id for s in socs)])
     return tree
 
 

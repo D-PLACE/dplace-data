@@ -1,18 +1,18 @@
 taxon,glottocode,xd_ids,soc_ids
-birh1242,birh1242,,B18
-carn1240,carn1240,,Eh5
-east2333,east2333,,Ej2
-hooo1248,hooo1248,,Ef4
-kens1248,kens1248,,"B9, Ej3"
-khas1269,khas1269,,Ei8
-lame1256,lame1256,,Ej1
-mlab1235,mlab1235,,B16
-mund1320,mund1320,,Eg8
-muon1246,muon1246,,Ej13
-nucl1298,nucl1298,,Ej15
-sant1410,sant1410,,Ef1
-sema1266,sema1266,,Ej14
-shwe1236,shwe1236,,Ei18
-sout2688,sout2688,,Ej5
-viet1252,viet1252,,Ej4
-west2396,west2396,,Ej12
+birh1242,birh1242,xd911,B18
+carn1240,carn1240,xd691,Eh5
+east2333,east2333,xd724,Ej2
+hooo1248,hooo1248,xd666,Ef4
+kens1248,kens1248,xd725,"B9, Ej3"
+khas1269,khas1269,xd714,Ei8
+lame1256,lame1256,xd716,Ej1
+mlab1235,mlab1235,xd909,B16
+mund1320,mund1320,xd684,Eg8
+muon1246,muon1246,xd720,Ej13
+nucl1298,nucl1298,xd722,Ej15
+sant1410,sant1410,xd661,Ef1
+sema1266,sema1266,xd721,Ej14
+shwe1236,shwe1236,xd705,Ei18
+sout2688,sout2688,xd727,Ej5
+viet1252,viet1252,xd726,Ej4
+west2396,west2396,xd719,Ej12

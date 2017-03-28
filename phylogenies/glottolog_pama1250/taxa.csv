@@ -1,41 +1,41 @@
 taxon,glottocode,xd_ids,soc_ids
-alya1239,alya1239,,B117
-band1339,band1339,,B119
-darl1243,darl1243,,B128
-dhuw1249,dhuw1249,,"Id2, B88"
-dier1241,dier1241,,"Id4, B121"
-djab1234,djab1234,,B133
-djin1252,djin1252,,B85
-east2379,east2379,,"Id1, B124"
-flin1247,flin1247,,B98
-gami1243,gami1243,,B125
-gana1278,gana1278,,B135
-jaru1254,jaru1254,,B108
-jirj1239,jirj1239,,"Id12, B94"
-kala1377,kala1377,,B82
-kara1476,kara1476,,B104
-kari1304,kari1304,,"B106, Id5"
-karr1236,karr1236,,B116
-kaur1267,kaur1267,,B129
-kuku1273,kuku1273,,B96
-lowe1436,lowe1436,,B122
-mamu1253,mamu1253,,B105
-mart1256,mart1256,,B111
-narr1259,narr1259,,B131
-ngaa1240,ngaa1240,,B118
-ngad1258,ngad1258,,B132
-ngad1260,ngad1260,,B110
-pint1250,pint1250,,B113
-pitj1243,pitj1243,,B120
-umpi1239,umpi1239,,B93
-waka1274,waka1274,,B114
-wang1291,wang1291,,"B130, Id9"
-wanm1242,wanm1242,,B112
-warl1254,warl1254,,"B109, Id10"
-waru1264,waru1264,,B107
-wati1241,wati1241,,B126
-wikm1247,wikm1247,,"Id6, B90"
-wira1265,wira1265,,B127
-woiw1237,woiw1237,,B134
-yaga1256,yaga1256,,B115
-yank1247,yank1247,,B123
+alya1239,alya1239,xd964,B117
+band1339,band1339,xd966,B119
+darl1243,darl1243,xd973,B128
+dhuw1249,dhuw1249,xd777,"Id2, B88"
+dier1241,dier1241,xd779,"Id4, B121"
+djab1234,djab1234,xd977,B133
+djin1252,djin1252,xd940,B85
+east2379,east2379,xd772,"Id1, B124"
+flin1247,flin1247,xd947,B98
+gami1243,gami1243,xd970,B125
+gana1278,gana1278,xd979,B135
+jaru1254,jaru1254,xd956,B108
+jirj1239,jirj1239,xd775,"Id12, B94"
+kala1377,kala1377,xd937,B82
+kara1476,kara1476,xd953,B104
+kari1304,kari1304,xd780,"B106, Id5"
+karr1236,karr1236,xd963,B116
+kaur1267,kaur1267,xd974,B129
+kuku1273,kuku1273,xd946,B96
+lowe1436,lowe1436,xd968,B122
+mamu1253,mamu1253,xd954,B105
+mart1256,mart1256,xd958,B111
+narr1259,narr1259,xd975,B131
+ngaa1240,ngaa1240,xd965,B118
+ngad1258,ngad1258,xd976,B132
+ngad1260,ngad1260,xd957,B110
+pint1250,pint1250,xd960,B113
+pitj1243,pitj1243,xd967,B120
+umpi1239,umpi1239,xd945,B93
+waka1274,waka1274,xd961,B114
+wang1291,wang1291,xd784,"B130, Id9"
+wanm1242,wanm1242,xd959,B112
+warl1254,warl1254,xd773,"B109, Id10"
+waru1264,waru1264,xd955,B107
+wati1241,wati1241,xd971,B126
+wikm1247,wikm1247,xd781,"Id6, B90"
+wira1265,wira1265,xd972,B127
+woiw1237,woiw1237,xd978,B134
+yaga1256,yaga1256,xd962,B115
+yank1247,yank1247,xd969,B123
