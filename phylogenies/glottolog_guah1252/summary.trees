@@ -1,0 +1,11 @@
+#NEXUS
+Begin taxa;
+
+amor1238
+nucl1665
+tigr1254
+;
+end;
+Begin trees;
+tree UNTITLED = (amor1238:1,nucl1665:1,tigr1254:1);
+end;

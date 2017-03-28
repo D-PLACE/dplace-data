@@ -1,0 +1,25 @@
+#NEXUS
+Begin taxa;
+
+core1254
+huas1242
+quic1274
+west2865
+yuca1253
+grea1276
+mamm1241
+chol1286
+popt1235
+laca1243
+yuca1254
+core1251
+poqo1253
+chor1273
+tzel1254
+kaqc1270
+kich1262
+;
+end;
+Begin trees;
+tree UNTITLED = (((((kaqc1270:2,kich1262:2)core1251:1,poqo1253:2)grea1276:1,mamm1241:3)quic1274:1,((chor1273:3,tzel1254:2)chol1286:1,popt1235:4)west2865:1,(laca1243:1,yuca1254:1)yuca1253:2)core1254:1,huas1242:2);
+end;

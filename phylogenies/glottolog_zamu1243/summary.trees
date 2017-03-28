@@ -1,0 +1,10 @@
+#NEXUS
+Begin taxa;
+
+cham1316
+ebit1237
+;
+end;
+Begin trees;
+tree UNTITLED = (cham1316:1,ebit1237:1);
+end;

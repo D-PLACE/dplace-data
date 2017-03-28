@@ -1,0 +1,9 @@
+#NEXUS
+Begin taxa;
+
+lenc1242
+;
+end;
+Begin trees;
+tree UNTITLED = (lenc1242:2);
+end;

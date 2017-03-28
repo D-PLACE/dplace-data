@@ -1,0 +1,12 @@
+#NEXUS
+Begin taxa;
+
+wubu1239
+gunw1252
+anin1240
+nung1290
+;
+end;
+Begin trees;
+tree UNTITLED = ((anin1240:1,nung1290:1)wubu1239:2,gunw1252:3);
+end;

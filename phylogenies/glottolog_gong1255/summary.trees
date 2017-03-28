@@ -1,0 +1,20 @@
+#NEXUS
+Begin taxa;
+
+gong1256
+omet1238
+yems1235
+anfi1235
+kafa1242
+nort3161
+koor1239
+fuga1235
+toba1264
+bask1236
+male1284
+dorz1235
+;
+end;
+Begin trees;
+tree UNTITLED = ((anfi1235:1,kafa1242:2)gong1256:1,((bask1236:1,male1284:1,dorz1235:2)nort3161:1,koor1239:2)omet1238:1,(fuga1235:1,toba1264:1)yems1235:1);
+end;

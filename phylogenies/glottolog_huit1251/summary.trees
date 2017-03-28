@@ -1,0 +1,9 @@
+#NEXUS
+Begin taxa;
+
+mica1243
+;
+end;
+Begin trees;
+tree UNTITLED = (mica1243:5);
+end;

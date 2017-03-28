@@ -1,0 +1,9 @@
+#NEXUS
+Begin taxa;
+
+kima1246
+;
+end;
+Begin trees;
+tree UNTITLED = (kima1246:3);
+end;

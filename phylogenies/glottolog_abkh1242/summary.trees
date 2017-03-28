@@ -1,0 +1,10 @@
+#NEXUS
+Begin taxa;
+
+abkh1244
+kaba1278
+;
+end;
+Begin trees;
+tree UNTITLED = (abkh1244:2,kaba1278:2);
+end;

@@ -1,0 +1,9 @@
+#NEXUS
+Begin taxa;
+
+piar1243
+;
+end;
+Begin trees;
+tree UNTITLED = (piar1243:4);
+end;

@@ -1,0 +1,9 @@
+#NEXUS
+Begin taxa;
+
+yagu1244
+;
+end;
+Begin trees;
+tree UNTITLED = (yagu1244:2);
+end;

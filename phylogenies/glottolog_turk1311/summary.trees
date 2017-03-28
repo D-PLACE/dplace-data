@@ -1,0 +1,28 @@
+#NEXUS
+Begin taxa;
+
+comm1245
+chuv1255
+yaku1245
+oghu1243
+kipc1239
+west2406
+turk1304
+qash1240
+nort2690
+nort2696
+west1472
+kaza1248
+gaga1249
+nucl1301
+bash1264
+tata1255
+kara1464
+kumy1244
+midd1325
+west2405
+;
+end;
+Begin trees;
+tree UNTITLED = ((yaku1245:2,(((bash1264:1,(midd1325:1,west2405:1)tata1255:1)nort2696:1,(kara1464:1,kumy1244:1)west1472:1,kaza1248:2)kipc1239:1,(gaga1249:1,nucl1301:2)west2406:1,turk1304:2,qash1240:2,nort2690:2)oghu1243:2)comm1245:1,chuv1255:2);
+end;

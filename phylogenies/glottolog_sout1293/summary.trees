@@ -1,0 +1,9 @@
+#NEXUS
+Begin taxa;
+
+sout1439
+;
+end;
+Begin trees;
+tree UNTITLED = (sout1439:2);
+end;

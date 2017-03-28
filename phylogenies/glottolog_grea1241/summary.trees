@@ -1,0 +1,9 @@
+#NEXUS
+Begin taxa;
+
+apuc1241
+;
+end;
+Begin trees;
+tree UNTITLED = (apuc1241:4);
+end;

@@ -1,0 +1,29 @@
+#NEXUS
+Begin taxa;
+
+finn1317
+hung1274
+samo1298
+khan1273
+mans1258
+east2328
+erzy1239
+udmu1245
+lule1254
+esto1258
+ingr1249
+veps1250
+livv1243
+livv1244
+ngan1291
+nene1249
+selk1253
+nort2676
+sout2681
+ingr1248
+voti1245
+;
+end;
+Begin trees;
+tree UNTITLED = ((esto1258:1,(ingr1248:1,voti1245:1)ingr1249:1,veps1250:1,livv1243:2,livv1244:2)finn1317:1,hung1274:1,(ngan1291:1,nene1249:3,selk1253:2)samo1298:1,khan1273:4,mans1258:3,east2328:2,erzy1239:2,(nort2676:1,sout2681:1)udmu1245:2,lule1254:4);
+end;

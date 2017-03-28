@@ -1,0 +1,16 @@
+#NEXUS
+Begin taxa;
+
+nort2964
+sout2981
+hais1244
+kwak1268
+maka1318
+nuuc1236
+kwak1269
+bell1263
+;
+end;
+Begin trees;
+tree UNTITLED = ((hais1244:1,(kwak1269:1,bell1263:2)kwak1268:1)nort2964:1,(maka1318:1,nuuc1236:2)sout2981:1);
+end;

@@ -1,0 +1,10 @@
+#NEXUS
+Begin taxa;
+
+humb1243
+zarm1239
+;
+end;
+Begin trees;
+tree UNTITLED = (humb1243:1,zarm1239:2);
+end;

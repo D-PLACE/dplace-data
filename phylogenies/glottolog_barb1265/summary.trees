@@ -1,0 +1,9 @@
+#NEXUS
+Begin taxa;
+
+chac1249
+;
+end;
+Begin trees;
+tree UNTITLED = (chac1249:3);
+end;

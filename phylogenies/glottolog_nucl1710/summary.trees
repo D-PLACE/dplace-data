@@ -1,0 +1,19 @@
+#NEXUS
+Begin taxa;
+
+jeee1236
+kara1500
+kren1239
+jece1235
+jese1235
+xokl1240
+acro1239
+xava1240
+xere1240
+apin1244
+cane1242
+;
+end;
+Begin trees;
+tree UNTITLED = (((acro1239:1,xava1240:1,xere1240:1)jece1235:1,(apin1244:1,cane1242:3)jese1235:1,xokl1240:3)jeee1236:1,kara1500:1,kren1239:2);
+end;

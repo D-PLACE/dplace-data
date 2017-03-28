@@ -1,0 +1,9 @@
+#NEXUS
+Begin taxa;
+
+furr1244
+;
+end;
+Begin trees;
+tree UNTITLED = (furr1244:2);
+end;

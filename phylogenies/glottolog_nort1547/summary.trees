@@ -1,0 +1,9 @@
+#NEXUS
+Begin taxa;
+
+mull1237
+;
+end;
+Begin trees;
+tree UNTITLED = (mull1237:2);
+end;

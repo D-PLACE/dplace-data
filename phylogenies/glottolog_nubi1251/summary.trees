@@ -1,0 +1,12 @@
+#NEXUS
+Begin taxa;
+
+cent2232
+mido1240
+kenu1236
+dill1242
+;
+end;
+Begin trees;
+tree UNTITLED = ((kenu1236:1,dill1242:3)cent2232:1,mido1240:1);
+end;

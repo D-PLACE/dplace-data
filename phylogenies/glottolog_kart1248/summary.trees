@@ -1,0 +1,12 @@
+#NEXUS
+Begin taxa;
+
+svan1243
+nucl1302
+imer1248
+xevs1238
+;
+end;
+Begin trees;
+tree UNTITLED = (svan1243:1,(imer1248:1,xevs1238:1)nucl1302:3);
+end;

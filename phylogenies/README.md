@@ -3,9 +3,10 @@ Phylogenies
 
 Each directory within the phylogenies subdirectory contains the following:
 
-1. original/ -- a directory storing the original tree files.
+1. original/ -- a directory storing the original tree files. Note: For programmatically
+   created phylogenies like the ones from Glottolog, this directory is not present.
 
-2. taxa.csv -- a csv file linking the taxon labels in original/ to their correct glottocodes and xd_ids and society ids:
+2. taxa.csv -- a csv file linking the taxon labels in `summary.trees` to their correct glottocodes and xd_ids and society ids:
 
     taxon	glottocode	xd_ids	soc_ids
 

@@ -1,0 +1,12 @@
+#NEXUS
+Begin taxa;
+
+ahei1238
+dalo1239
+masa1302
+masa1303
+;
+end;
+Begin trees;
+tree UNTITLED = (ahei1238:1,dalo1239:1,masa1302:1,masa1303:1);
+end;

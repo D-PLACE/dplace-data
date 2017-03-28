@@ -1,0 +1,10 @@
+#NEXUS
+Begin taxa;
+
+dzuo1238
+noga1250
+;
+end;
+Begin trees;
+tree UNTITLED = (dzuo1238:1,noga1250:1);
+end;

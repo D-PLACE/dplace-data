@@ -1,0 +1,11 @@
+#NEXUS
+Begin taxa;
+
+itum1244
+melk1240
+plos1238
+;
+end;
+Begin trees;
+tree UNTITLED = (itum1244:1,melk1240:1,plos1238:1);
+end;

@@ -1,0 +1,12 @@
+#NEXUS
+Begin taxa;
+
+boig1238
+bugl1238
+bulg1264
+tago1247
+;
+end;
+Begin trees;
+tree UNTITLED = (boig1238:1,bugl1238:1,bulg1264:1,tago1247:1);
+end;
