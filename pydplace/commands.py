@@ -123,6 +123,7 @@ def tdwg(args):
 
                 soc_tdwg[soc.id] = spec
 
+
 @command()
 def extract(args):
     import argparse
