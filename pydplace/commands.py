@@ -4,6 +4,7 @@ from __future__ import unicode_literals, print_function, division
 import fiona
 from shapely.geometry import Point
 from ete3 import Tree
+from ete3.parser.newick import NewickError
 
 from clldutils.clilib import command, ParserError
 from clldutils.markup import Table
@@ -55,16 +56,21 @@ def check(args):
     for p in args.repos.phylogenies:
         for taxon in p.taxa:
             if taxon.glottocode and taxon.glottocode not in glottolog:
-                args.log.error('{0}: invalid glottocode {1}'.format(p, taxon.glottocode))
+                args.log.error('{0}: invalid glottocode {1}'.format(p.id, taxon.glottocode))
             for socid in taxon.soc_ids:
                 if socid not in socids:
-                    args.log.error('{0}: invalid soc_id {1}'.format(p, socid))
+                    args.log.error('{0}: invalid soc_id {1}'.format(p.id, socid))
             for xdid in taxon.xd_ids:
                 if xdid not in xdids:
-                    args.log.error('{0}: invalid xd_id {1}'.format(p, xdid))
+                    args.log.error('{0}: invalid xd_id {1}'.format(p.id, xdid))
         
-        assert p.nexus
+        if not p.nexus:
+            args.log.error('{0}: unable to load summary.trees'.format(p.id))
         
+        try:
+            Tree(p.newick)
+        except NewickError:
+            args.log.error('{0}: invalid newick tree from summary.trees'.format(p.id))
 
 
 @command(name='glottolog')
