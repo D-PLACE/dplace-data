@@ -68,9 +68,9 @@ def check(args):
             args.log.error('{0}: unable to load summary.trees'.format(p.id))
         
         try:
-            Tree(p.newick)
-        except NewickError:
-            args.log.error('{0}: invalid newick tree from summary.trees'.format(p.id))
+            Tree(p.newick, format=1)
+        except NewickError as e:
+            args.log.error('{0}: invalid newick tree from summary.trees: {1}'.format(p.id, e))
 
 
 @command(name='glottolog')
