@@ -158,7 +158,10 @@ class Taxon(object):
     soc_ids = attr.ib(convert=comma_split)
 
 
-class WithNexusTreesMixin(object):
+@attr.s
+class Phylogeny(ObjectWithSource):
+    scaling = attr.ib()
+
     @property
     def nexus(self):
         return NexusReader(self.trees.as_posix())
@@ -172,11 +175,6 @@ class WithNexusTreesMixin(object):
             return newick[newick.index('=') + 1:]
         except ValueError:  # pragma: no cover
             return newick
-
-
-@attr.s
-class Phylogeny(ObjectWithSource, WithNexusTreesMixin):
-    scaling = attr.ib()
 
     @property
     def is_glottolog(self):

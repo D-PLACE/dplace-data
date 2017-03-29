@@ -42,11 +42,16 @@ def check(args):
             elif glottolog[soc.glottocode].family_name == 'Bookkeeping':
                 args.log.warn('{0} mapped to Bookkeeping language: {1.glottocode}'.format(
                     label, soc))
+        # are there duplicate variables?
         for var in ds.variables:
             if var.id in varids:
                 args.log.error('duplicate variable ID: {0}'.format(var.id))
             varids.add(var.id)
-
+        # are there undefined variables?
+        undefined = set([r.var_id for r in ds.data if r.var_id not in varids])
+        for u in undefined:
+            args.log.error('undefined variable ID: {0}'.format(u))
+        
     for p in args.repos.phylogenies:
         for taxon in p.taxa:
             if taxon.glottocode and taxon.glottocode not in glottolog:
@@ -57,7 +62,9 @@ def check(args):
             for xdid in taxon.xd_ids:
                 if xdid not in xdids:
                     args.log.error('{0}: invalid xd_id {1}'.format(p, xdid))
-            assert p.nexus
+        
+        assert p.nexus
+        
 
 
 @command(name='glottolog')
