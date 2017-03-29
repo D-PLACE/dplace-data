@@ -59,9 +59,6 @@ def check(args):
                     args.log.error('{0}: invalid xd_id {1}'.format(p, xdid))
             assert p.nexus
 
-    for t in args.repos.trees:
-        assert Tree(t.newick, format=1)
-
 
 @command(name='glottolog')
 def glottolog_(args):
