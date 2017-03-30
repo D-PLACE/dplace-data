@@ -7,6 +7,7 @@ from ete3 import Tree
 from ete3.parser.newick import NewickError
 
 from clldutils.clilib import command, ParserError
+from clldutils.path import write_text
 from clldutils.markup import Table
 from clldutils.jsonlib import update
 from clldutils.dsv import UnicodeWriter
@@ -14,6 +15,21 @@ from clldutils.dsv import UnicodeWriter
 
 from pydplace import geo
 from pydplace import glottolog
+
+
+@command()
+def readme(args):
+    md = ['# Sources', '']
+    for datatype in ['datasets', 'phylogenies']:
+        md.append('\n## {0}\n'.format(datatype.capitalize()))
+        t = Table('Name', 'Reference')
+        for obj in getattr(args.repos, datatype):
+            if not obj.id.startswith('glottolog_') or obj.id == 'glottolog_global':
+                t.append([
+                    '[{0}]({1}/{2})'.format(obj.name, datatype, obj.id),
+                    obj.reference])
+        md.append(t.render(condensed=False))
+    write_text(args.repos.dir.joinpath('SOURCES.md'), '\n'.join(md))
 
 
 @command()

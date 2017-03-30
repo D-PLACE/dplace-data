@@ -28,6 +28,14 @@ updated as well. To do this, run
 dplace tdwg
 ```
 
+## Update the list of sources
+
+We make the sources of our data transparent by extracting the information from the
+index files into [`SOURCES.md`](SOURCES.md). This is done running
+```
+dplace readme
+```
+
 
 ## Create a release
 
