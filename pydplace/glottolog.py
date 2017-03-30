@@ -149,5 +149,5 @@ def update(repos, gl_repos, year, title):
             sorted(repos.societies.values(), key=lambda s: s.glottocode),
             lambda s: s.glottocode)}
     langs = list(Glottolog(gl_repos).languoids())
-    #languoids(langs, repos.dir)
+    languoids(langs, repos.dir)
     trees(societies_by_glottocode, langs, repos.dir, year, title)
