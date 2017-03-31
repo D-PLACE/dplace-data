@@ -173,7 +173,7 @@ def extract(args):
     # get tree if given
     if xargs.tree:
         # get trees
-        trees = {t.id: t for t in args.repos.trees + args.repos.phylogenies}
+        trees = {t.id: t for t in args.repos.phylogenies}
         try:
             tree = trees.get(xargs.tree)
         except IndexError:
