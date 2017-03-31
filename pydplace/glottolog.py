@@ -67,7 +67,7 @@ def trees(societies_by_glottocode, langs, outdir, year, title):
                 families.append(lang)
         languoids[lang.id] = lang
 
-    glob = []
+    glob = Tree()
     for family in families:
         node = family.newick_node(nodes=languoids)
         node.visit(rename)
@@ -86,7 +86,6 @@ def trees(societies_by_glottocode, langs, outdir, year, title):
                 outdir.joinpath(fname),
                 taxa_in_dplace,
                 societies_by_glottocode)
-            glob.append(tree.write(format=3)[:-1])
             glottocodes_in_global_tree = glottocodes_in_global_tree.union(
                 set(n.name for n in tree.traverse()))
             index[fname] = dict(
@@ -97,12 +96,13 @@ def trees(societies_by_glottocode, langs, outdir, year, title):
                 scaling='',
                 reference=reference(title, year))
         else:
-            glob.append(newick[:-1])
             glottocodes_in_global_tree = glottocodes_in_global_tree.union(taxa_in_tree)
+        glob.add_child(tree)
 
     fname = 'glottolog_global'
+    
     write_tree(
-        Tree("({0});".format(','.join(glob)), format=3),
+        glob,
         outdir.joinpath(fname),
         glottocodes_in_global_tree.intersection(glottocodes),
         societies_by_glottocode)
