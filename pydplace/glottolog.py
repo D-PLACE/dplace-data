@@ -134,7 +134,7 @@ def trees(societies_by_glottocode, langs, outdir, year, title):
 def languoids(langs, outdir):
     with UnicodeWriter(outdir.joinpath('csv', 'glottolog.csv')) as writer:
         writer.writerow(['id', 'name', 'family_id', 'family_name', 'iso_code'])
-        for lang in langs:
+        for lang in sorted(langs):
             writer.writerow([
                 lang.id,
                 lang.name,
