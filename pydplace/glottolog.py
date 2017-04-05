@@ -12,7 +12,7 @@ from pyglottolog.api import Glottolog
 
 NEXUS_TEMPLATE = """#NEXUS
 Begin trees;
-    tree UNTITLED = {1}
+    tree UNTITLED = {}
 end;
 """
 
