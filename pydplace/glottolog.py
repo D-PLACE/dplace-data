@@ -10,7 +10,8 @@ from clldutils.dsv import UnicodeWriter, reader
 from ete3 import Tree
 from pyglottolog.api import Glottolog
 
-NEXUS_TEMPLATE = """#NEXUS\nBegin taxa;
+NEXUS_TEMPLATE = """#NEXUS
+Begin taxa;
 {0}
 ;
 end;
