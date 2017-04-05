@@ -11,13 +11,10 @@ from ete3 import Tree
 from pyglottolog.api import Glottolog
 
 NEXUS_TEMPLATE = """#NEXUS
-Begin taxa;
-{0}
-;
-end;
 Begin trees;
-tree UNTITLED = {1}
-end;"""
+    tree UNTITLED = {1}
+end;
+"""
 
 
 def reference(title, year):
@@ -30,9 +27,10 @@ def write_tree(tree, fname, taxa_in_dplace, societies_by_glottocode):
     if not fname.exists():
         fname.mkdir()
     tree.prune([n.encode('ascii') for n in taxa_in_dplace], preserve_branch_length=True)
+    
     with fname.joinpath('summary.trees').open('w', encoding="utf-8") as handle:
-        handle.write(NEXUS_TEMPLATE.format(
-            '\n'.join(l.name for l in tree.traverse()), tree.write(format=3)))
+        handle.write(NEXUS_TEMPLATE.format(tree.write(format=3))
+    
     with UnicodeWriter(fname.joinpath('taxa.csv')) as writer:
         writer.writerow([
             'taxon',
