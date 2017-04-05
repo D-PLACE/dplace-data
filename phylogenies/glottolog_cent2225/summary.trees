@@ -1,31 +1,4 @@
 #NEXUS
-Begin taxa;
-
-mang1393
-moru1252
-sara1341
-lend1245
-mang1425
-lomb1254
-mang1394
-cent2043
-moru1253
-madi1260
-bong1285
-jurm1239
-sara1349
-lese1245
-mamv1243
-nucl1420
-popo1291
-logo1259
-lugb1240
-bagi1246
-sarr1246
-efee1239
-lese1243
-;
-end;
 Begin trees;
-tree UNTITLED = ((lomb1254:1,(nucl1420:1,popo1291:1)mang1394:2)mang1393:1,((logo1259:1,lugb1240:1)cent2043:1,moru1253:1,madi1260:2)moru1252:1,(bong1285:1,jurm1239:4,(bagi1246:2,sarr1246:3)sara1349:3)sara1341:1,lend1245:2,((efee1239:1,lese1243:1)lese1245:1,mamv1243:1)mang1425:2);
+    tree glottolog_cent2225 = ((lomb1254,(nucl1420,popo1291)),((logo1259,lugb1240),moru1253,madi1260),(bong1285,jurm1239,(bagi1246,sarr1246)),lend1245,((efee1239,lese1243),mamv1243));
 end;

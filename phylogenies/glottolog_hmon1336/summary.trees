@@ -1,10 +1,4 @@
 #NEXUS
-Begin taxa;
-
-nort2747
-kimm1245
-;
-end;
 Begin trees;
-tree UNTITLED = (nort2747:5,kimm1245:3);
+    tree glottolog_hmon1336 = (nort2747,kimm1245);
 end;

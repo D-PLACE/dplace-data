@@ -1,11 +1,4 @@
 #NEXUS
-Begin taxa;
-
-murr1260
-murr1261
-murr1259
-;
-end;
 Begin trees;
-tree UNTITLED = (murr1260:1,murr1261:1,murr1259:1);
+    tree glottolog_sout2772 = (murr1260,murr1261,murr1259);
 end;

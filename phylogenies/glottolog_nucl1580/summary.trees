@@ -1,9 +1,4 @@
 #NEXUS
-Begin taxa;
-
-orok1267
-;
-end;
 Begin trees;
-tree UNTITLED = (orok1267:3);
+    tree glottolog_nucl1580 = (orok1267);
 end;

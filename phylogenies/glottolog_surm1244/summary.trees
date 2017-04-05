@@ -1,12 +1,4 @@
 #NEXUS
-Begin taxa;
-
-past1248
-didi1258
-meen1242
-suri1267
-;
-end;
 Begin trees;
-tree UNTITLED = ((meen1242:1,suri1267:2)past1248:2,didi1258:4);
+    tree glottolog_surm1244 = ((meen1242,suri1267),didi1258);
 end;

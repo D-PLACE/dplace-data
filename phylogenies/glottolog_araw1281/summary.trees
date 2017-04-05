@@ -1,26 +1,4 @@
 #NEXUS
-Begin taxa;
-
-nort2990
-sout3131
-pare1272
-pali1279
-cari1281
-nucl1764
-wapi1253
-tere1279
-asha1243
-yine1238
-guaj1257
-araw1276
-tain1254
-gari1256
-curr1243
-piap1246
-para1316
-wayu1243
-;
-end;
 Begin trees;
-tree UNTITLED = ((((para1316:1,wayu1243:1)guaj1257:1,araw1276:1,tain1254:1,gari1256:2)cari1281:1,(curr1243:3,piap1246:2)nucl1764:3,wapi1253:3)nort2990:1,(tere1279:2,asha1243:5,yine1238:3)sout3131:1,pare1272:3,pali1279:2);
+    tree glottolog_araw1281 = ((((para1316,wayu1243),araw1276,tain1254,gari1256),(curr1243,piap1246),wapi1253),(tere1279,asha1243,yine1238),pare1272,pali1279);
 end;

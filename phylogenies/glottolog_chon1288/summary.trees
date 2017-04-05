@@ -1,10 +1,4 @@
 #NEXUS
-Begin taxa;
-
-tehu1242
-onaa1245
-;
-end;
 Begin trees;
-tree UNTITLED = (tehu1242:2,onaa1245:2);
+    tree glottolog_chon1288 = (tehu1242,onaa1245);
 end;

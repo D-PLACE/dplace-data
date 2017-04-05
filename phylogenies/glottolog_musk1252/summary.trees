@@ -1,13 +1,4 @@
 #NEXUS
-Begin taxa;
-
-cree1270
-mika1239
-west2614
-chic1270
-choc1276
-;
-end;
 Begin trees;
-tree UNTITLED = (cree1270:1,mika1239:1,(chic1270:1,choc1276:1)west2614:1);
+    tree glottolog_musk1252 = (cree1270,mika1239,(chic1270,choc1276));
 end;

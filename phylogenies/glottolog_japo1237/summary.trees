@@ -1,14 +1,4 @@
 #NEXUS
-Begin taxa;
-
-ryuk1243
-nucl1643
-ryuk1244
-cent2126
-miya1259
-yaey1239
-;
-end;
 Begin trees;
-tree UNTITLED = (((miya1259:1,yaey1239:2)ryuk1244:1,cent2126:3)ryuk1243:1,nucl1643:3);
+    tree glottolog_japo1237 = (((miya1259,yaey1239),cent2126),nucl1643);
 end;

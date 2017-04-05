@@ -1,10 +1,4 @@
 #NEXUS
-Begin taxa;
-
-tuca1252
-cube1242
-;
-end;
 Begin trees;
-tree UNTITLED = (tuca1252:3,cube1242:3);
+    tree glottolog_tuca1253 = (tuca1252,cube1242);
 end;

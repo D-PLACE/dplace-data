@@ -1,10 +1,4 @@
 #NEXUS
-Begin taxa;
-
-gras1249
-koit1244
-;
-end;
 Begin trees;
-tree UNTITLED = (gras1249:1,koit1244:1);
+    tree glottolog_koia1260 = (gras1249,koit1244);
 end;

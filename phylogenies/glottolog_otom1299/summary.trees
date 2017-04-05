@@ -1,18 +1,4 @@
 #NEXUS
-Begin taxa;
-
-east2557
-otop1241
-popo1292
-nort2986
-otop1242
-chil1282
-huau1238
-yala1267
-chic1272
-mezq1235
-;
-end;
 Begin trees;
-tree UNTITLED = (((huau1238:4,yala1267:6)popo1292:1,nort2986:6)east2557:1,((chic1272:1,mezq1235:4)otop1242:1,chil1282:4)otop1241:2);
+    tree glottolog_otom1299 = (((huau1238,yala1267),nort2986),((chic1272,mezq1235),chil1282));
 end;

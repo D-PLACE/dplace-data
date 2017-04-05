@@ -1,9 +1,4 @@
 #NEXUS
-Begin taxa;
-
-bank1259
-;
-end;
 Begin trees;
-tree UNTITLED = (bank1259:3);
+    tree glottolog_dogo1299 = (bank1259);
 end;

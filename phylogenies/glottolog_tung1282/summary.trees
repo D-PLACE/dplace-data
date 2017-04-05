@@ -1,22 +1,4 @@
 #NEXUS
-Begin taxa;
-
-east2366
-manc1252
-west2427
-cent2235
-orok1264
-even1259
-negi1245
-oroq1238
-oroc1248
-udih1248
-nana1257
-ulch1242
-orok1265
-ulch1241
-;
-end;
 Begin trees;
-tree UNTITLED = (((oroc1248:1,udih1248:1)cent2235:1,(nana1257:1,(orok1265:1,ulch1241:1)ulch1242:1)orok1264:1)east2366:1,manc1252:3,(even1259:1,negi1245:1,oroq1238:1)west2427:2);
+    tree glottolog_tung1282 = (((oroc1248,udih1248),(nana1257,(orok1265,ulch1241))),manc1252,(even1259,negi1245,oroq1238));
 end;

@@ -1,13 +1,4 @@
 #NEXUS
-Begin taxa;
-
-bona1254
-timi1241
-urit1239
-weri1251
-weri1252
-;
-end;
 Begin trees;
-tree UNTITLED = (bona1254:1,timi1241:1,urit1239:1,weri1251:1,weri1252:1);
+    tree glottolog_nucl1708 = (bona1254,timi1241,urit1239,weri1251,weri1252);
 end;

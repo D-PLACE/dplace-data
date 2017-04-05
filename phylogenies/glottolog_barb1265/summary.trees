@@ -1,9 +1,4 @@
 #NEXUS
-Begin taxa;
-
-chac1249
-;
-end;
 Begin trees;
-tree UNTITLED = (chac1249:3);
+    tree glottolog_barb1265 = (chac1249);
 end;

@@ -1,10 +1,4 @@
 #NEXUS
-Begin taxa;
-
-iyow1239
-wich1263
-;
-end;
 Begin trees;
-tree UNTITLED = (iyow1239:2,wich1263:2);
+    tree glottolog_mata1289 = (iyow1239,wich1263);
 end;

@@ -1,12 +1,4 @@
 #NEXUS
-Begin taxa;
-
-guai1250
-kadi1248
-abip1241
-toba1269
-;
-end;
 Begin trees;
-tree UNTITLED = ((abip1241:1,toba1269:3)guai1250:1,kadi1248:1);
+    tree glottolog_guai1249 = ((abip1241,toba1269),kadi1248);
 end;

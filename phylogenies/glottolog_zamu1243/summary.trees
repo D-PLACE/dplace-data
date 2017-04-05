@@ -1,10 +1,4 @@
 #NEXUS
-Begin taxa;
-
-cham1316
-ebit1237
-;
-end;
 Begin trees;
-tree UNTITLED = (cham1316:1,ebit1237:1);
+    tree glottolog_zamu1243 = (cham1316,ebit1237);
 end;

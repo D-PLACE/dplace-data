@@ -1,9 +1,4 @@
 #NEXUS
-Begin taxa;
-
-cayl1238
-;
-end;
 Begin trees;
-tree UNTITLED = (cayl1238:6);
+    tree glottolog_quec1387 = (cayl1238);
 end;

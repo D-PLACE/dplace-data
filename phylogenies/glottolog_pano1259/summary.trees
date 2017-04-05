@@ -1,11 +1,4 @@
 #NEXUS
-Begin taxa;
-
-chac1251
-ship1254
-amah1246
-;
-end;
 Begin trees;
-tree UNTITLED = (chac1251:2,ship1254:3,amah1246:2);
+    tree glottolog_pano1259 = (chac1251,ship1254,amah1246);
 end;

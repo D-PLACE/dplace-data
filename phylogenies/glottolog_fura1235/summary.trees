@@ -1,9 +1,4 @@
 #NEXUS
-Begin taxa;
-
-furr1244
-;
-end;
 Begin trees;
-tree UNTITLED = (furr1244:2);
+    tree glottolog_fura1235 = (furr1244);
 end;

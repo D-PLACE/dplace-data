@@ -1,10 +1,4 @@
 #NEXUS
-Begin taxa;
-
-tuli1249
-kron1241
-;
-end;
 Begin trees;
-tree UNTITLED = (tuli1249:1,kron1241:2);
+    tree glottolog_kadu1256 = (tuli1249,kron1241);
 end;

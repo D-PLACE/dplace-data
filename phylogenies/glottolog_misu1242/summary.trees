@@ -1,13 +1,4 @@
 #NEXUS
-Begin taxa;
-
-baym1237
-cabo1236
-hond1244
-tawi1239
-wank1238
-;
-end;
 Begin trees;
-tree UNTITLED = (baym1237:1,cabo1236:1,hond1244:1,tawi1239:1,wank1238:1);
+    tree glottolog_misu1242 = (baym1237,cabo1236,hond1244,tawi1239,wank1238);
 end;

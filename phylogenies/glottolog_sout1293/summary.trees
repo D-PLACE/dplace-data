@@ -1,9 +1,4 @@
 #NEXUS
-Begin taxa;
-
-sout1439
-;
-end;
 Begin trees;
-tree UNTITLED = (sout1439:2);
+    tree glottolog_sout1293 = (sout1439);
 end;
