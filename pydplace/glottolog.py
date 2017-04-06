@@ -10,7 +10,8 @@ from clldutils.dsv import UnicodeWriter, reader
 from ete3 import Tree
 from pyglottolog.api import Glottolog
 
-NEXUS_TEMPLATE = """#NEXUS\nBegin taxa;
+NEXUS_TEMPLATE = """#NEXUS
+Begin taxa;
 {0}
 ;
 end;
@@ -94,7 +95,9 @@ def trees(societies_by_glottocode, langs, outdir, year, title):
                 author='{0} ({1})'.format(title, family.name),
                 year=year,
                 scaling='',
-                reference=reference(title, year))
+                reference=reference(title, year),
+                url='http://glottolog.org/resource/languoid/id/{}'.format(family.id))
+                
         else:
             glottocodes_in_global_tree = glottocodes_in_global_tree.union(taxa_in_tree)
         glob.add_child(tree)
@@ -112,7 +115,8 @@ def trees(societies_by_glottocode, langs, outdir, year, title):
         author=title,
         year=year,
         scaling='',
-        reference=reference(title, year))
+        reference=reference(title, year),
+        url='http://glottolog.org/')
 
     index_path = outdir.joinpath('index.csv')
     phylos = list(reader(index_path, dicts=True))

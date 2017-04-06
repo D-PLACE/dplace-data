@@ -1,0 +1,6 @@
+* text=auto
+*.md text
+*.csv text
+*.tab text
+*.tsv text
+
