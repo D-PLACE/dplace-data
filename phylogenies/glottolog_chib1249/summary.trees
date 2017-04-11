@@ -1,19 +1,4 @@
 #NEXUS
-Begin taxa;
-
-isth1243
-magd1236
-east2569
-brib1243
-sout3015
-cogu1240
-ngab1239
-bord1248
-bari1297
-chib1270
-cent2150
-;
-end;
 Begin trees;
-tree UNTITLED = (((ngab1239:2,bord1248:2)east2569:1,brib1243:3)isth1243:1,((bari1297:1,chib1270:2,cent2150:2)sout3015:1,cogu1240:3)magd1236:1);
+    tree glottolog_chib1249 = (((ngab1239,bord1248),brib1243),((bari1297,chib1270,cent2150),cogu1240));
 end;

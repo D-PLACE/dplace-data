@@ -1,20 +1,4 @@
 #NEXUS
-Begin taxa;
-
-nonk1236
-nort3245
-west2506
-kuaa1238
-haio1238
-nama1264
-naro1248
-kxoe1243
-dama1270
-nama1265
-naro1249
-gwii1239
-;
-end;
 Begin trees;
-tree UNTITLED = ((((naro1249:1,gwii1239:2)naro1248:1,kxoe1243:2)west2506:1,kuaa1238:3)nonk1236:1,(haio1238:1,(dama1270:1,nama1265:1)nama1264:1)nort3245:2);
+    tree glottolog_khoe1240 = ((((naro1249,gwii1239),kxoe1243),kuaa1238),(haio1238,(dama1270,nama1265)));
 end;

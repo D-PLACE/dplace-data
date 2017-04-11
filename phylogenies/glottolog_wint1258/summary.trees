@@ -1,10 +1,4 @@
 #NEXUS
-Begin taxa;
-
-patw1250
-wint1259
-;
-end;
 Begin trees;
-tree UNTITLED = (patw1250:1,wint1259:1);
+    tree glottolog_wint1258 = (patw1250,wint1259);
 end;

@@ -1,10 +1,4 @@
 #NEXUS
-Begin taxa;
-
-hlai1239
-thai1261
-;
-end;
 Begin trees;
-tree UNTITLED = (hlai1239:3,thai1261:10);
+    tree glottolog_taik1256 = (hlai1239,thai1261);
 end;

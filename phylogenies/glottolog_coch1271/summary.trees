@@ -1,21 +1,4 @@
 #NEXUS
-Begin taxa;
-
-gene1244
-kili1268
-delt1253
-rive1260
-hava1248
-coco1261
-kumi1248
-mari1440
-moha1256
-quec1382
-hava1249
-wala1270
-yava1252
-;
-end;
 Begin trees;
-tree UNTITLED = (((coco1261:1,kumi1248:2)delt1253:1,(mari1440:1,moha1256:1,quec1382:1)rive1260:1,(hava1249:1,wala1270:1,yava1252:1)hava1248:2)gene1244:1,kili1268:1);
+    tree glottolog_coch1271 = (((coco1261,kumi1248),(mari1440,moha1256,quec1382),(hava1249,wala1270,yava1252)),kili1268);
 end;

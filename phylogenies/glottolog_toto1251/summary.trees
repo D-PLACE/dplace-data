@@ -1,9 +1,4 @@
 #NEXUS
-Begin taxa;
-
-high1243
-;
-end;
 Begin trees;
-tree UNTITLED = (high1243:6);
+    tree glottolog_toto1251 = (high1243);
 end;

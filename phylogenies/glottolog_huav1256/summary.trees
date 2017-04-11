@@ -1,9 +1,4 @@
 #NEXUS
-Begin taxa;
-
-sanm1287
-;
-end;
 Begin trees;
-tree UNTITLED = (sanm1287:3);
+    tree glottolog_huav1256 = (sanm1287);
 end;

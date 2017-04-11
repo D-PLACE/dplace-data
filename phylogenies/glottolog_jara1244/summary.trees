@@ -1,10 +1,4 @@
 #NEXUS
-Begin taxa;
-
-jara1245
-onge1236
-;
-end;
 Begin trees;
-tree UNTITLED = (jara1245:1,onge1236:1);
+    tree glottolog_jara1244 = (jara1245,onge1236);
 end;

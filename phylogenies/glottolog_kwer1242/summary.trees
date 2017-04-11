@@ -1,10 +1,4 @@
 #NEXUS
-Begin taxa;
-
-nucl1595
-sama1240
-;
-end;
 Begin trees;
-tree UNTITLED = (nucl1595:2,sama1240:2);
+    tree glottolog_kwer1242 = (nucl1595,sama1240);
 end;

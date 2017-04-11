@@ -1,10 +1,4 @@
 #NEXUS
-Begin taxa;
-
-lard1243
-kaya1319
-;
-end;
 Begin trees;
-tree UNTITLED = (lard1243:1,kaya1319:3);
+    tree glottolog_tang1340 = (lard1243,kaya1319);
 end;

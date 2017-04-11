@@ -1,20 +1,4 @@
 #NEXUS
-Begin taxa;
-
-kiow1266
-tewa1261
-jeme1245
-tiwa1255
-tewa1260
-hano1247
-sout2961
-taos1246
-sani1273
-sant1421
-nort1550
-taos1236
-;
-end;
 Begin trees;
-tree UNTITLED = (kiow1266:1,((sani1273:1,sant1421:1)tewa1260:1,hano1247:2)tewa1261:1,jeme1245:1,(sout2961:1,((taos1236:1)nort1550:1)taos1246:1)tiwa1255:2);
+    tree glottolog_kiow1265 = (kiow1266,((sani1273,sant1421),hano1247),jeme1245,(sout2961,((taos1236))));
 end;

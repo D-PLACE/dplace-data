@@ -1,9 +1,4 @@
 #NEXUS
-Begin taxa;
-
-kwom1262
-;
-end;
 Begin trees;
-tree UNTITLED = (kwom1262:3);
+    tree glottolog_sepi1257 = (kwom1262);
 end;

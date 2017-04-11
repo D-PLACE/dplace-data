@@ -1,14 +1,4 @@
 #NEXUS
-Begin taxa;
-
-kanu1279
-tebu1238
-kane1243
-mang1399
-daza1242
-teda1241
-;
-end;
 Begin trees;
-tree UNTITLED = ((kane1243:2,mang1399:3)kanu1279:1,(daza1242:1,teda1241:1)tebu1238:1);
+    tree glottolog_saha1256 = ((kane1243,mang1399),(daza1242,teda1241));
 end;

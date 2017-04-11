@@ -1,35 +1,4 @@
 #NEXUS
-Begin taxa;
-
-sout3133
-kuru1302
-sout3139
-tami1291
-gond1265
-telu1265
-kuii1252
-jenn1240
-tami1293
-sout3234
-nort2702
-chen1255
-mukh1238
-telu1262
-toda1252
-tami1297
-dand1238
-koya1251
-koda1255
-tami1298
-mala1541
-tami1299
-kada1242
-mala1464
-pali1274
-mala1468
-tami1289
-;
-end;
 Begin trees;
-tree UNTITLED = (((((dand1238:2,koya1251:2)sout3234:1,nort2702:2)gond1265:1,(chen1255:1,mukh1238:1,telu1262:1)telu1265:1,kuii1252:4)sout3139:1,(jenn1240:3,(toda1252:1,(koda1255:1,((kada1242:1,mala1464:1,pali1274:1)mala1541:1,(mala1468:1,tami1289:1)tami1299:1)tami1298:1)tami1297:2)tami1293:2)tami1291:2)sout3133:1,kuru1302:4);
+    tree glottolog_drav1251 = (((((dand1238,koya1251),nort2702),(chen1255,mukh1238,telu1262),kuii1252),(jenn1240,(toda1252,(koda1255,((kada1242,mala1464,pali1274),(mala1468,tami1289)))))),kuru1302);
 end;

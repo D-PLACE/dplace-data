@@ -1,10 +1,4 @@
 #NEXUS
-Begin taxa;
-
-bull1248
-dors1239
-;
-end;
 Begin trees;
-tree UNTITLED = (bull1248:1,dors1239:1);
+    tree glottolog_dizo1235 = (bull1248,dors1239);
 end;

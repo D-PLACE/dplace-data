@@ -1,9 +1,4 @@
 #NEXUS
-Begin taxa;
-
-kala1381
-;
-end;
 Begin trees;
-tree UNTITLED = (kala1381:6);
+    tree glottolog_ijoi1239 = (kala1381);
 end;

@@ -1,12 +1,4 @@
 #NEXUS
-Begin taxa;
-
-west2633
-cent2140
-coas1301
-lake1258
-;
-end;
 Begin trees;
-tree UNTITLED = ((coas1301:1,lake1258:1)west2633:1,cent2140:3);
+    tree glottolog_miwo1274 = ((coas1301,lake1258),cent2140);
 end;

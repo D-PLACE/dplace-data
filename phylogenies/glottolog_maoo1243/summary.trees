@@ -1,9 +1,4 @@
 #NEXUS
-Begin taxa;
-
-hozo1236
-;
-end;
 Begin trees;
-tree UNTITLED = (hozo1236:4);
+    tree glottolog_maoo1243 = (hozo1236);
 end;

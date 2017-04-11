@@ -1,9 +1,4 @@
 #NEXUS
-Begin taxa;
-
-kima1246
-;
-end;
 Begin trees;
-tree UNTITLED = (kima1246:3);
+    tree glottolog_kolo1268 = (kima1246);
 end;

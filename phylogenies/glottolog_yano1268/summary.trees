@@ -1,14 +1,4 @@
 #NEXUS
-Begin taxa;
-
-nina1239
-sanu1240
-nina1238
-yano1267
-yano1261
-yano1262
-;
-end;
 Begin trees;
-tree UNTITLED = ((nina1238:1,(yano1261:1,yano1262:1)yano1267:2)nina1239:1,sanu1240:1);
+    tree glottolog_yano1268 = ((nina1238,(yano1261,yano1262)),sanu1240);
 end;

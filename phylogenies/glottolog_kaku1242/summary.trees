@@ -1,9 +1,4 @@
 #NEXUS
-Begin taxa;
-
-nuka1242
-;
-end;
 Begin trees;
-tree UNTITLED = (nuka1242:2);
+    tree glottolog_kaku1242 = (nuka1242);
 end;

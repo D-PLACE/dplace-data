@@ -4,15 +4,17 @@
 
 library(ape)
 
-FILES <- c(
-    list.files('../trees', '*.trees', full.names=TRUE),
-    list.files('../phylogenies/', '*.trees', recursive=TRUE, full.names=TRUE)
-)
-    
+treefiles <- list.files('../phylogenies', 'summary.trees', recursive=TRUE, full.names=TRUE)
 
-for (f in FILES) {
-    tryCatch(read.nexus(f), error=function(cond) {
-        cat(sprintf("Reading %s failed: \n%s\n", f, cond), sep="\n")
+for (filename in treefiles) {
+    tryCatch(tree <- read.nexus(filename), error=function(cond) {
+        cat(sprintf("%40s: Read failed: \n\t%s\n", filename, cond), sep="\n")
     })
+    
+    if (Ntip(tree) <= 2) {
+        # pass
+    } else if (any(tabulate(tree$edge[, 1]) == 1)) {
+        cat(sprintf("%40s: Singleton nodes", filename), sep="\n")
+    }
 }
 

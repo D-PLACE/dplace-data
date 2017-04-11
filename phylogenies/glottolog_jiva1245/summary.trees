@@ -1,9 +1,4 @@
 #NEXUS
-Begin taxa;
-
-shua1257
-;
-end;
 Begin trees;
-tree UNTITLED = (shua1257:3);
+    tree glottolog_jiva1245 = (shua1257);
 end;

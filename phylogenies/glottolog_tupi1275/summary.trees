@@ -1,29 +1,4 @@
 #NEXUS
-Begin taxa;
-
-mawe1252
-mund1330
-awet1245
-sate1243
-awet1244
-tupi1276
-kama1373
-tupi1277
-tupi1287
-tupi1279
-siri1279
-ache1246
-xeta1241
-mbya1239
-east2555
-tupi1273
-coca1259
-tapi1254
-temb1276
-siri1273
-yuqu1240
-;
-end;
 Begin trees;
-tree UNTITLED = (((awet1244:1,(kama1373:1,(ache1246:1,xeta1241:1,mbya1239:2,east2555:3)tupi1277:1,(tupi1273:1,coca1259:2)tupi1287:1,(tapi1254:1,temb1276:2)tupi1279:1,(siri1273:1,yuqu1240:1)siri1279:2)tupi1276:1)awet1245:1,sate1243:1)mawe1252:1,mund1330:2);
+    tree glottolog_tupi1275 = (((awet1244,(kama1373,(ache1246,xeta1241,mbya1239,east2555),(tupi1273,coca1259),(tapi1254,temb1276),(siri1273,yuqu1240))),sate1243),mund1330);
 end;

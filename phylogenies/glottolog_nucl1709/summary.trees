@@ -1,22 +1,4 @@
 #NEXUS
-Begin taxa;
-
-cent2116
-umbu1258
-midg1235
-enga1252
-want1252
-orok1269
-nucl1760
-ekar1243
-kamo1255
-okkk1242
-fore1270
-sian1257
-ngal1298
-sout2940
-;
-end;
 Begin trees;
-tree UNTITLED = ((kamo1255:2,(ngal1298:1,sout2940:2)okkk1242:3)cent2116:1,umbu1258:4,midg1235:4,enga1252:3,want1252:5,orok1269:6,(fore1270:2,sian1257:2)nucl1760:3,ekar1243:2);
+    tree glottolog_nucl1709 = ((kamo1255,(ngal1298,sout2940)),umbu1258,midg1235,enga1252,want1252,orok1269,(fore1270,sian1257),ekar1243);
 end;

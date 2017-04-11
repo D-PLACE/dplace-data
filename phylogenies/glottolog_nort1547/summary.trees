@@ -1,9 +1,4 @@
 #NEXUS
-Begin taxa;
-
-mull1237
-;
-end;
 Begin trees;
-tree UNTITLED = (mull1237:2);
+    tree glottolog_nort1547 = (mull1237);
 end;

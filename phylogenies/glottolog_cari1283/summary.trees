@@ -1,28 +1,4 @@
 #NEXUS
-Begin taxa;
-
-guia1242
-vene1261
-kuik1246
-yukp1241
-waiw1244
-baka1277
-gali1262
-maqu1238
-akur1238
-waya1269
-pemo1246
-yaba1248
-mura1272
-tyre1237
-enap1235
-pemo1247
-macu1259
-pemo1248
-cama1252
-taul1252
-;
-end;
 Begin trees;
-tree UNTITLED = (((mura1272:1,tyre1237:1)gali1262:1,maqu1238:2,akur1238:3,waya1269:2)guia1242:1,((enap1235:1,(macu1259:1,(cama1252:1,taul1252:1)pemo1248:1)pemo1247:1)pemo1246:1,yaba1248:3)vene1261:1,kuik1246:3,yukp1241:3,waiw1244:3,baka1277:2);
+    tree glottolog_cari1283 = (((mura1272,tyre1237),maqu1238,akur1238,waya1269),((enap1235,(macu1259,(cama1252,taul1252))),yaba1248),kuik1246,yukp1241,waiw1244,baka1277);
 end;

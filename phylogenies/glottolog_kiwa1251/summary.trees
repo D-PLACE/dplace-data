@@ -1,14 +1,4 @@
 #NEXUS
-Begin taxa;
-
-coas1298
-daru1245
-doum1239
-east2521
-isla1274
-sout2950
-;
-end;
 Begin trees;
-tree UNTITLED = (coas1298:1,daru1245:1,doum1239:1,east2521:1,isla1274:1,sout2950:1);
+    tree glottolog_kiwa1251 = (coas1298,daru1245,doum1239,east2521,isla1274,sout2950);
 end;

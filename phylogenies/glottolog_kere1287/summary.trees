@@ -1,14 +1,4 @@
 #NEXUS
-Begin taxa;
-
-east1472
-acom1246
-coch1273
-sant1426
-sant1425
-ziaa1251
-;
-end;
 Begin trees;
-tree UNTITLED = ((coch1273:1,sant1426:1,sant1425:1,ziaa1251:1)east1472:1,acom1246:2);
+    tree glottolog_kere1287 = ((coch1273,sant1426,sant1425,ziaa1251),acom1246);
 end;

@@ -11,13 +11,10 @@ from ete3 import Tree
 from pyglottolog.api import Glottolog
 
 NEXUS_TEMPLATE = """#NEXUS
-Begin taxa;
-{0}
-;
-end;
 Begin trees;
-tree UNTITLED = {1}
-end;"""
+    tree {} = {}
+end;
+"""
 
 
 def reference(title, year):
@@ -29,10 +26,14 @@ def reference(title, year):
 def write_tree(tree, fname, taxa_in_dplace, societies_by_glottocode):
     if not fname.exists():
         fname.mkdir()
-    tree.prune([n.encode('ascii') for n in taxa_in_dplace], preserve_branch_length=True)
+    tree.prune([n.encode('ascii') for n in taxa_in_dplace])
+    
     with fname.joinpath('summary.trees').open('w', encoding="utf-8") as handle:
         handle.write(NEXUS_TEMPLATE.format(
-            '\n'.join(l.name for l in tree.traverse()), tree.write(format=3)))
+            tree.name if tree.name else 'UNTITLED',
+            tree.write(format=9)
+        ))
+    
     with UnicodeWriter(fname.joinpath('taxa.csv')) as writer:
         writer.writerow([
             'taxon',
@@ -69,28 +70,28 @@ def trees(societies_by_glottocode, langs, outdir, year, title):
         languoids[lang.id] = lang
 
     glob = Tree()
-    for family in families:
+    glob.name = 'glottolog_global'
+    
+    for family in sorted(families):
         node = family.newick_node(nodes=languoids)
         node.visit(rename)
         taxa_in_tree = set(n.name for n in node.walk())
         taxa_in_dplace = glottocodes.intersection(taxa_in_tree)
         if not taxa_in_dplace:
             continue
-
-        newick = "({0});".format(node.newick)
-        tree = Tree(newick, format=3)
-
+        
+        tree = Tree("({0});".format(node.newick), format=3)
+        tree.name = 'glottolog_{0}'.format(family.id)
         if family.level.name == 'family':
-            fname = 'glottolog_{0}'.format(family.id)
             tree = write_tree(
                 tree,
-                outdir.joinpath(fname),
+                outdir.joinpath(tree.name),
                 taxa_in_dplace,
                 societies_by_glottocode)
             glottocodes_in_global_tree = glottocodes_in_global_tree.union(
                 set(n.name for n in tree.traverse()))
-            index[fname] = dict(
-                id=fname,
+            index[tree.name] = dict(
+                id=tree.name,
                 name='{0} ({1})'.format(family.name, title),
                 author='{0} ({1})'.format(title, family.name),
                 year=year,
@@ -101,16 +102,15 @@ def trees(societies_by_glottocode, langs, outdir, year, title):
         else:
             glottocodes_in_global_tree = glottocodes_in_global_tree.union(taxa_in_tree)
         glob.add_child(tree)
-
-    fname = 'glottolog_global'
     
+    # global
     write_tree(
         glob,
-        outdir.joinpath(fname),
+        outdir.joinpath(glob.name),
         glottocodes_in_global_tree.intersection(glottocodes),
         societies_by_glottocode)
-    index[fname] = dict(
-        id=fname,
+    index[glob.name] = dict(
+        id=glob.name,
         name='Global Classification ({0})'.format(title),
         author=title,
         year=year,
@@ -123,7 +123,7 @@ def trees(societies_by_glottocode, langs, outdir, year, title):
     with UnicodeWriter(index_path) as writer:
         header = list(phylos[0].keys())
         writer.writerow(header)
-        for phylo in phylos:
+        for phylo in sorted(phylos):
             if phylo['id'] in index:
                 writer.writerow([index[phylo['id']][k] for k in header])
                 del index[phylo['id']]
@@ -137,7 +137,7 @@ def trees(societies_by_glottocode, langs, outdir, year, title):
 def languoids(langs, outdir):
     with UnicodeWriter(outdir.joinpath('csv', 'glottolog.csv')) as writer:
         writer.writerow(['id', 'name', 'family_id', 'family_name', 'iso_code'])
-        for lang in langs:
+        for lang in sorted(langs):
             writer.writerow([
                 lang.id,
                 lang.name,

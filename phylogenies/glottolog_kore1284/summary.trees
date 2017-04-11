@@ -1,16 +1,4 @@
 #NEXUS
-Begin taxa;
-
-chun1247
-chej1238
-chol1278
-hamg1238
-hwan1238
-kyon1247
-pyon1239
-seou1239
-;
-end;
 Begin trees;
-tree UNTITLED = (chun1247:1,chej1238:1,chol1278:1,hamg1238:1,hwan1238:1,kyon1247:1,pyon1239:1,seou1239:1);
+    tree glottolog_kore1284 = (chun1247,chej1238,chol1278,hamg1238,hwan1238,kyon1247,pyon1239,seou1239);
 end;
