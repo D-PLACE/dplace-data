@@ -62,6 +62,7 @@ class ObjectWithSource(UnicodeMixin):
     author = attr.ib()
     reference = attr.ib()
     base_dir = attr.ib()
+    url = attr.ib()
 
     @property
     def dir(self):

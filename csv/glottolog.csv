@@ -1,38 +1,19 @@
 id,name,family_id,family_name,iso_code
 ngiz1242,Ngizim,afro1255,Afro-Asiatic,ngi
-abkh1242,Abkhaz-Adyge,,,
-abun1252,Abun,,,kgr
-adai1235,Adai,,,xad
-afro1255,Afro-Asiatic,,,
-aika1237,Aikanã,,,tba
-ainu1252,Ainu,,,
-arut1244,Arutani,,,atx
-atac1235,Atacame,,,
-arti1236,Artificial Language,,,
-atak1252,Atakapa,,,aqp
-atha1245,Athapaskan-Eyak-Tlingit,,,
-atla1278,Atlantic-Congo,,,
+cahu1265,Cahuapanan,,,
+cams1241,Camsá,,,kbh
+cand1248,Candoshi-Shapra,,,cbu
+cani1243,Canichana,,,caz
+cari1283,Cariban,,,
+cayu1241,Cayuse,,,xcy
 aust1305,Austroasiatic,,,
-chim1301,Chimariko,,,cid
-chim1311,Chimakuan,,,cmk
-chin1490,Chinookan,,,
-chiq1248,Chiquitano,,,cax
-chit1248,Chitimacha,,,ctm
-choc1280,Chocoan,,,
-chon1248,Chono,,,
-bilu1245,Bilua,,,blb
-bira1253,Ongota,,,bxe
-boga1247,Bogaya,,,boq
-book1242,Bookkeeping,,,
-bora1262,Boran,,,
-bord1247,Border,,,
-anga1289,Angan,,,
-anim1240,Anim,,,
-apma1241,Ap Ma,,,kbx
-araf1243,Arafundi,,,arf
-arau1255,Araucanian,,,
-araw1281,Arawakan,,,
-araw1282,Arawan,,,
+awin1249,Awin-Pa,,,
+aust1307,Austronesian,,,
+ayma1253,Aymaran,,,
+baib1250,Baibai-Fas,,,
+bain1263,Baining,,,
+bana1292,Banaro,,,byz
+bang1363,Bangime,,,dba
 boro1281,Bororoan,,,
 bosa1245,Bosavi,,,
 bula1259,Bulaka River,,,
@@ -42,55 +23,49 @@ buru1296,Burushaski,,,bsk
 cadd1255,Caddoan,,,
 abin1243,Abinomn,,,bsa
 abis1238,Aewa,,,ash
-cayu1262,Cayubaba,,,cyb
-cent2045,Jalaa,,,cet
-cent2225,Central Sudanic,,,
-chap1271,Chapacuran,,,
-char1238,Charruan,,,
-chib1249,Chibchan,,,
-cahu1265,Cahuapanan,,,
-cams1241,Camsá,,,kbh
-cand1248,Candoshi-Shapra,,,cbu
-cani1243,Canichana,,,caz
-cari1283,Cariban,,,
-cayu1241,Cayuse,,,xcy
 barb1265,Barbacoan,,,
 basq1248,Basque,,,eus
 bayo1259,Bayono-Awbono,,,
 beot1247,Beothuk,,,bue
 bert1248,Berta,,,wti
 beto1236,Betoi-Jirara,,,
-awin1249,Awin-Pa,,,
-aust1307,Austronesian,,,
-ayma1253,Aymaran,,,
-baib1250,Baibai-Fas,,,
-bain1263,Baining,,,
-bana1292,Banaro,,,byz
-bang1363,Bangime,,,dba
 alse1251,Alsea-Yaquina,,,aes
 amto1249,Amto-Musan,,,
 algi1248,Algic,,,
 anda1286,Andaqui,,,ana
 ando1256,Andoque,,,ano
 anem1249,Anem,,,anz
+anga1289,Angan,,,
+anim1240,Anim,,,
+apma1241,Ap Ma,,,kbx
+araf1243,Arafundi,,,arf
+arau1255,Araucanian,,,
+araw1281,Arawakan,,,
+araw1282,Arawan,,,
+bilu1245,Bilua,,,blb
+bira1253,Ongota,,,bxe
+boga1247,Bogaya,,,boq
+book1242,Bookkeeping,,,
+bora1262,Boran,,,
+bord1247,Border,,,
+cayu1262,Cayubaba,,,cyb
+cent2045,Jalaa,,,cet
+cent2225,Central Sudanic,,,
+chap1271,Chapacuran,,,
+char1238,Charruan,,,
+chib1249,Chibchan,,,
+arti1236,Artificial Language,,,
+arut1244,Arutani,,,atx
+atac1235,Atacame,,,
+atak1252,Atakapa,,,aqp
+atha1245,Athapaskan-Eyak-Tlingit,,,
+atla1278,Atlantic-Congo,,,
 guai1237,Guaicurian,,,
 guai1249,Guaicuruan,,,
 guam1236,Guamo,,,
 guat1253,Guató,,,gta
 gule1241,Gule,,,gly
 gumu1250,Gumuz,,,
-east2503,Eastern Trans-Fly,,,
-elam1244,Elamite,,,elx
-else1239,Elseng,,,mrf
-eski1264,Eskimo-Aleut,,,
-esse1238,Esselen,,,esq
-etru1241,Etruscan,,,ett
-gily1242,Nivkh,,,niv
-goil1242,Goilalan,,,
-gong1255,Ta-Ne-Omotic,,,
-grea1241,Great Andamanese,,,
-guac1239,Guachi,,,
-guah1252,Guahiboan,,,
 fasu1242,Fasu,,,faa
 fuln1247,Fulniô,,,fun
 fura1235,Furan,,,
@@ -98,6 +73,19 @@ gaga1251,Gagadu,,,gbu
 garr1260,Garrwan,,,gbc
 geel1240,Geelvink Bay,,,
 giim1238,Giimbiyu,,,
+gily1242,Nivkh,,,niv
+goil1242,Goilalan,,,
+gong1255,Ta-Ne-Omotic,,,
+grea1241,Great Andamanese,,,
+guac1239,Guachi,,,
+guah1252,Guahiboan,,,
+chim1301,Chimariko,,,cid
+chim1311,Chimakuan,,,cmk
+chin1490,Chinookan,,,
+chiq1248,Chiquitano,,,cax
+chit1248,Chitimacha,,,ctm
+choc1280,Chocoan,,,
+chon1248,Chono,,,
 chon1288,Chonan,,,
 chuk1271,Chukotko-Kamchatkan,,,
 chum1262,Chumashan,,,
@@ -105,6 +93,12 @@ coah1252,Coahuilteco,,,xcw
 coch1271,Cochimi-Yuman,,,
 cofa1242,Cofán,,,con
 come1251,Comecrudo,,,xcm
+east2503,Eastern Trans-Fly,,,
+elam1244,Elamite,,,elx
+else1239,Elseng,,,mrf
+eski1264,Eskimo-Aleut,,,
+esse1238,Esselen,,,esq
+etru1241,Etruscan,,,ett
 drav1251,Dravidian,,,
 duna1248,Duna,,,duc
 east1459,East Bird's Head,,,
@@ -124,6 +118,12 @@ cuit1236,Cuitlatec,,,
 cull1235,Culli,,,
 daga1274,Dagan,,,
 daju1249,Dajuic,,,
+abkh1242,Abkhaz-Adyge,,,
+abun1252,Abun,,,kgr
+adai1235,Adai,,,xad
+afro1255,Afro-Asiatic,,,
+ainu1252,Ainu,,,
+aika1237,Aikanã,,,tba
 gunw1250,Gunwinyguan,,,
 guri1248,Guriaso,,,grx
 hadz1240,Hadza,,,hts
@@ -291,8 +291,8 @@ paez1247,Páez,,,pbb
 paho1240,Pahoturi,,,
 pala1350,Palaihnihan,,,
 pama1250,Pama-Nyungan,,,
-pano1259,Pano-Tacanan,,,
 pank1250,Pankararú,,,paz
+pano1259,Pano-Tacanan,,,
 papi1255,Papi,,,ppe
 pauw1244,Pauwasi,,,
 pawa1255,Pawaia,,,pwa
@@ -5975,6 +5975,13 @@ tupu1245,Tupuri-Mundang-Mambai,atla1278,Atlantic-Congo,
 dama1267,Dama (Cameroon),atla1278,Atlantic-Congo,dmm
 ndai1238,Ndai,atla1278,Atlantic-Congo,gke
 mamb1294,Mambai,atla1278,Atlantic-Congo,mcs
+laka1252,Laka (Nigeria),atla1278,Atlantic-Congo,lak
+tooo1238,To,atla1278,Atlantic-Congo,toz
+mumu1249,Mumuye-Yandang,atla1278,Atlantic-Congo,
+samb1323,Samba Duru,atla1278,Atlantic-Congo,
+kuga1239,Gengle-Kugama,atla1278,Atlantic-Congo,kow
+kumb1238,Kumba,atla1278,Atlantic-Congo,ksm
+mumu1250,Mumuyic,atla1278,Atlantic-Congo,
 mund1324,Mundangic,atla1278,Atlantic-Congo,
 tupu1244,Tupuri,atla1278,Atlantic-Congo,tui
 mono1269,Mono (Cameroon),atla1278,Atlantic-Congo,mru
@@ -5988,13 +5995,6 @@ bang1343,Bang-Were,atla1278,Atlantic-Congo,
 bang1344,Bang-Ling,atla1278,Atlantic-Congo,
 faal1238,Faale-Piyew,atla1278,Atlantic-Congo,
 podo1242,Podokge,atla1278,Atlantic-Congo,
-laka1252,Laka (Nigeria),atla1278,Atlantic-Congo,lak
-tooo1238,To,atla1278,Atlantic-Congo,toz
-mumu1249,Mumuye-Yandang,atla1278,Atlantic-Congo,
-samb1323,Samba Duru,atla1278,Atlantic-Congo,
-kuga1239,Gengle-Kugama,atla1278,Atlantic-Congo,kow
-kumb1238,Kumba,atla1278,Atlantic-Congo,ksm
-mumu1250,Mumuyic,atla1278,Atlantic-Congo,
 yand1260,Yandang,atla1278,Atlantic-Congo,
 nucl1240,Mumuye,atla1278,Atlantic-Congo,mzm
 pang1286,Pangseng,atla1278,Atlantic-Congo,pgs
@@ -6027,14 +6027,6 @@ waka1284,Waka-Yendang-Teme,atla1278,Atlantic-Congo,
 bali1245,Bali (Nigeria),atla1278,Atlantic-Congo,bcn
 kpas1242,Kpasam,atla1278,Atlantic-Congo,pbn
 yott1234,Yotti,atla1278,Atlantic-Congo,yot
-sout3238,Southern Samba Duru,atla1278,Atlantic-Congo,
-unun9905,Unclassified Samba Duru,atla1278,Atlantic-Congo,
-doya1240,Doyayo,atla1278,Atlantic-Congo,dow
-vere1249,Vere-Gimme,atla1278,Atlantic-Congo,
-mark1254,Marke,atla1278,Atlantic-Congo,
-sewe1240,Sewe,atla1278,Atlantic-Congo,
-teer1238,Teere,atla1278,Atlantic-Congo,
-koma1268,Koma Atlantika,atla1278,Atlantic-Congo,
 teme1252,Teme,atla1278,Atlantic-Congo,tdo
 waka1285,Waka-Yandang,atla1278,Atlantic-Congo,
 waka1275,Waka,atla1278,Atlantic-Congo,wav
@@ -6043,6 +6035,14 @@ kuse1238,Kuseki,atla1278,Atlantic-Congo,
 poli1239,Poli,atla1278,Atlantic-Congo,
 nort3259,Northern Samba Duru,atla1278,Atlantic-Congo,
 yofo1238,Yofo,atla1278,Atlantic-Congo,
+sout3238,Southern Samba Duru,atla1278,Atlantic-Congo,
+unun9905,Unclassified Samba Duru,atla1278,Atlantic-Congo,
+doya1240,Doyayo,atla1278,Atlantic-Congo,dow
+vere1249,Vere-Gimme,atla1278,Atlantic-Congo,
+mark1254,Marke,atla1278,Atlantic-Congo,
+sewe1240,Sewe,atla1278,Atlantic-Congo,
+teer1238,Teere,atla1278,Atlantic-Congo,
+koma1268,Koma Atlantika,atla1278,Atlantic-Congo,
 vere1250,Vere,atla1278,Atlantic-Congo,
 gimm1241,Gimme,atla1278,Atlantic-Congo,kmp
 gimn1238,Gimnime,atla1278,Atlantic-Congo,gmn
@@ -6855,8 +6855,8 @@ bona1256,Bonam-Monam,aust1305,Austroasiatic,
 hres1237,Hre-Sedang,aust1305,Austroasiatic,
 todr1244,Todrah,aust1305,Austroasiatic,tdr
 bahn1262,Bahnar,aust1305,Austroasiatic,bdq
-alak1252,Alakong,aust1305,Austroasiatic,
 mono1268,Monom,aust1305,Austroasiatic,moo
+alak1252,Alakong,aust1305,Austroasiatic,
 bahn1263,Bahnar Bonom,aust1305,Austroasiatic,
 gola1254,Golar (Austroasiatic),aust1305,Austroasiatic,
 jolo1240,Jolong,aust1305,Austroasiatic,
@@ -8383,8 +8383,8 @@ marq1246,Marquesan,aust1307,Austronesian,
 penr1237,Penrhyn,aust1307,Austronesian,pnh
 raka1237,Rakahanga-Manihiki,aust1307,Austronesian,rkh
 tahi1244,Tahitian-Austral,aust1307,Austronesian,
-auaa1240,Aua (Pileni),aust1307,Austronesian,
 tuam1242,Tuamotuan,aust1307,Austronesian,pmt
+auaa1240,Aua (Pileni),aust1307,Austronesian,
 rapa1245,Old Rapa,aust1307,Austronesian,ray
 raro1241,Rarotongan,aust1307,Austronesian,rar
 aitu1237,Aitutaki,aust1307,Austronesian,
@@ -10366,8 +10366,8 @@ sout2849,Tobaic,aust1307,Austronesian,
 angk1248,Angkola-Mandailing,aust1307,Austronesian,
 bata1289,Batak Toba,aust1307,Austronesian,bbc
 bata1290,Batak Angkola,aust1307,Austronesian,akb
-bata1291,Batak Mandailing,aust1307,Austronesian,btm
 alan1249,Alangan,aust1307,Austronesian,alj
+bata1291,Batak Mandailing,aust1307,Austronesian,btm
 iray1237,Iraya,aust1307,Austronesian,iry
 tady1237,Tadyawan,aust1307,Austronesian,tdy
 abra1237,Abra-De-Ilog,aust1307,Austronesian,
@@ -13252,8 +13252,8 @@ midd1319,Middle Franconian,indo1319,Indo-European,
 rhin1244,Rhine Franconian,indo1319,Indo-European,
 schl1237,Schlesisch-Wilmesau,indo1319,Indo-European,
 stan1295,German,indo1319,Indo-European,deu
-luxe1241,Luxembourgish,indo1319,Indo-European,ltz
 unse1236,Unserdeutsch,indo1319,Indo-European,uln
+luxe1241,Luxembourgish,indo1319,Indo-European,ltz
 ripu1236,Ripuarian,indo1319,Indo-European,
 main1267,Mainfränkisch,indo1319,Indo-European,vmf
 lorr1243,Lorrain Franconian,indo1319,Indo-European,
@@ -13480,8 +13480,8 @@ ulst1239,Ulster,indo1319,Indo-European,
 nort2626,Northern Frisian,indo1319,Indo-European,frr
 oldf1241,Old Frisian,indo1319,Indo-European,ofs
 sate1242,Saterfriesisch,indo1319,Indo-European,stq
-west2354,Western Frisian,indo1319,Indo-European,fry
 gree1276,Greek,indo1319,Indo-European,
+west2354,Western Frisian,indo1319,Indo-European,fry
 ferr1240,Ferring,indo1319,Indo-European,
 helg1238,Helgoland,indo1319,Indo-European,
 moor1245,Mooringer,indo1319,Indo-European,
@@ -17043,8 +17043,8 @@ adho1242,Adhola-Luo,nilo1247,Nilotic,
 alur1250,Alur,nilo1247,Nilotic,alz
 adho1243,Adhola,nilo1247,Nilotic,adh
 luok1236,Luo (Kenya and Tanzania),nilo1247,Nilotic,luo
-joko1238,Jokot,nilo1247,Nilotic,
 jona1239,Jonam,nilo1247,Nilotic,
+joko1238,Jokot,nilo1247,Nilotic,
 mamb1303,Mambisa,nilo1247,Nilotic,
 wany1245,Wanyoro,nilo1247,Nilotic,
 kuma1275,Kumam,nilo1247,Nilotic,kdi
@@ -18278,7 +18278,6 @@ solt1234,Soltec,otom1299,Otomanguean,
 coat1245,Coatec,otom1299,Otomanguean,
 core1259,Core Zapotec,otom1299,Otomanguean,
 papa1270,Papabuco,otom1299,Otomanguean,
-otop1241,Otopame-Chinantecan,otom1299,Otomanguean,
 west2645,West Zapotec,otom1299,Otomanguean,
 coat1242,Coatlan-Loxicha Zapotec,otom1299,Otomanguean,
 sanv1242,San Vicente Coatlán Zapotec,otom1299,Otomanguean,zpt
@@ -18357,6 +18356,7 @@ elot1235,Elotepec Zapotec,otom1299,Otomanguean,zte
 texm1235,Texmelucan Zapotec,otom1299,Otomanguean,zpz
 zani1235,Zaniza Zapotec,otom1299,Otomanguean,zpw
 toto1308,Totomachapan Zapotec,otom1299,Otomanguean,zph
+otop1241,Otopame-Chinantecan,otom1299,Otomanguean,
 west2646,West-Central West Zapotec,otom1299,Otomanguean,
 elal1235,El Alto Zapotec,otom1299,Otomanguean,zpp
 lach1249,Lachixío Zapotec,otom1299,Otomanguean,zpl
@@ -20362,13 +20362,6 @@ akha1246,Akhaic,sino1245,Sino-Tibetan,
 hani1248,Hani,sino1245,Sino-Tibetan,hni
 akeu1235,Akeu,sino1245,Sino-Tibetan,aeu
 akha1245,Akha,sino1245,Sino-Tibetan,ahk
-muda1235,Muda,sino1245,Sino-Tibetan,ymd
-akoo1247,Ako,sino1245,Sino-Tibetan,
-chep1243,Chepya,sino1245,Sino-Tibetan,ycp
-ason1245,Asong,sino1245,Sino-Tibetan,
-bika1249,Bika,sino1245,Sino-Tibetan,
-haoh1238,Haohai,sino1245,Sino-Tibetan,
-haya1248,Haya (China),sino1245,Sino-Tibetan,
 baih1238,Baihong,sino1245,Sino-Tibetan,
 cosa1234,Cosao,sino1245,Sino-Tibetan,
 sila1247,Sila,sino1245,Sino-Tibetan,slt
@@ -20376,6 +20369,13 @@ buyu1238,Buyuan Jinuo,sino1245,Sino-Tibetan,jiy
 youl1235,Youle Jinuo,sino1245,Sino-Tibetan,jiu
 kuco1235,Kucong,sino1245,Sino-Tibetan,lkc
 lahu1252,Lahu Shi,sino1245,Sino-Tibetan,lhi
+chep1243,Chepya,sino1245,Sino-Tibetan,ycp
+muda1235,Muda,sino1245,Sino-Tibetan,ymd
+akoo1247,Ako,sino1245,Sino-Tibetan,
+ason1245,Asong,sino1245,Sino-Tibetan,
+bika1249,Bika,sino1245,Sino-Tibetan,
+haoh1238,Haohai,sino1245,Sino-Tibetan,
+haya1248,Haya (China),sino1245,Sino-Tibetan,
 lahu1253,Lahu,sino1245,Sino-Tibetan,lhu
 lahu1254,Lahu Phung,sino1245,Sino-Tibetan,
 naaa1244,Na (Lahu),sino1245,Sino-Tibetan,
