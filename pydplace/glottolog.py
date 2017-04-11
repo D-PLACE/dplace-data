@@ -72,7 +72,7 @@ def trees(societies_by_glottocode, langs, outdir, year, title):
     glob = Tree()
     glob.name = 'glottolog_global'
     
-    for family in families:
+    for family in sorted(families):
         node = family.newick_node(nodes=languoids)
         node.visit(rename)
         taxa_in_tree = set(n.name for n in node.walk())
@@ -123,7 +123,7 @@ def trees(societies_by_glottocode, langs, outdir, year, title):
     with UnicodeWriter(index_path) as writer:
         header = list(phylos[0].keys())
         writer.writerow(header)
-        for phylo in phylos:
+        for phylo in sorted(phylos):
             if phylo['id'] in index:
                 writer.writerow([index[phylo['id']][k] for k in header])
                 del index[phylo['id']]
