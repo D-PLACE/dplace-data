@@ -14,7 +14,7 @@ setup(
         "Programming Language :: Python :: 3.5",
         "Programming Language :: Python :: 3.6",
     ],
-    author='',
+    author='Robert Forkel',
     author_email='forkel@shh.mpg.de',
     url='https://d-place.shh.mpg.de',
     keywords='data',
