@@ -11,10 +11,12 @@ setup(
         "Programming Language :: Python :: 2.7",
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.4",
+        "Programming Language :: Python :: 3.5",
+        "Programming Language :: Python :: 3.6",
     ],
     author='',
     author_email='forkel@shh.mpg.de',
-    url='',
+    url='https://d-place.shh.mpg.de',
     keywords='data',
     packages=find_packages(),
     include_package_data=True,
@@ -34,4 +36,5 @@ setup(
         ]
     },
     tests_require=[],
-    test_suite="pydplace")
+    test_suite="pydplace"
+)
