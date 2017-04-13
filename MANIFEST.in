@@ -1,1 +1,12 @@
-recursive-include pydplace *.tsv
+include LICENSE.txt
+include *.md
+
+recursive-include pydplace *.py
+recursive-include csv *
+recursive-include datasets *
+recursive-include geo *
+recursive-include legacy *
+recursive-include phylogenies *
+recursive-include scripts *
+
+
