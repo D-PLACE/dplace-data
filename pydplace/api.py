@@ -11,6 +11,7 @@ from clldutils.path import Path
 from clldutils.misc import UnicodeMixin
 from clldutils import jsonlib
 from nexus import NexusReader
+from pyglottolog.references import BibFile
 
 comma_split = partial(split_text, separators=',', strip=True, brackets={})
 semicolon_split = partial(split_text, separators=';', strip=True, brackets={})
@@ -42,6 +43,23 @@ class Variable(object):
 
 
 @attr.s
+class Reference(UnicodeMixin):
+    key = attr.ib()
+    pages = attr.ib()
+
+    def __unicode__(self):
+        res = self.key
+        if self.pages:
+            res += ':{0}'.format(self.pages)
+        return res
+
+    @classmethod
+    def from_string(cls, s):
+        k, _, p = s.partition(':')
+        return cls(k.strip(), p.strip())
+
+
+@attr.s
 class Data(object):
     soc_id = attr.ib()
     sub_case = attr.ib()
@@ -49,7 +67,8 @@ class Data(object):
     var_id = attr.ib()
     code = attr.ib()
     comment = attr.ib()
-    references = attr.ib(convert=semicolon_split)
+    references = attr.ib(
+        convert=lambda s: [Reference.from_string(ss) for ss in semicolon_split(s)])
     source_coded_data = attr.ib()
     admin_comment = attr.ib()
 
@@ -205,6 +224,7 @@ class Repos(object):
         self.variables = {
             v.id: v for v in chain.from_iterable(d.societies for d in self.datasets)
         }
+        self.sources = BibFile(self.dir.joinpath('datasets', 'sources.bib'))
     
     def path(self, *comps):
         return self.dir.joinpath(*comps)

@@ -6,15 +6,43 @@ from shapely.geometry import Point
 from ete3 import Tree
 from ete3.parser.newick import NewickError
 
-from clldutils.clilib import command, ParserError
+from clldutils.clilib import command, ParserError, confirm
 from clldutils.path import write_text
 from clldutils.markup import Table
 from clldutils.jsonlib import update
 from clldutils.dsv import UnicodeWriter
 
-
 from pydplace import geo
 from pydplace import glottolog
+
+count = 0
+
+@command()
+def books(args):
+    import re
+    from clldutils.misc import slug
+    #Les villages gabonais. Mem. Inst. Et. CentrAfr. 5: 1-86.
+    article_pattern = re.compile('([^,.:()]+)\.\s+([^0-9]+)([0-9]+):\s*([0-9]+-[0-9]+)\.$')
+
+    def visitor(e):
+        global count
+        if 'citation' in e.fields:
+            m = article_pattern.match(e.fields['citation'])
+            if m:
+                count += 1
+                try:
+                    if 1:#count < 100 and confirm(e.fields['citation'], default=False):
+                        e.fields['title'] = m.groups()[0]
+                        e.fields['journal'] = m.groups()[1]
+                        e.fields['volume'] = m.groups()[2]
+                        e.fields['pages'] = m.groups()[3]
+                        e.type = 'article'
+                        del e.fields['citation']
+                except:
+                    pass
+
+    args.repos.sources.visit(visitor)
+    print(count)
 
 
 @command()
@@ -45,6 +73,7 @@ def check(args):
     glottolog = {l.id: l for l in
                  args.repos.read_csv('csv', 'glottolog.csv', namedtuples=True)}
 
+    sources = set(e.key for e in args.repos.sources.iterentries())
     socids, xdids, varids = set(), set(), set()
     for ds in args.repos.datasets:
         for soc in ds.societies:
@@ -68,7 +97,13 @@ def check(args):
         undefined = set([r.var_id for r in ds.data if r.var_id not in varids])
         for u in undefined:
             args.log.error('undefined variable ID: {0}'.format(u))
-        
+
+        for d in ds.data:
+            for ref in d.references:
+                if ref.key not in sources:
+                    args.log.error('undefined source key "{0}" referenced in {1}'.format(
+                        ref.key, ds.id))
+
     for p in args.repos.phylogenies:
         for taxon in p.taxa:
             if taxon.glottocode and taxon.glottocode not in glottolog:
