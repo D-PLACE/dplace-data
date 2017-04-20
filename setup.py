@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='pydplace',
-    version='0.2',
+    version='0.3',
     license='CC-BY-4.0',
     description='programmatic access to D-PLACE/dplace-data',
     long_description='',
