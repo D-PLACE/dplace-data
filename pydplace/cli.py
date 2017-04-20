@@ -25,10 +25,11 @@ assert pydplace.commands
 
 
 def main():  # pragma: no cover
+    try:
+        drepos = Repos(Path(pydplace.__file__).parent.parent)
+    except:
+        drepos = None
+
     parser = ArgumentParserWithLogging(pydplace.__name__)
-    parser.add_argument(
-        '--repos',
-        help=argparse.SUPPRESS,
-        type=Repos,
-        default=Repos(Path(pydplace.__file__).parent.parent))
+    parser.add_argument('--repos', help=argparse.SUPPRESS, type=Repos, default=drepos)
     sys.exit(parser.main())
