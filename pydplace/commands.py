@@ -15,6 +15,15 @@ from pydplace import glottolog
 
 
 @command()
+def bib(args):
+    def visit(e):
+        a, _, y = e.fields['key'].partition(', ')
+        e.fields['key'] = '{0} ({1})'.format(a, y)
+
+    args.repos.sources.visit(visit)
+
+
+@command()
 def readme(args):
     md = ['# Sources', '']
     for datatype in ['datasets', 'phylogenies']:

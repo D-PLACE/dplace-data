@@ -7,7 +7,7 @@ from itertools import groupby, chain
 import attr
 from clldutils.text import split_text
 from clldutils.dsv import reader
-from clldutils.path import Path
+from clldutils.path import Path, git_describe
 from clldutils.misc import UnicodeMixin
 from clldutils import jsonlib
 from nexus import NexusReader
@@ -205,7 +205,7 @@ class Phylogeny(ObjectWithSource):
         return [Taxon(**d) for d in reader(self.dir.joinpath('taxa.csv'), dicts=True)]
 
 
-class Repos(object):
+class Repos(UnicodeMixin):
     def __init__(self, dir_):
         self.dir = Path(dir_)
         self.datasets = [
@@ -221,6 +221,9 @@ class Repos(object):
             v.id: v for v in chain.from_iterable(d.societies for d in self.datasets)
         }
         self.sources = BibFile(self.dir.joinpath('datasets', 'sources.bib'))
+
+    def __unicode__(self):
+        return '<D-PLACE data repos {0} at {1}>'.format(git_describe(self.dir), self.dir)
 
     def path(self, *comps):
         return self.dir.joinpath(*comps)
