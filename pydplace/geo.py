@@ -1,7 +1,10 @@
 # coding: utf8
 from __future__ import unicode_literals, print_function, division
 
-from shapely.geometry import shape
+try:
+    from shapely.geometry import shape
+except ImportError:
+    shape = None
 
 
 def match(point, features):

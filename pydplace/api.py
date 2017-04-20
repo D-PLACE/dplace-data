@@ -148,10 +148,6 @@ class Dataset(ObjectWithSource):
         return [Data(**d) for d in self._items('data', dicts=True)]
 
     @property
-    def references(self):
-        return self._items('references', namedtuples=True)
-
-    @property
     def societies(self):
         return [Society(**d) for d in self._items('societies', dicts=True)]
 
@@ -225,7 +221,7 @@ class Repos(object):
             v.id: v for v in chain.from_iterable(d.societies for d in self.datasets)
         }
         self.sources = BibFile(self.dir.joinpath('datasets', 'sources.bib'))
-    
+
     def path(self, *comps):
         return self.dir.joinpath(*comps)
 
