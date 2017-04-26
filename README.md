@@ -4,13 +4,12 @@ Data for [D-PLACE](https://d-place.org).
 
 Research that uses data from D-PLACE should cite both the original source(s) of
 the data and the paper by Kirby et al. in which D-PLACE was first presented
-(e.g., research using cultural data from the Binford Hunter-Gatherer dataset:
+e.g., for research using cultural data from the Binford Hunter-Gatherer dataset:
 
-    Binford (2001); Binford and Johnson (2006); Kirby et al. 2016).
+    Binford (2001); Binford and Johnson (2006); Kirby et al. (2016).
 
-The reference list should include the date data were accessed and URL for [D-PLACE](https://d-place.org),
-in addition to the full references for Binford (2001), Binford and Johnson (2006), 
-and Kirby et al. 2016.
+The reference list should include the date the data were accessed and URL for [D-PLACE](https://d-place.org),
+in addition to the full references for Binford (2001), Binford and Johnson (2006), and Kirby et al. (2016).
 
 ## Versions
 
@@ -21,9 +20,11 @@ See the [list of releases](https://github.com/D-PLACE/dplace-data/releases) for 
 
 
 To install `pydplace` you need a python installation on your system, running python 2.7 or >3.4. Run
+
 ```
 python setup.py develop
 ```
+
 on the top level of this repository to install the requirements, `pydplace` and
 the command line interface `dplace`.
 
@@ -43,8 +44,8 @@ Use 'dplace help <cmd>' to get help about individual commands.
 
 ### Python API
 
-D-PLACE data can also be accessed programmatically from within python programs.
-All functionality is mediated through an instance of `pydplace.api.Repos`, e.g.
+D-PLACE data can also be accessed programmatically. All functionality is mediated through an instance of `pydplace.api.Repos`, e.g.
+
 ```python
 >>> from pydplace.api import Repos
 >>> api = Repos('.')
