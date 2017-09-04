@@ -242,7 +242,7 @@ B106,xd780,Kariyarra,kari1304,Kariera (B106),Kariera,1910,,,-20.88,118.27,-20.88
 B90,xd781,Wikmunkan,wikm1247,Wikmunkan (B90),Wikmunkun,1920,,,-13.47,142,-13.47,142,Original,
 B137,xd783,Tasmanians (northwestern),port1278,Tasmanians (western) (B137),"Palawa, Tasmanians (northwestern), Tasmanians (Western), Tasmanians (West Coast)",1830,Tasmanians (OI19),in process,-41.38,145.21,-41.38,145.21,Original,"Note, previously tasm1247, but languages difficult to assign with certainty, so chose another western tasmanian language not considered a ""bookkeeping"" language by glottolog"
 B130,xd784,Ngiyambaa,wang1291,Wongaibon (B130),Wongaibon,1910,,,-32.14,146.09,-32.14,146.09,Original,
-B79,xd8,/Xam,xamm1241,/Xam (B79),"Xam, Cape Bushman",0,,,-31.47,19.77,-31.47,19.77,Original,
+B79,xd8,/Xam,xamm1241,/Xam (B79),"Xam, Cape Bushman",1970,,,-31.47,19.77,-31.47,19.77,Original,
 B69,xd9,Hadza,hadz1240,Hadza (B69),"Hadzabe, Hatsa Kindiga, Hadza, Kindiga",1910,,,-3.82,35.32,-3.82,35.32,Original,
 B2,xd900,Palawan Batak,bata1301,Batek (B2),"Batek, Batak, Batek (Palawan), Palawan",1968,,,10,119.11,10.03,119.09,Revised,"Changed from plw (broo1239) on 26 May 2016 based on feedback from H. Hammarström: ""The Batak in Cadeliña, Warren and Eder is Batak [bya] bata1301
 not [plw] broo1239"""
