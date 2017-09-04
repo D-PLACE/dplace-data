@@ -72,7 +72,7 @@ B270,xd1076,Puyallup,sout2965,Puyallup (B270),,1870,,,47.11,-122.04,47.11,-122.0
 B284,xd1077,Quileute,quil1240,Quileute (B284),,1880,,,47.77,-124.14,47.77,-124.14,Original,
 B274,xd1078,Lower Chinook,chin1286,Chinook (B274),Chinook,1850,Chinookans of the Lower Columbia River (NR06),http://ehrafworldcultures.yale.edu/collection?owc=NR06,46.06,-123.75,46.06,-123.75,Original,
 B271,xd1079,Twana,twan1247,Twana (B271),,1850,,,47.55,-123.16,47.55,-123.16,Original,
-B281,xd1080,Tillamook,till1254,Tillamook (B281),Nehalem,0,,,45.4,-123.82,45.4,-123.82,Original,
+B281,xd1080,Tillamook,till1254,Tillamook (B281),Nehalem,1880,,,45.4,-123.82,45.4,-123.82,Original,
 B275,xd1081,Coos,coos1249,Coos (B275),,1860,,,43.43,-124.11,43.43,-124.11,Original,
 B292,xd1082,Tlingit,tlin1245,Tlingit (B292),"Kolosh, Southern Tlingit",1880,Tlingit (NA12),http://ehrafworldcultures.yale.edu/collection?owc=NA12,57,-133.59,57,-133.59,Original,"Note northern and southern tlingit considered distinct dialects of tli by some, but no codes available in Glottolog."
 B283,xd1083,Heiltsuk,bell1263,Bella-Bella (B283),"Bellabella, Bella Bella",1880,,,52.87,-127.87,52.87,-127.87,Original,
@@ -89,8 +89,8 @@ B162,xd1094,Chimariko,chim1301,Chimariko (B162),,1860,,,40.85,-123.3,40.85,-123.
 B182,xd1095,Karuk,karo1304,Karok (B182),Karok,1860,,,41.58,-123.47,41.58,-123.47,Original,
 B180,xd1096,Hupa,hupa1239,Hupa (B180),,1860,,,40.93,-123.61,40.93,-123.61,Original,
 B184,xd1097,Wiyot,wiyo1248,Wiyot (B184),,1860,,,40.75,-124.14,40.75,-124.14,Original,
-B167,xd1098,Lassik,wail1244,Lassik (B167),,0,,,40.18,-123.16,40.18,-123.16,Original,"Note, Nongatl, Sinkyone and Lassik considered distinct dialects of wlk by some, but glottolog does not provide dialect identifiers"
-B169,xd1099,Mattole-Bear River,matt1238,Mattole (B169),"Mattole, Bear River",0,,,40.17,-124.04,40.17,-124.04,Original,
+B167,xd1098,Lassik,wail1244,Lassik (B167),,1870,,,40.18,-123.16,40.18,-123.16,Original,"Note, Nongatl, Sinkyone and Lassik considered distinct dialects of wlk by some, but glottolog does not provide dialect identifiers"
+B169,xd1099,Mattole-Bear River,matt1238,Mattole (B169),"Mattole, Bear River",1920,,,40.17,-124.04,40.17,-124.04,Original,
 B166,xd1100,Sinkyone,wail1244,Sinkyone (B166),,1860,,,40.1,-123.96,40.1,-123.96,Original,"Note, Nongatl, Sinkyone and Lassik considered distinct dialects of wlk by some, but glottolog does not provide dialect identifiers"
 B186,xd1101,Yurok,yuro1248,Yurok (B186),,1850,Yurok (NS31),http://ehrafworldcultures.yale.edu/collection?owc=NS31,41.4,-123.89,41.4,-123.89,Original,
 B295,xd1102,Eyak,eyak1241,Eyak (B295),dAXunhyuu,1890,,,60.48,-144,60.48,-144,Original,
@@ -110,7 +110,7 @@ B158,xd1116,Eastern Pomo,east2545,Eastern Pomo (B158),,1860,Pomo (NS18),http://e
 B159,xd1116,Clear Lake Pomo,east2545,Clear Lake Pomo (B159),Eastern Pomo,1860,Pomo (NS18),http://ehrafworldcultures.yale.edu/collection?owc=NS18,39.12,-122.94,39.12,-122.94,Original,
 B152,xd1118,Tübalulabal,tuba1278,Tubatulabal (B152),Tubatulabal,1850,Tubatulabal (NS22),http://ehrafworldcultures.yale.edu/collection?owc=NS22,36,-118.32,36,-118.32,Original,
 B172,xd1119,Wappo,wapp1239,Wappo (B172),,1860,,,38.59,-122.54,38.59,-122.54,Original,
-B170,xd1120,Lake Miwok,lake1258,Lake Miwok (B170),,0,,,38.79,-122.48,38.79,-122.48,Original,
+B170,xd1120,Lake Miwok,lake1258,Lake Miwok (B170),,1900,,,38.79,-122.48,38.79,-122.48,Original,
 B155,xd1121,Patwin,patw1250,Patwin (B155),Southern Wintun,1850,,,39.08,-122.05,39.08,-122.05,Original,
 B157,xd1122,Western Mono,mono1275,Monache (B157),"Monachi, Western Mono, Monache",1870,,,36.6,-117.08,36.6,-117.08,Original,
 B148,xd1123,Southern Valley Yokuts,vall1251,Lake Yokuts (B148),"Lake Yokuts, Tachi Yokuts, Chunut Yokuts",1860,Yokuts (NS29),http://ehrafworldcultures.yale.edu/collection?owc=NS29,36,-119.83,36,-119.83,Original,
@@ -242,7 +242,7 @@ B106,xd780,Kariyarra,kari1304,Kariera (B106),Kariera,1910,,,-20.88,118.27,-20.88
 B90,xd781,Wikmunkan,wikm1247,Wikmunkan (B90),Wikmunkun,1920,,,-13.47,142,-13.47,142,Original,
 B137,xd783,Tasmanians (northwestern),port1278,Tasmanians (western) (B137),"Palawa, Tasmanians (northwestern), Tasmanians (Western), Tasmanians (West Coast)",1830,Tasmanians (OI19),in process,-41.38,145.21,-41.38,145.21,Original,"Note, previously tasm1247, but languages difficult to assign with certainty, so chose another western tasmanian language not considered a ""bookkeeping"" language by glottolog"
 B130,xd784,Ngiyambaa,wang1291,Wongaibon (B130),Wongaibon,1910,,,-32.14,146.09,-32.14,146.09,Original,
-B79,xd8,/Xam,xamm1241,/Xam (B79),"Xam, Cape Bushman",0,,,-31.47,19.77,-31.47,19.77,Original,
+B79,xd8,/Xam,xamm1241,/Xam (B79),"Xam, Cape Bushman",1970,,,-31.47,19.77,-31.47,19.77,Original,
 B69,xd9,Hadza,hadz1240,Hadza (B69),"Hadzabe, Hatsa Kindiga, Hadza, Kindiga",1910,,,-3.82,35.32,-3.82,35.32,Original,
 B2,xd900,Palawan Batak,bata1301,Batek (B2),"Batek, Batak, Batek (Palawan), Palawan",1968,,,10,119.11,10.03,119.09,Revised,"Changed from plw (broo1239) on 26 May 2016 based on feedback from H. Hammarström: ""The Batak in Cadeliña, Warren and Eder is Batak [bya] bata1301
 not [plw] broo1239"""
@@ -273,7 +273,7 @@ B61,xd924,Bayaka,beka1240,Bayaka (B61),,1976,,,3.58,17.76,3.58,17.76,Original,
 B62,xd925,Bambote,holo1240,Bambote (B62),Bambote of Lake Tanganyika,1977,,,-6.64,28.26,-6.64,28.26,Original,"Note that Terashima (1980), the main source of cultural data for this group, says further research is needed to confirm whether Bambote speak language of a neighbouring group, or their own language. Both the Bambote and their neighbours say the group speaks a distinct language, ""Kimbote."" Rebecca Grollemund said this society should NOT be matched to iso ""tap""; she said ""Bambote is a pygmy language related to D20 languages"""
 B63,xd926,Baka,baka1272,Baka (B63),Baka Pygmies,1980,,,2.39,15.31,2.39,15.31,Original,
 B64,xd927,Efe,efee1239,Efe (B64),"BaMbuti, Mbuti, Bambuti Pygmies",1980,,,2.7,27.64,2.7,27.64,Original,
-B66,xd928,Mikea,masi1268,Mikea (B66),"Vezo-Mikea, Masikoro-Mikea",0,,,-22.32,43.81,-22.32,43.81,Original,
+B66,xd928,Mikea,masi1268,Mikea (B66),"Vezo-Mikea, Masikoro-Mikea",1970,,,-22.32,43.81,-22.32,43.81,Original,
 B67,xd929,Hukwe,kxoe1243,Hukwe (B67),,1950,,,-16.93,24.32,-16.93,24.32,Original,
 B68,xd930,Hai//om,haio1238,Hai//om (B68),Hai//om,1920,,,-18.65,16.12,-18.65,16.12,Original,
 B71,xd931,Sekele,vase1234,Sekele (B71),,1928,,,-16.42,19.53,-16.42,19.53,Original,
@@ -294,11 +294,11 @@ B93,xd945,Yintjingga,umpi1239,Yintjingga (B93),,1930,,,-14,143.5,-14,143.5,Origi
 B96,xd946,Kuku (Yalanji),kuku1273,Kuku (Yalanji) (B96),Yuku,1880,,,-15.92,145.32,-15.92,145.32,Original,
 B98,xd947,Walmbaria,flin1247,Walmbaria (B98),,1926,,,-14.34,144.22,-14.34,144.22,Original,
 B99,xd948,Mulluk,mull1237,Mulluk (B99),Malakmalak,1900,,,-13.58,130.58,-13.58,130.58,Original,
-B100,xd949,Worrorra,worr1237,Worora (B100),Worora,0,,,-15.32,124.72,-15.32,124.72,Original,
+B100,xd949,Worrorra,worr1237,Worora (B100),Worora,1930,,,-15.32,124.72,-15.32,124.72,Original,
 B101,xd950,Kija,kitj1240,Lungga (B101),"Kija, Lungga, Kija, Lungka",1934,,,-16.91,127.83,-16.91,127.83,Original,
 B102,xd951,Lardil,lard1243,Lardil (B102),,1909,,,-16.3,139.3,-16.48,139.32,Revised,
 B103,xd952,Kaiadilt,kaya1319,Kaiadilt (B103),Kayardild,1928,,,-16.94,139.28,-16.94,139.03,Revised,
-B104,xd953,Karajarri,kara1476,Karadjeri (B104),Karadjeri,0,,,-18.92,121.21,-18.94,121.68,Revised,
+B104,xd953,Karajarri,kara1476,Karadjeri (B104),Karadjeri,1925,,,-18.92,121.21,-18.94,121.68,Revised,
 B105,xd954,Mamu,mamu1253,Mamu (B105),,1900,,,-17.64,145.84,-17.64,145.84,Original,
 B107,xd955,Warunggu,waru1264,Warunggu (B107),Woronggo,1870,,,-18.41,145.61,-18.41,145.61,Original,
 B108,xd956,Djaru,jaru1254,Djaru (B108),Jaru,1934,,,-19.16,130,-19.16,130,Original,
