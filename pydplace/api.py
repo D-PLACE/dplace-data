@@ -35,10 +35,10 @@ class Variable(object):
     definition = attr.ib()
     type = attr.ib(
         validator=partial(valid_enum_member, ['Continuous', 'Categorical', 'Ordinal']))
-    units = attr.ib()
     source = attr.ib()
     changes = attr.ib()
     notes = attr.ib()
+    units = attr.ib(default='')
     codes = attr.ib(default=attr.Factory(list))
 
 
@@ -121,14 +121,14 @@ class Society(UnicodeMixin):
     ORIG_name_and_ID_in_this_dataset = attr.ib()
     alt_names_by_society = attr.ib()
     main_focal_year = attr.ib()
+    glottocode_comment = attr.ib()
     HRAF_name_ID = attr.ib()
     HRAF_link = attr.ib()
-    origLat = attr.ib(convert=float)
-    origLong = attr.ib(convert=float)
-    Lat = attr.ib(convert=float, validator=partial(valid_range, -90, 90))
-    Long = attr.ib(convert=float, validator=partial(valid_range, -180, 180))
-    Comment = attr.ib()
-    glottocode_comment = attr.ib()
+    origLat = attr.ib(convert=float, default=0)
+    origLong = attr.ib(convert=float, default=0)
+    Lat = attr.ib(convert=float, validator=partial(valid_range, -90, 90), default=0)
+    Long = attr.ib(convert=float, validator=partial(valid_range, -180, 180), default=0)
+    Comment = attr.ib(default=None)
 
     def __unicode__(self):
         return '{0.pref_name_for_society} ({0.id})'.format(self)

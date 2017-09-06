@@ -1,30 +1,30 @@
 taxon,glottocode,xd_ids,soc_ids
 aht,ahte1237,,
-apc,mesc1238,xd1259,"Nh1, B242, J152, J153, SCCS148"
-apj,jica1244,xd1266,"Nh16, J156"
+apc,mesc1238,xd1259,"Nh1, B242, WNAI152, WNAI153, SCCS148"
+apj,jica1244,xd1266,"Nh16, WNAI156"
 apk,kiow1264,xd1219,"Ne2, B244"
-apl,lipa1241,xd1275,"Nh24, B240, J155"
-apw,west2615,xd1267,"Nh17, J147, J148, J149, J150, J151"
+apl,lipa1241,xd1275,"Nh24, B240, WNAI155"
+apw,west2615,xd1267,"Nh17, WNAI147, WNAI148, WNAI149, WNAI150, WNAI151"
 bea,beav1236,xd1045,"Na29, B344"
 cco,coqu1236,,
 chp,chip1261,xd1046,"Na30, B355"
-crx,carr1249,xd1035,"Na19, B349, J93, J94"
+crx,carr1249,xd1035,"Na19, B349, WNAI93, WNAI94"
 dgr,dogr1252,xd1032,"Na15, B361"
 eya,eyak1241,xd1102,"Nb5, B295, SCCS130"
 gce,gali1261,xd1423,J34
 gwi,gwic1235,xd1037,"Na20, B356"
 haa,hann1241,xd1008,B351
-hax,sout2956,xd1438,J4
+hax,sout2956,xd1438,WNAI4
 hoi,holi1241,xd1013,B364
-hup,hupa1239,xd1096,"Nb35, B180, J38"
+hup,hupa1239,xd1096,"Nb35, B180, WNAI38"
 ing,dege1248,xd1066,"Na8, B357, SCCS122"
 ket,kett1243,xd636,"Ec8, B24"
 kkz,kask1239,xd1056,"Na4, B346, SCCS129"
 koy,koyu1237,xd1010,B354
-kto,kato1244,xd1425,J43
+kto,kato1244,xd1425,WNAI43
 kuu,uppe1438,,
-mtl,matt1238,xd1099,"Nb38, B169, J41"
-nav,nava1243,xd1279,"Nh3, J157, J158"
+mtl,matt1238,xd1099,"Nb38, B169, WNAI41"
+nav,nava1243,xd1279,"Nh3, WNAI157, WNAI158"
 scsh,nort2942,xd1009,B352
 srs,sars1236,xd1226,"Ne7, B260"
 taa,lowe1425,,
@@ -32,10 +32,10 @@ tau,uppe1437,xd1026,"Na1, B359"
 tcb,tana1290,,
 tceS,sout2957,,
 tfn,tana1289,xd1042,"Na26, B362"
-tli,tlin1245,"xd1082, xd1431","Nb22, B292, J2, J1"
-tol,tolo1259,xd1103,"Nb6, B178, J35"
+tli,tlin1245,"xd1082, xd1431","Nb22, B292, WNAI2, WNAI1"
+tol,tolo1259,xd1103,"Nb6, B178, WNAI35"
 ttmN,nort2941,xd1012,B363
 txc,tset1236,,
-wlk,wail1244,"xd1100, xd1098, xd1434","Nb39, B166, J40, Nb37, B167, J42"
+wlk,wail1244,"xd1100, xd1098, xd1434","Nb39, B166, WNAI40, Nb37, B167, WNAI42"
 xsl,sout2959,xd1034,"Na17, B345, SCCS128"
 zko,kott1239,,
