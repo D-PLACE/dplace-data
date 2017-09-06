@@ -1,0 +1,173 @@
+id,xd_id,pref_name_for_society,ORIG_name_and_ID_in_this_dataset,alt_names_by_society,main_focal_year,glottocode,glottocode_comment,HRAF_name_ID,HRAF_link
+WNAI1,xd1431,North Tlingit,North Tlingit (J1),North Tlinkit,NA,tlin1245,"Note northern and southern tlingit considered distinct dialects of tli by some, but no codes available in Glottolog.",Tlingit (NA12),http://ehrafworldcultures.yale.edu/collection?owc=NA12
+WNAI2,xd1082,Tlingit,South Tlingit (J2),"Kolosh, Southern Tlingit, South Tlingit",NA,tlin1245,"Note northern and southern tlingit considered distinct dialects of tli by some, but no codes available in Glottolog.",Tlingit (NA12),http://ehrafworldcultures.yale.edu/collection?owc=NA12
+WNAI3,xd1068,Haida (Northern),North Masset Haida (J3),North Masset Haida,NA,nort2938,,,
+WNAI4,xd1438,Haida (Southern),South Skidegate Haida (J4),South Skidegate Haida,NA,sout2956,,Haida (NE09),http://ehrafworldcultures.yale.edu/collection?owc=NE09
+WNAI5,xd1104,Tsimshian,Tsimshian (J5),Ts’msyan,NA,nucl1649,,,
+WNAI6,xd998,Gitxsan,Gitksan Tsimshian (J6),"Gitksan, Gitksan Tsimshian",NA,gitx1241,,,
+WNAI7,xd1105,Haisla,Haisla Kwakiutl (J7),"Kitimat, Haisla Kwakiutl",NA,hais1244,,,
+WNAI8,xd1424,Haihais,Haihais Kwakiutl (J8),"Haihais, XaiXais",NA,oowe1239,,,
+WNAI9,xd1083,Heiltsuk,Bella Bella Kwakiutl (J9),"Bellabella, Bella Bella, Bella Bella Kwakiutl",NA,bell1263,,,
+WNAI10,xd1090,Kwakiutl,Fort Rupert Kwakiutl (J10),"Southern Kwakiutl,Kwagu'?, Kwagyewlth, Fort Rupert Kwakiutl",NA,kwak1269,,,
+WNAI11,xd1106,Nuxalk,Bella Coola Salish (J11),"Nuxalkmc, Bellacoola, Bilqula, Bella Coola, Bella Coola Salish",NA,bell1243,,Nuxalk (NE06),http://ehrafworldcultures.yale.edu/collection?owc=NE06
+WNAI12,xd1070,Nootka,Clayoquot Nootka (J12),"Nuu-chah-nulth, Aht, Central Nootka, Clayoquot Nootka",NA,nuuc1236,,Nuu-chah-nulth (NE11),http://ehrafworldcultures.yale.edu/collection?owc=NE11
+WNAI13,xd1084,Makah,Makah Nootkan (J13),Makah Nootkan,NA,maka1318,,Nootka (NE11),http://ehrafworldcultures.yale.edu/collection?owc=NE11
+WNAI14,xd1071,Klahoose,Klahuse Salish (J14),"Klahoose, Klahuse",NA,slia1241,,,
+WNAI15,xd1427,Pentlatch,Pentlatch Salish (J15),Pentlatch Salish,NA,pent1242,,,
+WNAI16,xd1072,Squamish,Squamish Salish (J16),Squamish Salish,NA,squa1248,,,
+WNAI17,xd1086,Cowichan,Cowichan Salish (J17),"Hul'q'umi'num Mustimuhw, Cowichan Salish",NA,cowi1241,,,
+WNAI18,xd1428,West Saanich,West Sanetch Salish (J18),West Sanetch Salish,NA,saan1246,"Previously saan1244, updated to  saan1246 by @kirbykat 27 April 2017",,
+WNAI19,xd1087,Stó:l?,Upper Stalo Salish (J19),"Stalo, Halkomelem, Fraser River Cowichan, Upper Stalo Salish",NA,chil1281,,,
+WNAI20,xd1441,Musqueam,Lower Fraser Salish (J20),Lower Fraser Salish,NA,musq1240,,,
+WNAI21,xd1074,Lummi,Lummi Salish (J21),"Lhaq'temish, Lummi Salish",NA,lumm1243,,,
+WNAI22,xd1075,Klallam,Klallam Salish (J22),"Clallum, Klallam Salish",NA,clal1241,,,
+WNAI23,xd1079,Twana,Twana Salish (J23),Twana Salish,NA,twan1247,,,
+WNAI24,xd1085,Quinault,Quinault Salish (J24),Quinault Salish,NA,quin1251,,Quinault (NR17),http://ehrafworldcultures.yale.edu/collection?owc=NR17
+WNAI25,xd1076,Puyallup,Puyallup Salish (J25),Puyallup Salish,NA,sout2965,,,
+WNAI26,xd1077,Quileute,Quileute Chimakuan (J26),Quileute Chimakuan,NA,quil1240,,,
+WNAI27,xd1078,Lower Chinook,Lower Chinook (J27),Chinook,NA,chin1286,,Chinookans of the Lower Columbia River (NR06),http://ehrafworldcultures.yale.edu/collection?owc=NR06
+WNAI28,xd1080,Tillamook,Tillamook Salish (J28),"Nehalem, Tillamook Salish",NA,till1254,,,
+WNAI29,xd1088,Alsea,Alsea (J29),,NA,alse1251,,,
+WNAI30,xd1089,Siuslaw,Siuslaw (J30),,NA,sius1254,,,
+WNAI31,xd1081,Coos,Coos (J31),,NA,coos1249,,,
+WNAI32,xd1092,Tututni,Tututni Athapaskan (J32),Tututni Athapaskan,NA,tutu1242,,,
+WNAI33,xd1422,Chetco,Chetco Athapaskan (J33),Chetco Athapaskan,NA,tolo1259,,,
+WNAI34,xd1423,Taltushtuntede,Galice Creek Athapaskan (J34),"Taltushtuntude, Galice Creek or Tal-tuc-tun-te-de",NA,gali1261,,,
+WNAI35,xd1103,Tolowa,Tolowa Athapaskan (J35),Tolowa Athapaskan,NA,tolo1259,,,
+WNAI36,xd1101,Yurok,Yurok (J36),,NA,yuro1248,,Yurok (NS31),http://ehrafworldcultures.yale.edu/collection?owc=NS31
+WNAI37,xd1095,Karuk,Karok (J37),Karok,NA,karo1304,,,
+WNAI38,xd1096,Hupa,Hupa Athapaskan (J38),Hupa Athapaskan,NA,hupa1239,,,
+WNAI39,xd1097,Wiyot,Wiyot (J39),,NA,wiyo1248,,,
+WNAI40,xd1100,Sinkyone,Sinkyone Athapaskan (J40),Sinkyone Athapaskan,NA,wail1244,"Note, Nongatl, Sinkyone and Lassik considered distinct dialects of wlk by some, but glottolog does not provide dialect identifiers",,
+WNAI41,xd1099,Mattole-Bear River,Mattole Athapaskan (J41),"Mattole, Bear River",NA,matt1238,,,
+WNAI42,xd1434,Nongatl,Nongatl Athapaskan (J42),Nongatl Athapaskan,NA,wail1244,"Note, Nongatl, Sinkyone and Lassik considered distinct dialects of wlk by some, but glottolog does not provide dialect identifiers",,
+WNAI43,xd1425,Cahto,Kato Athapaskan (J43),"Kato, Kato Athapaskan",NA,kato1244,,,
+WNAI44,xd1093,Shasta (East),East Shasta (J44),East Shasta,NA,shas1239,,,
+WNAI45,xd1093,Shasta (West),West Shasta (J45),West Shasta,NA,shas1239,,,
+WNAI46,xd1094,Chimariko,Chimariko (J46),,NA,chim1301,,,
+WNAI47,xd1112,Wintu (Trinity River),Trinity River Wintu (J47),"Northern Wintu, Trinity River Wintu",NA,nucl1651,Changed 15Nov2016 to differentiate Nomlaki from Wintu,,
+WNAI48,xd1112,Wintu (McCloud River),McCloud River Wintu (J48),"Northern Wintu, McCloud River Wintu",NA,nucl1651,Changed 15Nov2016 to differentiate Nomlaki from Wintu,,
+WNAI49,xd1112,Wintu (Sacramento River),Sacramento River Wintu (J49),"Northern Wintu, Sacramento River Wintu",NA,nucl1651,Changed 15Nov2016 to differentiate Nomlaki from Wintu,,
+WNAI50,xd1107,Nomlaki,Nomlaki Wintun (J50),"Central Wintun, Nomlaki Wintun",NA,noml1242,Changed 15Nov2016 to differentiate Nomlaki from Wintu,,
+WNAI51,xd1108,Achumawi (East),East Achomawi (J51),"Achomawi, East Achomawi",NA,achu1247,,,
+WNAI52,xd1108,Achumawi (West),West Achomawi (J52),"Achomawi, West Achomawi",NA,achu1247,,,
+WNAI53,xd1135,Atsugewi,Atsugewei (J53),Atsugewei,NA,atsu1245,,,
+WNAI54,xd1432,Valley Maidu,Valley Maidu (J54),,NA,vall1252,,,
+WNAI55,xd1433,Foothill Maidu,Foothill Maidu (J55),,NA,nort2951,,,
+WNAI56,xd1110,Maidu,Mountain Maidu (J56),"Pujunan, Mountain Maidu",NA,nort2952,,,
+WNAI57,xd1111,Nisenan (Foothill),Foothill Nisenan (J57),"Southern Maidu, Nisenan Southern Maidu, Foothill Nisenan",NA,nise1244,,,
+WNAI58,xd1111,Nisenan (Mountain),Mountain Nisenan (J58),"Southern Maidu, Nisenan Southern Maidu, Mountain Nisenan",NA,nise1244,,,
+WNAI59,xd1111,Nisenan (Southern),Southern Nisenan (J59),"Southern Maidu, Nisenan Southern Maidu, Southern Nisenan",NA,nise1244,,,
+WNAI60,xd1113,Coast Yuki,Coast Yuki (J60),,NA,yuki1243,,Yuki (NS30),http://ehrafworldcultures.yale.edu/collection?owc=NS30
+WNAI61,xd1138,Yuki,Yuki (J61),,NA,yuki1243,,Yuki (NS30),http://ehrafworldcultures.yale.edu/collection?owc=NS30
+WNAI62,xd1109,Yana,Yana (J62),Nozi,NA,yana1271,,,
+WNAI63,xd1115,Northern Pomo,Northern Pomo (J63),,NA,nort2966,,Pomo (NS18),http://ehrafworldcultures.yale.edu/collection?owc=NS18
+WNAI64,xd1116,Eastern Pomo,Eastern Pomo (J64),"Clear Lake Pomo, Eastern Pomo",NA,east2545,,Pomo (NS18),http://ehrafworldcultures.yale.edu/collection?owc=NS18
+WNAI65,xd1117,Southern Pomo,Southern Pomo (J65),Southern Pomo,NA,sout2984,,Pomo (NS18),http://ehrafworldcultures.yale.edu/collection?owc=NS18
+WNAI66,xd1119,Wappo,Wappo Yukian (J66),Wappo Yukian,NA,wapp1239,,,
+WNAI67,xd1121,Patwin,Patwin Wintun (J67),"Southern Wintun, Patwin Wintun",NA,patw1250,,,
+WNAI68,xd1420,Northern Miwok,Northern Miwok (J68),,NA,nort2968,,,
+WNAI69,xd1136,Central Sierra Miwok,Central Miwok (J69),"Central Sierra Miwok, Miwok",NA,cent2140,,,
+WNAI70,xd1421,Southern Miwok,Southern Miwok (J70),,NA,sout2985,,,
+WNAI71,xd993,North Fork Mono,San Joaquin Mono (Uto-Aztecan) (J71),"North Fork Mono, Northfork Mono, Mono-North Fork Paiute, Norfolk Mono, Western Mono, San Joaquin Mono (Uto-Aztecan)",NA,mono1275,,,
+WNAI72,xd1122,Kings River Western Mono,Kings River Mono (Uto-Aztecan) (J72),"Monachi, Western Mono, Monache, Kings River Mono (Uto-Aztecan)",NA,mono1275,,,
+WNAI73,xd1129,Northern Foothills Yokuts,Chuckchansi Yokuts (J73),"Northern Foothill Yokuts, Chuckchansi Yokuts",NA,nort2937,,Yokuts (NS29),http://ehrafworldcultures.yale.edu/collection?owc=NS29
+WNAI74,xd1436,Kings River Yokuts,Kings River Yokuts (J74),Central Foothill Yokuts,NA,sout2955,,Yokuts (NS29),http://ehrafworldcultures.yale.edu/collection?owc=NS29
+WNAI75,xd1124,Wukchumni,Kaweah Yokuts (J75),"Kawi'a, Kaweah, Kaweah Yokuts, Central Foothills Yokuts",NA,tule1245,,Yokuts (NS29),http://ehrafworldcultures.yale.edu/collection?owc=NS29
+WNAI76,xd1123,Southern Valley Yokuts (Lake),Lake Yokuts (J76),"Lake Yokuts, Tachi Yokuts, Chunut Yokuts",NA,vall1251,,Yokuts (NS29),http://ehrafworldcultures.yale.edu/collection?owc=NS29
+WNAI77,xd1123,Southern Valley Yokuts (Yauelmani),Yauelmani Yokuts (J77),"Yowlumne, Yawelmani, Southern Valley Yokuts",NA,vall1251,,Yokuts (NS29),http://ehrafworldcultures.yale.edu/collection?owc=NS29
+WNAI78,xd1118,Tübalulabal,Tubatulabal (J78),Tubatulabal,NA,tuba1278,,Tubatulabal (NS22),http://ehrafworldcultures.yale.edu/collection?owc=NS22
+WNAI79,xd1126,Kawaiisu,Kawaiisu (J79),Kawaiisu Shoshoni,NA,kawa1283,,,
+WNAI80,xd1125,Salinan,Salinan (J80),,NA,sali1253,,,
+WNAI81,xd1128,Tongva,Gabrielino (J81),"Gabrielo, Gabrielino, Gabrieleno",NA,tong1329,,,
+WNAI82,xd1133,Luiseño,Luiseno (J82),"Payómkawichum, Luiseno",NA,luis1253,,,
+WNAI83,xd1132,Cupeño,Cupeno (J83),"Kuupangaxwichem, Cupeno",NA,cupe1243,,,
+WNAI84,xd1130,Serrano,Serrano (J84),,NA,serr1255,,,
+WNAI85,xd1131,Cahuilla (Desert),Desert Cahuilla (J85),Desert Cahuilla,NA,cahu1264,"Note, three Cahuilla Dialects (Mountain, Pass, Desert) are recognized by some, but Glottolog does not list any dialects",,
+WNAI86,xd1439,Cahuilla (Pass),Pass Cahuilla (J86),Pass Cahuilla,NA,cahu1264,"Note, three Cahuilla Dialects (Mountain, Pass, Desert) are recognized by some, but Glottolog does not list any dialects",,
+WNAI87,xd1440,Cahuilla (Mountain),Mountain Cahuilla (J87),Mountain Cahuilla,NA,cahu1264,"Note, three Cahuilla Dialects (Mountain, Pass, Desert) are recognized by some, but Glottolog does not list any dialects",,
+WNAI88,xd1437,Kumeyaay (Mountain Diegueno),Mountain Diegueno (J88),"Eastern Ipai, Northern Kumeyaay",NA,ipai1240,"Previously ipai1239, updated to  ipai1240 by @kirbykat 27 April 2017",,
+WNAI89,xd1137,Kumeyaay (Western Diegueno),Western Diegueno (J89),"Western Ipai and Western Tipai, Southern Kumeyaay",NA,kumi1248,"Previously  tipa1240, updated to  kumi1248 by @xrotwang or @SimonGreenhill in early 2017",,
+WNAI90,xd1137,Kumeyaay (Desert Diegueno),Desert Diegueno (J90),"Tipai, Central and Southern Kumeyaay",NA,kumi1248,"Previously  tipa1240, updated to  kumi1248 by @xrotwang or @SimonGreenhill in early 2017",,
+WNAI91,xd1134,Kiliwa,Kaliwa (Hokan) (J91),"K'olew, Kaliwa (Hokan)",NA,kili1268,,,
+WNAI92,xd1426,Akwa’ala,Akwa’ala (Hokan) (J92),"Paipai, Akwa’ala (Hokan)",NA,paip1241,,,
+WNAI93,xd1035,Dakelh (Alkatcho Carrier),Alkatcho Carrier (J93),"Carrier, Takulli, Alkatcho Carrier",NA,carr1249,,,
+WNAI94,xd1035,Dakelh (Lower Carrier),Lower Carrier (J94),"Carrier, Takulli, Lower Carrier",NA,carr1249,,,
+WNAI95,xd1206,Chilcotin,Chilcotin (J95),Tsilhqot'in,NA,chil1280,,,
+WNAI96,xd1143,Shuswap,Shuswap (J96),Secwepemc,NA,shus1248,,,
+WNAI97,xd1207,Lillooet,Upper Lillooet (J97),"St'at'imc, Stlatlum, Upper Lillooet",NA,lill1248,,,
+WNAI98,xd1142,Nlaka'pamux,Upper Thompson (J98),"Thompson, Nitlakapamuk, Thompson River Salish, Upper Thompson",NA,thom1243,,,
+WNAI99,xd1001,Syilx,Southern Okanagon (J99),"Okanagan, Southern Okanagon",NA,sout2963,,,
+WNAI100,xd1174,Sanpoil,Sanpoil (J100),,NA,sanp1257,,Southeast (NR19),in process
+WNAI101,xd1419,Sinkiuse-Columbia,"Columbia (Salish, Interior) (J101)","Sinkiuse, Columbia (Salish, Interior)",NA,colu1250,,,
+WNAI102,xd1148,Wenatchi,Wenatchi (J102),,NA,wena1241,,,
+WNAI103,xd1146,Coeur d’Alene,Coeur d’Alene (J103),"Schitsu'umsh, Skitswish",NA,coeu1236,,Southeast (NR19),in process
+WNAI104,xd1145,Kalispel,Kalispel (J104),,NA,kali1309,,Southeast (NR19),in process
+WNAI105,xd1144,Bitterroot Salish,Flathead (J105),"Salish, Flathead",NA,kali1309,,Southeast (NR19),in process
+WNAI106,xd1205,Kutenai,Kutenai (J106),"Ktunaxa, Kootenay, Kootenai",NA,kute1249,,,
+WNAI107,xd1153,Nez Perce,Nez Perce (J107),"Nimi'ipuu, Sahaptin",NA,nezp1238,,,
+WNAI108,xd1151,Umatilla,Umatilla (J108),,NA,umat1237,,,
+WNAI109,xd1435,Klikitat,Klikitat (J109),Klickitat,NA,klik1240,,,
+WNAI110,xd1150,Wishram,Wishram (J110),,NA,wasc1239,,,
+WNAI111,xd1141,Tenino,Tenino (J111),"Warmsprings Sahaptin, Yenino",NA,teni1238,,,
+WNAI112,xd1139,Klamath,Klamath (J112),,NA,klam1254,,Klamath (NR10),http://ehrafworldcultures.yale.edu/collection?owc=NR10
+WNAI113,xd1140,Modoc,Modoc (J113),,NA,klam1254,,,
+WNAI114,xd1155,Wadadokado,Wada-Dokado Northern Paiute (J114),"Paiute, Northern Paiute, Wada-Dokado Northern Paiute",NA,nort1551,,Northern Paiute (NR13),http://ehrafworldcultures.yale.edu/collection?owc=NR13
+WNAI115,xd1157,Kidutokado,Kidu-Dokado Northern Paiute (J115),"Gididika, Surprise Valley Paiute, Kidu-Dokado Northern Paiute",NA,nort1551,,Northern Paiute (NR13),http://ehrafworldcultures.yale.edu/collection?owc=NR13
+WNAI116,xd1160,Kuyuidokado,Kuyui-Dokado Northern Paiute (J116),"Pyramid Lake Paiute, Kuyui-Dokado Northern Paiute",NA,sout2967,,Northern Paiute (NR13),http://ehrafworldcultures.yale.edu/collection?owc=NR13
+WNAI117,xd1164,Eastern Mono,Owens Valley Northern Paiute (J117),"Owens Valley Paiute, Owens Valley Northern Paiute",NA,mono1275,,,
+WNAI118,xd1166,Tümpisa Shoshone (Panamint),Panamint Shoshone (J118),"Panamint, California Shoshone",NA,pana1305,,Western (NT22),in process
+WNAI119,xd1196,Washo,Washo (J119),,NA,wash1253,,Washo (NT20),in process
+WNAI120,xd1169,Mahaguaduka,Reese River Shoshone (J120),"Reese River Shoshoni, Reese River Shoshone",NA,west2622,,Western (NT22),in process
+WNAI121,xd995,Spring Valley Shoshoni,Spring Valley Shoshone (J121),Spring Valley,NA,west2622,,,
+WNAI122,xd1176,Wadaduka,Ruby Valley Shoshone (J122),"Ruby Valley Shoshoni, Pine Creek Shoshoni, Diamond Valley Shoshoni, Egan Canyon Shoshoni, Ruby Valley Shoshone",NA,west2622,,,
+WNAI123,xd1178,White Knife Shoshoni,Battle Mountain Shoshone (J123),"Battle Mountain (White Knife) Shoshone, White Knife Shoshoni, Battle Mountain Shoshoni, Tosawihi",NA,west2622,,,
+WNAI124,xd1183,Gosiute,Gosiute Shoshone (J124),"Gosiute Shoshoni, Deep Creek Shoshoni, Gosiute Shoshone",NA,gosi1242,,Western (NT22),in process
+WNAI125,xd1180,Bohogue,Bohogue Shoshone (J125),"Fort Hall Shoshoni, Bohogue Shoshone",NA,nort2955,,,
+WNAI126,xd1182,Agaiduka,Agaiduka Shoshone (J126),"Agaiduka, Salmon-Eater Shoshoni, Lemhi River Shoshoni, Agaiduku (Lemhi) Shoshone",NA,nort2955,,,
+WNAI127,xd1185,Hukundika,Hukundika Shoshone (J127),"Seed-Eaters, Northern Shoshoni, Hukunduka, Hukuniduica, Hukundika Shoshone, Promontory Shoshone",NA,nort2955,,,
+WNAI128,xd1201,Wind River Eastern Shoshone,Wind River Shoshone (J128),"Wind River, Eastern Shoshoni, Kucundika, Buffalo Hunters, Buffalo-Eater, Wind River Shoshone",NA,nort2955,,,
+WNAI129,xd1194,Uintah Ute,Uintah Ute (J129),"Tompanowots, Yampa",NA,utee1244,,,
+WNAI130,xd1199,Uncompahgre Ute,Uncompaghre Ute (J130),Mowataviwatsiu,NA,utee1244,,,
+WNAI131,xd1152,Southern Ute,Wimonuch Ute (Shoshonean) (J131),"Wimonuch Utes, Ute Mountain Ute,  Wimonutsi, Navajo Springs, Wimonuntci, Weminute, Wimonantci Ute",NA,utee1244,,Ute (NT19),http://ehrafworldcultures.yale.edu/collection?owc=NT19
+WNAI132,xd1188,Shivwits,Shivwits Southern Paiute (J132),"Shivwits, Suwuntsu (St. George), Suwuntsu, St. George, Gunlock, Uinkaret, Southern Paiute",NA,sout2969,,,
+WNAI133,xd1189,Southern Paiute (Kaibab and Las Vegas),Kaibab Southern Paiute (J133),"Kaivavwits, Southern Paiute, Southern Paiute, Kaibab Southern Paiute",NA,sout2969,,,
+WNAI134,xd1192,San Juan,San Juan Southern Paiute (J134),"San Juan, Kwaanitikwokets",NA,sout2969,,,
+WNAI135,xd1190,Chemehuevi,Chemehuevi Southern Paiute (J135),"Chemehuevi, Colorado River Reservation",NA,chem1251,,Southern (NT16),in process
+WNAI136,xd1163,Havasupai,Havasupai (J136),Plateau Yuma,NA,hava1249,,Plateau Yumans (NT14),http://ehrafworldcultures.yale.edu/collection?owc=NT14
+WNAI137,xd1202,Hualapai,Walapai (J137),Walapai,NA,wala1270,,,
+WNAI138,xd1203,Yavapai (Northeast),Northeast Yavapai (J138),"Apache-Mojave, Northeast Yavapai",NA,yava1252,,,
+WNAI139,xd1203,Yavapai (Southeast),Southeast Yavapai (J139),"Apache-Mojave, Southeast Yavapai",NA,yava1252,,,
+WNAI140,xd1272,Mojave,Mohave (J140),Mohave,NA,moha1256,,Mohave (NT28),in process
+WNAI141,xd1273,Quechan,Yuma (J141),Yuma,NA,quec1382,,,
+WNAI142,xd1271,Kamia,Kamia (J142),,NA,kumi1248,"Previously  kimi1238, updated to  kumi1248 by @xrotwang or @SimonGreenhill in early 2017",,
+WNAI143,xd1269,Cocopa,Cocopa (J143),Cocopah,NA,coco1261,,,
+WNAI144,xd1281,Maricopa,Maricopa (J144),Piipash,NA,mari1440,,River (NT15),in process
+WNAI145,xd1291,Pima,Pima (J145),Akimel O'Odham,NA,akim1239,,,
+WNAI146,xd1287,Tohono O'odham,Papago (J146),Papago,NA,toho1246,,O'Odham (NU79),http://ehrafworldcultures.yale.edu/collection?owc=NU79
+WNAI147,xd1267,Western Apache (North Tonto),North Tonto Western Apache (J147),"Ndee, Western Apache, North Tonto Western Apache",NA,west2615,,Western (NT21),http://ehrafworldcultures.yale.edu/collection?owc=NT21
+WNAI148,xd1267,Western Apache (South Tonto),South Tonto Western Apache (J148),"Ndee, Western Apache, South Tonto Western Apache",NA,west2615,,Western (NT21),http://ehrafworldcultures.yale.edu/collection?owc=NT21
+WNAI149,xd1267,Western Apache (San Carlos),San Carlos Western Apache (J149),"Ndee, Western Apache, San Carlos Western Apache",NA,west2615,,Western (NT21),http://ehrafworldcultures.yale.edu/collection?owc=NT21
+WNAI150,xd1267,Western Apache (Cibecue),Cibecue Western Apache (J150),"Ndee, Western Apache, Cibecue Western Apache",NA,west2615,,Western (NT21),http://ehrafworldcultures.yale.edu/collection?owc=NT21
+WNAI151,xd1267,Western Apache (White Mountain),White Mountain Western Apache (J151),"Ndee, Western Apache, White Mountain Western Apache",NA,west2615,,Western (NT21),http://ehrafworldcultures.yale.edu/collection?owc=NT21
+WNAI152,xd1259,Chiricahua (Warm Springs),Warm Springs Chiricahua Apache (J152),"Chiricahua Apache, Eastern Apache, Warm Springs Chiricahua Apache",NA,mesc1238,,Eastern Apache (NT08),http://ehrafworldcultures.yale.edu/collection?owc=NT08
+WNAI153,xd1259,Chiricahua (Huachuca),Huachuca Chiricahua Apache (J153),"Chiricahua Apache, Eastern Apache, Huachuca Chiricahua Apache",NA,mesc1238,,Eastern Apache (NT08),http://ehrafworldcultures.yale.edu/collection?owc=NT08
+WNAI154,xd1265,Mescalero,Mescalero Apache (J154),Mescalero Apache,NA,mesc1238,,,
+WNAI155,xd1275,Lipan Apache,Lipan Apache (J155),Lipan,NA,lipa1241,,,
+WNAI156,xd1266,Jicarilla,Jicarilla Apache (J156),Jicarilla Apache,NA,jica1244,,Jicarilla (NT26),in process
+WNAI157,xd1279,Navajo (Western),Western Navaho (J157),"Diné Bizaad, Navaho, Western Navaho",NA,nava1243,,Navaho (NT13),http://ehrafworldcultures.yale.edu/collection?owc=NT13
+WNAI158,xd1279,Navajo (Eastern),Eastern Navaho (J158),"Diné Bizaad, Navaho, Eastern Navaho",NA,nava1243,,Navaho (NT13),http://ehrafworldcultures.yale.edu/collection?owc=NT13
+WNAI159,xd1268,Hopi,Hopi (J159),Hopi of Old Oraiibi,NA,hopi1249,,Hopi (NT09),http://ehrafworldcultures.yale.edu/collection?owc=NT09
+WNAI160,xd1280,Zuni,Zuni (J160),,NA,zuni1245,,Zuni (NT23),http://ehrafworldcultures.yale.edu/collection?owc=NT23
+WNAI161,xd1263,Acoma,Acoma (J161),,NA,acom1246,,,
+WNAI162,xd1276,Sia,Sia Keres (J162),"Sia, Tsiya, Zia",NA,ziaa1251,,Zia Pueblo (NT38),http://ehrafworldcultures.yale.edu/collection?owc=NT38
+WNAI163,xd1262,Santa Ana,Santa Ana Keres (J163),Santa Ana Keres,NA,sant1426,,,
+WNAI164,xd1278,Kewa,Santo Domingo Keres (J164),"Kewa, Santo Domingo, Santo Domingo Pueblo",NA,sant1425,,,
+WNAI165,xd1283,Cochiti,Cochiti (J165),,NA,coch1273,,,
+WNAI166,xd1429,Ohkay Owingeh,San Juan Tewa (J166),San Juan Tewa,NA,sanj1276,,Tewa Pueblos (NT18),http://ehrafworldcultures.yale.edu/collection?owc=NT18
+WNAI167,xd1261,San Ildefonso,San Ildefonso Tewa (J167),"San Ildefonso, Tewa, San Ildefonso Pueblo",NA,sani1273,,Tewa (NT18),http://ehrafworldcultures.yale.edu/collection?owc=NT18
+WNAI168,xd1277,Santa Clara,Santa Clara Tewa (J168),Santa Clara Tewa,NA,sant1421,,,
+WNAI169,xd1430,Nambé Pueblo,Nambe Tewa (J169),Nambe Tewa,NA,namb1296,,Tewa Pueblos (NT18),http://ehrafworldcultures.yale.edu/collection?owc=NT18
+WNAI170,xd1282,Taos,Taos (J170),,NA,taos1236,,Taos (NT17),in process
+WNAI171,xd1260,Isleta,Isleta (J171),,NA,sout2961,,,
+WNAI172,xd1284,Jemez,Jemez (J172),"Walatowa, Towa",NA,jeme1245,,,

@@ -1,35 +1,35 @@
 taxon,glottocode,xd_ids,soc_ids
 Aztec_Tetelcingo,tete1251,,
 Aztec_Zacapoaxtla,high1278,,
-Cahuilla,cahu1264,"xd1131, xd1439, xd1440","Nc31, B144, J85, J86, J87"
-Chemehuevi,chem1251,xd1190,"Nd54, J135"
+Cahuilla,cahu1264,"xd1131, xd1439, xd1440","Nc31, B144, WNAI85, WNAI86, WNAI87"
+Chemehuevi,chem1251,xd1190,"Nd54, WNAI135"
 ClassicalAztec,clas1250,xd1301,"Nj2, SCCS153"
 Comanche,coma1245,xd1222,"Ne3, B241, SCCS147"
 Cora,elna1235,,
-Cupeno,cupe1243,xd1132,"Nc32, B145, J83"
+Cupeno,cupe1243,xd1132,"Nc32, B145, WNAI83"
 Eudeve,eude1234,xd1293,Ni8
-Gabrielino,tong1329,xd1128,"Nc29, B156, J81"
+Gabrielino,tong1329,xd1128,"Nc29, B156, WNAI81"
 Guarijio,huar1255,,
-Hopi,hopi1249,xd1268,"Nh18, J159"
+Hopi,hopi1249,xd1268,"Nh18, WNAI159"
 Huichol,huic1243,xd1288,"Ni3, SCCS152"
-Kawaiisu,kawa1283,xd1126,"Nc27, B199, J79"
+Kawaiisu,kawa1283,xd1126,"Nc27, B199, WNAI79"
 Kitanemuk,serr1255,,
-Luiseno,luis1253,xd1133,"Nc33, B150, J82"
+Luiseno,luis1253,xd1133,"Nc33, B150, WNAI82"
 Mayo,mayo1264,,
-Mono,mono1275,"xd1164, xd1122, xd993, xd1162","Nd30, B202, J117, Nc23, B157, J72, B219, J71, Nd29, B206, B211"
-NorthernPaiute,nort2954,"xd1155, xd1200, xd1156, xd994, xd1157, xd1158, xd1154, xd1155, xd1160, xd989, xd1161, xd992","Nd22, B231, J114, SCCS137, Nd63, B252, Nd23, B223, Nd24, B226, J115, Nd25, Nd21, Nd27, B208, J116, B205, Nd28, B210, Nd26, B212"
+Mono,mono1275,"xd1164, xd1122, xd993, xd1162","Nd30, B202, WNAI117, Nc23, B157, WNAI72, B219, WNAI71, Nd29, B206, B211"
+NorthernPaiute,nort2954,"xd1155, xd1200, xd1156, xd994, xd1157, xd1158, xd1154, xd1155, xd1160, xd989, xd1161, xd992","Nd22, B231, WNAI114, SCCS137, Nd63, B252, Nd23, B223, Nd24, B226, WNAI115, Nd25, Nd21, Nd27, B208, WNAI116, B205, Nd28, B210, Nd26, B212"
 NorthernTepehuan,nort2959,xd1294,Ni9
 Opata,opat1246,xd1293,Ni8
-Pannamint,pana1305,"xd1166, xd1167, xd1165","Nd32, B195, J118, B192, B200, Nd33, Nd31, B197"
-PapagoPima,toho1245,"xd1287, xd1291","Ni2, J146, SCCS151, Ni6, J145"
+Pannamint,pana1305,"xd1166, xd1167, xd1165","Nd32, B195, WNAI118, B192, B200, Nd33, Nd31, B197"
+PapagoPima,toho1245,"xd1287, xd1291","Ni2, WNAI146, SCCS151, Ni6, WNAI145"
 PimadeOnavas,pima1248,,
 Pipil,pipi1250,,
-Serrano,serr1255,xd1130,"Nc30, B149, J84"
-Shoshoni_GosiuteDialect,gosi1242,xd1183,"Nd48, B214, J124"
+Serrano,serr1255,xd1130,"Nc30, B149, WNAI84"
+Shoshoni_GosiuteDialect,gosi1242,xd1183,"Nd48, B214, WNAI124"
 SoutheasternTepehuan,sout2977,,
-SouthernPaiute,sout2969,"xd1189, xd1187, xd1192, xd1188","Nd53, Nd55, B204, J133, Nd51, Nd56, J134, Nd52, J132"
-SouthernUte,utee1244,"xd1184, xd1197, xd1195, xd1193, xd1186, xd1152, xd1198, xd1194, xd1199, xd991","Nd49, B201, Nd60, Nd59, Nd57, Nd50, Nd2, B222, J131, Nd61, Nd58, B230, J129, Nd62, B234, J130, B209"
+SouthernPaiute,sout2969,"xd1189, xd1187, xd1192, xd1188","Nd53, Nd55, B204, WNAI133, Nd51, Nd56, WNAI134, Nd52, WNAI132"
+SouthernUte,utee1244,"xd1184, xd1197, xd1195, xd1193, xd1186, xd1152, xd1198, xd1194, xd1199, xd991","Nd49, B201, Nd60, Nd59, Nd57, Nd50, Nd2, B222, WNAI131, Nd61, Nd58, B230, WNAI129, Nd62, B234, WNAI130, B209"
 Tarahumara,cent2131,xd1286,Ni1
 Tubar,tuba1279,,
-Tubatulabel,tuba1278,xd1118,"Nc2, B152, J78"
+Tubatulabel,tuba1278,xd1118,"Nc2, B152, WNAI78"
 Yaqui,yaqu1251,xd1292,Ni7
