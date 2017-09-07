@@ -167,12 +167,6 @@
         "lon": 76.4, 
         "name": "Indian Subcontinent"
     }, 
-    "B8": {
-        "lat": 13.32, 
-        "code": "41", 
-        "lon": 92.89, 
-        "name": "Indo-China"
-    }, 
     "Ng14": {
         "lat": 35.0, 
         "code": "78", 
@@ -262,6 +256,66 @@
         "code": "43", 
         "lon": 157.0, 
         "name": "Papuasia"
+    }, 
+    "WNAI49": {
+        "lat": 41.2, 
+        "code": 76, 
+        "lon": -122.4, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI48": {
+        "lat": 40.8, 
+        "code": 76, 
+        "lon": -122.4, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI43": {
+        "lat": 39.7, 
+        "code": 76, 
+        "lon": -123.3, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI42": {
+        "lat": 40.4, 
+        "code": 76, 
+        "lon": -123.6, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI41": {
+        "lat": 40.4, 
+        "code": 76, 
+        "lon": -124.1, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI40": {
+        "lat": 40.2, 
+        "code": 76, 
+        "lon": -123.8, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI47": {
+        "lat": 40.6, 
+        "code": 76, 
+        "lon": -123.2, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI46": {
+        "lat": 40.7, 
+        "code": 76, 
+        "lon": -123.2, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI45": {
+        "lat": 41.8, 
+        "code": 76, 
+        "lon": -122.8, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI44": {
+        "lat": 41.5, 
+        "code": 76, 
+        "lon": -122.3, 
+        "name": "Southwestern U.S.A."
     }, 
     "Sb2": {
         "lat": 11.0, 
@@ -665,6 +719,66 @@
         "lon": 32.0, 
         "name": "Northeast Tropical Africa"
     }, 
+    "WNAI156": {
+        "lat": 37.0, 
+        "code": 73, 
+        "lon": -105.5, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI157": {
+        "lat": 36.0, 
+        "code": 76, 
+        "lon": -112.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI154": {
+        "lat": 32.5, 
+        "code": 77, 
+        "lon": -105.0, 
+        "name": "South-Central U.S.A."
+    }, 
+    "WNAI155": {
+        "lat": 30.0, 
+        "code": 77, 
+        "lon": -104.0, 
+        "name": "South-Central U.S.A."
+    }, 
+    "WNAI152": {
+        "lat": 33.0, 
+        "code": 77, 
+        "lon": -108.0, 
+        "name": "South-Central U.S.A."
+    }, 
+    "WNAI153": {
+        "lat": 31.8, 
+        "code": 76, 
+        "lon": -110.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI150": {
+        "lat": 34.6, 
+        "code": 76, 
+        "lon": -110.6, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI151": {
+        "lat": 33.8, 
+        "code": 76, 
+        "lon": -110.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI158": {
+        "lat": 35.5, 
+        "code": 77, 
+        "lon": -108.7, 
+        "name": "South-Central U.S.A."
+    }, 
+    "WNAI159": {
+        "lat": 36.0, 
+        "code": 76, 
+        "lon": -110.5, 
+        "name": "Southwestern U.S.A."
+    }, 
     "B118": {
         "lat": -25.32, 
         "code": "50", 
@@ -977,12 +1091,6 @@
         "lon": -121.0, 
         "name": "Northwestern U.S.A."
     }, 
-    "Ea6": {
-        "lat": 30.0, 
-        "code": "34", 
-        "lon": 34.0, 
-        "name": "Western Asia"
-    }, 
     "If4": {
         "lat": 7.25, 
         "code": "62", 
@@ -1097,17 +1205,17 @@
         "lon": -72.0, 
         "name": "Brazil"
     }, 
-    "B338": {
-        "lat": 51.75, 
-        "code": "72", 
-        "lon": -72.66, 
-        "name": "Eastern Canada"
+    "Af52": {
+        "lat": 7.0, 
+        "code": "22", 
+        "lon": -6.0, 
+        "name": "West Tropical Africa"
     }, 
-    "B339": {
-        "lat": 51.22, 
-        "code": "72", 
-        "lon": -83.1, 
-        "name": "Eastern Canada"
+    "Af53": {
+        "lat": 8.0, 
+        "code": "22", 
+        "lon": -7.0, 
+        "name": "West Tropical Africa"
     }, 
     "Ce7": {
         "lat": 39.0, 
@@ -1157,10 +1265,70 @@
         "lon": -2.0, 
         "name": "Southwestern Europe"
     }, 
-    "Ie9": {
-        "lat": -9.0, 
+    "WNAI90": {
+        "lat": 32.7, 
+        "code": 76, 
+        "lon": -116.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI91": {
+        "lat": 31.5, 
+        "code": 79, 
+        "lon": -115.0, 
+        "name": "Mexico"
+    }, 
+    "WNAI92": {
+        "lat": 31.5, 
+        "code": 79, 
+        "lon": -115.8, 
+        "name": "Mexico"
+    }, 
+    "WNAI93": {
+        "lat": 55.0, 
+        "code": 71, 
+        "lon": -127.0, 
+        "name": "Western Canada"
+    }, 
+    "WNAI94": {
+        "lat": 53.0, 
+        "code": 71, 
+        "lon": -122.7, 
+        "name": "Western Canada"
+    }, 
+    "WNAI95": {
+        "lat": 51.7, 
+        "code": 71, 
+        "lon": -125.0, 
+        "name": "Western Canada"
+    }, 
+    "WNAI96": {
+        "lat": 51.3, 
+        "code": 71, 
+        "lon": -120.0, 
+        "name": "Western Canada"
+    }, 
+    "WNAI97": {
+        "lat": 50.3, 
+        "code": 71, 
+        "lon": -122.5, 
+        "name": "Western Canada"
+    }, 
+    "WNAI98": {
+        "lat": 50.3, 
+        "code": 71, 
+        "lon": -121.5, 
+        "name": "Western Canada"
+    }, 
+    "WNAI99": {
+        "lat": 48.8, 
+        "code": 73, 
+        "lon": -119.5, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "Ie8": {
+        "lat": -7.0, 
         "code": "43", 
-        "lon": 148.0, 
+        "lon": 145.0, 
         "name": "Papuasia"
     }, 
     "Ai19": {
@@ -1222,6 +1390,12 @@
         "code": "23", 
         "lon": 13.0, 
         "name": "West-Central Tropical Africa"
+    }, 
+    "Ih10": {
+        "lat": -19.6, 
+        "code": "60", 
+        "lon": 169.44, 
+        "name": "Southwestern Pacific"
     }, 
     "B369": {
         "lat": 63.98, 
@@ -1319,6 +1493,66 @@
         "lon": 23.0, 
         "name": "Southern Africa"
     }, 
+    "WNAI123": {
+        "lat": 40.8, 
+        "code": 76, 
+        "lon": -117.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI122": {
+        "lat": 40.8, 
+        "code": 76, 
+        "lon": -115.2, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI121": {
+        "lat": 39.3, 
+        "code": 76, 
+        "lon": -114.5, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI120": {
+        "lat": 39.3, 
+        "code": 76, 
+        "lon": -117.3, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI127": {
+        "lat": 41.7, 
+        "code": 76, 
+        "lon": -112.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI126": {
+        "lat": 45.0, 
+        "code": 73, 
+        "lon": -113.8, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI125": {
+        "lat": 43.0, 
+        "code": 73, 
+        "lon": -113.0, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI124": {
+        "lat": 40.0, 
+        "code": 76, 
+        "lon": -114.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI129": {
+        "lat": 40.0, 
+        "code": 76, 
+        "lon": -111.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI128": {
+        "lat": 43.0, 
+        "code": 73, 
+        "lon": -109.0, 
+        "name": "Northwestern U.S.A."
+    }, 
     "B109": {
         "lat": -20.0, 
         "code": "50", 
@@ -1330,6 +1564,12 @@
         "code": "50", 
         "lon": 130.0, 
         "name": "Australia"
+    }, 
+    "Ih13": {
+        "lat": -16.18, 
+        "code": "60", 
+        "lon": 168.15, 
+        "name": "Southwestern Pacific"
     }, 
     "B103": {
         "lat": -16.94, 
@@ -1649,24 +1889,6 @@
         "lon": -114.0, 
         "name": "Southwestern U.S.A."
     }, 
-    "Ag32": {
-        "lat": 10.0, 
-        "code": "22", 
-        "lon": -6.0, 
-        "name": "West Tropical Africa"
-    }, 
-    "Ag35": {
-        "lat": 7.0, 
-        "code": "22", 
-        "lon": -3.0, 
-        "name": "West Tropical Africa"
-    }, 
-    "Ie4": {
-        "lat": -3.24, 
-        "code": "43", 
-        "lon": 144.1, 
-        "name": "Papuasia"
-    }, 
     "Na14": {
         "lat": 78.0, 
         "code": "70", 
@@ -1925,6 +2147,66 @@
         "lon": -166.79, 
         "name": "Subarctic America"
     }, 
+    "WNAI89": {
+        "lat": 32.7, 
+        "code": 76, 
+        "lon": -117.1, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI88": {
+        "lat": 33.0, 
+        "code": 76, 
+        "lon": -117.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI87": {
+        "lat": 33.3, 
+        "code": 76, 
+        "lon": -116.5, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI86": {
+        "lat": 33.8, 
+        "code": 76, 
+        "lon": -116.7, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI85": {
+        "lat": 33.5, 
+        "code": 76, 
+        "lon": -116.2, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI84": {
+        "lat": 34.2, 
+        "code": 76, 
+        "lon": -117.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI83": {
+        "lat": 33.2, 
+        "code": 76, 
+        "lon": -116.7, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI82": {
+        "lat": 33.3, 
+        "code": 76, 
+        "lon": -117.3, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI81": {
+        "lat": 34.8, 
+        "code": 76, 
+        "lon": -118.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI80": {
+        "lat": 35.0, 
+        "code": 76, 
+        "lon": -120.0, 
+        "name": "Southwestern U.S.A."
+    }, 
     "Ea11": {
         "lat": 33.0, 
         "code": "34", 
@@ -1960,6 +2242,12 @@
         "code": "70", 
         "lon": -143.12, 
         "name": "Subarctic America"
+    }, 
+    "Sa13": {
+        "lat": 15.0, 
+        "code": "80", 
+        "lon": -91.0, 
+        "name": "Central America"
     }, 
     "B352": {
         "lat": 67.47, 
@@ -2014,6 +2302,66 @@
         "code": "80", 
         "lon": -88.0, 
         "name": "Central America"
+    }, 
+    "WNAI130": {
+        "lat": 38.0, 
+        "code": 73, 
+        "lon": -108.0, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI131": {
+        "lat": 38.0, 
+        "code": 73, 
+        "lon": -109.0, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI132": {
+        "lat": 36.8, 
+        "code": 76, 
+        "lon": -114.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI133": {
+        "lat": 36.5, 
+        "code": 76, 
+        "lon": -112.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI134": {
+        "lat": 37.0, 
+        "code": 76, 
+        "lon": -110.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI135": {
+        "lat": 34.3, 
+        "code": 76, 
+        "lon": -116.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI136": {
+        "lat": 36.2, 
+        "code": 76, 
+        "lon": -112.8, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI137": {
+        "lat": 35.3, 
+        "code": 76, 
+        "lon": -114.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI138": {
+        "lat": 34.6, 
+        "code": 76, 
+        "lon": -112.2, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI139": {
+        "lat": 33.7, 
+        "code": 76, 
+        "lon": -111.5, 
+        "name": "Southwestern U.S.A."
     }, 
     "Ii10": {
         "lat": -11.74, 
@@ -2105,17 +2453,17 @@
         "lon": 35.0, 
         "name": "Western Asia"
     }, 
-    "Ad18": {
-        "lat": -7.0, 
-        "code": "25", 
-        "lon": 31.0, 
-        "name": "East Tropical Africa"
+    "B136": {
+        "lat": -42.62, 
+        "code": "50", 
+        "lon": 147.49, 
+        "name": "Australia"
     }, 
-    "Ad19": {
-        "lat": -8.0, 
-        "code": "25", 
-        "lon": 31.0, 
-        "name": "East Tropical Africa"
+    "B137": {
+        "lat": -41.38, 
+        "code": "50", 
+        "lon": 145.21, 
+        "name": "Australia"
     }, 
     "B134": {
         "lat": -38.48, 
@@ -2231,11 +2579,11 @@
         "lon": 18.0, 
         "name": "West-Central Tropical Africa"
     }, 
-    "Ee8": {
-        "lat": 28.0, 
-        "code": "40", 
-        "lon": 84.0, 
-        "name": "Indian Subcontinent"
+    "Ac27": {
+        "lat": -13.0, 
+        "code": "26", 
+        "lon": 23.0, 
+        "name": "South Tropical Africa"
     }, 
     "Ac24": {
         "lat": -3.0, 
@@ -2261,17 +2609,17 @@
         "lon": 91.0, 
         "name": "China"
     }, 
-    "Ac28": {
-        "lat": -12.0, 
-        "code": "26", 
-        "lon": 18.0, 
-        "name": "South Tropical Africa"
+    "Ee7": {
+        "lat": 27.0, 
+        "code": "40", 
+        "lon": 90.0, 
+        "name": "Indian Subcontinent"
     }, 
-    "Ac29": {
-        "lat": -7.0, 
-        "code": "23", 
-        "lon": 19.0, 
-        "name": "West-Central Tropical Africa"
+    "Ee6": {
+        "lat": 28.0, 
+        "code": "36", 
+        "lon": 87.0, 
+        "name": "China"
     }, 
     "Ee1": {
         "lat": 28.0, 
@@ -2459,12 +2807,6 @@
         "lon": 22.0, 
         "name": "West-Central Tropical Africa"
     }, 
-    "Cj6": {
-        "lat": 32.0, 
-        "code": "34", 
-        "lon": 36.0, 
-        "name": "Western Asia"
-    }, 
     "Nf13": {
         "lat": 37.0, 
         "code": "78", 
@@ -2500,12 +2842,6 @@
         "code": "78", 
         "lon": -93.0, 
         "name": "Southeastern U.S.A."
-    }, 
-    "Ee7": {
-        "lat": 27.0, 
-        "code": "40", 
-        "lon": 90.0, 
-        "name": "Indian Subcontinent"
     }, 
     "Id8": {
         "lat": -42.0, 
@@ -2561,12 +2897,6 @@
         "lon": 134.0, 
         "name": "Australia"
     }, 
-    "Ag22": {
-        "lat": 14.0, 
-        "code": "22", 
-        "lon": -12.0, 
-        "name": "West Tropical Africa"
-    }, 
     "Cj5": {
         "lat": 28.0, 
         "code": "35", 
@@ -2602,12 +2932,6 @@
         "code": "85", 
         "lon": -70.0, 
         "name": "Southern South America"
-    }, 
-    "Ag23": {
-        "lat": 13.0, 
-        "code": "22", 
-        "lon": -11.0, 
-        "name": "West Tropical Africa"
     }, 
     "Si3": {
         "lat": -14.0, 
@@ -2919,6 +3243,72 @@
         "lat": 13.0, 
         "code": "22", 
         "lon": -7.0, 
+        "name": "West Tropical Africa"
+    }, 
+    "WNAI109": {
+        "lat": 45.8, 
+        "code": 73, 
+        "lon": -121.5, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI108": {
+        "lat": 46.0, 
+        "code": 73, 
+        "lon": -119.0, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI105": {
+        "lat": 47.5, 
+        "code": 73, 
+        "lon": -114.0, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI104": {
+        "lat": 48.2, 
+        "code": 73, 
+        "lon": -116.2, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI107": {
+        "lat": 46.0, 
+        "code": 73, 
+        "lon": -117.0, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI106": {
+        "lat": 49.0, 
+        "code": 71, 
+        "lon": -116.4, 
+        "name": "Western Canada"
+    }, 
+    "WNAI101": {
+        "lat": 47.0, 
+        "code": 73, 
+        "lon": -119.5, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI100": {
+        "lat": 48.0, 
+        "code": 73, 
+        "lon": -118.7, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI103": {
+        "lat": 47.7, 
+        "code": 73, 
+        "lon": -117.0, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI102": {
+        "lat": 47.5, 
+        "code": 73, 
+        "lon": -120.3, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "Af13": {
+        "lat": 8.0, 
+        "code": "22", 
+        "lon": 7.0, 
         "name": "West Tropical Africa"
     }, 
     "B345": {
@@ -3269,17 +3659,17 @@
         "lon": 21.0, 
         "name": "West-Central Tropical Africa"
     }, 
-    "B136": {
-        "lat": -42.62, 
-        "code": "50", 
-        "lon": 147.49, 
-        "name": "Australia"
+    "Ad18": {
+        "lat": -7.0, 
+        "code": "25", 
+        "lon": 31.0, 
+        "name": "East Tropical Africa"
     }, 
-    "B137": {
-        "lat": -41.38, 
-        "code": "50", 
-        "lon": 145.21, 
-        "name": "Australia"
+    "Ad19": {
+        "lat": -8.0, 
+        "code": "25", 
+        "lon": 31.0, 
+        "name": "East Tropical Africa"
     }, 
     "Ed2": {
         "lat": 29.0, 
@@ -3295,9 +3685,9 @@
     }, 
     "Ed1": {
         "lat": 35.0, 
-        "code": "38", 
+        "code": 36, 
         "lon": 102.0, 
-        "name": "Eastern Asia"
+        "name": "China"
     }, 
     "Ed6": {
         "lat": 24.0, 
@@ -3485,6 +3875,18 @@
         "lon": -72.0, 
         "name": "Western South America"
     }, 
+    "WNAI65": {
+        "lat": 38.5, 
+        "code": 76, 
+        "lon": -123.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI64": {
+        "lat": 39.0, 
+        "code": 76, 
+        "lon": -123.0, 
+        "name": "Southwestern U.S.A."
+    }, 
     "Sh1": {
         "lat": -24.0, 
         "code": "85", 
@@ -3539,11 +3941,23 @@
         "lon": -59.0, 
         "name": "Southern South America"
     }, 
-    "Ac27": {
-        "lat": -13.0, 
-        "code": "26", 
-        "lon": 23.0, 
-        "name": "South Tropical Africa"
+    "WNAI69": {
+        "lat": 38.0, 
+        "code": 76, 
+        "lon": -120.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI68": {
+        "lat": 38.5, 
+        "code": 76, 
+        "lon": -121.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "Ee8": {
+        "lat": 28.0, 
+        "code": "40", 
+        "lon": 84.0, 
+        "name": "Indian Subcontinent"
     }, 
     "Nh20": {
         "lat": 33.0, 
@@ -3623,11 +4037,11 @@
         "lon": -73.0, 
         "name": "Northeastern U.S.A."
     }, 
-    "Ee6": {
-        "lat": 28.0, 
-        "code": "36", 
-        "lon": 87.0, 
-        "name": "China"
+    "Ac29": {
+        "lat": -7.0, 
+        "code": "23", 
+        "lon": 19.0, 
+        "name": "West-Central Tropical Africa"
     }, 
     "Ng4": {
         "lat": 45.0, 
@@ -3977,6 +4391,66 @@
         "lon": 121.0, 
         "name": "Malesia"
     }, 
+    "WNAI118": {
+        "lat": 36.0, 
+        "code": 76, 
+        "lon": -117.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI119": {
+        "lat": 39.0, 
+        "code": 76, 
+        "lon": -120.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI112": {
+        "lat": 42.5, 
+        "code": 73, 
+        "lon": -122.0, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI113": {
+        "lat": 42.0, 
+        "code": 73, 
+        "lon": -121.7, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI110": {
+        "lat": 45.5, 
+        "code": 73, 
+        "lon": -121.2, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI111": {
+        "lat": 45.4, 
+        "code": 73, 
+        "lon": -121.5, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI116": {
+        "lat": 40.0, 
+        "code": 76, 
+        "lon": -119.5, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI117": {
+        "lat": 38.0, 
+        "code": 76, 
+        "lon": -119.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI114": {
+        "lat": 43.3, 
+        "code": 73, 
+        "lon": -119.0, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI115": {
+        "lat": 42.0, 
+        "code": 73, 
+        "lon": -120.0, 
+        "name": "Northwestern U.S.A."
+    }, 
     "B248": {
         "lat": 45.83, 
         "code": "73", 
@@ -4091,17 +4565,17 @@
         "lon": -88.31, 
         "name": "Eastern Canada"
     }, 
-    "Af52": {
-        "lat": 7.0, 
-        "code": "22", 
-        "lon": -6.0, 
-        "name": "West Tropical Africa"
+    "B338": {
+        "lat": 51.75, 
+        "code": "72", 
+        "lon": -72.66, 
+        "name": "Eastern Canada"
     }, 
-    "Af53": {
-        "lat": 8.0, 
-        "code": "22", 
-        "lon": -7.0, 
-        "name": "West Tropical Africa"
+    "B339": {
+        "lat": 51.22, 
+        "code": "72", 
+        "lon": -83.1, 
+        "name": "Eastern Canada"
     }, 
     "Af50": {
         "lat": 8.0, 
@@ -4139,17 +4613,17 @@
         "lon": -11.0, 
         "name": "West Tropical Africa"
     }, 
-    "Ie28": {
-        "lat": -6.69, 
-        "code": "43", 
-        "lon": 147.26, 
-        "name": "Papuasia"
+    "Af27": {
+        "lat": 8.0, 
+        "code": "22", 
+        "lon": 8.0, 
+        "name": "West Tropical Africa"
     }, 
-    "Ie29": {
-        "lat": -4.08, 
-        "code": "43", 
-        "lon": 145.03, 
-        "name": "Papuasia"
+    "Af26": {
+        "lat": 7.0, 
+        "code": "22", 
+        "lon": 6.0, 
+        "name": "West Tropical Africa"
     }, 
     "Ad36": {
         "lat": -4.0, 
@@ -4198,12 +4672,6 @@
         "code": "25", 
         "lon": 39.0, 
         "name": "East Tropical Africa"
-    }, 
-    "Ch6": {
-        "lat": 55.0, 
-        "code": "14", 
-        "lon": 28.0, 
-        "name": "Eastern Europe"
     }, 
     "Ad38": {
         "lat": -2.0, 
@@ -4427,12 +4895,6 @@
         "lon": -82.0, 
         "name": "Subarctic America"
     }, 
-    "Af30": {
-        "lat": 7.0, 
-        "code": "22", 
-        "lon": 7.0, 
-        "name": "West Tropical Africa"
-    }, 
     "B62": {
         "lat": -6.64, 
         "code": "23", 
@@ -4444,12 +4906,6 @@
         "code": "23", 
         "lon": 17.76, 
         "name": "West-Central Tropical Africa"
-    }, 
-    "Af31": {
-        "lat": 18.0, 
-        "code": "22", 
-        "lon": 8.0, 
-        "name": "West Tropical Africa"
     }, 
     "Nd9": {
         "lat": 50.02, 
@@ -4961,6 +5417,12 @@
         "lon": 38.79, 
         "name": "East Tropical Africa"
     }, 
+    "Ci6": {
+        "lat": 43.0, 
+        "code": "33", 
+        "lon": 44.0, 
+        "name": "Caucasus"
+    }, 
     "Ae19": {
         "lat": -11.0, 
         "code": "23", 
@@ -5213,11 +5675,11 @@
         "lon": -103.0, 
         "name": "Northwestern U.S.A."
     }, 
-    "Ne6": {
-        "lat": 47.0, 
-        "code": "74", 
-        "lon": -101.0, 
-        "name": "North-Central U.S.A."
+    "Cj2": {
+        "lat": 33.0, 
+        "code": "34", 
+        "lon": 37.0, 
+        "name": "Western Asia"
     }, 
     "Sa16": {
         "lat": 15.0, 
@@ -5225,11 +5687,11 @@
         "lon": -87.0, 
         "name": "Central America"
     }, 
-    "Sa15": {
-        "lat": 14.0, 
-        "code": "80", 
-        "lon": -90.0, 
-        "name": "Central America"
+    "Ne4": {
+        "lat": 45.0, 
+        "code": "73", 
+        "lon": -108.0, 
+        "name": "Northwestern U.S.A."
     }, 
     "Ne5": {
         "lat": 39.0, 
@@ -5237,11 +5699,11 @@
         "lon": -104.0, 
         "name": "Northwestern U.S.A."
     }, 
-    "Ne2": {
-        "lat": 36.0, 
-        "code": "74", 
-        "lon": -99.0, 
-        "name": "North-Central U.S.A."
+    "Cj6": {
+        "lat": 32.0, 
+        "code": "34", 
+        "lon": 36.0, 
+        "name": "Western Asia"
     }, 
     "Cj7": {
         "lat": 34.0, 
@@ -5314,6 +5776,12 @@
         "code": "25", 
         "lon": 34.0, 
         "name": "East Tropical Africa"
+    }, 
+    "Ie34": {
+        "lat": -2.34, 
+        "code": "43", 
+        "lon": 139.6, 
+        "name": "Papuasia"
     }, 
     "B268": {
         "lat": 49.77, 
@@ -5639,11 +6107,11 @@
         "lon": 63.0, 
         "name": "Western Asia"
     }, 
-    "Ci6": {
-        "lat": 43.0, 
-        "code": "33", 
-        "lon": 44.0, 
-        "name": "Caucasus"
+    "Ea6": {
+        "lat": 30.0, 
+        "code": "34", 
+        "lon": 34.0, 
+        "name": "Western Asia"
     }, 
     "Na43": {
         "lat": 69.0, 
@@ -5739,6 +6207,72 @@
         "lat": 36.0, 
         "code": "76", 
         "lon": -111.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI38": {
+        "lat": 41.0, 
+        "code": 76, 
+        "lon": -123.5, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI39": {
+        "lat": 40.8, 
+        "code": 76, 
+        "lon": -124.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI36": {
+        "lat": 41.5, 
+        "code": 76, 
+        "lon": -124.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI37": {
+        "lat": 41.4, 
+        "code": 76, 
+        "lon": -123.5, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI34": {
+        "lat": 42.5, 
+        "code": 73, 
+        "lon": -123.5, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI35": {
+        "lat": 41.87, 
+        "code": 76, 
+        "lon": -123.92, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI32": {
+        "lat": 42.5, 
+        "code": 73, 
+        "lon": -124.3, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI33": {
+        "lat": 42.1, 
+        "code": 73, 
+        "lon": -124.2, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI30": {
+        "lat": 44.0, 
+        "code": 73, 
+        "lon": -124.0, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI31": {
+        "lat": 43.3, 
+        "code": 73, 
+        "lon": -124.2, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "Nb39": {
+        "lat": 39.73, 
+        "code": "76", 
+        "lon": -123.6, 
         "name": "Southwestern U.S.A."
     }, 
     "Id10": {
@@ -5843,17 +6377,17 @@
         "lon": 8.0, 
         "name": "West Tropical Africa"
     }, 
-    "Af27": {
-        "lat": 8.0, 
-        "code": "22", 
-        "lon": 8.0, 
-        "name": "West Tropical Africa"
+    "Ie28": {
+        "lat": -6.69, 
+        "code": "43", 
+        "lon": 147.26, 
+        "name": "Papuasia"
     }, 
-    "Af26": {
-        "lat": 7.0, 
-        "code": "22", 
-        "lon": 6.0, 
-        "name": "West Tropical Africa"
+    "Ie29": {
+        "lat": -4.08, 
+        "code": "43", 
+        "lon": 145.03, 
+        "name": "Papuasia"
     }, 
     "Af25": {
         "lat": 5.0, 
@@ -6005,6 +6539,12 @@
         "lon": -122.94, 
         "name": "Southwestern U.S.A."
     }, 
+    "Ab13": {
+        "lat": -24.0, 
+        "code": "27", 
+        "lon": 27.0, 
+        "name": "Southern Africa"
+    }, 
     "Nc12": {
         "lat": 40.0, 
         "code": "76", 
@@ -6053,11 +6593,77 @@
         "lon": -123.77, 
         "name": "Southwestern U.S.A."
     }, 
+    "Ab15": {
+        "lat": -25.0, 
+        "code": "27", 
+        "lon": 30.0, 
+        "name": "Southern Africa"
+    }, 
     "Cj10": {
         "lat": 31.0, 
         "code": "34", 
         "lon": 47.0, 
         "name": "Western Asia"
+    }, 
+    "WNAI29": {
+        "lat": 44.7, 
+        "code": 73, 
+        "lon": -124.0, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI28": {
+        "lat": 45.4, 
+        "code": 73, 
+        "lon": -123.82, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI25": {
+        "lat": 47.1, 
+        "code": 73, 
+        "lon": -122.5, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI24": {
+        "lat": 47.4, 
+        "code": 73, 
+        "lon": -124.1, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI27": {
+        "lat": 46.35, 
+        "code": 73, 
+        "lon": -124.0, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI26": {
+        "lat": 47.9, 
+        "code": 73, 
+        "lon": -124.3, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI21": {
+        "lat": 48.7, 
+        "code": 71, 
+        "lon": -123.7, 
+        "name": "Western Canada"
+    }, 
+    "WNAI20": {
+        "lat": 49.37, 
+        "code": 71, 
+        "lon": -123.24, 
+        "name": "Western Canada"
+    }, 
+    "WNAI23": {
+        "lat": 47.3, 
+        "code": 73, 
+        "lon": -123.0, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI22": {
+        "lat": 47.95, 
+        "code": 73, 
+        "lon": -123.55, 
+        "name": "Northwestern U.S.A."
     }, 
     "Aj8": {
         "lat": 5.0, 
@@ -6113,12 +6719,6 @@
         "lon": 35.0, 
         "name": "East Tropical Africa"
     }, 
-    "B161": {
-        "lat": 34.63, 
-        "code": "76", 
-        "lon": -119.6, 
-        "name": "Southwestern U.S.A."
-    }, 
     "Ni8": {
         "lat": 30.0, 
         "code": "79", 
@@ -6173,11 +6773,11 @@
         "lon": -100.0, 
         "name": "Mexico"
     }, 
-    "B160": {
-        "lat": 40.9, 
-        "code": "76", 
-        "lon": -122.35, 
-        "name": "Southwestern U.S.A."
+    "Ei4": {
+        "lat": 22.0, 
+        "code": "41", 
+        "lon": 93.0, 
+        "name": "Indo-China"
     }, 
     "Ie39": {
         "lat": -7.82, 
@@ -6185,23 +6785,23 @@
         "lon": 145.31, 
         "name": "Papuasia"
     }, 
-    "Ie38": {
-        "lat": -4.0, 
-        "code": "43", 
-        "lon": 139.0, 
-        "name": "Papuasia"
+    "Af19": {
+        "lat": 5.0, 
+        "code": "22", 
+        "lon": 8.0, 
+        "name": "West Tropical Africa"
     }, 
-    "Ie37": {
-        "lat": -5.0, 
-        "code": "43", 
-        "lon": 141.0, 
-        "name": "Papuasia"
+    "Af16": {
+        "lat": 6.0, 
+        "code": "22", 
+        "lon": 9.0, 
+        "name": "West Tropical Africa"
     }, 
-    "Ie36": {
-        "lat": -3.0, 
-        "code": "43", 
-        "lon": 140.0, 
-        "name": "Papuasia"
+    "Af17": {
+        "lat": 6.0, 
+        "code": "22", 
+        "lon": 9.0, 
+        "name": "West Tropical Africa"
     }, 
     "Af14": {
         "lat": 7.52, 
@@ -6215,11 +6815,11 @@
         "lon": -9.0, 
         "name": "West Tropical Africa"
     }, 
-    "Ie33": {
-        "lat": -2.0, 
-        "code": "43", 
-        "lon": 138.0, 
-        "name": "Papuasia"
+    "Af12": {
+        "lat": 7.0, 
+        "code": "22", 
+        "lon": -1.0, 
+        "name": "West Tropical Africa"
     }, 
     "Ie32": {
         "lat": -6.0, 
@@ -6227,11 +6827,11 @@
         "lon": 147.0, 
         "name": "Papuasia"
     }, 
-    "Af10": {
-        "lat": 6.0, 
-        "code": "22", 
-        "lon": 7.0, 
-        "name": "West Tropical Africa"
+    "Ie31": {
+        "lat": -6.0, 
+        "code": "43", 
+        "lon": 145.0, 
+        "name": "Papuasia"
     }, 
     "Ie30": {
         "lat": -4.0, 
@@ -6298,6 +6898,12 @@
         "code": "76", 
         "lon": -118.0, 
         "name": "Southwestern U.S.A."
+    }, 
+    "Ac28": {
+        "lat": -12.0, 
+        "code": "26", 
+        "lon": 18.0, 
+        "name": "South Tropical Africa"
     }, 
     "B200": {
         "lat": 36.65, 
@@ -6431,6 +7037,120 @@
         "lon": 83.0, 
         "name": "Indian Subcontinent"
     }, 
+    "WNAI8": {
+        "lat": 53.0, 
+        "code": 71, 
+        "lon": -128.5, 
+        "name": "Western Canada"
+    }, 
+    "WNAI9": {
+        "lat": 52.0, 
+        "code": 71, 
+        "lon": -128.0, 
+        "name": "Western Canada"
+    }, 
+    "WNAI6": {
+        "lat": 56.3, 
+        "code": 71, 
+        "lon": -127.5, 
+        "name": "Western Canada"
+    }, 
+    "WNAI7": {
+        "lat": 53.5, 
+        "code": 71, 
+        "lon": -128.0, 
+        "name": "Western Canada"
+    }, 
+    "WNAI4": {
+        "lat": 53.09, 
+        "code": 71, 
+        "lon": -132.1, 
+        "name": "Western Canada"
+    }, 
+    "WNAI5": {
+        "lat": 55.3, 
+        "code": 70, 
+        "lon": -130.05, 
+        "name": "Subarctic America"
+    }, 
+    "WNAI2": {
+        "lat": 57.0, 
+        "code": 70, 
+        "lon": -133.59, 
+        "name": "Subarctic America"
+    }, 
+    "WNAI3": {
+        "lat": 54.0, 
+        "code": 71, 
+        "lon": -132.0, 
+        "name": "Western Canada"
+    }, 
+    "WNAI1": {
+        "lat": 59.0, 
+        "code": 70, 
+        "lon": -136.0, 
+        "name": "Subarctic America"
+    }, 
+    "WNAI18": {
+        "lat": 48.4, 
+        "code": 71, 
+        "lon": -123.5, 
+        "name": "Western Canada"
+    }, 
+    "WNAI19": {
+        "lat": 49.4, 
+        "code": 71, 
+        "lon": -121.5, 
+        "name": "Western Canada"
+    }, 
+    "WNAI10": {
+        "lat": 50.86, 
+        "code": 71, 
+        "lon": -127.0, 
+        "name": "Western Canada"
+    }, 
+    "WNAI11": {
+        "lat": 52.5, 
+        "code": 71, 
+        "lon": -127.5, 
+        "name": "Western Canada"
+    }, 
+    "WNAI12": {
+        "lat": 49.16, 
+        "code": 71, 
+        "lon": -125.85, 
+        "name": "Western Canada"
+    }, 
+    "WNAI13": {
+        "lat": 48.33, 
+        "code": 73, 
+        "lon": -124.62, 
+        "name": "Northwestern U.S.A."
+    }, 
+    "WNAI14": {
+        "lat": 50.5, 
+        "code": 71, 
+        "lon": -124.5, 
+        "name": "Western Canada"
+    }, 
+    "WNAI15": {
+        "lat": 49.5, 
+        "code": 71, 
+        "lon": -125.0, 
+        "name": "Western Canada"
+    }, 
+    "WNAI16": {
+        "lat": 49.7, 
+        "code": 71, 
+        "lon": -123.3, 
+        "name": "Western Canada"
+    }, 
+    "WNAI17": {
+        "lat": 48.7, 
+        "code": 71, 
+        "lon": -123.7, 
+        "name": "Western Canada"
+    }, 
     "B229": {
         "lat": 43.0, 
         "code": "73", 
@@ -6521,12 +7241,6 @@
         "lon": 31.0, 
         "name": "Northeast Tropical Africa"
     }, 
-    "B157": {
-        "lat": 36.6, 
-        "code": "76", 
-        "lon": -117.08, 
-        "name": "Southwestern U.S.A."
-    }, 
     "Ah14": {
         "lat": 11.0, 
         "code": "22", 
@@ -6557,11 +7271,11 @@
         "lon": 9.0, 
         "name": "West Tropical Africa"
     }, 
-    "B98": {
-        "lat": -14.34, 
-        "code": "50", 
-        "lon": 144.22, 
-        "name": "Australia"
+    "B152": {
+        "lat": 36.0, 
+        "code": "76", 
+        "lon": -118.32, 
+        "name": "Southwestern U.S.A."
     }, 
     "Ah12": {
         "lat": 8.0, 
@@ -6575,11 +7289,11 @@
         "lon": 5.0, 
         "name": "West Tropical Africa"
     }, 
-    "B99": {
-        "lat": -13.58, 
-        "code": "50", 
-        "lon": 130.58, 
-        "name": "Australia"
+    "B153": {
+        "lat": 40.0, 
+        "code": "76", 
+        "lon": -122.56, 
+        "name": "Southwestern U.S.A."
     }, 
     "Ah18": {
         "lat": 10.0, 
@@ -6593,29 +7307,17 @@
         "lon": 8.0, 
         "name": "West Tropical Africa"
     }, 
-    "B97": {
-        "lat": -14.0, 
-        "code": "50", 
-        "lon": 136.62, 
-        "name": "Australia"
+    "B158": {
+        "lat": 39.03, 
+        "code": "76", 
+        "lon": -122.94, 
+        "name": "Southwestern U.S.A."
     }, 
-    "B92": {
-        "lat": -13.76, 
-        "code": "50", 
-        "lon": 135.98, 
-        "name": "Australia"
-    }, 
-    "B93": {
-        "lat": -14.0, 
-        "code": "50", 
-        "lon": 143.5, 
-        "name": "Australia"
-    }, 
-    "B91": {
-        "lat": -13.13, 
-        "code": "50", 
-        "lon": 132.95, 
-        "name": "Australia"
+    "B159": {
+        "lat": 39.12, 
+        "code": "76", 
+        "lon": -122.94, 
+        "name": "Southwestern U.S.A."
     }, 
     "Cb29": {
         "lat": 12.0, 
@@ -6743,11 +7445,11 @@
         "lon": -121.31, 
         "name": "Northwestern U.S.A."
     }, 
-    "B6": {
-        "lat": 12.17, 
-        "code": "41", 
-        "lon": 92.65, 
-        "name": "Indo-China"
+    "Nb37": {
+        "lat": 40.0, 
+        "code": "76", 
+        "lon": -123.0, 
+        "name": "Southwestern U.S.A."
     }, 
     "B213": {
         "lat": 41.55, 
@@ -6809,11 +7511,11 @@
         "lon": -117.32, 
         "name": "Southwestern U.S.A."
     }, 
-    "B1": {
-        "lat": 3.0, 
-        "code": "42", 
-        "lon": 114.0, 
-        "name": "Malesia"
+    "Nb30": {
+        "lat": 42.0, 
+        "code": "73", 
+        "lon": -123.0, 
+        "name": "Northwestern U.S.A."
     }, 
     "B89": {
         "lat": -15.55, 
@@ -6827,11 +7529,11 @@
         "lon": 135.84, 
         "name": "Australia"
     }, 
-    "B2": {
-        "lat": 10.03, 
-        "code": "42", 
-        "lon": 119.09, 
-        "name": "Malesia"
+    "Nb33": {
+        "lat": 41.0, 
+        "code": "76", 
+        "lon": -123.0, 
+        "name": "Southwestern U.S.A."
     }, 
     "B83": {
         "lat": -12.6, 
@@ -6929,11 +7631,11 @@
         "lon": 12.0, 
         "name": "West-Central Tropical Africa"
     }, 
-    "B9": {
-        "lat": 5.86, 
-        "code": "42", 
-        "lon": 101.0, 
-        "name": "Malesia"
+    "Nb38": {
+        "lat": 40.35, 
+        "code": "76", 
+        "lon": -123.47, 
+        "name": "Southwestern U.S.A."
     }, 
     "Ch10": {
         "lat": 45.0, 
@@ -7223,23 +7925,29 @@
         "lon": 9.0, 
         "name": "West Tropical Africa"
     }, 
+    "Ie33": {
+        "lat": -2.0, 
+        "code": "43", 
+        "lon": 138.0, 
+        "name": "Papuasia"
+    }, 
     "Af18": {
         "lat": 6.0, 
         "code": "22", 
         "lon": 8.0, 
         "name": "West Tropical Africa"
     }, 
-    "Af19": {
-        "lat": 5.0, 
-        "code": "22", 
-        "lon": 8.0, 
-        "name": "West Tropical Africa"
+    "Ie38": {
+        "lat": -4.0, 
+        "code": "43", 
+        "lon": 139.0, 
+        "name": "Papuasia"
     }, 
-    "Af16": {
-        "lat": 6.0, 
-        "code": "22", 
-        "lon": 9.0, 
-        "name": "West Tropical Africa"
+    "Ie37": {
+        "lat": -5.0, 
+        "code": "43", 
+        "lon": 141.0, 
+        "name": "Papuasia"
     }, 
     "B228": {
         "lat": 40.36, 
@@ -7247,11 +7955,11 @@
         "lon": -115.39, 
         "name": "Southwestern U.S.A."
     }, 
-    "Af17": {
-        "lat": 6.0, 
-        "code": "22", 
-        "lon": 9.0, 
-        "name": "West Tropical Africa"
+    "Ie36": {
+        "lat": -3.0, 
+        "code": "43", 
+        "lon": 140.0, 
+        "name": "Papuasia"
     }, 
     "B226": {
         "lat": 41.5, 
@@ -7313,11 +8021,11 @@
         "lon": -118.0, 
         "name": "Southwestern U.S.A."
     }, 
-    "Ie34": {
-        "lat": -2.34, 
-        "code": "43", 
-        "lon": 139.6, 
-        "name": "Papuasia"
+    "B157": {
+        "lat": 36.6, 
+        "code": "76", 
+        "lon": -117.08, 
+        "name": "Southwestern U.S.A."
     }, 
     "B150": {
         "lat": 33.42, 
@@ -7331,17 +8039,17 @@
         "lon": -118.96, 
         "name": "Southwestern U.S.A."
     }, 
-    "B152": {
-        "lat": 36.0, 
-        "code": "76", 
-        "lon": -118.32, 
-        "name": "Southwestern U.S.A."
+    "B98": {
+        "lat": -14.34, 
+        "code": "50", 
+        "lon": 144.22, 
+        "name": "Australia"
     }, 
-    "B153": {
-        "lat": 40.0, 
-        "code": "76", 
-        "lon": -122.56, 
-        "name": "Southwestern U.S.A."
+    "B99": {
+        "lat": -13.58, 
+        "code": "50", 
+        "lon": 130.58, 
+        "name": "Australia"
     }, 
     "B96": {
         "lat": -15.92, 
@@ -7349,11 +8057,11 @@
         "lon": 145.32, 
         "name": "Australia"
     }, 
-    "Af12": {
-        "lat": 7.0, 
-        "code": "22", 
-        "lon": -1.0, 
-        "name": "West Tropical Africa"
+    "B97": {
+        "lat": -14.0, 
+        "code": "50", 
+        "lon": 136.62, 
+        "name": "Australia"
     }, 
     "B94": {
         "lat": -15.0, 
@@ -7367,17 +8075,17 @@
         "lon": 130.87, 
         "name": "Australia"
     }, 
-    "B158": {
-        "lat": 39.03, 
-        "code": "76", 
-        "lon": -122.94, 
-        "name": "Southwestern U.S.A."
+    "B92": {
+        "lat": -13.76, 
+        "code": "50", 
+        "lon": 135.98, 
+        "name": "Australia"
     }, 
-    "B159": {
-        "lat": 39.12, 
-        "code": "76", 
-        "lon": -122.94, 
-        "name": "Southwestern U.S.A."
+    "B93": {
+        "lat": -14.0, 
+        "code": "50", 
+        "lon": 143.5, 
+        "name": "Australia"
     }, 
     "B90": {
         "lat": -13.47, 
@@ -7385,23 +8093,23 @@
         "lon": 142.0, 
         "name": "Australia"
     }, 
-    "Af13": {
-        "lat": 8.0, 
+    "B91": {
+        "lat": -13.13, 
+        "code": "50", 
+        "lon": 132.95, 
+        "name": "Australia"
+    }, 
+    "Ne6": {
+        "lat": 47.0, 
+        "code": "74", 
+        "lon": -101.0, 
+        "name": "North-Central U.S.A."
+    }, 
+    "Af10": {
+        "lat": 6.0, 
         "code": "22", 
         "lon": 7.0, 
         "name": "West Tropical Africa"
-    }, 
-    "Cj2": {
-        "lat": 33.0, 
-        "code": "34", 
-        "lon": 37.0, 
-        "name": "Western Asia"
-    }, 
-    "Ie31": {
-        "lat": -6.0, 
-        "code": "43", 
-        "lon": 145.0, 
-        "name": "Papuasia"
     }, 
     "Ne7": {
         "lat": 54.0, 
@@ -7415,11 +8123,11 @@
         "lon": -9.0, 
         "name": "West Tropical Africa"
     }, 
-    "Ne4": {
-        "lat": 45.0, 
-        "code": "73", 
-        "lon": -108.0, 
-        "name": "Northwestern U.S.A."
+    "Sa15": {
+        "lat": 14.0, 
+        "code": "80", 
+        "lon": -90.0, 
+        "name": "Central America"
     }, 
     "Sa14": {
         "lat": 8.0, 
@@ -7427,11 +8135,17 @@
         "lon": -81.0, 
         "name": "Central America"
     }, 
-    "Sa13": {
-        "lat": 15.0, 
-        "code": "80", 
-        "lon": -91.0, 
-        "name": "Central America"
+    "Ne2": {
+        "lat": 36.0, 
+        "code": "74", 
+        "lon": -99.0, 
+        "name": "North-Central U.S.A."
+    }, 
+    "Aj23": {
+        "lat": 1.0, 
+        "code": "25", 
+        "lon": 36.0, 
+        "name": "East Tropical Africa"
     }, 
     "Ne3": {
         "lat": 33.0, 
@@ -7643,6 +8357,42 @@
         "lon": 115.0, 
         "name": "Malesia"
     }, 
+    "WNAI70": {
+        "lat": 37.5, 
+        "code": 76, 
+        "lon": -119.5, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI71": {
+        "lat": 37.5, 
+        "code": 76, 
+        "lon": -119.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI76": {
+        "lat": 36.2, 
+        "code": 76, 
+        "lon": -120.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI77": {
+        "lat": 35.3, 
+        "code": 76, 
+        "lon": -118.8, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI74": {
+        "lat": 36.8, 
+        "code": 76, 
+        "lon": -119.4, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI75": {
+        "lat": 36.4, 
+        "code": 76, 
+        "lon": -119.1, 
+        "name": "Southwestern U.S.A."
+    }, 
     "Ib1": {
         "lat": 2.0, 
         "code": "42", 
@@ -7751,6 +8501,12 @@
         "lon": 136.0, 
         "name": "Eastern Asia"
     }, 
+    "Ih11": {
+        "lat": -16.61, 
+        "code": "60", 
+        "lon": 168.17, 
+        "name": "Southwestern Pacific"
+    }, 
     "Sc18": {
         "lat": 5.0, 
         "code": "82", 
@@ -7828,6 +8584,66 @@
         "code": "82", 
         "lon": -59.0, 
         "name": "Northern South America"
+    }, 
+    "WNAI169": {
+        "lat": 35.9, 
+        "code": 77, 
+        "lon": -105.9, 
+        "name": "South-Central U.S.A."
+    }, 
+    "WNAI168": {
+        "lat": 36.0, 
+        "code": 77, 
+        "lon": -106.3, 
+        "name": "South-Central U.S.A."
+    }, 
+    "WNAI167": {
+        "lat": 35.9, 
+        "code": 77, 
+        "lon": -106.2, 
+        "name": "South-Central U.S.A."
+    }, 
+    "WNAI166": {
+        "lat": 36.1, 
+        "code": 77, 
+        "lon": -106.1, 
+        "name": "South-Central U.S.A."
+    }, 
+    "WNAI165": {
+        "lat": 35.6, 
+        "code": 77, 
+        "lon": -106.0, 
+        "name": "South-Central U.S.A."
+    }, 
+    "WNAI164": {
+        "lat": 35.3, 
+        "code": 77, 
+        "lon": -106.1, 
+        "name": "South-Central U.S.A."
+    }, 
+    "WNAI163": {
+        "lat": 35.2, 
+        "code": 77, 
+        "lon": -106.4, 
+        "name": "South-Central U.S.A."
+    }, 
+    "WNAI162": {
+        "lat": 35.3, 
+        "code": 77, 
+        "lon": -106.5, 
+        "name": "South-Central U.S.A."
+    }, 
+    "WNAI161": {
+        "lat": 35.0, 
+        "code": 77, 
+        "lon": -107.5, 
+        "name": "South-Central U.S.A."
+    }, 
+    "WNAI160": {
+        "lat": 35.2, 
+        "code": 77, 
+        "lon": -108.9, 
+        "name": "South-Central U.S.A."
     }, 
     "Ag13": {
         "lat": 11.0, 
@@ -7973,6 +8789,12 @@
         "lon": 15.0, 
         "name": "South Tropical Africa"
     }, 
+    "Aj30": {
+        "lat": 2.0, 
+        "code": "25", 
+        "lon": 34.0, 
+        "name": "East Tropical Africa"
+    }, 
     "Ne10": {
         "lat": 46.0, 
         "code": "74", 
@@ -8032,6 +8854,12 @@
         "code": "74", 
         "lon": -94.0, 
         "name": "North-Central U.S.A."
+    }, 
+    "Aj31": {
+        "lat": 5.0, 
+        "code": "24", 
+        "lon": 33.0, 
+        "name": "Northeast Tropical Africa"
     }, 
     "Nb28": {
         "lat": 44.0, 
@@ -8285,6 +9113,30 @@
         "lon": -118.0, 
         "name": "Northwestern U.S.A."
     }, 
+    "WNAI61": {
+        "lat": 39.8, 
+        "code": 76, 
+        "lon": -123.2, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI60": {
+        "lat": 39.4, 
+        "code": 76, 
+        "lon": -123.6, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI63": {
+        "lat": 39.6, 
+        "code": 76, 
+        "lon": -123.3, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI62": {
+        "lat": 40.5, 
+        "code": 76, 
+        "lon": -122.0, 
+        "name": "Southwestern U.S.A."
+    }, 
     "Ia9": {
         "lat": 22.7, 
         "code": "38", 
@@ -8296,6 +9148,18 @@
         "code": "42", 
         "lon": 121.0, 
         "name": "Malesia"
+    }, 
+    "WNAI67": {
+        "lat": 38.7, 
+        "code": 76, 
+        "lon": -122.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI66": {
+        "lat": 38.7, 
+        "code": 76, 
+        "lon": -123.0, 
+        "name": "Southwestern U.S.A."
     }, 
     "Ia5": {
         "lat": 13.0, 
@@ -8339,6 +9203,18 @@
         "lon": 121.0, 
         "name": "Malesia"
     }, 
+    "WNAI72": {
+        "lat": 36.7, 
+        "code": 76, 
+        "lon": -119.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI73": {
+        "lat": 37.2, 
+        "code": 76, 
+        "lon": -119.8, 
+        "name": "Southwestern U.S.A."
+    }, 
     "Ac17": {
         "lat": -6.0, 
         "code": "23", 
@@ -8368,6 +9244,18 @@
         "code": "83", 
         "lon": -79.0, 
         "name": "Western South America"
+    }, 
+    "WNAI78": {
+        "lat": 36.0, 
+        "code": 76, 
+        "lon": -118.2, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI79": {
+        "lat": 35.5, 
+        "code": 76, 
+        "lon": -118.5, 
+        "name": "Southwestern U.S.A."
     }, 
     "Ef6": {
         "lat": 23.0, 
@@ -8441,6 +9329,30 @@
         "lon": 10.0, 
         "name": "West Tropical Africa"
     }, 
+    "B380": {
+        "lat": 68.41, 
+        "code": "70", 
+        "lon": -166.21, 
+        "name": "Subarctic America"
+    }, 
+    "WNAI170": {
+        "lat": 36.5, 
+        "code": 77, 
+        "lon": -105.5, 
+        "name": "South-Central U.S.A."
+    }, 
+    "WNAI171": {
+        "lat": 34.8, 
+        "code": 77, 
+        "lon": -106.7, 
+        "name": "South-Central U.S.A."
+    }, 
+    "WNAI172": {
+        "lat": 35.8, 
+        "code": 77, 
+        "lon": -106.8, 
+        "name": "South-Central U.S.A."
+    }, 
     "Ai20": {
         "lat": 10.0, 
         "code": "23", 
@@ -8500,12 +9412,6 @@
         "code": "23", 
         "lon": 30.0, 
         "name": "West-Central Tropical Africa"
-    }, 
-    "B386": {
-        "lat": 65.21, 
-        "code": "70", 
-        "lon": -64.65, 
-        "name": "Subarctic America"
     }, 
     "B390": {
         "lat": 77.53, 
@@ -8609,17 +9515,17 @@
         "lon": 10.0, 
         "name": "West Tropical Africa"
     }, 
-    "Aj30": {
-        "lat": 2.0, 
-        "code": "25", 
-        "lon": 34.0, 
-        "name": "East Tropical Africa"
+    "Ag22": {
+        "lat": 14.0, 
+        "code": "22", 
+        "lon": -12.0, 
+        "name": "West Tropical Africa"
     }, 
-    "Aj31": {
-        "lat": 5.0, 
-        "code": "24", 
-        "lon": 33.0, 
-        "name": "Northeast Tropical Africa"
+    "Ag23": {
+        "lat": 13.0, 
+        "code": "22", 
+        "lon": -11.0, 
+        "name": "West Tropical Africa"
     }, 
     "Ag20": {
         "lat": 12.0, 
@@ -8789,11 +9695,11 @@
         "lon": 31.0, 
         "name": "Southern Africa"
     }, 
-    "Ab13": {
-        "lat": -24.0, 
-        "code": "27", 
-        "lon": 27.0, 
-        "name": "Southern Africa"
+    "Af30": {
+        "lat": 7.0, 
+        "code": "22", 
+        "lon": 7.0, 
+        "name": "West Tropical Africa"
     }, 
     "Ab10": {
         "lat": -31.0, 
@@ -8825,11 +9731,11 @@
         "lon": 31.0, 
         "name": "Southern Africa"
     }, 
-    "Ab15": {
-        "lat": -25.0, 
-        "code": "27", 
-        "lon": 30.0, 
-        "name": "Southern Africa"
+    "Af31": {
+        "lat": 18.0, 
+        "code": "22", 
+        "lon": 8.0, 
+        "name": "West Tropical Africa"
     }, 
     "Ab18": {
         "lat": -19.0, 
@@ -8891,11 +9797,11 @@
         "lon": 24.0, 
         "name": "Eastern Europe"
     }, 
-    "Aj27": {
-        "lat": 1.0, 
-        "code": "25", 
-        "lon": 35.0, 
-        "name": "East Tropical Africa"
+    "Ag31": {
+        "lat": 12.0, 
+        "code": "22", 
+        "lon": -6.0, 
+        "name": "West Tropical Africa"
     }, 
     "Ch3": {
         "lat": 50.0, 
@@ -8915,17 +9821,17 @@
         "lon": 38.0, 
         "name": "East Tropical Africa"
     }, 
-    "Aj26": {
-        "lat": 1.0, 
+    "Ag30": {
+        "lat": 13.0, 
+        "code": "22", 
+        "lon": -4.0, 
+        "name": "West Tropical Africa"
+    }, 
+    "Aj25": {
+        "lat": 0.0, 
         "code": "25", 
         "lon": 36.0, 
         "name": "East Tropical Africa"
-    }, 
-    "Ag33": {
-        "lat": 11.0, 
-        "code": "22", 
-        "lon": -3.0, 
-        "name": "West Tropical Africa"
     }, 
     "Ch5": {
         "lat": 43.0, 
@@ -8957,11 +9863,11 @@
         "lon": 97.0, 
         "name": "Indo-China"
     }, 
-    "Ei4": {
-        "lat": 22.0, 
-        "code": "41", 
-        "lon": 93.0, 
-        "name": "Indo-China"
+    "Ch6": {
+        "lat": 55.0, 
+        "code": "14", 
+        "lon": 28.0, 
+        "name": "Eastern Europe"
     }, 
     "Ei7": {
         "lat": 17.12, 
@@ -8993,23 +9899,23 @@
         "lon": 36.0, 
         "name": "Eastern Europe"
     }, 
-    "Ag34": {
-        "lat": 11.0, 
-        "code": "22", 
-        "lon": -4.0, 
-        "name": "West Tropical Africa"
+    "Aj22": {
+        "lat": 3.0, 
+        "code": "25", 
+        "lon": 34.0, 
+        "name": "East Tropical Africa"
     }, 
-    "Ag37": {
-        "lat": 11.0, 
-        "code": "22", 
-        "lon": -2.0, 
-        "name": "West Tropical Africa"
+    "Aj21": {
+        "lat": 3.0, 
+        "code": "25", 
+        "lon": 34.0, 
+        "name": "East Tropical Africa"
     }, 
-    "Ag36": {
-        "lat": 11.0, 
-        "code": "22", 
-        "lon": -3.0, 
-        "name": "West Tropical Africa"
+    "Aj20": {
+        "lat": 6.0, 
+        "code": "24", 
+        "lon": 35.0, 
+        "name": "Northeast Tropical Africa"
     }, 
     "B52": {
         "lat": -45.0, 
@@ -9137,11 +10043,11 @@
         "lon": -123.0, 
         "name": "Northwestern U.S.A."
     }, 
-    "Nb37": {
-        "lat": 40.0, 
-        "code": "76", 
-        "lon": -123.0, 
-        "name": "Southwestern U.S.A."
+    "B6": {
+        "lat": 12.17, 
+        "code": "41", 
+        "lon": 92.65, 
+        "name": "Indo-China"
     }, 
     "Nb36": {
         "lat": 39.81, 
@@ -9155,17 +10061,17 @@
         "lon": -124.0, 
         "name": "Northwestern U.S.A."
     }, 
-    "Nb30": {
-        "lat": 42.0, 
-        "code": "73", 
-        "lon": -123.0, 
-        "name": "Northwestern U.S.A."
+    "B1": {
+        "lat": 3.0, 
+        "code": "42", 
+        "lon": 114.0, 
+        "name": "Malesia"
     }, 
-    "Nb33": {
-        "lat": 41.0, 
-        "code": "76", 
-        "lon": -123.0, 
-        "name": "Southwestern U.S.A."
+    "B2": {
+        "lat": 10.03, 
+        "code": "42", 
+        "lon": 119.09, 
+        "name": "Malesia"
     }, 
     "Nb32": {
         "lat": 41.0, 
@@ -9173,17 +10079,17 @@
         "lon": -122.0, 
         "name": "Southwestern U.S.A."
     }, 
-    "Nb39": {
-        "lat": 39.73, 
-        "code": "76", 
-        "lon": -123.6, 
-        "name": "Southwestern U.S.A."
+    "B8": {
+        "lat": 13.32, 
+        "code": "41", 
+        "lon": 92.89, 
+        "name": "Indo-China"
     }, 
-    "Nb38": {
-        "lat": 40.35, 
-        "code": "76", 
-        "lon": -123.47, 
-        "name": "Southwestern U.S.A."
+    "B9": {
+        "lat": 5.86, 
+        "code": "42", 
+        "lon": 101.0, 
+        "name": "Malesia"
     }, 
     "Cc9": {
         "lat": 23.0, 
@@ -9239,11 +10145,71 @@
         "lon": 17.0, 
         "name": "Northeast Tropical Africa"
     }, 
-    "B165": {
-        "lat": 38.54, 
-        "code": "76", 
-        "lon": -122.88, 
+    "WNAI58": {
+        "lat": 39.3, 
+        "code": 76, 
+        "lon": -120.9, 
         "name": "Southwestern U.S.A."
+    }, 
+    "WNAI59": {
+        "lat": 38.8, 
+        "code": 76, 
+        "lon": -121.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI54": {
+        "lat": 39.7, 
+        "code": 76, 
+        "lon": -121.9, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI55": {
+        "lat": 39.8, 
+        "code": 76, 
+        "lon": -121.3, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI56": {
+        "lat": 40.2, 
+        "code": 76, 
+        "lon": -121.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI57": {
+        "lat": 39.4, 
+        "code": 76, 
+        "lon": -121.1, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI50": {
+        "lat": 39.5, 
+        "code": 76, 
+        "lon": -122.5, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI51": {
+        "lat": 41.4, 
+        "code": 76, 
+        "lon": -120.5, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI52": {
+        "lat": 41.2, 
+        "code": 76, 
+        "lon": -121.4, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI53": {
+        "lat": 40.5, 
+        "code": 76, 
+        "lon": -121.3, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "Ih14": {
+        "lat": -17.81, 
+        "code": "60", 
+        "lon": 178.32, 
+        "name": "Southwestern Pacific"
     }, 
     "Sc9": {
         "lat": 5.0, 
@@ -9347,11 +10313,11 @@
         "lon": 173.0, 
         "name": "Russian Far East"
     }, 
-    "B163": {
-        "lat": 39.03, 
-        "code": "76", 
-        "lon": -121.15, 
-        "name": "Southwestern U.S.A."
+    "Ih12": {
+        "lat": -18.85, 
+        "code": "60", 
+        "lon": 169.16, 
+        "name": "Southwestern Pacific"
     }, 
     "B162": {
         "lat": 40.85, 
@@ -9425,6 +10391,66 @@
         "lon": 92.47, 
         "name": "Indo-China"
     }, 
+    "WNAI149": {
+        "lat": 33.5, 
+        "code": 76, 
+        "lon": -110.8, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI148": {
+        "lat": 34.0, 
+        "code": 76, 
+        "lon": -111.2, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI141": {
+        "lat": 32.7, 
+        "code": 76, 
+        "lon": -114.5, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI140": {
+        "lat": 34.5, 
+        "code": 76, 
+        "lon": -114.5, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI143": {
+        "lat": 32.0, 
+        "code": 79, 
+        "lon": -115.0, 
+        "name": "Mexico"
+    }, 
+    "WNAI142": {
+        "lat": 32.5, 
+        "code": 79, 
+        "lon": -115.0, 
+        "name": "Mexico"
+    }, 
+    "WNAI145": {
+        "lat": 33.2, 
+        "code": 76, 
+        "lon": -112.0, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI144": {
+        "lat": 33.3, 
+        "code": 76, 
+        "lon": -112.5, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI147": {
+        "lat": 35.0, 
+        "code": 76, 
+        "lon": -111.8, 
+        "name": "Southwestern U.S.A."
+    }, 
+    "WNAI146": {
+        "lat": 32.0, 
+        "code": 76, 
+        "lon": -112.0, 
+        "name": "Southwestern U.S.A."
+    }, 
     "Ai33": {
         "lat": 4.0, 
         "code": "24", 
@@ -9473,6 +10499,12 @@
         "lon": 30.0, 
         "name": "Northeast Tropical Africa"
     }, 
+    "Aj24": {
+        "lat": 5.0, 
+        "code": "24", 
+        "lon": 34.0, 
+        "name": "Northeast Tropical Africa"
+    }, 
     "Ai39": {
         "lat": 11.0, 
         "code": "24", 
@@ -9497,11 +10529,11 @@
         "lon": -106.61, 
         "name": "Subarctic America"
     }, 
-    "B380": {
-        "lat": 68.41, 
-        "code": "70", 
-        "lon": -166.21, 
-        "name": "Subarctic America"
+    "Ie9": {
+        "lat": -9.0, 
+        "code": "43", 
+        "lon": 148.0, 
+        "name": "Papuasia"
     }, 
     "B383": {
         "lat": 65.16, 
@@ -9533,11 +10565,11 @@
         "lon": -94.93, 
         "name": "Subarctic America"
     }, 
-    "Ie8": {
-        "lat": -7.0, 
-        "code": "43", 
-        "lon": 145.0, 
-        "name": "Papuasia"
+    "B386": {
+        "lat": 65.21, 
+        "code": "70", 
+        "lon": -64.65, 
+        "name": "Subarctic America"
     }, 
     "B389": {
         "lat": 71.24, 
@@ -9629,53 +10661,53 @@
         "lon": 35.0, 
         "name": "East Tropical Africa"
     }, 
-    "Ag31": {
-        "lat": 12.0, 
-        "code": "22", 
-        "lon": -6.0, 
-        "name": "West Tropical Africa"
-    }, 
-    "Ag30": {
-        "lat": 13.0, 
-        "code": "22", 
-        "lon": -4.0, 
-        "name": "West Tropical Africa"
-    }, 
-    "Aj25": {
-        "lat": 0.0, 
+    "Aj27": {
+        "lat": 1.0, 
         "code": "25", 
-        "lon": 36.0, 
+        "lon": 35.0, 
         "name": "East Tropical Africa"
     }, 
-    "Aj24": {
-        "lat": 5.0, 
-        "code": "24", 
-        "lon": 34.0, 
-        "name": "Northeast Tropical Africa"
-    }, 
-    "Aj23": {
+    "Aj26": {
         "lat": 1.0, 
         "code": "25", 
         "lon": 36.0, 
         "name": "East Tropical Africa"
     }, 
-    "Aj22": {
-        "lat": 3.0, 
-        "code": "25", 
-        "lon": 34.0, 
-        "name": "East Tropical Africa"
+    "Ag33": {
+        "lat": 11.0, 
+        "code": "22", 
+        "lon": -3.0, 
+        "name": "West Tropical Africa"
     }, 
-    "Aj21": {
-        "lat": 3.0, 
-        "code": "25", 
-        "lon": 34.0, 
-        "name": "East Tropical Africa"
+    "Ag32": {
+        "lat": 10.0, 
+        "code": "22", 
+        "lon": -6.0, 
+        "name": "West Tropical Africa"
     }, 
-    "Aj20": {
-        "lat": 6.0, 
-        "code": "24", 
-        "lon": 35.0, 
-        "name": "Northeast Tropical Africa"
+    "Ag35": {
+        "lat": 7.0, 
+        "code": "22", 
+        "lon": -3.0, 
+        "name": "West Tropical Africa"
+    }, 
+    "Ag34": {
+        "lat": 11.0, 
+        "code": "22", 
+        "lon": -4.0, 
+        "name": "West Tropical Africa"
+    }, 
+    "Ag37": {
+        "lat": 11.0, 
+        "code": "22", 
+        "lon": -2.0, 
+        "name": "West Tropical Africa"
+    }, 
+    "Ag36": {
+        "lat": 11.0, 
+        "code": "22", 
+        "lon": -3.0, 
+        "name": "West Tropical Africa"
     }, 
     "B169": {
         "lat": 40.17, 
@@ -9689,11 +10721,11 @@
         "lon": -122.88, 
         "name": "Southwestern U.S.A."
     }, 
-    "Ih14": {
-        "lat": -17.81, 
-        "code": "60", 
-        "lon": 178.32, 
-        "name": "Southwestern Pacific"
+    "B165": {
+        "lat": 38.54, 
+        "code": "76", 
+        "lon": -122.88, 
+        "name": "Southwestern U.S.A."
     }, 
     "B164": {
         "lat": 35.47, 
@@ -9713,29 +10745,29 @@
         "lon": -123.96, 
         "name": "Southwestern U.S.A."
     }, 
-    "Ih10": {
-        "lat": -19.6, 
-        "code": "60", 
-        "lon": 169.44, 
-        "name": "Southwestern Pacific"
+    "B161": {
+        "lat": 34.63, 
+        "code": "76", 
+        "lon": -119.6, 
+        "name": "Southwestern U.S.A."
     }, 
-    "Ih11": {
-        "lat": -16.61, 
-        "code": "60", 
-        "lon": 168.17, 
-        "name": "Southwestern Pacific"
+    "B160": {
+        "lat": 40.9, 
+        "code": "76", 
+        "lon": -122.35, 
+        "name": "Southwestern U.S.A."
     }, 
-    "Ih12": {
-        "lat": -18.85, 
-        "code": "60", 
-        "lon": 169.16, 
-        "name": "Southwestern Pacific"
+    "B163": {
+        "lat": 39.03, 
+        "code": "76", 
+        "lon": -121.15, 
+        "name": "Southwestern U.S.A."
     }, 
-    "Ih13": {
-        "lat": -16.18, 
-        "code": "60", 
-        "lon": 168.15, 
-        "name": "Southwestern Pacific"
+    "Ie4": {
+        "lat": -3.24, 
+        "code": "43", 
+        "lon": 144.1, 
+        "name": "Papuasia"
     }, 
     "Ig20": {
         "lat": -9.49, 
