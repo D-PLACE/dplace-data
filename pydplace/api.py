@@ -124,11 +124,11 @@ class Society(UnicodeMixin):
     glottocode_comment = attr.ib()
     HRAF_name_ID = attr.ib()
     HRAF_link = attr.ib()
-    origLat = attr.ib(convert=float, default=0)
-    origLong = attr.ib(convert=float, default=0)
-    Lat = attr.ib(convert=float, validator=partial(valid_range, -90, 90), default=0)
-    Long = attr.ib(convert=float, validator=partial(valid_range, -180, 180), default=0)
-    Comment = attr.ib(default=None)
+    origLat = attr.ib(convert=float)
+    origLong = attr.ib(convert=float)
+    Lat = attr.ib(convert=float, validator=partial(valid_range, -90, 90))
+    Long = attr.ib(convert=float, validator=partial(valid_range, -180, 180))
+    Comment = attr.ib()
 
     def __unicode__(self):
         return '{0.pref_name_for_society} ({0.id})'.format(self)
