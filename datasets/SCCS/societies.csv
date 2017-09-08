@@ -1,0 +1,187 @@
+id,xd_id,pref_name_for_society,glottocode,ORIG_name_and_ID_in_this_dataset,alt_names_by_society,main_focal_year,glottocode_comment,HRAF_name_ID,HRAF_link,origLat,origLong,Lat,Long,Comment
+SCCS2,xd1,!Kung,juho1239,Kung (SCCS2),"Kung Bushmen, !Kung (Was Nyae), Was Nyae",1950,Lang_assignment_change_notes,San (FX10),http://ehrafworldcultures.yale.edu/collection?owc=FX10,-19.83,20.58,-19.83,20.58,Original
+SCCS1,xd3,Nama,nama1265,Nama (SCCS1),"Khoekhoe, Namaqua, Nama Hottentot",1860,Lang_assignment_change_notes,Khoi (FX13),http://ehrafworldcultures.yale.edu/collection?owc=FX13,-27.5,17.0,-27.5,17.0,Original
+SCCS13,xd5,Mbuti,kang1285,Mbuti (SCCS13),"Sua, BaSua, Kango, BaKango, Bambuti, BaMbuti Pygmies",1950,Lang_assignment_change_notes,Mbuti (FO04),http://ehrafworldcultures.yale.edu/collection?owc=FO04,1.5,28.33,1.5,28.33,Original
+SCCS9,xd9,Hadza,hadz1240,Hadza (SCCS9),"Hadzabe, Hatsa Kindiga, Hadza, Kindiga",1930,Lang_assignment_change_notes,,,-3.75,35.18,-3.75,35.18,Original
+SCCS4,xd26,Lozi,lozi1239,Lozi (SCCS4),,1900,Lang_assignment_change_notes,Lozi (FQ09),http://ehrafworldcultures.yale.edu/collection?owc=FQ09,-16.0,23.5,-16.0,23.5,Original
+SCCS3,xd27,Tsonga,tson1249,Thonga (SCCS3),"Thonga, Tonga, Vatsonga, Bathonga ",1895,Lang_assignment_change_notes,Tsonga (FT06),http://ehrafworldcultures.yale.edu/collection?owc=FT06,-25.83,32.33,-25.83,32.33,Original
+SCCS5,xd28,Mbundu,umbu1257,Mbundu (SCCS5),"Banano, Mbari, Nano, Ovimbundu",1890,Lang_assignment_change_notes,Mbundu (FP13),http://ehrafworldcultures.yale.edu/collection?owc=FP13,-12.25,16.5,-12.25,16.5,Original
+SCCS6,xd41,Suku,suku1259,Suku (SCCS6),,1920,Lang_assignment_change_notes,,,-6.0,18.0,-6.0,18.0,Original
+SCCS7,xd55,Bemba,town1238,Bemba (SCCS7),Awemba,1897,Lang_assignment_change_notes,Bemba (FQ05),http://ehrafworldcultures.yale.edu/collection?owc=FQ05,-10.5,30.5,-10.5,30.5,Original
+SCCS10,xd81,Luguru,lugu1238,Luguru (SCCS10),Waluguru,1925,Lang_assignment_change_notes,,,-6.83,37.67,-6.83,37.67,Original
+SCCS11,xd109,Kikuyu,kiku1240,Kikuyu (SCCS11),Aikikuyu,1920,Lang_assignment_change_notes,Gikuyu (FL10),http://ehrafworldcultures.yale.edu/collection?owc=FL10,-0.67,37.17,-0.67,37.17,Original
+SCCS8,xd123,Nyakyusa,nyak1261,Nyakyusa (SCCS8),,1934,Lang_assignment_change_notes,Nyakyusa and Ngonde (FN17),http://ehrafworldcultures.yale.edu/collection?owc=FN17,-9.5,34.0,-9.5,34.0,Original
+SCCS12,xd124,Ganda,gand1255,Ganda (SCCS12),Baganda,1875,Lang_assignment_change_notes,Ganda (FK07),http://ehrafworldcultures.yale.edu/collection?owc=FK07,0.33,32.5,0.33,32.5,Original
+SCCS14,xd160,Nkundo,nkun1238,Nkundo Mongo (SCCS14),,1930,Lang_assignment_change_notes,Mongo (FO32),http://ehrafworldcultures.yale.edu/collection?owc=FO32,-0.75,19.17,-0.75,19.17,Original
+SCCS15,xd173,Banen,tune1261,Banen (SCCS15),Banyin,1935,Lang_assignment_change_notes,,,4.67,10.8,4.67,10.8,Original
+SCCS18,xd186,Fon,fonn1241,Fon (SCCS18),"Dahomey, Dahomeans",1890,Lang_assignment_change_notes,,,7.2,1.91,7.2,1.91,Original
+SCCS17,xd187,Igbo,nucl1417,Igbo (SCCS17),Ibo,1935,Lang_assignment_change_notes,Igbo (FF26),http://ehrafworldcultures.yale.edu/collection?owc=FF26,5.5,7.33,5.5,7.33,Original
+SCCS19,xd208,Ashanti,asan1239,Ashanti (SCCS19),Twi,1895,Lang_assignment_change_notes,Twi (FE12),http://ehrafworldcultures.yale.edu/collection?owc=FE12,7.0,-1.5,7.0,-1.5,Original
+SCCS20,xd230,Mende,mend1266,Mende (SCCS20),,1945,Lang_assignment_change_notes,Mende (FC07),http://ehrafworldcultures.yale.edu/collection?owc=FC07,7.83,-12.0,7.83,-12.0,Original
+SCCS22,xd244,Bambara,bamb1269,Bambara (SCCS22),Bamana,1902,Lang_assignment_change_notes,Bambara (FA08),http://ehrafworldcultures.yale.edu/collection?owc=FA08,12.5,-7.0,12.5,-7.0,Original
+SCCS23,xd277,Tallensi,taln1239,Tallensi (SCCS23),,1934,Lang_assignment_change_notes,Tallensi (FE11),http://ehrafworldcultures.yale.edu/collection?owc=FE11,10.66,-0.57,10.66,-0.57,Original
+SCCS16,xd320,Tiv,tivv1240,Tiv (SCCS16),Munshi,1920,Lang_assignment_change_notes,Tiv (FF57),http://ehrafworldcultures.yale.edu/collection?owc=FF57,7.25,9.0,7.25,9.0,Original
+SCCS30,xd338,Otoro,otor1240,Otoro (SCCS30),"Otoro Nuba, Nuba",1930,Lang_assignment_change_notes,,,11.33,30.67,11.33,30.67,Original
+SCCS28,xd359,Azande,zand1248,Azande (SCCS28),Niam-Niam,1905,Lang_assignment_change_notes,Azande (FO07),http://ehrafworldcultures.yale.edu/collection?owc=FO07,5.08,28.25,5.08,28.25,Original
+SCCS32,xd378,Mao,hozo1236,Mao (SCCS32),,1939,Lang_assignment_change_notes,,,9.27,34.67,9.27,34.67,Original
+SCCS31,xd380,Shilluk,shil1265,Shilluk (SCCS31),,1910,Lang_assignment_change_notes,Shilluk (FJ23),http://ehrafworldcultures.yale.edu/collection?owc=FJ23,9.75,31.5,9.75,31.5,Original
+SCCS27,xd383,Masa,masa1322,Masa (SCCS27),Massa,1910,Lang_assignment_change_notes,,,10.5,15.5,10.5,15.5,Original
+SCCS34,xd395,Maasi,masa1300,Masai (SCCS34),Masai,1900,Lang_assignment_change_notes,Masai (FL12),http://ehrafworldcultures.yale.edu/collection?owc=FL12,-3.5,36.75,-3.5,36.75,Original
+SCCS35,xd415,Konso,kons1243,Konso (SCCS35),,1935,Lang_assignment_change_notes,,,5.25,37.5,5.25,37.5,Original
+SCCS36,xd426,Somali,nort3051,Somali (SCCS36),,1900,Lang_assignment_change_notes,Somali (MO04),http://ehrafworldcultures.yale.edu/collection?owc=MO04,9.0,47.25,9.0,47.25,Original
+SCCS33,xd438,Kafa,kafa1242,Kafa (SCCS33),"Kafecho, Kaffa",1905,Lang_assignment_change_notes,Kaffa (MP14),http://ehrafworldcultures.yale.edu/collection?owc=MP14,7.27,36.5,7.27,36.5,Original
+SCCS38,xd445,Blin,bili1260,Bogo (SCCS38),"Bogo, Belen, Bilin",1855,Lang_assignment_change_notes,,,15.75,38.75,15.75,38.75,Original
+SCCS37,xd455,Amhara,amha1245,Amhara (SCCS37),,1953,Lang_assignment_change_notes,Amhara (MP05),http://ehrafworldcultures.yale.edu/collection?owc=MP05,12.5,37.75,12.5,37.75,Original
+SCCS29,xd466,Fur,furr1244,Fur (SCCS29),Darfur,1880,Lang_assignment_change_notes,,,13.5,25.5,13.5,25.5,Original
+SCCS21,xd469,Wolof,nucl1347,Wolof (SCCS21),,1950,Lang_assignment_change_notes,Wolof (MS30),http://ehrafworldcultures.yale.edu/collection?owc=MS30,13.75,-15.33,13.75,-15.33,Original
+SCCS25,xd474,Wodaabe Fulani,boro1274,Pastoral Fulani (SCCS25),"Pastoral Fulani, Wodaabe",1951,Lang_assignment_change_notes,,,15.0,7.5,15.0,7.5,Original
+SCCS26,xd476,Zazzagawa Hausa,araw1280,Hausa (SCCS26),"Hausa, Zazzagawa",1900,Lang_assignment_change_notes,Hausa (MS12),http://ehrafworldcultures.yale.edu/collection?owc=MS12,10.5,7.5,10.5,7.5,Original
+SCCS24,xd480,Songhai,humb1243,Songhai (SCCS24),,1940,Lang_assignment_change_notes,,,16.58,-1.67,16.58,-1.67,Original
+SCCS40,xd498,Teda,teda1241,Teda (SCCS40),Toubou,1950,Lang_assignment_change_notes,Teda (MS22),http://ehrafworldcultures.yale.edu/collection?owc=MS22,20.5,17.5,20.5,17.5,Original
+SCCS41,xd506,Tuareg Ahaggar,hogg1238,Tuareg (SCCS41),Tuareg,1900,Lang_assignment_change_notes,Tuareg (MS25),http://ehrafworldcultures.yale.edu/collection?owc=MS25,23.0,6.5,23.0,6.5,Original
+SCCS39,xd507,Barabra,kenu1236,Kenuzi Nubians  (SCCS39),Kenuzi Nubians ,1900,Lang_assignment_change_notes,,,23.0,38.75,23.0,39.11,Revised
+SCCS43,xd518,Egyptians,egyp1253,Egyptians (SCCS43),"Fellahin, Fellaheen",1950,Lang_assignment_change_notes,Fellahin (MR13),http://ehrafworldcultures.yale.edu/collection?owc=MR13,24.75,33.0,24.75,33.0,Original
+SCCS42,xd521,Riffians,tari1263,Riffians (SCCS42),,1926,Lang_assignment_change_notes,Berbers of Morocco (MX03),http://ehrafworldcultures.yale.edu/collection?owc=MX03,34.92,-3.25,34.92,-3.25,Original
+SCCS48,xd528,Gheg,gheg1238,Gheg Albanians (SCCS48),Albanians,1910,Lang_assignment_change_notes,Albanians (EG01),http://ehrafworldcultures.yale.edu/collection?owc=EG01,42.0,20.17,42.0,20.17,Original
+SCCS49,xd530,Ancient Romans,lati1261,Romans (SCCS49),Romans,110,Lang_assignment_change_notes,Imperial Romans (EI09),http://ehrafworldcultures.yale.edu/collection?owc=EI09,41.67,13.5,41.67,13.5,Original
+SCCS50,xd535,Spanish Basques,west1508,Basques (SCCS50),Spanish Basques,1934,Lang_assignment_change_notes,Basques (EX08),http://ehrafworldcultures.yale.edu/collection?owc=EX08,43.25,-1.67,43.25,-1.67,Original
+SCCS51,xd543,Irish,iris1253,Irish (SCCS51),Gaelic,1932,Lang_assignment_change_notes,Rural Irish (ER06),http://ehrafworldcultures.yale.edu/collection?owc=ER06,53.5,-10.0,53.5,-10.0,Original
+SCCS52,xd544,Sami,lule1254,Lapps (SCCS52),Lapps,1950,Lang_assignment_change_notes,Lapps (EP04),http://ehrafworldcultures.yale.edu/collection?owc=EP04,68.7,21.5,68.7,21.5,Original
+SCCS54,xd548,Russians,russ1263,Russians (SCCS54),,1955,Lang_assignment_change_notes,,,52.67,41.33,52.67,41.33,Original
+SCCS56,xd575,Armenians,nucl1235,Armenians (SCCS56),,1843,Lang_assignment_change_notes,,,40.0,44.5,40.0,44.5,Original
+SCCS57,xd576,Kurd,cent1972,Kurd (SCCS57),,1951,Lang_assignment_change_notes,Kurd (MA11),http://ehrafworldcultures.yale.edu/collection?owc=MA11,36.5,44.5,36.5,44.5,Original
+SCCS55,xd577,Abkhaz,abkh1244,Abkhaz (SCCS55),,1880,Lang_assignment_change_notes,Abkhaz (RI03),http://ehrafworldcultures.yale.edu/collection?owc=RI03,43.13,40.77,43.13,40.77,Original
+SCCS47,xd581,Turks,nucl1301,Turks (SCCS47),,1950,Lang_assignment_change_notes,Turks (MB01),http://ehrafworldcultures.yale.edu/collection?owc=MB01,39.33,34.25,39.33,34.25,Original
+SCCS46,xd588,Rwala,east2690,Rwala Bedouin (SCCS46),Rwala Bedouin,1913,Lang_assignment_change_notes,Rwala (MD04),http://ehrafworldcultures.yale.edu/collection?owc=MD04,33.25,38.5,33.25,38.5,Original
+SCCS44,xd589,Hebrews,hebr1245,Hebrews (SCCS44),,-621,Lang_assignment_change_notes,,,31.18,34.92,31.18,34.92,Original
+SCCS45,xd590,Babylonians,akka1240,Babylonians (SCCS45),,-1750,Lang_assignment_change_notes,,,32.58,44.75,32.58,44.75,Original
+SCCS59,xd600,Punjabi,panj1256,Punjabi (West) (SCCS59),Punjabi (West) ,1950,Lang_assignment_change_notes,,,32.5,74.0,32.5,74.0,Original
+SCCS58,xd605,Basseri,bass1257,Basseri (SCCS58),,1958,Lang_assignment_change_notes,Basseri (MA10),http://ehrafworldcultures.yale.edu/collection?owc=MA10,29.0,53.0,29.0,53.0,Original
+SCCS65,xd609,Kazakh,kaza1248,Kazak (SCCS65),Kazak,1885,Lang_assignment_change_notes,Kazakh (RQ02),http://ehrafworldcultures.yale.edu/collection?owc=RQ02,42.5,75.5,42.5,75.5,Original
+SCCS66,xd611,Khalka,halh1238,Khalka Mongols (SCCS66),"Xanx, Khalka Mongols",1920,Lang_assignment_change_notes,Mongolia (AH01),http://ehrafworldcultures.yale.edu/collection?owc=AH01,47.17,96.08,47.17,96.08,Original
+SCCS119,xd617,Nivkh,gily1242,Gilyak (SCCS119),Gilyak,1890,Lang_assignment_change_notes,Nivkh (RX02),http://ehrafworldcultures.yale.edu/collection?owc=RX02,54.0,142.5,53.0,142.0,Revised
+SCCS121,xd631,Chukchi,chuk1273,Chukchee (SCCS121),"lygoravetlyan, Ankalyn, Chavchu, Chukchee",1900,Lang_assignment_change_notes,Chukchee (RY02),http://ehrafworldcultures.yale.edu/collection?owc=RY02,66.5,180.0,66.5,179.6,Revised
+SCCS53,xd632,Yurak-Samoyeds,nene1249,Yurak Samoyed (SCCS53),"Nenets, Yurak",1894,Lang_assignment_change_notes,Samoyed and/or Nenets (RU04/RU41),http://ehrafworldcultures.yale.edu/collection?owc=RU04,68.0,51.5,68.0,51.5,Original
+SCCS120,xd634,Yukaghir,nort2745,Yukaghir (SCCS120),,1850,Lang_assignment_change_notes,,,64.75,153.5,64.75,153.5,Original
+SCCS118,xd635,Ainu,ainu1240,Ainu (SCCS118),"Ainu (Hokkaido), Hokkaido",1880,Lang_assignment_change_notes,Ainu (AB06),http://ehrafworldcultures.yale.edu/collection?owc=AB06,42.83,143.0,42.83,143.0,Original
+SCCS116,xd638,Koreans,kore1280,Koreans (SCCS116),,1947,Lang_assignment_change_notes,Korea (AA01),http://ehrafworldcultures.yale.edu/collection?owc=AA01,37.6,126.42,37.6,126.42,Original
+SCCS114,xd643,Chekiang,wuch1236,Chinese (SCCS114),Chinese,1936,Lang_assignment_change_notes,,,31.0,120.08,31.0,120.08,Original
+SCCS67,xd645,Lolo,sich1238,Lolo (SCCS67),"Yi, Nosu",1910,Lang_assignment_change_notes,Yi (AE04),http://ehrafworldcultures.yale.edu/collection?owc=AE04,27.5,103.5,27.5,103.5,Original
+SCCS115,xd646,Manchu,manc1252,Manchu (SCCS115),,1915,Lang_assignment_change_notes,Manchu (AG01),http://ehrafworldcultures.yale.edu/collection?owc=AG04,50.0,125.5,50.0,125.5,Original
+SCCS117,xd648,Japanese,nucl1643,Japanese (SCCS117),,1950,Lang_assignment_change_notes,Okayama (AB43),http://ehrafworldcultures.yale.edu/collection?owc=AB43,34.67,133.67,34.67,133.67,Original
+SCCS64,xd654,Burusho,buru1296,Burusho (SCCS64),,1934,Lang_assignment_change_notes,Burusho (AV07),http://ehrafworldcultures.yale.edu/collection?owc=AV07,36.43,74.58,36.43,74.58,Original
+SCCS68,xd655,Lepcha,lepc1244,Lepcha (SCCS68),Rong,1937,Lang_assignment_change_notes,Lepcha (AK05),http://ehrafworldcultures.yale.edu/collection?owc=AK05,27.5,89.0,27.5,89.0,Original
+SCCS62,xd661,Santal,sant1410,Santal (SCCS62),"Santhal, Saontal",1940,Lang_assignment_change_notes,Santal (AW42),http://ehrafworldcultures.yale.edu/collection?owc=AW42,23.5,87.17,23.5,87.17,Original
+SCCS63,xd663,Uttar Pradesh,bhoj1244,Uttar Pradesh (SCCS63),,1945,Lang_assignment_change_notes,Uttar (AW19),http://ehrafworldcultures.yale.edu/collection?owc=AW19,25.92,83.0,25.92,83.0,Original
+SCCS60,xd679,Madia,dand1238,Gond (SCCS60),"Maria Gond, Gond",1938,Lang_assignment_change_notes,Gond (AW32),http://ehrafworldcultures.yale.edu/collection?owc=AW32,19.63,80.92,19.63,80.92,Original
+SCCS61,xd680,Toda,toda1252,Toda (SCCS61),,1900,Lang_assignment_change_notes,Toda (AW60),http://ehrafworldcultures.yale.edu/collection?owc=AW60,11.5,76.5,11.5,76.5,Original
+SCCS79,xd686,Andamanese,akab1249,Andamanese (SCCS79),"Big Andaman Island, Andamese",1860,Lang_assignment_change_notes,Andamans (AZ02),http://ehrafworldcultures.yale.edu/collection?owc=AZ02,11.75,93.08,12.0,93.0,Revised
+SCCS81,xd689,Tanala,tana1285,Tanala (SCCS81),,1925,Lang_assignment_change_notes,Tanala (FY08),http://ehrafworldcultures.yale.edu/collection?owc=FY08,-22.0,48.0,-22.0,48.0,Original
+SCCS80,xd690,Vedda,vedd1240,Vedda (SCCS80),"Wanniyalaeto, Veddah",1860,Lang_assignment_change_notes,Vedda (AX05),http://ehrafworldcultures.yale.edu/collection?owc=AX05,7.75,81.25,7.75,81.25,Original
+SCCS78,xd691,Nicobarese,carn1240,Nicobarese (SCCS78),Holchu,1870,Lang_assignment_change_notes,,,7.0,93.75,7.0,93.75,Original
+SCCS69,xd696,Garo,garo1247,Garo (SCCS69),A.Chik,1955,Lang_assignment_change_notes,Garo (AR05),http://ehrafworldcultures.yale.edu/collection?owc=AR05,26.0,91.0,26.0,91.0,Original
+SCCS71,xd709,Burmese,nucl1310,Burmese (SCCS71),Bamar people,1965,Lang_assignment_change_notes,Burmans (AP04),http://ehrafworldcultures.yale.edu/collection?owc=AP04,22.0,95.67,22.0,95.67,Original
+SCCS70,xd710,Maras,mara1382,Lakher (SCCS70),Lakher,1930,Lang_assignment_change_notes,,,22.33,93.0,22.33,93.0,Original
+SCCS72,xd716,Lamet,lame1256,Lamet (SCCS72),,1940,Lang_assignment_change_notes,,,20.0,100.67,20.0,100.67,Original
+SCCS74,xd717,Rade,rade1240,Rhade (SCCS74),Rhade,1962,Lang_assignment_change_notes,,,13.0,108.0,13.0,108.0,Original
+SCCS75,xd722,Ancient Khmer,nucl1298,Khmer (SCCS75),Khmer,1292,Lang_assignment_change_notes,,,13.0,103.83,13.0,103.83,Original
+SCCS82,xd723,Negri Sembilan,nege1240,Negri Sembilan (SCCS82),Negeri Sembilan,1958,Lang_assignment_change_notes,,,2.58,102.25,2.58,102.25,Original
+SCCS77,xd725,Semang,kens1248,Semang (SCCS77),,1925,Lang_assignment_change_notes,Semang (AN07),http://ehrafworldcultures.yale.edu/collection?owc=AN07,5.0,101.25,5.0,101.25,Original
+SCCS73,xd726,Annamese,viet1252,Vietnamese (SCCS73),Vietnamese,1930,Lang_assignment_change_notes,Vietnam (AM11),http://ehrafworldcultures.yale.edu/collection?owc=AM11,20.5,106.25,20.5,106.25,Original
+SCCS76,xd731,Thai,thai1261,Siamese (SCCS76),"Siamese, Central Thai",1955,Lang_assignment_change_notes,,,14.0,100.85,14.0,100.85,Original
+SCCS113,xd732,Atayal,atay1247,Atayal (SCCS113),,1930,Lang_assignment_change_notes,,,24.33,120.75,24.33,120.75,Original
+SCCS86,xd736,Badjau Tawi-Tawi,sout2918,Badjau (SCCS86),"Tawi-Tawi Badjaw, Badjau",1963,Lang_assignment_change_notes,,,5.0,120.0,5.0,120.0,Original
+SCCS112,xd743,Ifugao,tuwa1243,Ifugao (SCCS112),,1910,Lang_assignment_change_notes,Ifugao (OA19),http://ehrafworldcultures.yale.edu/collection?owc=OA19,16.83,121.17,16.83,121.17,Original
+SCCS85,xd750,Iban,iban1264,Iban (SCCS85),"Dayak, Sea Dayak",1950,Lang_assignment_change_notes,Iban (OC06),http://ehrafworldcultures.yale.edu/collection?owc=OC06,2.0,113.0,2.0,113.0,Original
+SCCS83,xd751,Javanese,java1254,Javanese (SCCS83),,1954,Lang_assignment_change_notes,Javanese (OE05),http://ehrafworldcultures.yale.edu/collection?owc=OE05,-7.7,112.22,-7.7,112.22,Original
+SCCS84,xd752,Balinese,bali1278,Balinese (SCCS84),,1958,Lang_assignment_change_notes,Bali (OF07),http://ehrafworldcultures.yale.edu/collection?owc=OF07,-8.5,115.33,-8.5,115.33,Original
+SCCS88,xd760,Tobelorese,tobe1252,Tobelorese (SCCS88),Togutil,1900,Lang_assignment_change_notes,,,2.0,128.0,2.0,127.94,Revised
+SCCS89,xd764,Alorese,abui1241,Alorese (SCCS89),Abui,1938,Lang_assignment_change_notes,Alor (OF05),http://ehrafworldcultures.yale.edu/collection?owc=OF05,-8.33,124.67,-8.33,124.67,Original
+SCCS87,xd767,Toradja,tora1261,Toradja (SCCS87),,1910,Lang_assignment_change_notes,Toradja (OG11),http://ehrafworldcultures.yale.edu/collection?owc=OG11,-2.0,121.0,-2.0,121.0,Original
+SCCS91,xd772,Northern Aranda,east2379,Aranda (SCCS91),"Aranda (Northern), Northern Arenda, Arunta",1896,Lang_assignment_change_notes,Aranda (OI08),http://ehrafworldcultures.yale.edu/collection?owc=OI08,-24.25,133.5,-24.25,133.5,Original
+SCCS90,xd778,Tiwi,tiwi1244,Tiwi (SCCS90),,1929,Lang_assignment_change_notes,Tiwi (OI20),http://ehrafworldcultures.yale.edu/collection?owc=OI20,-11.38,131.0,-11.38,131.0,Original
+SCCS94,xd785,Mee,ekar1243,Kapauku (SCCS94),Kapauku,1955,Lang_assignment_change_notes,Kapauku (OJ29),http://ehrafworldcultures.yale.edu/collection?owc=OJ29,-4.0,136.0,-4.0,136.0,Original
+SCCS95,xd788,Kwoma,kwom1262,Kwoma (SCCS95),,1937,Lang_assignment_change_notes,Kwoma (OJ13),http://ehrafworldcultures.yale.edu/collection?owc=OJ13,-4.17,142.67,-4.17,142.67,Original
+SCCS93,xd794,Kimam,kima1246,Kimam (SCCS93),Frederik-Hendrik Islanders,1960,Lang_assignment_change_notes,,,-7.5,138.5,-7.5,138.5,Original
+SCCS92,xd823,Orokaiva,orok1269,Orokaiva (SCCS92),,1925,Lang_assignment_change_notes,Orokaiva (OJ23),http://ehrafworldcultures.yale.edu/collection?owc=OJ23,-8.5,148.0,-8.5,148.0,Original
+SCCS111,xd824,Palauans,pala1344,Palauans (SCCS111),,1947,Lang_assignment_change_notes,Belau (OR15),http://ehrafworldcultures.yale.edu/collection?owc=OR15,7.5,134.5,7.5,134.5,Original
+SCCS107,xd829,Makin,bana1287,Gilbertese (SCCS107),Gilbertese,1890,Lang_assignment_change_notes,,,3.5,172.33,3.38,172.99,Revised
+SCCS108,xd832,Marshallese,rata1243,Marshallese (SCCS108),,1900,Lang_assignment_change_notes,Marshallese (OR11),http://ehrafworldcultures.yale.edu/collection?owc=OR11,6.0,168.5,6.28,169.49,Revised
+SCCS109,xd833,Trukese,chuu1238,Trukese (SCCS109),Chuukese,1947,Lang_assignment_change_notes,Truk (OR19),http://ehrafworldcultures.yale.edu/collection?owc=OR19,7.4,151.67,7.34,151.6,Revised
+SCCS110,xd837,Yapese,yape1248,Yapese (SCCS110),,1910,Lang_assignment_change_notes,Yap (OR22),http://ehrafworldcultures.yale.edu/collection?owc=OR22,9.5,138.17,9.52,138.16,Revised
+SCCS99,xd841,Siuai,siwa1245,Siuai (SCCS99),,1939,Lang_assignment_change_notes,Siwai (ON19),in process,-7.0,155.33,-6.76,155.45,Revised
+SCCS98,xd852,Trobriands,kili1267,Trobrianders (SCCS98),,1914,Lang_assignment_change_notes,Trobriands (OL06),http://ehrafworldcultures.yale.edu/collection?owc=OL06,-8.64,151.01,-8.54,151.01,Revised
+SCCS97,xd856,Lesu,nots1237,New Ireland (SCCS97),New Irelanders,1930,Lang_assignment_change_notes,Lesu (OM24),http://ehrafworldcultures.yale.edu/collection?owc=OM24,-2.5,151.0,-2.71,151.0,Revised
+SCCS96,xd861,Manus,tita1241,Manus (SCCS96),,1929,Lang_assignment_change_notes,Manus (OM06),http://ehrafworldcultures.yale.edu/collection?owc=OM06,-2.17,147.17,-2.17,147.17,Original
+SCCS102,xd867,Mbau Fijians,bauu1243,Mbau Fijians (SCCS102),,1840,Lang_assignment_change_notes,,,-18.0,178.58,-18.0,178.58,Original
+SCCS101,xd869,Bunlap,saaa1241,Pentecost (SCCS101),Pentecost,1953,Lang_assignment_change_notes,,,-16.0,168.0,-15.95,168.22,Revised
+SCCS103,xd871,Ajie,ajie1238,Ajie (SCCS103),,1845,Lang_assignment_change_notes,,,-21.33,165.67,-21.33,165.67,Original
+SCCS106,xd880,Upolu Samoans,samo1305,Western Samoans (SCCS106),"Western Samoans, Upolu",1829,Lang_assignment_change_notes,Samoans (OU08),http://ehrafworldcultures.yale.edu/collection?owc=OU08,-13.75,-172.0,-13.94,-171.77,Revised
+SCCS100,xd881,Tikopia,tiko1237,Tikopia (SCCS100),,1930,Lang_assignment_change_notes,Tikopia (OT11),http://ehrafworldcultures.yale.edu/collection?owc=OT11,-12.5,168.5,-12.29,168.83,Revised
+SCCS104,xd891,M?ori,maor1246,Maori (SCCS104),Maori,1820,Lang_assignment_change_notes,Maori (OZ04),http://ehrafworldcultures.yale.edu/collection?owc=OZ04,-35.33,174.17,-35.33,174.17,Original
+SCCS105,xd892,Marquesans,nort2845,Marquesans (SCCS105),,1800,Lang_assignment_change_notes,Marquesas (OX06),http://ehrafworldcultures.yale.edu/collection?owc=OX06,-8.92,-140.17,-8.92,-140.17,Original
+SCCS128,xd1034,DeneTha,sout2959,Slave (SCCS128),"Slave, Deh Cho (Southern Slavey), Slavey, Dene (distinguish from speakers of the Dene language)",1940,Lang_assignment_change_notes,,,62.0,-122.0,62.0,-122.0,Original
+SCCS124,xd1022,Copper Inuit,copp1244,Copper Eskimo (SCCS124),"Kitlinermiut, Copper Eskimo",1915,Lang_assignment_change_notes,Copper Eskimo (ND08),http://ehrafworldcultures.yale.edu/collection?owc=ND08,68.0,-112.5,68.72,-112.53,Revised
+SCCS125,xd1048,Montagnais,mont1268,Montagnais (SCCS125),"Innu, Naskapi",1910,Lang_assignment_change_notes,Montagnais (NH06),http://ehrafworldcultures.yale.edu/collection?owc=NH06,50.0,-74.0,50.0,-74.0,Original
+SCCS127,xd1049,Northern Saulteaux,alba1270,Saulteaux (SCCS127),"N. Saulteaux, North Sauteaux",1930,Lang_assignment_change_notes,Ojibwa (NG06),http://ehrafworldcultures.yale.edu/collection?owc=NG06,52.0,-95.5,52.0,-95.5,Original
+SCCS129,xd1056,Kaska,kask1239,Kaska (SCCS129),Nahane,1900,Lang_assignment_change_notes,Kaska (ND12),http://ehrafworldcultures.yale.edu/collection?owc=ND12,60.0,-131.0,60.0,-131.0,Original
+SCCS126,xd1058,Mi'kmaq,mikm1235,Micmac (SCCS126),Micmac,1650,Lang_assignment_change_notes,Mi'kmaq (NJ05),http://ehrafworldcultures.yale.edu/collection?owc=NJ05,46.0,-63.0,46.99,-65.0,Revised
+SCCS122,xd1066,Deg Xit'an,dege1248,Ingalik (SCCS122),Ingalik,1885,Lang_assignment_change_notes,,,62.5,-159.5,62.5,-159.5,Original
+SCCS123,xd1067,Aleut,east2533,Aleut (SCCS123),Unagan,1824,Lang_assignment_change_notes,Aleut (NA06),http://ehrafworldcultures.yale.edu/collection?owc=NA06,55.25,-164.0,55.0,-162.85,Revised
+SCCS131,xd1068,Haida,nort2938,Haida (SCCS131),,1875,Lang_assignment_change_notes,,,54.0,-132.5,54.0,-132.5,Original
+SCCS133,xd1079,Twana,twan1247,Twana (SCCS133),,1860,Lang_assignment_change_notes,,,47.43,-123.25,47.43,-123.25,Original
+SCCS134,xd1101,Yurok,yuro1248,Yurok (SCCS134),,1850,Lang_assignment_change_notes,Yurok (NS31),http://ehrafworldcultures.yale.edu/collection?owc=NS31,41.5,-124.0,41.5,-124.0,Original
+SCCS130,xd1102,Eyak,eyak1241,Eyak (SCCS130),dAXunhyuu,1890,Lang_assignment_change_notes,,,60.5,-145.0,60.5,-145.0,Original
+SCCS132,xd1106,Nuxalk,bell1243,Bellacoola (SCCS132),"Nuxalkmc, Bellacoola, Bilqula, Bella Coola",1880,Lang_assignment_change_notes,Nuxalk (NE06),http://ehrafworldcultures.yale.edu/collection?owc=NE06,52.33,-126.5,52.33,-126.5,Original
+SCCS135,xd1116,Eastern Pomo,east2545,Pomo (Eastern) (SCCS135),"Clear Lake Pomo, Eastern Pomo",1850,Lang_assignment_change_notes,Pomo (NS18),http://ehrafworldcultures.yale.edu/collection?owc=NS18,39.0,-123.0,39.0,-123.0,Original
+SCCS136,xd1123,Southern Valley Yokuts,vall1251,Yokuts (Lake) (SCCS136),"Lake Yokuts, Tachi Yokuts, Chunut Yokuts",1850,Lang_assignment_change_notes,Yokuts (NS29),http://ehrafworldcultures.yale.edu/collection?owc=NS29,35.0,-119.5,35.0,-119.5,Original
+SCCS138,xd1139,Klamath,klam1254,Klamath (SCCS138),,1860,Lang_assignment_change_notes,Klamath (NR10),http://ehrafworldcultures.yale.edu/collection?owc=NR10,42.63,-121.67,42.63,-121.67,Original
+SCCS137,xd1155,Wadadokado,nort1551,Paiute (Northern) (SCCS137),"Paiute, Northern Paiute",1870,Lang_assignment_change_notes,Northern Paiute (NR13),http://ehrafworldcultures.yale.edu/collection?owc=NR13,43.5,-119.0,43.5,-119.0,Original
+SCCS150,xd1163,Havasupai,hava1249,Havasupai (SCCS150),Plateau Yuma,1918,Lang_assignment_change_notes,Plateau Yumans (NT14),http://ehrafworldcultures.yale.edu/collection?owc=NT14,35.83,-112.17,35.83,-112.17,Original
+SCCS139,xd1205,Kutenai,kute1249,Kutenai (SCCS139),"Ktunaxa, Kootenay, Kootenai",1890,Lang_assignment_change_notes,,,49.0,-116.67,49.0,-116.67,Original
+SCCS140,xd1208,Gros Ventre,gros1243,Gros Ventre (SCCS140),"A'ani, A'aninin, Haaninin",1880,Lang_assignment_change_notes,Gros Ventre (NQ13),http://ehrafworldcultures.yale.edu/collection?owc=NQ13,48.0,-108.0,48.0,-108.0,Original
+SCCS141,xd1214,Hidatsa,hida1246,Hidatsa (SCCS141),,1836,Lang_assignment_change_notes,,,47.0,-101.0,47.0,-101.0,Original
+SCCS147,xd1222,Comanche,coma1245,Comanche (SCCS147),,1870,Lang_assignment_change_notes,Comanche (NO06),http://ehrafworldcultures.yale.edu/collection?owc=NO06,34.0,-101.5,34.0,-101.5,Original
+SCCS143,xd1237,Omaha,omah1248,Omaha (SCCS143),Dhegiha,1860,Lang_assignment_change_notes,Omaha (NQ21),http://ehrafworldcultures.yale.edu/collection?owc=NQ21,41.43,-96.5,41.43,-96.5,Original
+SCCS142,xd1240,Pawnee,pawn1254,Pawnee (SCCS142),,1867,Lang_assignment_change_notes,Pawnee (NQ18),http://ehrafworldcultures.yale.edu/collection?owc=NQ18,42.0,-100.0,42.0,-100.0,Original
+SCCS144,xd1244,Huron,wyan1247,Huron (SCCS144),"Bear and Cord Peoples, Wendat, Ouendat, Attignaouantan, Attinniaoenten, Attigneenongnahac, Hatingeennonniahak",1634,Lang_assignment_change_notes,,,44.5,-79.0,44.5,-79.0,Original
+SCCS145,xd1252,Muscogee,cree1270,Creek (SCCS145),"Creek, Taskigi Creek",1800,Lang_assignment_change_notes,Creek (NN11),http://ehrafworldcultures.yale.edu/collection?owc=NN11,32.93,-86.0,32.93,-86.0,Original
+SCCS146,xd1256,Natchez,natc1249,Natchez (SCCS146),,1718,Lang_assignment_change_notes,,,31.5,-91.42,31.5,-91.42,Original
+SCCS148,xd1259,Chiricahua,mesc1238,Chiricahua (SCCS148),"Chiricahua Apache, Eastern Apache",1870,Lang_assignment_change_notes,Eastern Apache (NT08),http://ehrafworldcultures.yale.edu/collection?owc=NT08,32.0,-109.5,32.0,-109.5,Original
+SCCS149,xd1280,Zuni,zuni1245,Zuni (SCCS149),,1880,Lang_assignment_change_notes,Zuni (NT23),http://ehrafworldcultures.yale.edu/collection?owc=NT23,35.67,-108.75,35.67,-108.75,Original
+SCCS151,xd1287,Tohono O'odham,toho1246,Papago (SCCS151),Papago,1910,Lang_assignment_change_notes,O'Odham (NU79),http://ehrafworldcultures.yale.edu/collection?owc=NU79,32.0,-112.0,32.0,-112.0,Original
+SCCS152,xd1288,Huichol,huic1243,Huichol (SCCS152),Wixárika,1890,Lang_assignment_change_notes,,,22.0,-105.0,22.0,-105.0,Original
+SCCS153,xd1301,Aztec,clas1250,Aztec (SCCS153),Aztec of Tenochtitlan,1520,Lang_assignment_change_notes,Aztec (NU07),in process,19.0,-99.17,19.0,-99.17,Original
+SCCS154,xd1302,Sierra Popoluca,high1276,Popoluca (SCCS154),"Popoluca, Soteapanec Zoque, Soteapan Zoque, Soteapaneco, Soteapan Soke",1940,Lang_assignment_change_notes,,,18.25,-94.83,18.25,-94.83,Original
+SCCS158,xd1309,Guna,bord1248,Cuna (Tule) (SCCS158),"Dule, Tule, Cuna, Kuna",1927,Lang_assignment_change_notes,Cuna (SB05),http://ehrafworldcultures.yale.edu/collection?owc=SB05,9.25,-78.5,9.25,-78.5,Original
+SCCS155,xd1313,K'iche',kich1262,Quiche (SCCS155),Quiche,1930,Lang_assignment_change_notes,,,15.0,-91.0,15.0,-91.0,Original
+SCCS157,xd1321,Bribri,brib1243,Bribri (SCCS157),Talamanca,1917,Lang_assignment_change_notes,Talamancans (SA19),http://ehrafworldcultures.yale.edu/collection?owc=SA19,9.0,-83.25,9.0,-83.25,Original
+SCCS156,xd1325,Miskito,misk1235,Miskito (SCCS156),"Mískitu, Mosquito",1921,Lang_assignment_change_notes,Miskito (SA15),http://ehrafworldcultures.yale.edu/collection?owc=SA15,15.0,-83.0,15.0,-83.0,Original
+SCCS161,xd1326,Callinago,tyre1237,Callinago (SCCS161),,1650,Lang_assignment_change_notes,Island Carib (ST13),http://ehrafworldcultures.yale.edu/collection?owc=ST13,15.5,-60.5,15.41,-61.27,Revised
+SCCS159,xd1331,Wayuu,wayu1243,Goajiro (SCCS159),Goajiro,1947,Lang_assignment_change_notes,Goajiro (SC13),http://ehrafworldcultures.yale.edu/collection?owc=SC13,11.92,-71.75,11.92,-71.75,Original
+SCCS160,xd1334,Haitians,hait1244,Haitians (SCCS160),,1935,Lang_assignment_change_notes,Haitians (SV03),http://ehrafworldcultures.yale.edu/collection?owc=SV03,18.83,-72.17,18.83,-72.17,Original
+SCCS162,xd1335,Warao,wara1303,Warrau (SCCS162),Warrau,1935,Lang_assignment_change_notes,Warao (SS18),http://ehrafworldcultures.yale.edu/collection?owc=SS18,9.08,-62.0,9.08,-62.0,Original
+SCCS164,xd1346,Barama River Carib,mura1272,Barama Carib (SCCS164),"Barama Carib, Carib",1932,Lang_assignment_change_notes,Barama River Carib (SR09),http://ehrafworldcultures.yale.edu/collection?owc=SR09,7.42,-60.17,7.42,-60.17,Original
+SCCS165,xd1349,Saramaccan ,sara1340,Saramacca (SCCS165),"Saramaccan of Suriname , Saramacca, Bush Negroes",1928,Lang_assignment_change_notes,Saramaka (SR15),http://ehrafworldcultures.yale.edu/collection?owc=SR15,3.5,-55.75,3.5,-55.75,Original
+SCCS166,xd1353,Munduruku,mund1330,Mundurucu (SCCS166),"Wuy Jugu, Mundurucu",1850,Lang_assignment_change_notes,Mundurucu (SQ13),http://ehrafworldcultures.yale.edu/collection?owc=SQ13,-6.5,-56.5,-6.5,-56.5,Original
+SCCS163,xd1361,Yanomami,yano1261,Yanomamo (SCCS163),"Yanomamo, Yanoama",1965,Lang_assignment_change_notes,Yanoama (SQ18),http://ehrafworldcultures.yale.edu/collection?owc=SQ18,2.42,-65.0,2.42,-65.0,Original
+SCCS173,xd1362,Sirionó,siri1273,Siriono (SCCS173),"Miá, Siriono",1942,Lang_assignment_change_notes,Siriono (SF21),http://ehrafworldcultures.yale.edu/collection?owc=SF21,-14.5,-63.5,-14.5,-63.5,Original
+SCCS169,xd1367,Shuar,shua1257,Jivaro (SCCS169),Jivaro,1920,Lang_assignment_change_notes,Jivaro (SD09),http://ehrafworldcultures.yale.edu/collection?owc=SD09,-3.0,-78.0,-3.0,-78.0,Original
+SCCS167,xd1369,Cubeo,cube1242,Cubeo (SCCS167),"Jiwa, Tucano",1939,Lang_assignment_change_notes,Tucano (SQ19),http://ehrafworldcultures.yale.edu/collection?owc=SQ19,1.25,-70.5,1.25,-70.5,Original
+SCCS170,xd1372,Amahuaca,amah1246,Amahuaca (SCCS170),,1960,Lang_assignment_change_notes,,,-10.33,-72.25,-10.33,-72.25,Original
+SCCS171,xd1374,Inca,cusc1236,Inca (SCCS171),,1530,Lang_assignment_change_notes,Inca (SE13),http://ehrafworldcultures.yale.edu/collection?owc=SE13,-13.5,-72.0,-13.5,-72.0,Original
+SCCS172,xd1375,Aymara,cent2142,Aymara (SCCS172),,1940,Lang_assignment_change_notes,Aymara (SF05),http://ehrafworldcultures.yale.edu/collection?owc=SF05,-16.0,-65.75,-16.0,-65.75,Original
+SCCS168,xd1376,Chachi,chac1249,Cayapa (SCCS168),Cayapa,1908,Lang_assignment_change_notes,Chachi (SD06),http://ehrafworldcultures.yale.edu/collection?owc=SD06,1.0,-79.0,1.0,-79.0,Original
+SCCS186,xd1383,Yahgan,yama1264,Yahgan (SCCS186),,1865,Lang_assignment_change_notes,Yahgan (SH06),http://ehrafworldcultures.yale.edu/collection?owc=SH06,-55.5,-69.5,-55.5,-69.5,Original
+SCCS184,xd1384,Mapuche,mapu1245,Mapuche (SCCS184),,1950,Lang_assignment_change_notes,Aracuanians (SG04),http://ehrafworldcultures.yale.edu/collection?owc=SG04,-38.5,-72.58,-38.5,-72.58,Original
+SCCS185,xd1386,Tehuelche,tehu1242,Tehuelche (SCCS185),Patagon,1870,Lang_assignment_change_notes,Tehuelche (SH05),http://ehrafworldcultures.yale.edu/collection?owc=SH05,-40.5,-68.0,-40.5,-68.0,Original
+SCCS183,xd1390,Abipón,abip1241,Abipon (SCCS183),"Abipon, Abipones",1750,Lang_assignment_change_notes,Abipon (SI04),http://ehrafworldcultures.yale.edu/collection?owc=SI04,-28.0,-59.5,-28.0,-59.5,Original
+SCCS182,xd1396,Lengua,leng1262,Lengua (SCCS182),,1889,Lang_assignment_change_notes,,,-23.0,-58.5,-23.0,-58.5,Original
+SCCS175,xd1399,Trumai,trum1247,Trumai (SCCS175),Ho kod ke,1938,Lang_assignment_change_notes,Trumai (SP23),http://ehrafworldcultures.yale.edu/collection?owc=SP23,-11.83,-53.67,-11.83,-53.67,Original
+SCCS174,xd1401,Nambikwara,sout2994,Nambicuara (SCCS174),Nambicura,1940,Lang_assignment_change_notes,Nambicuara (SP17),http://ehrafworldcultures.yale.edu/collection?owc=SP17,-13.0,-58.75,-13.0,-58.75,Original
+SCCS181,xd1408,Cayua,mbya1239,Cayua (SCCS181),"Abá, Cayua, Caingua, Guaraní, Guarani",1890,Lang_assignment_change_notes,Cayua (SM04),http://ehrafworldcultures.yale.edu/collection?owc=SM04,-23.5,-55.0,-23.5,-55.0,Original
+SCCS179,xd1409,Shavante,xava1240,Shavante (SCCS179),,1958,Lang_assignment_change_notes,,,-13.5,-51.5,-13.5,-51.5,Original
+SCCS180,xd1411,Aweikoma,xokl1240,Aweikoma (SCCS180),"Xokleng, Shokleng, Botocudo of Santa Catarina, Bugre, Kaingang of Santa Catarina (though Aweikoma and Kaingang today considered separate groups)",1932,Lang_assignment_change_notes,Xokleng (SM03),http://ehrafworldcultures.yale.edu/collection?owc=SM03,-28.0,-50.0,-28.0,-50.0,Original
+SCCS176,xd1412,Canela,cane1242,Timbira (SCCS176),"Ramcocamecra, Timbira, Canella",1915,Lang_assignment_change_notes,Canela (SO08),http://ehrafworldcultures.yale.edu/collection?owc=SO08,-6.5,-46.0,-6.5,-46.0,Original
+SCCS178,xd1413,Aimoré,kren1239,Botocudo (SCCS178),"Nac-nanuk, Nac-poruk, Botocudo",1884,Lang_assignment_change_notes,,,-19.0,-42.5,-19.0,-42.5,Original
+SCCS177,xd1416,Tupinambá,tupi1273,Tupinamba (SCCS177),Tupinamba,1550,Lang_assignment_change_notes,Tupinamba (SO09),http://ehrafworldcultures.yale.edu/collection?owc=SO09,-22.79,-44.5,-22.79,-44.5,Original
