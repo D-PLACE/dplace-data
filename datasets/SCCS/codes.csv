@@ -1,0 +1,1158 @@
+var_id,code,description,name
+SCCS1,1,No Trade,No Trade
+SCCS1,2,Food Imports absent although trade present,Food Imports absent although trade present
+SCCS1,3,Salt or Minerals only,Salt or Minerals only
+SCCS1,4,< 10 pct of food (90 pct form local extractive sources),< 10 pct of food (90 pct form local extractive sources)
+SCCS1,5,"< 50 pct of food, and less than any single local source","< 50 pct of food, and less than any single local source"
+SCCS1,7,> 50 pct of food,> 50 pct of food
+SCCS1,NA,NA,NA
+SCCS2,1,Direct individual exchanges,Direct individual exchanges
+SCCS2,2,Indirect individual exchanges,Indirect individual exchanges
+SCCS2,3,Local markets,Local markets
+SCCS2,4,Middlemen,Middlemen
+SCCS2,5,Three or four of above,Three or four of above
+SCCS2,NA,NA,NA
+SCCS3,1,None,None
+SCCS3,2,Non-food Crops,Non-food Crops
+SCCS3,3,< 10 pct,< 10 pct
+SCCS3,4,"< 50 pct , and less than any other single source, incl. trade","< 50 pct , and less than any other single source, incl. trade"
+SCCS3,5,"< 50 pct , and more than any other single source, incl. trade","< 50 pct , and more than any other single source, incl. trade"
+SCCS3,6,Primarily agricultural,Primarily agricultural
+SCCS4,1,Non-food,Non-food
+SCCS4,3,Tree or Vine,Tree or Vine
+SCCS4,4,Roots,Roots
+SCCS4,5,Cereals,Cereals
+SCCS4,NA,NA,NA
+SCCS5,1,None,None
+SCCS5,2,"Present, not food source","Present, not food source"
+SCCS5,3,< 10 pct food supply,< 10 pct food supply
+SCCS5,4,< 50 pct - chiefly meat,< 50 pct - chiefly meat
+SCCS5,5,< 50 pct - chiefly dairy,< 50 pct - chiefly dairy
+SCCS5,7,> 50 pct,> 50 pct
+SCCS6,1,"Small Species, e.g. Bees, Cats, Dogs, Fowl","Small Species, e.g. Bees, Cats, Dogs, Fowl"
+SCCS6,2,Pigs,Pigs
+SCCS6,3,Ovides,Ovides
+SCCS6,4,Equines,Equines
+SCCS6,5,Reindeer,Reindeer
+SCCS6,6,Camels,Camels
+SCCS6,7,Bovines,Bovines
+SCCS6,NA,NA,NA
+SCCS7,1,None,None
+SCCS7,2,< 10 pct food supply,< 10 pct food supply
+SCCS7,3,"< 50 pct , and less than any other single source, incl. trade","< 50 pct , and less than any other single source, incl. trade"
+SCCS7,4,"< 50 pct , and more than any other single source, incl. trade","< 50 pct , and more than any other single source, incl. trade"
+SCCS7,5,> 50 pct,> 50 pct
+SCCS7,NA,NA,NA
+SCCS8,1,Shellfish,Shellfish
+SCCS8,2,True fish,True fish
+SCCS8,3,Large aquatic animals,Large aquatic animals
+SCCS8,4,Two or more of above,Two or more of above
+SCCS8,NA,NA,NA
+SCCS9,1,None,None
+SCCS9,2,Not food source,Not food source
+SCCS9,3,< 10 pct food supply,< 10 pct food supply
+SCCS9,4,"< 50 pct , and less than any other single source, incl. trade","< 50 pct , and less than any other single source, incl. trade"
+SCCS9,5,"< 50 pct , and more than any other single source, incl. trade","< 50 pct , and more than any other single source, incl. trade"
+SCCS9,6,> 50 pct,> 50 pct
+SCCS9,NA,NA,NA
+SCCS10,1,Birds or Waterfowl,Birds or Waterfowl
+SCCS10,2,Small Mammals,Small Mammals
+SCCS10,3,Large Game,Large Game
+SCCS10,4,Two or more of above,Two or more of above
+SCCS10,NA,NA,NA
+SCCS11,1,None,None
+SCCS11,2,< 10 pct food supply,< 10 pct food supply
+SCCS11,3,"< 50 pct , and less than any other single source, incl. trade","< 50 pct , and less than any other single source, incl. trade"
+SCCS11,4,"< 50 pct , and more than any other single source, incl. trade","< 50 pct , and more than any other single source, incl. trade"
+SCCS11,5,> 50 pct,> 50 pct
+SCCS11,NA,NA,NA
+SCCS12,1,Wild Animal products,Wild Animal products
+SCCS12,2,"Wild Herbs, Leaves, Blossoms","Wild Herbs, Leaves, Blossoms"
+SCCS12,3,"Tree Pith, e.g., Sago","Tree Pith, e.g., Sago"
+SCCS12,4,Wild Roots or Tubers,Wild Roots or Tubers
+SCCS12,5,"Wild Fruit, seeds, nuts, berries","Wild Fruit, seeds, nuts, berries"
+SCCS12,6,Two or more of the above,Two or more of the above
+SCCS12,NA,NA,NA
+SCCS13,1,"Human Carriers, incl. tumpline","Human Carriers, incl. tumpline"
+SCCS13,2,Pack Animals,Pack Animals
+SCCS13,3,"Draft Animals (sleds, travois)","Draft Animals (sleds, travois)"
+SCCS13,4,Animal Drawn Wheeled vehicles,Animal Drawn Wheeled vehicles
+SCCS13,5,Motorized vehicles,Motorized vehicles
+SCCS13,NA,NA,NA
+SCCS14,1,Unimproved Trails,Unimproved Trails
+SCCS14,2,"Improved Trails, for porters or animal carriers","Improved Trails, for porters or animal carriers"
+SCCS14,3,"Unpaved Roads, for wheeled vehicles","Unpaved Roads, for wheeled vehicles"
+SCCS14,4,Paved Roads,Paved Roads
+SCCS14,NA,NA,NA
+SCCS15,1,"None, but feasible","None, but feasible"
+SCCS15,2,Not feasible,Not feasible
+SCCS15,3,Floats or rafts,Floats or rafts
+SCCS15,4,Human powered craft,Human powered craft
+SCCS15,5,Sail powered craft,Sail powered craft
+SCCS15,6,Motorized craft,Motorized craft
+SCCS15,NA,NA,NA
+SCCS16,0,None,None
+SCCS16,1,"Small, for <10 people or load equivalent","Small, for <10 people or load equivalent"
+SCCS16,2,"Medium, for >10 people or load equivalent","Medium, for >10 people or load equivalent"
+SCCS16,3,"Large, for >40 people or load equivalent","Large, for >40 people or load equivalent"
+SCCS16,NA,NA,NA
+SCCS17,1,No media of exchange or money,No media of exchange or money
+SCCS17,2,Domestically usable articles as media of exchange,Domestically usable articles as media of exchange
+SCCS17,3,Tokens of conventional value as media of exchange,Tokens of conventional value as media of exchange
+SCCS17,4,Foreign coinage or paper currency,Foreign coinage or paper currency
+SCCS17,5,Indigenous coinage or paper currency,Indigenous coinage or paper currency
+SCCS17,NA,NA,NA
+SCCS18,1,Personal loans between friends or relatives,Personal loans between friends or relatives
+SCCS18,2,Internal money lending specialists,Internal money lending specialists
+SCCS18,3,External money lending specialists,External money lending specialists
+SCCS18,4,Banks or comparable institutions,Banks or comparable institutions
+SCCS18,NA,NA,NA
+SCCS19,1,"Year-round food supply, none","Year-round food supply, none"
+SCCS19,2,"Year-round food supply, simple","Year-round food supply, simple"
+SCCS19,3,"Year-round food supply, complex","Year-round food supply, complex"
+SCCS19,4,"Daily variation, none","Daily variation, none"
+SCCS19,5,"Daily variation, simple","Daily variation, simple"
+SCCS19,7,"Seasonal variation, barely adequate","Seasonal variation, barely adequate"
+SCCS19,8,"Seasonal variation, adequate (8)","Seasonal variation, adequate (8)"
+SCCS19,9,"Seasonal variation, adequate (9)","Seasonal variation, adequate (9)"
+SCCS19,10,"Annual variation, barely adequate","Annual variation, barely adequate"
+SCCS19,11,"Annual variation, adequate (11)","Annual variation, adequate (11)"
+SCCS19,12,"Annual variation, adequate (12)","Annual variation, adequate (12)"
+SCCS19,13,"Imported food, barely adequate","Imported food, barely adequate"
+SCCS20,1,None,None
+SCCS20,2,Individual households,Individual households
+SCCS20,3,Communal facilities,Communal facilities
+SCCS20,4,Political agent controlled repositories,Political agent controlled repositories
+SCCS20,5,Economic agent controlled repositories,Economic agent controlled repositories
+SCCS20,NA,NA,NA
+SCCS21,1,None or barely adequate,None or barely adequate
+SCCS21,2,Simple or adequate,Simple or adequate
+SCCS21,3,Complex or More than adequate,Complex or More than adequate
+SCCS22,1,Year-round food supply locally,Year-round food supply locally
+SCCS22,2,Daily variation in food supply,Daily variation in food supply
+SCCS22,3,Seasonal variation,Seasonal variation
+SCCS22,4,Annual variation,Annual variation
+SCCS22,5,Imported food supply,Imported food supply
+SCCS23,2,"Mo same room (not bed) as infant, Fa different room","Mo same room (not bed) as infant, Fa different room"
+SCCS23,4,"Mo same room (not bed) as infant, Fa different bed","Mo same room (not bed) as infant, Fa different bed"
+SCCS23,5,"Mo, Fa same room as infant, beds not specified","Mo, Fa same room as infant, beds not specified"
+SCCS23,6,"Mo same bed as infant, Fa different room","Mo same bed as infant, Fa different room"
+SCCS23,7,"Mo same bed as infant, Fa not specified","Mo same bed as infant, Fa not specified"
+SCCS23,8,"Mo same bed as infant, Fa same room","Mo same bed as infant, Fa same room"
+SCCS23,9,Mo and Fa in same bed as infant,Mo and Fa in same bed as infant
+SCCS23,NA,NA,NA
+SCCS24,1,None except in emergency,None except in emergency
+SCCS24,2,Loose confinement - Tether or playpen,Loose confinement - Tether or playpen
+SCCS24,3,Limited space - Bed or hammock,Limited space - Bed or hammock
+SCCS24,4,"Movement limited - Swaddling, heavy blankets","Movement limited - Swaddling, heavy blankets"
+SCCS24,5,Often Bound - Cradle Board,Often Bound - Cradle Board
+SCCS24,NA,NA,NA
+SCCS25,1,None except in emergency,None except in emergency
+SCCS25,2,Loose confinement - Tether or playpen,Loose confinement - Tether or playpen
+SCCS25,3,Limited space - Bed or hammock,Limited space - Bed or hammock
+SCCS25,4,"Movement limited - Swaddling, heavy blankets","Movement limited - Swaddling, heavy blankets"
+SCCS25,5,Often Bound - Cradle Board,Often Bound - Cradle Board
+SCCS25,NA,NA,NA
+SCCS26,1,Limited to routine and precautionary care,Limited to routine and precautionary care
+SCCS26,2,Occasionally,Occasionally
+SCCS26,3,Up to 1/2 time,Up to 1/2 time
+SCCS26,4,> 1/2 time,> 1/2 time
+SCCS26,5,Almost Constantly,Almost Constantly
+SCCS26,NA,NA,NA
+SCCS27,1,Limited to routine and precautionary care,Limited to routine and precautionary care
+SCCS27,2,Occasionally,Occasionally
+SCCS27,3,Up to 1/2 time,Up to 1/2 time
+SCCS27,4,> 1/2 time,> 1/2 time
+SCCS27,5,Almost Constantly,Almost Constantly
+SCCS27,NA,NA,NA
+SCCS28,1,"None, skin contact","None, skin contact"
+SCCS28,2,"None, clothing or blanket","None, clothing or blanket"
+SCCS28,3,Sling or Pouch,Sling or Pouch
+SCCS28,4,Basket,Basket
+SCCS28,5,Rigid Cradleboard,Rigid Cradleboard
+SCCS28,NA,NA,NA
+SCCS29,1,Back,Back
+SCCS29,2,Side,Side
+SCCS29,3,Front,Front
+SCCS29,4,Other,Other
+SCCS29,NA,NA,NA
+SCCS30,1,Away from carrier,Away from carrier
+SCCS30,2,Toward carrier,Toward carrier
+SCCS30,NA,NA,NA
+SCCS31,1,Indifferent or punitive,Indifferent or punitive
+SCCS31,2,"Slow or perfunctory, nurturant","Slow or perfunctory, nurturant"
+SCCS31,3,Speedy but inconsistently nurturant,Speedy but inconsistently nurturant
+SCCS31,4,"Generally speedy, nurturant","Generally speedy, nurturant"
+SCCS31,5,"Always speedy, nurturant","Always speedy, nurturant"
+SCCS31,NA,NA,NA
+SCCS32,1,Very Infrequent and brief,Very Infrequent and brief
+SCCS32,2,Infrequent and short,Infrequent and short
+SCCS32,3,Infrequent and prolonged,Infrequent and prolonged
+SCCS32,4,Frequent and short,Frequent and short
+SCCS32,5,Frequent and prolonged,Frequent and prolonged
+SCCS32,NA,NA,NA
+SCCS33,1,Absent,Absent
+SCCS33,2,Only neonatally or very mild pain,Only neonatally or very mild pain
+SCCS33,3,Occasional mild pain,Occasional mild pain
+SCCS33,4,Frequent mild pain or infrequent severe pain,Frequent mild pain or infrequent severe pain
+SCCS33,5,Frequent pain,Frequent pain
+SCCS33,NA,NA,NA
+SCCS34,1,Intercourse expected soon after birth,Intercourse expected soon after birth
+SCCS34,2,None,None
+SCCS34,3,1 month or less,1 month or less
+SCCS34,4,6 months or less,6 months or less
+SCCS34,5,1 year or less,1 year or less
+SCCS34,6,2 years or less,2 years or less
+SCCS34,7,> 2 years,> 2 years
+SCCS34,NA,NA,NA
+SCCS35,1,None,None
+SCCS35,2,Only within first 2 months,Only within first 2 months
+SCCS35,3,One occasion at later age,One occasion at later age
+SCCS35,4,Two or more ceremonies,Two or more ceremonies
+SCCS35,5,Prominent,Prominent
+SCCS35,NA,NA,NA
+SCCS36,1,None,None
+SCCS36,2,"Only neonatal period, e.g., couvade","Only neonatal period, e.g., couvade"
+SCCS36,3,"Slight, neonatally and later","Slight, neonatally and later"
+SCCS36,4,"Moderate, neonatally and later","Moderate, neonatally and later"
+SCCS36,5,"Exaggerated, neonatally and later","Exaggerated, neonatally and later"
+SCCS36,NA,NA,NA
+SCCS37,1,No special effort,No special effort
+SCCS37,2,Slight,Slight
+SCCS37,3,"Moderate, e.g., regular baths","Moderate, e.g., regular baths"
+SCCS37,4,"Some exceptional techniques, e.g., medicines, ointments, diapers","Some exceptional techniques, e.g., medicines, ointments, diapers"
+SCCS37,5,Variety of exceptional techniques,Variety of exceptional techniques
+SCCS37,NA,NA,NA
+SCCS38,1,Before 1 month,Before 1 month
+SCCS38,2,1-6 months,1-6 months
+SCCS38,3,"7-12 months, including solids","7-12 months, including solids"
+SCCS38,4,"7-12 months, only liquids or premasticated","7-12 months, only liquids or premasticated"
+SCCS38,5,After 12 months,After 12 months
+SCCS38,NA,NA,NA
+SCCS39,1,> 2 years and gentle,> 2 years and gentle
+SCCS39,2,> 2 years and severe,> 2 years and severe
+SCCS39,3,> 1 year and gentle,> 1 year and gentle
+SCCS39,4,> 1 year and severe,> 1 year and severe
+SCCS39,5,> 6 months and gentle,> 6 months and gentle
+SCCS39,6,> 6 months and severe,> 6 months and severe
+SCCS39,7,< 6 months and gentle,< 6 months and gentle
+SCCS39,NA,NA,NA
+SCCS40,1,Discourage or punish early development,Discourage or punish early development
+SCCS40,2,Ignore development,Ignore development
+SCCS40,3,"No active assistance, but attention given","No active assistance, but attention given"
+SCCS40,4,Definite but inconsistent rewards,Definite but inconsistent rewards
+SCCS40,5,Strong Encouragement and assistance,Strong Encouragement and assistance
+SCCS40,NA,NA,NA
+SCCS41,1,> 4 years and gradual,> 4 years and gradual
+SCCS41,2,> 4 years and abrupt,> 4 years and abrupt
+SCCS41,3,2-4 years and gradual,2-4 years and gradual
+SCCS41,4,"2-4 years and abrupt, or < 2 years and gradual","2-4 years and abrupt, or < 2 years and gradual"
+SCCS41,NA,NA,NA
+SCCS42,0,None,None
+SCCS42,1,3-5 years,3-5 years
+SCCS42,2,> 18 months,> 18 months
+SCCS42,3,> 1 year,> 1 year
+SCCS42,4,> 6 months,> 6 months
+SCCS42,5,< 6 month,< 6 month
+SCCS42,NA,NA,NA
+SCCS43,0,Even adults uncovered,Even adults uncovered
+SCCS43,1,Very late,Very late
+SCCS43,2,Late,Late
+SCCS43,3,> 1 year,> 1 year
+SCCS43,4,< 6 months,< 6 months
+SCCS43,5,After birth,After birth
+SCCS43,NA,NA,NA
+SCCS44,1,up to 12 months,up to 12 months
+SCCS44,2,13 - 20 months,13 - 20 months
+SCCS44,3,21 - 24,21 - 24
+SCCS44,4,25 - 30,25 - 30
+SCCS44,5,31 - 36,31 - 36
+SCCS44,6,37 - 42,37 - 42
+SCCS44,7,43 - 48,43 - 48
+SCCS44,NA,NA,NA
+SCCS45,1,up to 12 months,up to 12 months
+SCCS45,2,13 - 20,13 - 20
+SCCS45,3,21 - 24,21 - 24
+SCCS45,4,25 - 30,25 - 30
+SCCS45,5,31 - 36,31 - 36
+SCCS45,6,37 - 42,37 - 42
+SCCS45,7,43 - 48,43 - 48
+SCCS45,8,49 - 60,49 - 60
+SCCS45,NA,NA,NA
+SCCS46,1,1st in onset (among variables 46-50),1st in onset (among variables 46-50)
+SCCS46,2,2nd,2nd
+SCCS46,3,3rd,3rd
+SCCS46,4,4th,4th
+SCCS46,NA,NA,NA
+SCCS47,1,1st,1st
+SCCS47,2,2nd,2nd
+SCCS47,3,3rd,3rd
+SCCS47,4,4th,4th
+SCCS47,NA,NA,NA
+SCCS48,2,2nd,2nd
+SCCS48,3,3rd,3rd
+SCCS48,4,4th,4th
+SCCS48,5,5th,5th
+SCCS48,NA,NA,NA
+SCCS49,1,1st,1st
+SCCS49,2,2nd,2nd
+SCCS49,3,3rd,3rd
+SCCS49,4,4th,4th
+SCCS49,5,5th,5th
+SCCS49,NA,NA,NA
+SCCS50,1,1st,1st
+SCCS50,2,2nd,2nd
+SCCS50,3,3rd,3rd
+SCCS50,4,4th,4th
+SCCS50,5,5th,5th
+SCCS50,NA,NA,NA
+SCCS51,1,Almost Exclusively Mother,Almost Exclusively Mother
+SCCS51,2,"Principally Mother, others minor roles","Principally Mother, others minor roles"
+SCCS51,3,"Principally Mother, others important roles","Principally Mother, others important roles"
+SCCS51,4,Mother < 1/2 care,Mother < 1/2 care
+SCCS51,5,Mother minor but significant,Mother minor but significant
+SCCS51,6,Mother minimal except for nursing,Mother minimal except for nursing
+SCCS51,NA,NA,NA
+SCCS52,2,"Principally Mother, others important roles","Principally Mother, others important roles"
+SCCS52,3,Mother < 1/2 care,Mother < 1/2 care
+SCCS52,4,Primarily others,Primarily others
+SCCS52,5,Exclusively others,Exclusively others
+SCCS52,NA,NA,NA
+SCCS53,1,Distant,Distant
+SCCS53,2,Rarely close,Rarely close
+SCCS53,3,Occasionally close,Occasionally close
+SCCS53,4,Frequently close,Frequently close
+SCCS53,5,Regularly close,Regularly close
+SCCS53,NA,NA,NA
+SCCS54,1,Distant,Distant
+SCCS54,2,Rarely Close,Rarely Close
+SCCS54,3,Occasionally Close,Occasionally Close
+SCCS54,4,Frequently Close,Frequently Close
+SCCS54,5,Regularly Close,Regularly Close
+SCCS54,NA,NA,NA
+SCCS55,1,"Children, Females","Children, Females"
+SCCS55,2,"Children, unspecified","Children, unspecified"
+SCCS55,3,"Children, both sexes","Children, both sexes"
+SCCS55,4,"Adult Family, Females","Adult Family, Females"
+SCCS55,6,"Adult Family, both sexe","Adult Family, both sexe"
+SCCS55,7,"Others, Female","Others, Female"
+SCCS55,9,"Others, both sexes","Others, both sexes"
+SCCS55,NA,NA,NA
+SCCS56,1,"Peer Group, single sex","Peer Group, single sex"
+SCCS56,2,"Peer Group, unspecified","Peer Group, unspecified"
+SCCS56,3,"Peer Group, both sexes","Peer Group, both sexes"
+SCCS56,4,"Older Children, single sex","Older Children, single sex"
+SCCS56,5,"Older Children, unspecified","Older Children, unspecified"
+SCCS56,6,"Older Children, both sexes","Older Children, both sexes"
+SCCS56,7,"Adults, single sex","Adults, single sex"
+SCCS56,9,"Adults, both sexes","Adults, both sexes"
+SCCS56,NA,NA,NA
+SCCS57,1,Severe or neglectful,Severe or neglectful
+SCCS57,2,Lesser severity,Lesser severity
+SCCS57,3,Occasional indulgence,Occasional indulgence
+SCCS57,4,Greater,Greater
+SCCS57,5,Highly affectionate,Highly affectionate
+SCCS57,NA,NA,NA
+SCCS58,1,Low in category,Low in category
+SCCS58,2,Medium in category,Medium in category
+SCCS58,3,High in category,High in category
+SCCS58,NA,NA,NA
+SCCS59,1,Severe,Severe
+SCCS59,2,Less Severity,Less Severity
+SCCS59,3,Occasional Severity,Occasional Severity
+SCCS59,4,Greater Leniency,Greater Leniency
+SCCS59,5,Consistently Lenient,Consistently Lenient
+SCCS59,NA,NA,NA
+SCCS60,1,Low in Category,Low in Category
+SCCS60,2,Medium in Category,Medium in Category
+SCCS60,3,High in Category,High in Category
+SCCS60,NA,NA,NA
+SCCS61,1,Migratory,Migratory
+SCCS61,2,Seminomadic- fixed then migratory,Seminomadic- fixed then migratory
+SCCS61,3,Rotating among 2+ fixed,Rotating among 2+ fixed
+SCCS61,4,"Semisedentary- fixed core, some migratory","Semisedentary- fixed core, some migratory"
+SCCS61,5,Impermanent- periodically moved,Impermanent- periodically moved
+SCCS61,6,Permanent,Permanent
+SCCS62,1,Compact,Compact
+SCCS62,2,Dispersed,Dispersed
+SCCS62,3,Spatially separated subsettlements,Spatially separated subsettlements
+SCCS62,4,Partially dispersed with central core,Partially dispersed with central core
+SCCS63,1,< 50,< 50
+SCCS63,2,50-99,50-99
+SCCS63,3,100-199,100-199
+SCCS63,4,200-399,200-399
+SCCS63,5,400-999,400-999
+SCCS63,6,"1,000-4,999","1,000-4,999"
+SCCS63,7,"5,000-49,999","5,000-49,999"
+SCCS63,8,"> 50,000","> 50,000"
+SCCS63,NA,NA,NA
+SCCS64,1,< 1 person per 5 sq. mile,< 1 person per 5 sq. mile
+SCCS64,2,1 person per 1-5 sq. mile,1 person per 1-5 sq. mile
+SCCS64,3,1-5 persons per sq. mile,1-5 persons per sq. mile
+SCCS64,4,1-25 persons per sq. mile,1-25 persons per sq. mile
+SCCS64,5,26-100 persons per sq. mile,26-100 persons per sq. mile
+SCCS64,6,101-500 persons per sq. mile,101-500 persons per sq. mile
+SCCS64,7,over 500 persons per sq. mile,over 500 persons per sq. mile
+SCCS64,NA,NA,NA
+SCCS65,1,Conical,Conical
+SCCS65,2,Beehive,Beehive
+SCCS65,3,Dome or hemispherical,Dome or hemispherical
+SCCS65,4,Wedge-shape roof,Wedge-shape roof
+SCCS65,5,Semicylindrical,Semicylindrical
+SCCS65,6,Cone-cylinder,Cone-cylinder
+SCCS65,7,"Rectangular on ground, vegetal material walls","Rectangular on ground, vegetal material walls"
+SCCS65,8,Rectangular on piles,Rectangular on piles
+SCCS65,9,"Rectangular on ground, mineral material walls","Rectangular on ground, mineral material walls"
+SCCS65,10,Flat roofs,Flat roofs
+SCCS65,11,Caves or rock shelters,Caves or rock shelters
+SCCS65,12,Tents,Tents
+SCCS65,13,Semisubterranean,Semisubterranean
+SCCS65,14,Miscellaneous,Miscellaneous
+SCCS66,1,None,None
+SCCS66,2,Residences of influential individuals,Residences of influential individuals
+SCCS66,3,Secular or public building(s),Secular or public building(s)
+SCCS66,4,Religious or ceremonial building(s),Religious or ceremonial building(s)
+SCCS66,5,Military structure(s),Military structure(s)
+SCCS66,6,Economic or industrial building(s),Economic or industrial building(s)
+SCCS67,1,Large communal structures,Large communal structures
+SCCS67,2,Multi-family dwellings,Multi-family dwellings
+SCCS67,3,Single family dwellings,Single family dwellings
+SCCS67,4,Family homestead,Family homestead
+SCCS67,5,"Multi-dwelling households, each with married pair","Multi-dwelling households, each with married pair"
+SCCS67,6,"Multi-dwelling households, husband rotates among wives","Multi-dwelling households, husband rotates among wives"
+SCCS67,7,"Mother-child households, husbands separate","Mother-child households, husbands separate"
+SCCS67,8,"Multi-dwelling households, each dwelling occupied by individual married man or woman","Multi-dwelling households, each dwelling occupied by individual married man or woman"
+SCCS68,1,"Monogamous, no polygyny","Monogamous, no polygyny"
+SCCS68,2,"Monogamous, < 20 pct polygyny","Monogamous, < 20 pct polygyny"
+SCCS68,3,"Polygynous, > 20 pct","Polygynous, > 20 pct"
+SCCS68,4,Polyandrous,Polyandrous
+SCCS68,5,"Stem family, monogamy","Stem family, monogamy"
+SCCS68,6,"Stem family, < 20 pct polygyny","Stem family, < 20 pct polygyny"
+SCCS68,7,"Small extended, monogamy","Small extended, monogamy"
+SCCS68,8,"Small extended, < 20 pct polygyny","Small extended, < 20 pct polygyny"
+SCCS68,9,"Small extended, > 20 pct polygyny","Small extended, > 20 pct polygyny"
+SCCS68,10,"Large extended, monogamy","Large extended, monogamy"
+SCCS68,11,"Large extended, < 20 pct polygyny","Large extended, < 20 pct polygyny"
+SCCS68,12,"Large extended, > 20 pct polygyny","Large extended, > 20 pct polygyny"
+SCCS69,1,Matrilocal or uxorilocal - with wifes kin,Matrilocal or uxorilocal - with wifes kin
+SCCS69,2,Avunculocal - with husbands mothers brothers kin,Avunculocal - with husbands mothers brothers kin
+SCCS69,3,Patrilocal or virilocal - with husbands kin,Patrilocal or virilocal - with husbands kin
+SCCS69,4,Ambilocal - with either wifes or husbands kin,Ambilocal - with either wifes or husbands kin
+SCCS69,5,Neolocal - separate from kin,Neolocal - separate from kin
+SCCS69,NA,NA,NA
+SCCS70,1,Matrilineal - through female line,Matrilineal - through female line
+SCCS70,2,Double descent - separate groups through male and female lines,Double descent - separate groups through male and female lines
+SCCS70,3,Patrilineal - through male line,Patrilineal - through male line
+SCCS70,4,Ambilineal - through one parent in each generation,Ambilineal - through one parent in each generation
+SCCS70,5,Bilateral - not a corporate kin group,Bilateral - not a corporate kin group
+SCCS71,0,None - Bilateral,None - Bilateral
+SCCS71,1,"Localized lineages - in community, more than one per community","Localized lineages - in community, more than one per community"
+SCCS71,2,Clan communities - core group and spouses constitute community,Clan communities - core group and spouses constitute community
+SCCS71,3,Dispersed sibs - core group dispersed in different communities,Dispersed sibs - core group dispersed in different communities
+SCCS72,1,Local endogamy 90-100 pct,Local endogamy 90-100 pct
+SCCS72,2,Local endogamy 61-89 pct (agamous),Local endogamy 61-89 pct (agamous)
+SCCS72,3,Local endogamy 40-60 pct (agamous),Local endogamy 40-60 pct (agamous)
+SCCS72,4,Local endogamy 11-39 pct (agamous),Local endogamy 11-39 pct (agamous)
+SCCS72,5,Local endogamy 0-10 pct (exogamy),Local endogamy 0-10 pct (exogamy)
+SCCS72,NA,NA,NA
+SCCS73,1,Lacking or low compared to community segments or larger polity,Lacking or low compared to community segments or larger polity
+SCCS73,2,By common residence only,By common residence only
+SCCS73,3,"Common Identity, dialect, subculture","Common Identity, dialect, subculture"
+SCCS73,4,Overlapping Kin ties,Overlapping Kin ties
+SCCS73,5,Common social or economic status,Common social or economic status
+SCCS73,6,Common political ties,Common political ties
+SCCS73,7,Common religious ties,Common religious ties
+SCCS74,1,Rites of passage,Rites of passage
+SCCS74,2,Calendrical,Calendrical
+SCCS74,3,Magical or religious,Magical or religious
+SCCS74,4,"Individual sponsored and communally attended (e.g., potlatch)","Individual sponsored and communally attended (e.g., potlatch)"
+SCCS75,1,Feasting and/or drinking,Feasting and/or drinking
+SCCS75,2,Exchanges other than food,Exchanges other than food
+SCCS75,3,Entertainment,Entertainment
+SCCS75,4,Sacrifice other than human,Sacrifice other than human
+SCCS75,5,Human sacrifice,Human sacrifice
+SCCS75,6,Masochistic behavior,Masochistic behavior
+SCCS76,1,No centralized local leadership,No centralized local leadership
+SCCS76,2,Higher level only,Higher level only
+SCCS76,3,Single local leader,Single local leader
+SCCS76,4,Dual/plural headmen,Dual/plural headmen
+SCCS76,5,Single local leader and council,Single local leader and council
+SCCS76,6,Local councils,Local councils
+SCCS76,7,Single local leader and subordinates,Single local leader and subordinates
+SCCS76,8,Too complex to be coded,Too complex to be coded
+SCCS77,1,No headman or council,No headman or council
+SCCS77,2,By appointment,By appointment
+SCCS77,3,Seniority,Seniority
+SCCS77,4,Divination,Divination
+SCCS77,5,Informal consensus,Informal consensus
+SCCS77,6,Electoral process,Electoral process
+SCCS77,7,Patrilineal,Patrilineal
+SCCS77,8,Matrilineal,Matrilineal
+SCCS77,9,Hereditary with personal qualifications,Hereditary with personal qualifications
+SCCS77,NA,NA,NA
+SCCS78,0,No auxiliary qualification,No auxiliary qualification
+SCCS78,3,Seniority,Seniority
+SCCS78,5,Informal consensus,Informal consensus
+SCCS78,6,Electoral process,Electoral process
+SCCS78,7,Patrilineal,Patrilineal
+SCCS78,NA,NA,NA
+SCCS79,1,Polyandry - primarily monogamous with some plural husbands,Polyandry - primarily monogamous with some plural husbands
+SCCS79,2,Monogamy,Monogamy
+SCCS79,3,Polygyny < 20 pct plural wives (if more frequent than polyandry),Polygyny < 20 pct plural wives (if more frequent than polyandry)
+SCCS79,4,Polygyny > 20 pct plural wives (if more frequent than polyandry),Polygyny > 20 pct plural wives (if more frequent than polyandry)
+SCCS80,1,Nuclear Monogamous,Nuclear Monogamous
+SCCS80,2,Nuclear Polygynous,Nuclear Polygynous
+SCCS80,3,Stem Family,Stem Family
+SCCS80,4,Small extended,Small extended
+SCCS80,5,Large extended,Large extended
+SCCS81,1,Dependent totally,Dependent totally
+SCCS81,2,Semi-autonomous,Semi-autonomous
+SCCS81,3,Tribute paid,Tribute paid
+SCCS81,4,De facto autonomy,De facto autonomy
+SCCS81,5,Equal status in pluralistic society,Equal status in pluralistic society
+SCCS81,6,Fully autonomous,Fully autonomous
+SCCS81,NA,NA,NA
+SCCS82,1,Declining autonomy,Declining autonomy
+SCCS82,2,Declining territory or population control,Declining territory or population control
+SCCS82,3,State of equilibrium,State of equilibrium
+SCCS82,4,"State of equilibrium, expanding territory","State of equilibrium, expanding territory"
+SCCS82,5,Increasing autonomy,Increasing autonomy
+SCCS82,NA,NA,NA
+SCCS83,1,Stateless society,Stateless society
+SCCS83,2,Sovereignty 1st hierarchical level up,Sovereignty 1st hierarchical level up
+SCCS83,3,Sovereignty 2nd hierarchical level up,Sovereignty 2nd hierarchical level up
+SCCS83,4,Sovereignty 3rd or higher hierarchical level,Sovereignty 3rd or higher hierarchical level
+SCCS83,NA,NA,NA
+SCCS84,1,Absent,Absent
+SCCS84,2,Peace group,Peace group
+SCCS84,3,Alliances,Alliances
+SCCS84,4,Confederation,Confederation
+SCCS84,5,International organization,International organization
+SCCS84,NA,NA,NA
+SCCS85,1,Absent,Absent
+SCCS85,2,Council,Council
+SCCS85,3,Executive and Council,Executive and Council
+SCCS85,4,Plural executive,Plural executive
+SCCS85,5,Single leader,Single leader
+SCCS85,NA,NA,NA
+SCCS86,1,Absent,Absent
+SCCS86,2,"Patrilineal, Fa to So","Patrilineal, Fa to So"
+SCCS86,3,"Patrilineal, Fa to FaBr, then to So","Patrilineal, Fa to FaBr, then to So"
+SCCS86,4,"Matrilineal, MoBr to SiSo","Matrilineal, MoBr to SiSo"
+SCCS86,5,"Matrilineal, MoBr to MoBr","Matrilineal, MoBr to MoBr"
+SCCS86,6,Ruling family,Ruling family
+SCCS86,7,Decision by limited power group,Decision by limited power group
+SCCS86,8,Elected by council,Elected by council
+SCCS86,9,Informal recognition,Informal recognition
+SCCS86,10,Formal elections,Formal elections
+SCCS86,11,Appointee of alien society,Appointee of alien society
+SCCS86,12,Divination,Divination
+SCCS86,NA,NA,NA
+SCCS87,1,Absent,Absent
+SCCS87,2,Aristocrats,Aristocrats
+SCCS87,3,Appointed,Appointed
+SCCS87,4,By ethnic components,By ethnic components
+SCCS87,5,Elective,Elective
+SCCS87,NA,NA,NA
+SCCS88,1,Absence of sovereignty,Absence of sovereignty
+SCCS88,2,Absent,Absent
+SCCS88,3,Relatives of executive,Relatives of executive
+SCCS88,4,Favorites of executive,Favorites of executive
+SCCS88,6,Subordinate groups,Subordinate groups
+SCCS88,7,Hereditary,Hereditary
+SCCS88,8,Subordinate functionaries,Subordinate functionaries
+SCCS88,NA,NA,NA
+SCCS89,1,Absent,Absent
+SCCS89,2,Not local,Not local
+SCCS89,3,Executive,Executive
+SCCS89,4,Appointed by executive,Appointed by executive
+SCCS89,5,Priesthood,Priesthood
+SCCS89,6,Hereditary,Hereditary
+SCCS89,NA,NA,NA
+SCCS90,1,Not specialized,Not specialized
+SCCS90,2,Incipient specialization,Incipient specialization
+SCCS90,3,Retainers of chiefs,Retainers of chiefs
+SCCS90,4,Military,Military
+SCCS90,5,Specialized,Specialized
+SCCS90,NA,NA,NA
+SCCS91,1,Absent,Absent
+SCCS91,2,Popular Assemblies,Popular Assemblies
+SCCS91,3,Heads of kin groups,Heads of kin groups
+SCCS91,4,Heads of decentralized territorial divisions,Heads of decentralized territorial divisions
+SCCS91,5,Heads of centralized territorial divisions,Heads of centralized territorial divisions
+SCCS91,6,Part of centralized system,Part of centralized system
+SCCS91,NA,NA,NA
+SCCS92,1,Absent,Absent
+SCCS92,2,Patrilineal succession,Patrilineal succession
+SCCS92,3,Matrilineal succession,Matrilineal succession
+SCCS92,4,Ruling lineage,Ruling lineage
+SCCS92,5,Seniority of age,Seniority of age
+SCCS92,6,Personal qualities,Personal qualities
+SCCS92,7,Formal election,Formal election
+SCCS92,8,Appointment by executive,Appointment by executive
+SCCS92,NA,NA,NA
+SCCS93,1,Direct subsistence production,Direct subsistence production
+SCCS93,2,Warfare wealth,Warfare wealth
+SCCS93,3,Tribute or taxes,Tribute or taxes
+SCCS93,4,Slaves,Slaves
+SCCS93,5,Contributions of free citizens,Contributions of free citizens
+SCCS93,6,Large land-holdings,Large land-holdings
+SCCS93,7,Political office,Political office
+SCCS93,8,Foreign Commerce,Foreign Commerce
+SCCS93,9,Capitalistic enterprises,Capitalistic enterprises
+SCCS93,10,Priestly services,Priestly services
+SCCS93,NA,NA,NA
+SCCS94,0,No other source,No other source
+SCCS94,2,Warfare wealth,Warfare wealth
+SCCS94,3,Tribute or taxes,Tribute or taxes
+SCCS94,4,Slaves,Slaves
+SCCS94,5,Contributions of free citizens,Contributions of free citizens
+SCCS94,6,Large land-holdings,Large land-holdings
+SCCS94,7,Political office,Political office
+SCCS94,8,Foreign Commerce,Foreign Commerce
+SCCS94,9,Capitalistic enterprises,Capitalistic enterprises
+SCCS94,10,Priestly services,Priestly services
+SCCS94,NA,NA,NA
+SCCS95,0,No other source,No other source
+SCCS95,2,Warfare wealth,Warfare wealth
+SCCS95,3,Tribute or taxes,Tribute or taxes
+SCCS95,4,Slaves,Slaves
+SCCS95,6,Large land-holdings,Large land-holdings
+SCCS95,7,Political office,Political office
+SCCS95,8,Foreign Commerce,Foreign Commerce
+SCCS95,9,Capitalistic enterprises,Capitalistic enterprises
+SCCS95,10,Priestly services,Priestly services
+SCCS95,NA,NA,NA
+SCCS96,0,No other source,No other source
+SCCS96,2,Warfare wealth,Warfare wealth
+SCCS96,3,Tribute or taxes,Tribute or taxes
+SCCS96,4,Slaves,Slaves
+SCCS96,5,Contributions of free citizens,Contributions of free citizens
+SCCS96,7,Political office,Political office
+SCCS96,8,Foreign Commerce,Foreign Commerce
+SCCS96,9,Capitalistic enterprises,Capitalistic enterprises
+SCCS96,NA,NA,NA
+SCCS97,0,No other source,No other source
+SCCS97,4,Slaves,Slaves
+SCCS97,7,Political office,Political office
+SCCS97,8,Foreign Commerce,Foreign Commerce
+SCCS97,10,Priestly services,Priestly services
+SCCS97,NA,NA,NA
+SCCS98,0,No other source,No other source
+SCCS98,3,Tribute or taxes,Tribute or taxes
+SCCS98,8,Foreign Commerce,Foreign Commerce
+SCCS98,NA,NA,NA
+SCCS99,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS99,0,Task absent,Task absent
+SCCS99,1,Males exclusively,Males exclusively
+SCCS99,2,Males predominant,Males predominant
+SCCS99,3,Equally,Equally
+SCCS99,4,Females predominant,Females predominant
+SCCS99,5,Females exclusively,Females exclusively
+SCCS99,NA,NA,NA
+SCCS100,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS100,0,Task absent,Task absent
+SCCS100,1,Males exclusively,Males exclusively
+SCCS100,2,Males predominant,Males predominant
+SCCS100,3,Equally,Equally
+SCCS100,4,Females predominant,Females predominant
+SCCS100,5,Females exclusively,Females exclusively
+SCCS100,NA,NA,NA
+SCCS101,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS101,0,Task absent,Task absent
+SCCS101,1,Males exclusively,Males exclusively
+SCCS101,2,Males predominant,Males predominant
+SCCS101,3,Equally,Equally
+SCCS101,4,Females predominant,Females predominant
+SCCS101,5,Females exclusively,Females exclusively
+SCCS101,NA,NA,NA
+SCCS102,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS102,0,Task absent,Task absent
+SCCS102,1,Males exclusively,Males exclusively
+SCCS102,2,Males predominant,Males predominant
+SCCS102,3,Equally,Equally
+SCCS102,5,Females exclusively,Females exclusively
+SCCS102,NA,NA,NA
+SCCS103,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS103,0,Task absent,Task absent
+SCCS103,1,Males exclusively,Males exclusively
+SCCS103,2,Males predominant,Males predominant
+SCCS103,3,Equally,Equally
+SCCS103,NA,NA,NA
+SCCS104,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS104,0,Task absent,Task absent
+SCCS104,1,Males exclusively,Males exclusively
+SCCS104,2,Males predominant,Males predominant
+SCCS104,3,Equally,Equally
+SCCS104,4,Females predominant,Females predominant
+SCCS104,5,Females exclusively,Females exclusively
+SCCS104,NA,NA,NA
+SCCS105,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS105,0,Task absent,Task absent
+SCCS105,1,Males exclusively,Males exclusively
+SCCS105,2,Males predominant,Males predominant
+SCCS105,3,Equally,Equally
+SCCS105,4,Females predominant,Females predominant
+SCCS105,NA,NA,NA
+SCCS106,0,Task absent,Task absent
+SCCS106,1,Males exclusively,Males exclusively
+SCCS106,2,Males predominant,Males predominant
+SCCS106,NA,NA,NA
+SCCS107,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS107,0,Task absent,Task absent
+SCCS107,1,Males exclusively,Males exclusively
+SCCS107,NA,NA,NA
+SCCS108,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS108,0,Task absent,Task absent
+SCCS108,1,Males exclusively,Males exclusively
+SCCS108,2,Males predominant,Males predominant
+SCCS108,3,Equally,Equally
+SCCS108,4,Females predominant,Females predominant
+SCCS108,5,Females exclusively,Females exclusively
+SCCS108,NA,NA,NA
+SCCS109,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS109,0,Task absent,Task absent
+SCCS109,1,Males exclusively,Males exclusively
+SCCS109,2,Males predominant,Males predominant
+SCCS109,3,Equally,Equally
+SCCS109,4,Females predominant,Females predominant
+SCCS109,5,Females exclusively,Females exclusively
+SCCS109,NA,NA,NA
+SCCS110,0,Task absent,Task absent
+SCCS110,1,Males exclusively,Males exclusively
+SCCS110,2,Males predominant,Males predominant
+SCCS110,3,Equally,Equally
+SCCS110,4,Females predominant,Females predominant
+SCCS110,5,Females exclusively,Females exclusively
+SCCS110,NA,NA,NA
+SCCS111,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS111,0,Task absent,Task absent
+SCCS111,1,Males exclusively,Males exclusively
+SCCS111,2,Males predominant,Males predominant
+SCCS111,3,Equally,Equally
+SCCS111,4,Females predominant,Females predominant
+SCCS111,5,Females exclusively,Females exclusively
+SCCS111,NA,NA,NA
+SCCS112,0,Task absent,Task absent
+SCCS112,1,Males exclusively,Males exclusively
+SCCS112,2,Males predominant,Males predominant
+SCCS112,3,Equally,Equally
+SCCS112,4,Females predominant,Females predominant
+SCCS112,5,Females exclusively,Females exclusively
+SCCS112,NA,NA,NA
+SCCS113,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS113,0,Task absent,Task absent
+SCCS113,1,Males exclusively,Males exclusively
+SCCS113,2,Males predominant,Males predominant
+SCCS113,3,Equally,Equally
+SCCS113,4,Females predominant,Females predominant
+SCCS113,5,Females exclusively,Females exclusively
+SCCS113,NA,NA,NA
+SCCS114,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS114,0,Task absent,Task absent
+SCCS114,1,Males exclusively,Males exclusively
+SCCS114,2,Males predominant,Males predominant
+SCCS114,3,Equally,Equally
+SCCS114,4,Females predominant,Females predominant
+SCCS114,5,Females exclusively,Females exclusively
+SCCS114,NA,NA,NA
+SCCS115,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS115,0,Task absent,Task absent
+SCCS115,1,Males exclusively,Males exclusively
+SCCS115,2,Males predominant,Males predominant
+SCCS115,3,Equally,Equally
+SCCS115,4,Females predominant,Females predominant
+SCCS115,5,Females exclusively,Females exclusively
+SCCS115,NA,NA,NA
+SCCS116,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS116,0,Task absent,Task absent
+SCCS116,1,Males exclusively,Males exclusively
+SCCS116,2,Males predominant,Males predominant
+SCCS116,3,Equally,Equally
+SCCS116,4,Females predominant,Females predominant
+SCCS116,5,Females exclusively,Females exclusively
+SCCS116,NA,NA,NA
+SCCS117,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS117,0,Task absent,Task absent
+SCCS117,1,Males exclusively,Males exclusively
+SCCS117,2,Males predominant,Males predominant
+SCCS117,3,Equally,Equally
+SCCS117,4,Females predominant,Females predominant
+SCCS117,5,Females exclusively,Females exclusively
+SCCS117,NA,NA,NA
+SCCS118,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS118,0,Task absent,Task absent
+SCCS118,1,Males exclusively,Males exclusively
+SCCS118,2,Males predominant,Males predominant
+SCCS118,3,Equally,Equally
+SCCS118,4,Females predominant,Females predominant
+SCCS118,5,Females exclusively,Females exclusively
+SCCS118,NA,NA,NA
+SCCS119,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS119,0,Task absent,Task absent
+SCCS119,1,Males exclusively,Males exclusively
+SCCS119,2,Males predominant,Males predominant
+SCCS119,3,Equally,Equally
+SCCS119,4,Females predominant,Females predominant
+SCCS119,5,Females exclusively,Females exclusively
+SCCS119,NA,NA,NA
+SCCS120,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS120,0,Task absent,Task absent
+SCCS120,1,Males exclusively,Males exclusively
+SCCS120,5,Females exclusively,Females exclusively
+SCCS120,NA,NA,NA
+SCCS121,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS121,2,Males predominant,Males predominant
+SCCS121,3,Equally,Equally
+SCCS121,4,Females predominant,Females predominant
+SCCS121,5,Females exclusively,Females exclusively
+SCCS121,NA,NA,NA
+SCCS122,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS122,0,Task absent,Task absent
+SCCS122,1,Males exclusively,Males exclusively
+SCCS122,2,Males predominant,Males predominant
+SCCS122,3,Equally,Equally
+SCCS122,5,Females exclusively,Females exclusively
+SCCS122,NA,NA,NA
+SCCS123,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS123,0,Task absent,Task absent
+SCCS123,1,Males exclusively,Males exclusively
+SCCS123,2,Males predominant,Males predominant
+SCCS123,3,Equally,Equally
+SCCS123,4,Females predominant,Females predominant
+SCCS123,5,Females exclusively,Females exclusively
+SCCS123,NA,NA,NA
+SCCS124,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS124,0,Task absent,Task absent
+SCCS124,1,Males exclusively,Males exclusively
+SCCS124,2,Males predominant,Males predominant
+SCCS124,NA,NA,NA
+SCCS125,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS125,1,Males exclusively,Males exclusively
+SCCS125,2,Males predominant,Males predominant
+SCCS125,3,Equally,Equally
+SCCS125,4,Females predominant,Females predominant
+SCCS125,5,Females exclusively,Females exclusively
+SCCS125,NA,NA,NA
+SCCS126,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS126,0,Task absent,Task absent
+SCCS126,1,Males exclusively,Males exclusively
+SCCS126,2,Males predominant,Males predominant
+SCCS126,3,Equally,Equally
+SCCS126,4,Females predominant,Females predominant
+SCCS126,5,Females exclusively,Females exclusively
+SCCS126,NA,NA,NA
+SCCS127,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS127,0,Task absent,Task absent
+SCCS127,1,Males exclusively,Males exclusively
+SCCS127,2,Males predominant,Males predominant
+SCCS127,3,Equally,Equally
+SCCS127,4,Females predominant,Females predominant
+SCCS127,5,Females exclusively,Females exclusively
+SCCS127,NA,NA,NA
+SCCS128,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS128,0,Task absent,Task absent
+SCCS128,1,Males exclusively,Males exclusively
+SCCS128,3,Equally,Equally
+SCCS128,4,Females predominant,Females predominant
+SCCS128,5,Females exclusively,Females exclusively
+SCCS128,NA,NA,NA
+SCCS129,0,Task absent,Task absent
+SCCS129,1,Males exclusively,Males exclusively
+SCCS129,NA,NA,NA
+SCCS130,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS130,0,Task absent,Task absent
+SCCS130,1,Males exclusively,Males exclusively
+SCCS130,2,Males predominant,Males predominant
+SCCS130,3,Equally,Equally
+SCCS130,4,Females predominant,Females predominant
+SCCS130,5,Females exclusively,Females exclusively
+SCCS130,NA,NA,NA
+SCCS131,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS131,0,Task absent,Task absent
+SCCS131,1,Males exclusively,Males exclusively
+SCCS131,2,Males predominant,Males predominant
+SCCS131,3,Equally,Equally
+SCCS131,4,Females predominant,Females predominant
+SCCS131,5,Females exclusively,Females exclusively
+SCCS131,NA,NA,NA
+SCCS132,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS132,0,Task absent,Task absent
+SCCS132,1,Males exclusively,Males exclusively
+SCCS132,2,Males predominant,Males predominant
+SCCS132,3,Equally,Equally
+SCCS132,4,Females predominant,Females predominant
+SCCS132,5,Females exclusively,Females exclusively
+SCCS132,NA,NA,NA
+SCCS133,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS133,0,Task absent,Task absent
+SCCS133,1,Males exclusively,Males exclusively
+SCCS133,2,Males predominant,Males predominant
+SCCS133,3,Equally,Equally
+SCCS133,4,Females predominant,Females predominant
+SCCS133,5,Females exclusively,Females exclusively
+SCCS133,NA,NA,NA
+SCCS134,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS134,0,Task absent,Task absent
+SCCS134,1,Males exclusively,Males exclusively
+SCCS134,2,Males predominant,Males predominant
+SCCS134,3,Equally,Equally
+SCCS134,4,Females predominant,Females predominant
+SCCS134,5,Females exclusively,Females exclusively
+SCCS134,NA,NA,NA
+SCCS135,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS135,0,Task absent,Task absent
+SCCS135,1,Males exclusively,Males exclusively
+SCCS135,2,Males predominant,Males predominant
+SCCS135,3,Equally,Equally
+SCCS135,4,Females predominant,Females predominant
+SCCS135,5,Females exclusively,Females exclusively
+SCCS135,NA,NA,NA
+SCCS136,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS136,0,Task absent,Task absent
+SCCS136,1,Males exclusively,Males exclusively
+SCCS136,2,Males predominant,Males predominant
+SCCS136,3,Equally,Equally
+SCCS136,4,Females predominant,Females predominant
+SCCS136,5,Females exclusively,Females exclusively
+SCCS136,NA,NA,NA
+SCCS137,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS137,0,Task absent,Task absent
+SCCS137,1,Males exclusively,Males exclusively
+SCCS137,2,Males predominant,Males predominant
+SCCS137,3,Equally,Equally
+SCCS137,4,Females predominant,Females predominant
+SCCS137,NA,NA,NA
+SCCS138,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS138,0,Task absent,Task absent
+SCCS138,1,Males exclusively,Males exclusively
+SCCS138,2,Males predominant,Males predominant
+SCCS138,3,Equally,Equally
+SCCS138,5,Females exclusively,Females exclusively
+SCCS138,NA,NA,NA
+SCCS139,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS139,0,Task absent,Task absent
+SCCS139,1,Males exclusively,Males exclusively
+SCCS139,3,Equally,Equally
+SCCS139,NA,NA,NA
+SCCS140,0,Task absent,Task absent
+SCCS140,1,Males exclusively,Males exclusively
+SCCS140,2,Males predominant,Males predominant
+SCCS140,NA,NA,NA
+SCCS141,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS141,0,Task absent,Task absent
+SCCS141,1,Males exclusively,Males exclusively
+SCCS141,2,Males predominant,Males predominant
+SCCS141,3,Equally,Equally
+SCCS141,5,Females exclusively,Females exclusively
+SCCS141,NA,NA,NA
+SCCS142,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS142,0,Task absent,Task absent
+SCCS142,1,Males exclusively,Males exclusively
+SCCS142,2,Males predominant,Males predominant
+SCCS142,3,Equally,Equally
+SCCS142,4,Females predominant,Females predominant
+SCCS142,5,Females exclusively,Females exclusively
+SCCS142,NA,NA,NA
+SCCS143,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS143,0,Task absent,Task absent
+SCCS143,1,Males exclusively,Males exclusively
+SCCS143,3,Equally,Equally
+SCCS143,4,Females predominant,Females predominant
+SCCS143,5,Females exclusively,Females exclusively
+SCCS143,NA,NA,NA
+SCCS144,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS144,0,Task absent,Task absent
+SCCS144,1,Males exclusively,Males exclusively
+SCCS144,2,Males predominant,Males predominant
+SCCS144,3,Equally,Equally
+SCCS144,4,Females predominant,Females predominant
+SCCS144,5,Females exclusively,Females exclusively
+SCCS144,NA,NA,NA
+SCCS145,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS145,0,Task absent,Task absent
+SCCS145,1,Males exclusively,Males exclusively
+SCCS145,2,Males predominant,Males predominant
+SCCS145,3,Equally,Equally
+SCCS145,NA,NA,NA
+SCCS146,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS146,0,Task absent,Task absent
+SCCS146,1,Males exclusively,Males exclusively
+SCCS146,2,Males predominant,Males predominant
+SCCS146,3,Equally,Equally
+SCCS146,4,Females predominant,Females predominant
+SCCS146,5,Females exclusively,Females exclusively
+SCCS146,NA,NA,NA
+SCCS147,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS147,0,Task absent,Task absent
+SCCS147,1,Males exclusively,Males exclusively
+SCCS147,2,Males predominant,Males predominant
+SCCS147,3,Equally,Equally
+SCCS147,5,Females exclusively,Females exclusively
+SCCS147,NA,NA,NA
+SCCS148,-1,"Task Present, sex ?","Task Present, sex ?"
+SCCS148,0,Task absent,Task absent
+SCCS148,1,Males exclusively,Males exclusively
+SCCS148,2,Males predominant,Males predominant
+SCCS148,3,Equally,Equally
+SCCS148,4,Females predominant,Females predominant
+SCCS148,5,Females exclusively,Females exclusively
+SCCS148,NA,NA,NA
+SCCS149,1,None,None
+SCCS149,2,Mnemonic devices,Mnemonic devices
+SCCS149,3,Nonwritten records,Nonwritten records
+SCCS149,4,True writing; no records,True writing; no records
+SCCS149,5,True writing; records,True writing; records
+SCCS150,1,Nomadic,Nomadic
+SCCS150,2,Seminomadic,Seminomadic
+SCCS150,3,Semisedentary,Semisedentary
+SCCS150,4,Sedentary; impermanent,Sedentary; impermanent
+SCCS150,5,Sedentary,Sedentary
+SCCS151,1,None,None
+SCCS151,2,10 pct food supply,10 pct food supply
+SCCS151,3,10 pct ; secondary,10 pct ; secondary
+SCCS151,4,Primary; not intensive,Primary; not intensive
+SCCS151,5,Primary; intensive,Primary; intensive
+SCCS152,1,fewer than 100 persons,fewer than 100 persons
+SCCS152,2,100-199 persons,100-199 persons
+SCCS152,3,200-399 persons,200-399 persons
+SCCS152,4,400-999 persons,400-999 persons
+SCCS152,5,1000 persons,1000 persons
+SCCS153,1,None,None
+SCCS153,2,Pottery only,Pottery only
+SCCS153,3,Loom weaving only,Loom weaving only
+SCCS153,4,Metalwork only,Metalwork only
+SCCS153,5,"Smiths, weavers, potters","Smiths, weavers, potters"
+SCCS154,1,Human only,Human only
+SCCS154,2,Pack animals,Pack animals
+SCCS154,3,Draft animals,Draft animals
+SCCS154,4,Animal-drawn vehicles,Animal-drawn vehicles
+SCCS154,5,Automotive vehicles,Automotive vehicles
+SCCS155,1,None,None
+SCCS155,2,Domestically usable articles,Domestically usable articles
+SCCS155,3,Alien currency,Alien currency
+SCCS155,4,Elementary forms,Elementary forms
+SCCS155,5,True money,True money
+SCCS156,1,less than 1 person/square mile,less than 1 person/square mile
+SCCS156,2,1-5 persons/square mile,1-5 persons/square mile
+SCCS156,3,5.1-25 persons/square mile,5.1-25 persons/square mile
+SCCS156,4,26-100 persons/square mile,26-100 persons/square mile
+SCCS156,5,100 persons/square mile,100 persons/square mile
+SCCS157,1,None,None
+SCCS157,2,Autonomous local communities,Autonomous local communities
+SCCS157,3,1 level above community,1 level above community
+SCCS157,4,2 levels above community,2 levels above community
+SCCS157,5,3 levels above community,3 levels above community
+SCCS158,1,Egalitarian,Egalitarian
+SCCS158,2,Hereditary slavery,Hereditary slavery
+SCCS158,3,"2 social classes, no castes/slavery","2 social classes, no castes/slavery"
+SCCS158,4,"2 social classes, castes/slavery","2 social classes, castes/slavery"
+SCCS158,5,"3 social classes or castes, with or without slavery 158.1. SUM OF CULTURAL COMPLEXITY (v149-v158)","3 social classes or castes, with or without slavery 158.1. SUM OF CULTURAL COMPLEXITY (v149-v158)"
+SCCS159,1,Adults and adults talk explicitly,Adults and adults talk explicitly
+SCCS159,2,Except with children,Except with children
+SCCS159,3,Except with certain people,Except with certain people
+SCCS159,4,Only with intimates,Only with intimates
+SCCS159,5,Never,Never
+SCCS159,NA,NA,NA
+SCCS160,1,No abstinence,No abstinence
+SCCS160,2,Abstinence at times,Abstinence at times
+SCCS160,3,Moderation,Moderation
+SCCS160,4,Abstinence admired,Abstinence admired
+SCCS160,NA,NA,NA
+SCCS161,1,Absent,Absent
+SCCS161,2,With specific categories,With specific categories
+SCCS161,3,Only unusual practices,Only unusual practices
+SCCS161,4,Only sexual secretions,Only sexual secretions
+SCCS161,5,Always,Always
+SCCS161,NA,NA,NA
+SCCS162,1,Present,Present
+SCCS162,2,Minimal,Minimal
+SCCS162,3,Absent,Absent
+SCCS162,NA,NA,NA
+SCCS163,1,Never,Never
+SCCS163,2,Adulthood,Adulthood
+SCCS163,3,Puberty,Puberty
+SCCS163,4,Toddler to puberty,Toddler to puberty
+SCCS163,5,Toddler,Toddler
+SCCS163,6,At birth,At birth
+SCCS163,NA,NA,NA
+SCCS164,1,Never,Never
+SCCS164,2,Adulthood,Adulthood
+SCCS164,3,Puberty,Puberty
+SCCS164,4,Toddler to puberty,Toddler to puberty
+SCCS164,5,Toddler,Toddler
+SCCS164,6,At birth,At birth
+SCCS164,NA,NA,NA
+SCCS165,1,Expected,Expected
+SCCS165,2,Tolerated,Tolerated
+SCCS165,3,Mildly disapproved,Mildly disapproved
+SCCS165,4,Moderately disapproved,Moderately disapproved
+SCCS165,5,Disallowed,Disallowed
+SCCS165,6,Strongly disapproved,Strongly disapproved
+SCCS165,NA,NA,NA
+SCCS166,1,Universal,Universal
+SCCS166,2,Moderate,Moderate
+SCCS166,3,Occasional,Occasional
+SCCS166,4,Uncommon,Uncommon
+SCCS166,NA,NA,NA
+SCCS167,1,Universal,Universal
+SCCS167,2,Moderate,Moderate
+SCCS167,3,Occasional,Occasional
+SCCS167,4,Uncommon,Uncommon
+SCCS167,NA,NA,NA
+SCCS168,1,Women always,Women always
+SCCS168,3,Both equally,Both equally
+SCCS168,4,Men more than women,Men more than women
+SCCS168,5,Men always,Men always
+SCCS168,NA,NA,NA
+SCCS169,1,Single standard- both allowed,Single standard- both allowed
+SCCS169,2,Double standard- husband only,Double standard- husband only
+SCCS169,3,"Double standard- both forbidden, women punished more","Double standard- both forbidden, women punished more"
+SCCS169,4,Single standard- both condemned equally,Single standard- both condemned equally
+SCCS169,NA,NA,NA
+SCCS170,1,Universal,Universal
+SCCS170,2,Moderate,Moderate
+SCCS170,3,Occasional,Occasional
+SCCS170,4,Uncommon,Uncommon
+SCCS170,NA,NA,NA
+SCCS171,1,Universal,Universal
+SCCS171,2,Moderate,Moderate
+SCCS171,3,Occasional,Occasional
+SCCS171,4,Uncommon,Uncommon
+SCCS171,NA,NA,NA
+SCCS172,1,For any reason,For any reason
+SCCS172,2,Vis-a-vis specific group men,Vis-a-vis specific group men
+SCCS172,3,Vis-a-vis specific man,Vis-a-vis specific man
+SCCS172,4,Occasionally for sex gratification,Occasionally for sex gratification
+SCCS172,5,For husbands economic benefit,For husbands economic benefit
+SCCS172,6,Aside from sex gratification,Aside from sex gratification
+SCCS172,7,None,None
+SCCS172,NA,NA,NA
+SCCS173,1,Accepted/ignored,Accepted/ignored
+SCCS173,2,Ridiculed,Ridiculed
+SCCS173,3,Mildly disapproved,Mildly disapproved
+SCCS173,4,Strongly disapproved,Strongly disapproved
+SCCS173,NA,NA,NA
+SCCS174,1,Absent,Absent
+SCCS174,2,Rare,Rare
+SCCS174,3,Common,Common
+SCCS174,NA,NA,NA
+SCCS175,1,"Men diffident, shy","Men diffident, shy"
+SCCS175,2,Men sexually forward but not diffident,Men sexually forward but not diffident
+SCCS175,3,Men forward verbally,Men forward verbally
+SCCS175,4,Men forward physically,Men forward physically
+SCCS175,5,Men forward; hostile occasionally,Men forward; hostile occasionally
+SCCS175,6,Men forward; hostile typically,Men forward; hostile typically
+SCCS175,NA,NA,NA
+SCCS176,1,Accepted/ignored,Accepted/ignored
+SCCS176,2,None,None
+SCCS176,3,"Ridiculed, no punishment","Ridiculed, no punishment"
+SCCS176,4,Mildly disapproved,Mildly disapproved
+SCCS176,5,Strongly disapproved,Strongly disapproved
+SCCS176,NA,NA,NA
+SCCS177,1,Absent,Absent
+SCCS177,2,Present,Present
+SCCS177,NA,NA,NA
+SCCS178,1,No concern,No concern
+SCCS178,2,Concern,Concern
+SCCS178,NA,NA,NA
