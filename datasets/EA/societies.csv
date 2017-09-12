@@ -1114,14 +1114,14 @@ Ia8,xd748,Bontok,cent2292,Bontok (Ia8),,1900,,,17,121,17,121,Original,
 Ia9,xd749,Ami,amis1246,Ami (Ia9),Pangcah,1930,,,22,121,22.7,121.05,Revised,
 Ac9,xd75,Ngoni,ngon1269,Ngoni (Ac9),Angoni,1940,Ngoni (FR05),in process,-12,33,-12,33,Original,
 Ib1,xd750,Iban,iban1264,Iban (Ib1),"Dayak, Sea Dayak",1950,Iban (OC06),http://ehrafworldcultures.yale.edu/collection?owc=OC06,2,112,2,112,Original,
-Ib2,xd751,Javanese,java1254,Javanese (Ib2),,1950,Javanese (OE05),http://ehrafworldcultures.yale.edu/collection?owc=OE05,-7,110,-7,110,Original,"Note, previously linked to language iso ""jas"" (New Caledonian Javanese). Hannah Haynie checked refs/coordinates and concluded ""jav"" was a better match (3 Mar 2016)"
-Ib3,xd752,Balinese,bali1278,Balinese (Ib3),,1950,Bali (OF07),http://ehrafworldcultures.yale.edu/collection?owc=OF07,-8,115,-8.18,115.02,Revised,"Note, previously linked to language iso ""mhp"" (Malay, Balinese). Hannah Haynie checked refs/coordinates and concluded ""ban"" (Bali, glottocode bali1278) was a better match (3 Mar 2016)"
+Ib2,xd751,Javanese,java1254,Javanese (Ib2),,1950,Javanese (OE05),http://ehrafworldcultures.yale.edu/collection?owc=OE05,-7,110,-7,110,Original,"Note, previously linked to language iso ""jas"" (New Caledonian Javanese). Hannah Haynie checked refs/coordinates and concluded ""jav"" was a better match (3 Mar 2016)"
+Ib3,xd752,Balinese,bali1278,Balinese (Ib3),,1950,Bali (OF07),http://ehrafworldcultures.yale.edu/collection?owc=OF07,-8,115,-8.18,115.02,Revised,"Note, previously linked to language iso ""mhp"" (Malay, Balinese). Hannah Haynie checked refs/coordinates and concluded ""ban"" (Bali, glottocode bali1278) was a better match (3 Mar 2016)"
 Ib4,xd753,Toba Batak,bata1289,Batak (Ib4),"Toba, Batak",1930,,,2,99,2,99,Original,
 Ib5,xd754,Kadazan-Dusun,cent2100,Dusun (Ib5),Dusun,1920,,,6,117,6,117,Original,
 Ib6,xd755,Minangkabau,mina1268,Minangkabau (Ib6),,1920,,,-1,101,-1,101,Original,
 Ib7,xd756,Mentaweians,ment1249,Mentaweians (Ib7),,1920,Mentawaians (OD09),http://ehrafworldcultures.yale.edu/collection?owc=OD09,-3,100,-2.93,100.23,Revised,
 Ib8,xd757,Anak Dalam,kubu1239,Kubu (Ib8),"Orang Batin Sembilan, Orang Rimba, Kubu",1900,,,-3,103,-3,103,Original,
-Ib9,xd758,Punan,puna1275,Punan (Ib9),,1950,,,3,115,3,115,Original,"Note, previously this xd_id was associated with language iso sge (Segai); Hannah Haynie reviewed references and coordinates and concluded should be matched to language iso ""pna"", glottolog language puna1275 (3 Mar 2016)"
+Ib9,xd758,Punan,puna1275,Punan (Ib9),,1950,,,3,115,3,115,Original,"Note, previously this xd_id was associated with language iso sge (Segai); Hannah Haynie reviewed references and coordinates and concluded should be matched to language iso ""pna"", glottolog language puna1275 (3 Mar 2016)"
 Ic1,xd759,Macassarese,maka1311,Macassarese (Ic1),,1940,Makassar (OG06),in process,-5,119,-5.31,119.69,Revised,
 Ad1,xd76,Bajuni,baju1245,Bajun (Ad1),"Wabajuni, Bajun, Bagiuni, Barjun, Wagunya",1950,,,-2,41,-2,41,Original,
 Ic10,xd760,Tobelorese,tobe1252,Tobelorese (Ic10),Togutil,1910,,,1,128,1,128,Original,
