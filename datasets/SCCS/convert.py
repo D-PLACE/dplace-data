@@ -1,22 +1,11 @@
 # coding: utf8
 from __future__ import unicode_literals, print_function, division
-from collections import Counter, defaultdict, OrderedDict
+from collections import OrderedDict
 
 import attr
-from clldutils.path import Path, read_text, write_text
 from clldutils.dsv import reader, UnicodeWriter
-from clldutils.misc import nfilter
-from pyglottolog.references import BibFile
 
 from pydplace.api import Society
-
-#
-# read wnai.bib
-# write mapping of bibkeys to bib.json
-# read sources.bib
-# merge records from wnai.bib not yet in sources.bib
-# write sources.bib
-#
 
 
 def read_win1252(fname):
@@ -92,16 +81,17 @@ def main():
     with UnicodeWriter('variables.csv') as w:
         fm = OrderedDict([
             ('VarID', 'id'),
-            ('IndexCategory', 'category'),
+            ('Category', 'category'),
             ('VarTitle', 'title'),
             ('VarDefinition', 'definition'),
             ('VarType', 'type'),
             ('UserNotes', 'notes'),
-            ('Source', 'source'),
+            ('source', 'source'),
             ('VarTitleShort', 'changes'),
+            ('Unit', 'units'),
         ])
         w.writerow(fm.values())
-        for row in read_win1252('SCCS_Part1_VariableList_8Sept2017_win1252.csv'):
+        for row in read_win1252('SCCS_Full_VariableList_12Sept2017_win1252.csv'):
             row['VarID'] = 'SCCS' + row['VarID']
             row['VarType'] = row['VarType'].capitalize()
             w.writerow([row[f] for f in fm.keys()])
@@ -111,10 +101,10 @@ def main():
             ('VarID', 'var_id'),
             ('Code', 'code'),
             ('CodeDescription', 'description'),
-            ('CodeShortName', 'name'),
+            ('ShortName', 'name'),
         ])
         w.writerow(fm.values())
-        for row in read_win1252('SCCS_Part1_CodeDefinitions_8Sept2017_win1252.csv'):
+        for row in read_win1252('SCCS_CodeDescriptions_12Sept2017_win1252.csv'):
             row['VarID'] = 'SCCS' + row['VarID']
             w.writerow([row[f] for f in fm.keys()])
 
@@ -127,14 +117,13 @@ def main():
             ('Code', 'code'),
             ('EthnoReferences', 'references'),
             ('AdminComment', 'admin_comment'),
+            ('UserComment', 'comment'),
+            ('SourceCodedData', 'source_coded_data'),
         ])
-        w.writerow(fm.values() + ['comment', 'source_coded_data'])
-        for row in read_win1252('SCCS_Part1_DataStacked_8Sept2017_win1252.csv'):
+        w.writerow(fm.values())
+        for row in read_win1252('Full_SCCS_data_12Sept2017_FINAL_329451rows_win1252.csv'):
             row['VarID'] = 'SCCS' + row['VarID']
-            #
-            # TODO: fix references!
-            #
-            w.writerow([row[f] for f in fm.keys()] + ['', ''])
+            w.writerow([row[f] for f in fm.keys()])
 
     #wnai = BibFile(Path('wnai.bib')).load()
     #sources = BibFile(Path('../sources.bib')).load()
