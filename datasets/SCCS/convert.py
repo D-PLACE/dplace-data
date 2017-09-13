@@ -8,7 +8,7 @@ from clldutils.dsv import reader, UnicodeWriter
 from pydplace.api import Society
 
 
-def read_win1252(fname):
+def read_win1252(fname, ignore_dataset=False):
     with open(fname, 'rb') as fp:
         c = fp.read()
 
@@ -16,7 +16,7 @@ def read_win1252(fname):
         fp.write(c.replace(b'\x9d', b''))
 
     for r in reader(fname, dicts=True, encoding='cp1252'):
-        if (r.get('dataset') == 'SCCS') or (r.get('Dataset') == 'SCCS') or (r.get('Datset') == 'SCCS'):
+        if ignore_dataset or (r.get('dataset') == 'SCCS') or (r.get('Dataset') == 'SCCS') or (r.get('Datset') == 'SCCS'):
             yield r
 
 
@@ -78,6 +78,9 @@ def main():
                     rels.append('{0}: {1} [{2}]'.format(dsid, label, id))
             w.writerow([sid, '; '.join(rels)])
 
+    var_info = {r['source']: r['APA_reference'] for r in
+                read_win1252('SCCS_variable_sources_bibtex_to_APA.csv', ignore_dataset=True)}
+
     with UnicodeWriter('variables.csv') as w:
         fm = OrderedDict([
             ('VarID', 'id'),
@@ -94,6 +97,9 @@ def main():
         for row in read_win1252('SCCS_Full_VariableList_12Sept2017_win1252.csv'):
             row['VarID'] = 'SCCS' + row['VarID']
             row['VarType'] = row['VarType'].capitalize()
+            if row['VarDefinition']:
+                row['VarDefinition'] += '\n\n'
+            row['VarDefinition'] += var_info.get(row['source'], row['source'])
             w.writerow([row[f] for f in fm.keys()])
 
     with UnicodeWriter('codes.csv') as w:
