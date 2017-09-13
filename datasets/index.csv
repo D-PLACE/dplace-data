@@ -1,7 +1,7 @@
 id,type,name,description,year,author,reference,url
 EA,cultural,Ethnographic Atlas,,1999,Murdock et al.,"Murdock, G. P., R. Textor, H. Barry, III, D. R. White, J. P. Gray, and W. T. Divale. 1999. Ethnographic Atlas. World Cultures 10:24-136 (codebook)",http://eclectic.ss.uci.edu/~drwhite/worldcul/atlas.htm
 Binford,cultural,Binford Hunter-Gatherer,,2001,Binford,"Binford, L. 2001. Constructing Frames of Reference: An Analytical Method for Archaeological Theory Building Using Hunter-gatherer and Environmental Data Sets. University of California Press",http://www.ucpress.edu/book.php?isbn=9780520223936
-SCCS,cultural,Standard cross-cultural sample,,1969,Murdock,"",http://eclectic.ss.uci.edu/~drwhite/sccs/
+SCCS,cultural,Standard cross-cultural sample,,1969,Murdock,"Murdock GP & White DR. 1969. Standard Cross-Cultural Sample. Ethnology. 9:329–369.",http://eclectic.ss.uci.edu/~drwhite/sccs/
 WNAI,cultural,Western North American Indian database,,1966,Jorgensen,"Jorgensen, JG. 1980. Western Indians: Comparative Environments, Languages, and Cultures of 172 Western American Indian Tribes. San Francisco: W.H. Freeman and Company.",
 MODIS,environmental,Moderate Resolution Imaging Spectroradiometer,,,,"NASA. Net Primary Productivity (1 month - TERRA/MODIS) [Internet]. Available: http://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD17A2_M_PSN",http://neo.sci.gsfc.nasa.gov/view.php?datasetId=MOD17A2_M_PSN
 CRUTS,environmental,CRU-TS 3.1 Climate Database,,,,"Harris I, Jones PD, Osborn TJ, Lister DH. Updated high resolution grids of monthly climatic observations–the CRU TS3. 10 Dataset. Int J Climatol. 2014;34: 623–642.",http://www.cgiar-csi.org/data/uea-cru-ts-v3-10-01-historic-climate-database
