@@ -27,6 +27,7 @@ setup(
         'attrs',
         'pyglottolog>=0.3.2',
         'python-nexus>=1.4.2',
+        'pycldf',
         'ete3>=3.0.0b34',
     ],
     entry_points={
