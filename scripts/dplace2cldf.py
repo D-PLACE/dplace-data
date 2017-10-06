@@ -13,6 +13,16 @@ SRC = '..'
 DST = '../cldf'
 
 
+def registered(cls):
+    assert issubclass(cls, BaseConverter)
+    try:
+        seen = registered.converters
+    except AttributeError:
+        seen = registered.converters = []
+    seen.append(cls)
+    return cls
+
+
 class BaseConverter(object):
 
     def skip(self, repos):
@@ -57,14 +67,18 @@ class Converter(BaseConverter):
         return self._add_component_args, write_kwargs
 
 
-class LanguageTable(Converter):
+class SkipMixin(object):
+
+    def skip(self, repos, _sentinel=object()):
+        return next(iter(self._iterdata(repos)), _sentinel) is _sentinel
+
+
+@registered
+class LanguageTable(SkipMixin, Converter):
 
     _source_cls = pydplace.api.Society
 
     _iterdata = staticmethod(lambda repos: repos.societies)
-
-    def skip(self, repos, _sentinel=object()):
-        return next(iter(self._iterdata(repos)), _sentinel) is _sentinel
 
     _component = {
         'url': 'societies.csv',
@@ -86,6 +100,7 @@ class LanguageTable(Converter):
     }
 
 
+@registered
 class ParameterTable(Converter):
 
     _source_cls = pydplace.api.Variable
@@ -105,11 +120,12 @@ class ParameterTable(Converter):
     }
 
 
-class CodeTable(BaseConverter):
+@registered
+class CodeTable(SkipMixin, BaseConverter):
 
     _component = {
         'url': 'codes.csv',
-        'dc:conformsTo': 'FIXME',
+        'dc:conformsTo': 'http://cldf.clld.org/v1.0/terms.rdf#FIXME',
         'tableSchema': {'primaryKey': ['var_id', 'code']}
     }
 
@@ -117,8 +133,10 @@ class CodeTable(BaseConverter):
         'code': {'name': 'code', 'datatype': 'integer'},
     }
 
+    _iterdata = staticmethod(lambda repos: (c for v in repos.variables for c in v.codes))
+
     def __call__(self, repos):
-        codes = [c for v in repos.variables for c in v.codes]
+        codes = list(self._iterdata(repos))
         add_component_args = ([self._component] +
                               [self._convert.get(f, f) for f in codes[0]._fields])
         items = [c._asdict() for c in codes]
@@ -131,8 +149,7 @@ def main():
     if not os.path.exists(DST):
         os.mkdir(DST)
 
-    converters = [LanguageTable(), ParameterTable()]
-
+    converters = [cls() for cls in registered.converters]
     for src in repos.datasets:
         dst_dir = os.path.join(DST, src.id)
         dst = pycldf.dataset.StructureDataset.in_dir(dst_dir)
