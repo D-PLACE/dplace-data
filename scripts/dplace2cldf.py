@@ -1,6 +1,7 @@
 from __future__ import unicode_literals
 
 import os
+from collections import OrderedDict
 
 import six
 import attr
@@ -12,27 +13,33 @@ SRC = '..'
 DST = '../cldf'
 
 
-class Converter(object):
+class BaseConverter(object):
 
-    def __init__(self, source):
+    def skip(self, repos):
+        return False
+
+
+class Converter(BaseConverter):
+
+    def __init__(self):
         fields = attr.fields(self._source_cls)
         columns = list(self._itercols(fields, self._convert))
-
-        self.add_component_args = ([self._component] +
-                                   [args for _, _, args in columns])
 
         def extract(s, pairs=[(name, target) for name, target, _ in columns]):
             return {target: getattr(s, name) for name, target in pairs}
 
-        self.write_kwargs = {self._component['dc:conformsTo']: map(extract, source)}
-
+        self._extract = extract
+        self._add_component_args = ([self._component] +
+                                    [args for _, _, args in columns])
     @staticmethod
     def _itercols(fields, convert):
         for f in fields:
             name = f.name
             if name in convert:
                 args = convert[name]
-                if hasattr(args, 'setdefault'):
+                if args is None:
+                    continue
+                elif hasattr(args, 'setdefault'):
                     target = args.setdefault('name', name)
                 else:
                     target = args
@@ -44,13 +51,23 @@ class Converter(object):
                 args['datatype'] = 'float' if f.convert is float else 'string'
             yield name, target, args
 
+    def __call__(self, repos):
+        items = map(self._extract, self._iterdata(repos))
+        write_kwargs = {self._component['dc:conformsTo']: items}
+        return self._add_component_args, write_kwargs
+
 
 class LanguageTable(Converter):
 
     _source_cls = pydplace.api.Society
 
+    _iterdata = staticmethod(lambda repos: repos.societies)
+
+    def skip(self, repos, _sentinel=object()):
+        return next(iter(self._iterdata(repos)), _sentinel) is _sentinel
+
     _component = {
-        'url': 'languages.csv',
+        'url': 'societies.csv',
         'dc:conformsTo': 'http://cldf.clld.org/v1.0/terms.rdf#LanguageTable',
         'tableSchema': {'primaryKey': ['id']},
     }
@@ -69,19 +86,62 @@ class LanguageTable(Converter):
     }
 
 
+class ParameterTable(Converter):
+
+    _source_cls = pydplace.api.Variable
+
+    _iterdata = staticmethod(lambda repos: repos.variables)
+
+    _component = {
+        'url': 'variables.csv',
+        'dc:conformsTo': 'http://cldf.clld.org/v1.0/terms.rdf#ParameterTable',
+        'tableSchema': {'primaryKey': ['var_id']}
+    }
+
+    _convert = {
+        'id': {'propertyUrl': 'http://purl.org/dc/terms/identifier'},
+        'category': {'separator': ', '},
+        'codes': None,
+    }
+
+
+class CodeTable(BaseConverter):
+
+    _component = {
+        'url': 'codes.csv',
+        'dc:conformsTo': 'FIXME',
+        'tableSchema': {'primaryKey': ['var_id', 'code']}
+    }
+
+    _convert = {
+        'code': {'name': 'code', 'datatype': 'integer'},
+    }
+
+    def __call__(self, repos):
+        codes = [c for v in repos.variables for c in v.codes]
+        add_component_args = ([self._component] +
+                              [self._convert.get(f, f) for f in codes[0]._fields])
+        items = [c._asdict() for c in codes]
+        write_kwargs = {self._component['dc:conformsTo']: items}
+        return add_component_args, write_kwargs
+
+
 def main():
     repos = pydplace.api.Repos(SRC)
     if not os.path.exists(DST):
         os.mkdir(DST)
 
+    converters = [LanguageTable(), ParameterTable()]
+
     for src in repos.datasets:
         dst_dir = os.path.join(DST, src.id)
         dst = pycldf.dataset.StructureDataset.in_dir(dst_dir)
         write_args = {}
-        if src.societies:
-            table = LanguageTable(src.societies)
-            dst.add_component(*table.add_component_args)
-            write_args.update(table.write_kwargs)
+        for conv in converters:
+            if not conv.skip(src):
+                add_args, write_kwargs = conv(src)
+                dst.add_component(*add_args)
+                write_args.update(write_kwargs)
         dst.write(**write_args)
 
 
