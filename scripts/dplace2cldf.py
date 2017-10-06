@@ -16,37 +16,56 @@ class Converter(object):
 
     def __init__(self, source):
         fields = attr.fields(self._source_cls)
-        self._map = {f.name: f.name for f in fields}
-        self._map.update(self._rename)
+        columns = list(self._itercols(fields, self._convert))
 
-        self.add_component_args = [self.__class__.__name__] + list(self._itercols(fields))
+        self.add_component_args = ([self._component] +
+                                   [args for _, _, args in columns])
 
-        def extract(s, pairs=list(six.iteritems(self._map))):
-            return {v: getattr(s, k) for k, v in pairs}
+        def extract(s, pairs=[(name, target) for name, target, _ in columns]):
+            return {target: getattr(s, name) for name, target in pairs}
 
-        self.write_kwargs = {self.__class__.__name__: map(extract, source)}
+        self.write_kwargs = {self._component['dc:conformsTo']: map(extract, source)}
 
-    def _itercols(self, fields):
+    @staticmethod
+    def _itercols(fields, convert):
         for f in fields:
-            t_name = self._rename.get(f.name, f.name)
-            if t_name not in self._component_cols:
-                col_args = {'name': t_name}
-                if f.convert is float:
-                    col_args['datatype'] = 'float'
-                yield col_args
+            name = f.name
+            if name in convert:
+                args = convert[name]
+                if hasattr(args, 'setdefault'):
+                    target = args.setdefault('name', name)
+                else:
+                    target = args
+                    args = {'name': target}
+            else:
+                args = {'name': name}
+                target = name
+            if 'datatype' not in args:
+                args['datatype'] = 'float' if f.convert is float else 'string'
+            yield name, target, args
 
 
 class LanguageTable(Converter):
 
-    _component_cols = {'ID', 'Name', 'Latitude', 'Longitude'}
-
     _source_cls = pydplace.api.Society
 
-    _rename = {
-        'id': 'ID',
-        'pref_name_for_society': 'Name',
-        'Lat': 'Latitude',
-        'Long': 'Longitude',
+    _component = {
+        'url': 'languages.csv',
+        'dc:conformsTo': 'http://cldf.clld.org/v1.0/terms.rdf#LanguageTable',
+        'tableSchema': {'primaryKey': ['id']},
+    }
+
+    _convert = {
+        'id': {'propertyUrl': 'http://purl.org/dc/terms/identifier'},
+        'pref_name_for_society': {},
+        'Lat': {
+            'propertyUrl': 'http://www.w3.org/2003/01/geo/wgs84_pos#lat',
+            'datatype': {'base': 'decimal', 'minimum': -90, 'maximum': 90},
+        },
+        'Long': {
+            'propertyUrl': 'http://www.w3.org/2003/01/geo/wgs84_pos#long',
+            'datatype': {'base': 'decimal', 'minimum': -180, 'maximum': 180},
+        },
     }
 
 
