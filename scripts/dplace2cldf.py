@@ -3,7 +3,8 @@ from __future__ import unicode_literals
 import os
 from collections import OrderedDict
 
-import six
+from six.moves import map
+
 import attr
 import pycldf.dataset
 
@@ -130,7 +131,7 @@ class CodeTable(SkipMixin, BaseConverter):
     }
 
     _convert = {
-        'code': {'name': 'code', 'datatype': 'integer'},
+        'code': {'name': 'code', 'datatype': 'string'},
     }
 
     _iterdata = staticmethod(lambda repos: (c for v in repos.variables for c in v.codes))
@@ -139,7 +140,7 @@ class CodeTable(SkipMixin, BaseConverter):
         codes = list(self._iterdata(repos))
         add_component_args = ([self._component] +
                               [self._convert.get(f, f) for f in codes[0]._fields])
-        items = [c._asdict() for c in codes]
+        items = (c._asdict() for c in codes)
         write_kwargs = {self._component['dc:conformsTo']: items}
         return add_component_args, write_kwargs
 
