@@ -1,3 +1,0 @@
-category,id,title,definition,type,units,source,changes,notes
-Physical Landscape,Elevation,Meters above sea level,Meters above sea level,Continuous,masl,Global 30 Arc-Second Elevation,,
-Physical Landscape,Slope,Mean incline (in degrees) in the terrain (unit of sample 0.5 by 0.5 degree cell),Mean incline (in degrees) in the terrain (unit of sample 0.5 by 0.5 degree cell),Continuous,degrees,Global 30 Arc-Second Elevation,,
