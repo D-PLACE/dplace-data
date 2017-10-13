@@ -88,14 +88,26 @@ class LanguageTable(SkipMixin, Converter):
     }
 
     _convert = {
-        'id': {'propertyUrl': 'http://purl.org/dc/terms/identifier'},
-        'pref_name_for_society': {},
+        'id': {
+            'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
+            'datatype': {'base': 'string', 'format': 'B[1-9][0-9]*'},
+            'required': True,
+        },
+        'pref_name_for_society': {
+            'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name',
+            'required': True,
+        },
+        'glottolode': {
+            'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#glottocode',
+            'required': True,
+        },
+        'alt_names_by_society': {'separator': ', '},
         'Lat': {
-            'propertyUrl': 'http://www.w3.org/2003/01/geo/wgs84_pos#lat',
+            'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#latitude',
             'datatype': {'base': 'decimal', 'minimum': -90, 'maximum': 90},
         },
         'Long': {
-            'propertyUrl': 'http://www.w3.org/2003/01/geo/wgs84_pos#long',
+            'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#longitude',
             'datatype': {'base': 'decimal', 'minimum': -180, 'maximum': 180},
         },
     }
@@ -111,11 +123,14 @@ class ParameterTable(Converter):
     _component = {
         'url': 'variables.csv',
         'dc:conformsTo': 'http://cldf.clld.org/v1.0/terms.rdf#ParameterTable',
-        'tableSchema': {'primaryKey': ['var_id']}
+        'tableSchema': {'primaryKey': ['id']}
     }
 
     _convert = {
-        'id': {'propertyUrl': 'http://purl.org/dc/terms/identifier'},
+        'id': {
+            'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
+            'required': True
+        },
         'category': {'separator': ', '},
         'codes': None,
     }
@@ -126,7 +141,7 @@ class CodeTable(SkipMixin, BaseConverter):
 
     _component = {
         'url': 'codes.csv',
-        'dc:conformsTo': 'http://cldf.clld.org/v1.0/terms.rdf#FIXME',
+        'dc:conformsTo': 'http://cldf.clld.org/v1.0/terms.rdf#CodeTable',
         'tableSchema': {'primaryKey': ['var_id', 'code']}
     }
 
