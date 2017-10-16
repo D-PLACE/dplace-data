@@ -82,8 +82,9 @@ class Converter(BaseConverter):
             yield name, transform, target, args
 
     def __call__(self, dataset):
+        component = self._component.get('dc:conformsTo', self._component['url'])
         items = map(self._extract, self._iterdata(dataset))
-        write_kwargs = {self._component['dc:conformsTo']: items}
+        write_kwargs = {component: items}
         # FIXME: pycldf.dataset.add_component mutates component dict
         import copy
         return copy.deepcopy(self._add_component_args), write_kwargs
@@ -163,7 +164,7 @@ class LanguageTable(SkipMixin, Converter):
     }
 
 
-#@registered
+@registered
 class LangugageRelatedTable(SkipMixin, Converter):
 
     _source_cls = pydplace.api.RelatedSocieties
@@ -172,7 +173,6 @@ class LangugageRelatedTable(SkipMixin, Converter):
 
     _component = {
         'url': 'societies_mapping.csv',
-        'dc:conformsTo': 'http://cldf.clld.org/v1.0/terms.rdf#FIXME',
         'tableSchema': {
             'primaryKey': ['id'],
             'foreignKeys': [
@@ -283,8 +283,9 @@ class CodeTable(SkipMixin, BaseConverter):
         codes = list(self._iterdata(dataset))
         add_component_args = ([self._component] +
                               [self._convert.get(f, f) for f in codes[0]._fields])
+        component = self._component.get('dc:conformsTo', self._component['url'])
         items = (c._asdict() for c in codes)
-        write_kwargs = {self._component['dc:conformsTo']: items}
+        write_kwargs = {component: items}
         # FIXME: pycldf.dataset.add_component mutates component dict
         import copy
         return copy.deepcopy(add_component_args), write_kwargs
