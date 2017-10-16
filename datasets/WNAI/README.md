@@ -1,0 +1,1 @@
+The Western North American Indians (WNAI) dataset describes cultural practices for 172 societies in Western North America. There is significant overlap between the societies described in the WNAI and those in the other three datasets, however the WNAI includes approximately 20 societies not described in the other datasets.

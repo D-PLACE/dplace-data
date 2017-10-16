@@ -1,0 +1,1 @@
+Binford Hunter-Gatherer dataset describes cultural practices for 339 hunter-gatherer groups. Approximately two-thirds of the societies described by Binford are also described in the EA. However, the Binford database includes a number of societies not in the EA, including many in Australia and northern North America.

@@ -1,0 +1,1 @@
+The Ethnographic Atlas (EA) describes cultural practices for 1291 societies, ranging from societies with complex agricultural economies and political systems to small hunter-gatherer groups. The societies are globally distributed with especially good coverage of Africa and western North America.
