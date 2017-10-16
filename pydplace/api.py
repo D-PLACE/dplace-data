@@ -29,8 +29,8 @@ def valid_range(min_, max_, instance, attribute, value):
 
 @attr.s
 class Variable(object):
-    category = attr.ib(convert=lambda s: [c.capitalize() for c in comma_split(s)])
     id = attr.ib()
+    category = attr.ib(convert=lambda s: [c.capitalize() for c in comma_split(s)])
     title = attr.ib()
     definition = attr.ib()
     type = attr.ib(
@@ -38,8 +38,8 @@ class Variable(object):
     source = attr.ib()
     changes = attr.ib()
     notes = attr.ib()
-    units = attr.ib(default='')
     codes = attr.ib(default=attr.Factory(list))
+    units = attr.ib(default='')
 
 
 @attr.s
@@ -121,7 +121,6 @@ class Society(UnicodeMixin):
     ORIG_name_and_ID_in_this_dataset = attr.ib()
     alt_names_by_society = attr.ib()
     main_focal_year = attr.ib()
-    glottocode_comment = attr.ib()
     HRAF_name_ID = attr.ib()
     HRAF_link = attr.ib()
     origLat = attr.ib(convert=float)
@@ -129,6 +128,7 @@ class Society(UnicodeMixin):
     Lat = attr.ib(convert=float, validator=partial(valid_range, -90, 90))
     Long = attr.ib(convert=float, validator=partial(valid_range, -180, 180))
     Comment = attr.ib()
+    glottocode_comment = attr.ib()
 
     def __unicode__(self):
         return '{0.pref_name_for_society} ({0.id})'.format(self)
