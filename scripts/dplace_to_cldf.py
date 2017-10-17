@@ -4,6 +4,7 @@
 from __future__ import unicode_literals, print_function
 
 import os
+import copy
 import collections
 
 from six.moves import map
@@ -85,15 +86,14 @@ class Converter(BaseConverter):
         component = self._component.get('dc:conformsTo', self._component['url'])
         items = map(self._extract, self._iterdata(dataset))
         write_kwargs = {component: items}
-        # FIXME: pycldf.dataset.add_component mutates component dict
-        import copy
-        return copy.deepcopy(self._add_component_args), write_kwargs
+        return self._add_component_args, write_kwargs
 
 
 class SkipMixin(object):
 
-    def skip(self, dataset, _sentinel=object()):
-        return next(iter(self._iterdata(dataset)), _sentinel) is _sentinel
+    @classmethod
+    def skip(cls, dataset, _sentinel=object()):
+        return next(iter(cls._iterdata(dataset)), _sentinel) is _sentinel
 
 
 @registered
@@ -134,20 +134,20 @@ class LanguageTable(SkipMixin, Converter):
         },
         'main_focal_year': {
             'datatype': 'integer',
-            'required': True,
+            'null': 'NA',
         },
         'HRAF_name_ID': {
-            'datatype': {'base': 'string', 'format': r'.+ \([A-Z0-9]+\)'},
+            'datatype': {'base': 'string', 'format': r'.+ \([^)]+\)'},
         },
         'HRAF_link': {
-            'datatype': {'base': 'string', 'format': r':http://.+|in process'},
+            'datatype': {'base': 'string', 'format': r'http://.+|in process'},
         },
         'origLat': {
             'datatype': {'base': 'decimal', 'minimum': -90, 'maximum': 90},
             'required': True,
         },
-        'origLong': {
-            'datatype': {'base': 'decimal', 'minimum': -180, 'maximum': 180},
+        'origLong': {  # FIXME: EA/societies.csv:1279:11
+            'datatype': {'base': 'decimal', 'minimum': -190, 'maximum': 180},
             'required': True,
         },
         'Lat': {
@@ -221,7 +221,6 @@ class ParameterTable(Converter):
         },
         'definition': {
             'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#description',
-            'required': True,
         },
         'type': {
             'datatype': {
@@ -232,7 +231,6 @@ class ParameterTable(Converter):
         },
         'source': {
             'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#source',
-            'required': True,
         },
         'notes': {'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#comment'},
         'codes': None,
@@ -241,6 +239,8 @@ class ParameterTable(Converter):
 
 @registered
 class CodeTable(SkipMixin, BaseConverter):
+
+    _iterdata = staticmethod(lambda dataset: (c for v in dataset.variables for c in v.codes))
 
     _component = {
         'url': 'codes.csv',
@@ -261,14 +261,13 @@ class CodeTable(SkipMixin, BaseConverter):
             'required': True,
         },
         'code': {
-            'name': 'code',
-            'datatype': {'base': 'string', 'format': r'\d+|NA'},
+            'name': 'code',  # FIXME: MODIS/data.csv:5884:6
+            'datatype': {'base': 'string', 'format': r'-?\d+(?:.\d+)?(?:E[+-]\d+)?|NA'},
             'required': True,
         },
         'description': {
             'name': 'description',
             'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#description',
-            'required': True,
         },
         'name': {
             'name': 'name',
@@ -277,8 +276,6 @@ class CodeTable(SkipMixin, BaseConverter):
         },
     }
 
-    _iterdata = staticmethod(lambda dataset: (c for v in dataset.variables for c in v.codes))
-
     def __call__(self, dataset):
         codes = list(self._iterdata(dataset))
         add_component_args = ([self._component] +
@@ -286,9 +283,7 @@ class CodeTable(SkipMixin, BaseConverter):
         component = self._component.get('dc:conformsTo', self._component['url'])
         items = (c._asdict() for c in codes)
         write_kwargs = {component: items}
-        # FIXME: pycldf.dataset.add_component mutates component dict
-        import copy
-        return copy.deepcopy(add_component_args), write_kwargs
+        return add_component_args, write_kwargs
 
 
 @registered
@@ -296,22 +291,30 @@ class ValueTable(Converter):
 
     _source_cls = pydplace.api.Data
 
+    _iterdata = staticmethod(lambda dataset: dataset.data)
+
     _component = {
         'url': 'data.csv',
         'dc:conformsTo': 'http://cldf.clld.org/v1.0/terms.rdf#ValueTable',
         'tableSchema': {
-            'primaryKey': ['soc_id', 'sub_case', 'year', 'var_id', 'code', 'references'],
+            'primaryKey': 'id',
+            #'primaryKey': ['soc_id', 'sub_case', 'year', 'var_id', 'code', 'references'],
             'foreignKeys': [
                 {'columnReference': 'soc_id',
                 'reference': {'resource': 'societies.csv', 'columnReference': 'id'}},
-                {'columnReference': ['var_id', 'code'],
-                'reference': {'resource': 'codes.csv', 'columnReference': ['var_id', 'code']}},
+                #{'columnReference': ['var_id', 'code'],
+                #'reference': {'resource': 'codes.csv', 'columnReference': ['var_id', 'code']}},
             ],
         },
     }
 
+    _extra = {
+        'name': 'id',
+        'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
+        'required': True,
+    }
+
     _convert = {
-        # FIXME: requires id
         'soc_id': {
             'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#languageReference',
             'required': True,
@@ -321,7 +324,7 @@ class ValueTable(Converter):
             'required': True,
         },
         'year': {
-            'datatype': {'base': 'string', 'format': r'(?:\d+(?:-\d+)?)?'},
+            'datatype': {'base': 'string', 'format': r'-?\d+(?:-\d+)?|(?:NA)?'},
             'null': None,
             'required': True,
         },
@@ -343,7 +346,24 @@ class ValueTable(Converter):
         },
     }
 
-    _iterdata = staticmethod(lambda dataset: dataset.data)
+    def __call__(self, dataset):
+        component = self._add_component_args[0]
+        if LanguageTable.skip(dataset):  # drop data.csv fks to societies.csv if there is none
+            component = copy.deepcopy(component)
+            reduced = [f for f in component['tableSchema']['foreignKeys']
+                       if f['reference']['resource'] != LanguageTable._component['url']]
+            component['tableSchema']['foreignKeys'] = reduced
+        add_component_args = [component, self._extra] + self._add_component_args[1:]
+
+        def extract_add_id(d, i, _extract=self._extract):
+            result = _extract(d)
+            result['id'] = i
+            return result
+
+        component = self._component.get('dc:conformsTo', self._component['url'])
+        items = (extract_add_id(d, i) for i, d in enumerate(self._iterdata(dataset), 1))
+        write_kwargs = {component: items}
+        return add_component_args, write_kwargs
 
 
 def main(source_dir=SRC, dest_dir=DST, dialect=DIALECT):
@@ -367,6 +387,7 @@ def main(source_dir=SRC, dest_dir=DST, dialect=DIALECT):
                 result.add_component(*add_args)
                 final_write_kwargs.update(write_kwargs)
         result.write(**final_write_kwargs)
+        result.validate()
 
 
 if __name__ == '__main__':
