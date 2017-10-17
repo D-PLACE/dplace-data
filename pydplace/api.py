@@ -55,7 +55,12 @@ class Reference(UnicodeMixin):
 
     @classmethod
     def from_string(cls, s):
-        k, _, p = s.partition(':')
+        if ':' in s:
+            k, _, p = s.partition(':')
+        elif '[' in s:
+            k, _, p = s[:-1].partition('[')
+        else:
+            k, p = s, ''
         return cls(k.strip(), p.strip())
 
 
