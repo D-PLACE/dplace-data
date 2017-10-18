@@ -9023,409 +9023,409 @@ SCCS1713,NA,Missing data,NA
 SCCS1713,1,boys & girls in same room or bed,boys & girls in same room or bed
 SCCS1713,2,boys & girls in separate rooms or separate beds,boys & girls in separate rooms or separate beds
 SCCS1713,3,boys & girls in separate houses,boys & girls in separate houses
-SCCS1716,NA,Missing data,NA
+SCCS1716,NA,missing data,missing data
 SCCS1716,1,intensive agriculture,intensive agriculture
 SCCS1716,2,extensive agriculture,extensive agriculture
-SCCS1716,3,animal husbandry,animal husbandary
-SCCS1716,4,fishing,Fishing
-SCCS1716,5,hunting,Hunting
-SCCS1716,6,gathering,Gathering
+SCCS1716,3,animal husbandry,animal husbandry
+SCCS1716,4,fishing,fishing
+SCCS1716,5,hunting,hunting
+SCCS1716,6,gathering,gathering
+SCCS1716,7,trade,trade
 SCCS1716,8,wage labor,wage labor
-SCCS1717,NA,Missing data,NA
+SCCS1717,NA,missing data,missing data
+SCCS1717,1,intensive agriculture,intensive agriculture
 SCCS1717,2,extensive agriculture,extensive agriculture
 SCCS1717,3,animal husbandry,animal husbandry
-SCCS1717,4,fishing,Fishing
-SCCS1717,5,hunting,Hunting
-SCCS1717,6,gathering,Gathering
+SCCS1717,4,fishing,fishing
+SCCS1717,5,hunting,hunting
+SCCS1717,6,gathering,gathering
 SCCS1717,7,trade,trade
 SCCS1717,8,wage labor,wage labor
-SCCS1718,NA,Missing data,NA
+SCCS1718,NA,missing data,missing data
 SCCS1718,1,sharing of food among nuclear family,sharing of food among nuclear family
 SCCS1718,2,sharing of food among kin residing in local community,sharing of food among kin residing in local community
 SCCS1718,3,"sharing of food among kin, not restricted to local community","sharing of food among kin, not restricted to local community"
 SCCS1718,4,sharing of food among non-kin within local community,sharing of food among non-kin within local community
 SCCS1718,5,sharing of food among all members of local community,sharing of food among all members of local community
-SCCS1718,6,sharing of food among groups within unit of maximal political authority or ethnic group,sharing of food among groups within ethnic group
+SCCS1718,6,sharing of food among groups within unit of maximal political authority or ethnic group,sharing of food among groups within unit of maximal political authority or ethnic group
 SCCS1718,7,sharing of food among other than mentioned groups,sharing of food among other than mentioned groups
-SCCS1719,NA,Missing data,NA
-SCCS1719,1,"food supply constant, no scarcity (original code 10)","food supply constant, no scarcity"
-SCCS1719,2,periodical food scarcity (original code 20),periodical food scarcity
-SCCS1719,3,"aperiodical food scarcity (e.g. as caused by natural disasters), no further information on frequency of occurrence (original code 30)",aperiodical food scarcity
-SCCS1719,4,seldom (occurrence uncommon) (original code 31),seldom
-SCCS1719,5,often (occurrence common) (original code 32),often
-SCCS1719,6,periodical as well as aperiodical food scarcity (original code 40),periodical as well as aperiodical food scarcity
-SCCS1719,7,chronic food scarcity (original code 50),"food scarcity occurs, no further information on frequency"
-SCCS1719,8,"food scarcity occurs, no further information on frequency (original code 60)","food scarcity occurs, no further info on freq"
-SCCS1720,NA,Missing data,NA
+SCCS1719,NA,missing data,missing data
+SCCS1719,10,"food supply constant, no scarcity","food supply constant, no scarcity"
+SCCS1719,20,periodical food scarcity,periodical food scarcity
+SCCS1719,30,"aperiodical food scarcity (e.g. as caused by natural disasters), no further information on frequency of occurrence","aperiodical food scarcity (e.g. as caused by natural disasters), no further information on frequency of occurrence"
+SCCS1719,31,seldom (occurrence uncommon),seldom (occurrence uncommon)
+SCCS1719,32,often (occurrence common),often (occurrence common)
+SCCS1719,40,periodical as well as aperiodical food scarcity,periodical as well as aperiodical food scarcity
+SCCS1719,50,chronic food scarcity,chronic food scarcity
+SCCS1719,60,"food scarcity occurs, no further information on frequency","food scarcity occurs, no further information on frequency"
+SCCS1720,NA,missing data,missing data
 SCCS1720,1,no land shortage,no land shortage
-SCCS1720,2,population pressure (caused by humans or animals),population pressure
+SCCS1720,2,population pressure (caused by humans or animals),population pressure (caused by humans or animals)
 SCCS1720,3,territorial invasions,territorial invasions
 SCCS1720,4,more than one of the above,more than one of the above
-SCCS1721,NA,Missing data,NA
-SCCS1721,1,absence of rich (original code 10),absence of rich
-SCCS1721,2,"presence of rich, no information on numbers (original code 20)","presence of rich, no information on numbers"
-SCCS1721,3,few rich (original code 21),few rich
-SCCS1721,4,many rich (original code 22),many rich
-SCCS1722,NA,Missing data,NA
-SCCS1722,0,"absence of rich, variable 1717 coded 1 (original code 88)","absence ofrich, variable 1717 coded 1"
-SCCS1722,1,"presence of rich, no information on sources of wealth (original code 10)","presence of rich, no information on sources of wealth"
-SCCS1722,2,acquired wealth of land (through buying or skill) (original code 11),acquired wealth of land
-SCCS1722,3,inheritance of land (original code 12),inheritance of land
-SCCS1722,4,acquired wealth of cattle (through buying or skill) (original code 13),acquirred wealth of cattle
-SCCS1722,5,inheritance of cattle (original code 14),inheritance of cattle
-SCCS1722,6,acquired wealth (means of production other than cattle or land) (original code 15),acquired wealth
-SCCS1722,7,inherited wealth (means of production other than cattle or land) (original code 16),inherited wealth
-SCCS1722,8,more than one of the above (original code 177),more than one of the above
-SCCS1723,NA,Missing data,NA
-SCCS1723,1,absence of poor (original code 10),absence of poor
-SCCS1723,2,"presence of poor, no information on percentage (original code 20)","presence of poor, no information on percentage"
-SCCS1723,3,few poor (original code 21),few poor
-SCCS1723,4,many poor (original code 22),many poor
-SCCS1724,NA,Missing data,NA
-SCCS1724,1,no dispossessed (original code 10),no dispossessed
-SCCS1724,2,"presence of dispossessed, no information on percentage (original code 20)","presence of dispossessed, no information on percentage"
-SCCS1724,3,few dispossessed (original code 21),few dispossessed
-SCCS1724,4,many dispossessed (original code 22),many dispossessed
-SCCS1725,NA,Missing data,NA
-SCCS1725,0,no need for expansion: variable 1716 coded as 1 (original code 88),no need for expansion: variable 1716 coded as 1
-SCCS1725,1,peaceful territorial expansion impossible (original code 10),no need for expansion: variable1716 coded as 1
-SCCS1725,2,"peaceful territorial expansion possible, no information on quality of land (original code 20)",peaceful territorial expansion impossible
-SCCS1725,3,access to land of good quality (original code 21),access to land of good quality
-SCCS1725,4,access to land of restricted quality (original code 22),access to land of restricted quality
-SCCS1726,NA,Missing data,NA
+SCCS1721,NA,missing data,missing data
+SCCS1721,10,absence of rich,absence of rich
+SCCS1721,20,"presence of rich, no information on numbers","presence of rich, no information on numbers"
+SCCS1721,21,few rich,few rich
+SCCS1721,22,many rich,many rich
+SCCS1722,NA,missing data,missing data
+SCCS1722,88,absence of rich (variable SCCS1721 coded ´10´),absence of rich (variable SCCS1721 coded ´10´)
+SCCS1722,10,"presence of rich, no information on sources of wealth","presence of rich, no information on sources of wealth"
+SCCS1722,11,acquired wealth of land (through buying or skill),acquired wealth of land (through buying or skill)
+SCCS1722,12,inheritance of land,inheritance of land
+SCCS1722,13,acquired wealth of cattle (through buying or skill),acquired wealth of cattle (through buying or skill)
+SCCS1722,14,inheritance of cattle,inheritance of cattle
+SCCS1722,15,acquired wealth (means of production other than cattle or land),acquired wealth (means of production other than cattle or land)
+SCCS1722,16,inherited wealth (means of production other than cattle or land),inherited wealth (means of production other than cattle or land)
+SCCS1722,177,more than one of the above,more than one of the above
+SCCS1723,NA,missing data,missing data
+SCCS1723,10,absence of poor,absence of poor
+SCCS1723,20,"presence of poor, no information on percentage","presence of poor, no information on percentage"
+SCCS1723,21,few poor,few poor
+SCCS1723,22,many poor,many poor
+SCCS1724,NA,missing data,missing data
+SCCS1724,10,no dispossessed,no dispossessed
+SCCS1724,20,"presence of dispossessed, no information on percentage","presence of dispossessed, no information on percentage"
+SCCS1724,21,few dispossessed,few dispossessed
+SCCS1724,22,many dispossessed,many dispossessed
+SCCS1725,NA,missing data,missing data
+SCCS1725,88,no need for expansion (variable SCCS1720 coded as ´10´),no need for expansion (variable SCCS1720 coded as ´10´)
+SCCS1725,10,peaceful territorial expansion impossible,peaceful territorial expansion impossible
+SCCS1725,20,"peaceful territorial expansion possible, no information on quality of land","peaceful territorial expansion possible, no information on quality of land"
+SCCS1725,21,access to land of good quality,access to land of good quality
+SCCS1725,22,access to land of restricted quality,access to land of restricted quality
+SCCS1726,NA,missing data,missing data
 SCCS1726,1,land predominantly private property,land predominantly private property
 SCCS1726,2,land partially communally used,land partially communally used
 SCCS1726,3,communal land use rights only,communal land use rights only
-SCCS1727,NA,Missing data,NA
-SCCS1727,0,absence of violent conflict management (original code 88),absence of violent conflict management
+SCCS1727,NA,missing data,missing data
+SCCS1727,88,absence of violent conflict management,absence of violent conflict management
 SCCS1727,1,resource acquisition no motive,resource acquisition no motive
 SCCS1727,2,resource acquisition motive for violent conflict management,resource acquisition motive for violent conflict management
-SCCS1728,NA,Missing data,NA
-SCCS1728,0,equal distribution of resources (original code 88),equal distribution of resources
-SCCS1728,1,rare or never,Rare or never
-SCCS1728,2,occasional,Occasional
+SCCS1728,NA,missing data,missing data
+SCCS1728,88,equal distribution of resources,equal distribution of resources
+SCCS1728,1,rare or never,rare or never
+SCCS1728,2,occasional,occasional
 SCCS1728,3,often,often
-SCCS1728,4,permanent,Permanent
-SCCS1729,NA,Missing data,NA
-SCCS1729,1,local community autonomous (original code 10),local community autonomous
-SCCS1729,2,local community is part of a precolonial state (original code 20),local community is part of a precolonial state
-SCCS1729,3,ethnic group to which the local community belongs is politically dominant in the precolonial state (original code 21),"ethnic group, politically dominant, precolonial state"
-SCCS1729,4,ethnic group to which the local community belongs occupies a politically subordinate position in the precolonial state (original code 22),"ethnic group, politically subordinate, precolonial state"
-SCCS1729,5,local community is part of a colonial state (original code 30),local community is part of a colonial state
-SCCS1729,6,local community is part of a postcolonial state (original code 40),local community is part of a postcolonial state
-SCCS1729,7,ethnic group to which the local community belongs is politically dominant in the postcolonial state (original code 41),"ethnic group, politically dominant, postcolonial state"
-SCCS1729,8,ethnic group to which the local community belongs occupies a politically subordinate position in the postcolonial state (original code 42),"ethnic group, politically subordinate, post colonial state"
-SCCS1730,NA,Missing data,NA
-SCCS1730,0,local community not part of an overarching political unit (variable 1725 coded as 1) (original code 88),local community not part of overarching political unit
-SCCS1730,1,overarching political unit claims administrative hierarchy without actual execution (original code 10),oversrching political unit claims administrative
-SCCS1730,2,"administration representative absent or only sporadically present, administrative functions are executed from outside (original code 20)",administration representative absent
-SCCS1730,3,"administration representative present (e.g. military, civilian administrators, school personnel) (original code 30)",administration representative present
-SCCS1730,4,"same as above 4, administration representative member of the same ethnic group as local community (original code 31)",same as above 4
-SCCS1730,5,"same as above 4, administration representative of different ethnic affiliation than local community (original code 32)",same as above 4_duplicated_5
-SCCS1731,NA,Missing data,NA
-SCCS1731,0,local community not part of an overarching political unit (variable 1725 coded as 1); ethnic group occupies a dominant position within overarching political unit (variable 1725 coded as 3 or 7); overarching political unit does not execute administrative functions (variable 1726 coded as 2) (original code 88),local community not part of overarching political unit
-SCCS1731,1,no elite present in ethnic group of which the local community is a part,no elite present in ethnic group
-SCCS1731,2,local elite does not participate in decisions of overarching political unit,local elite does not participate in decisions
-SCCS1731,3,"local elite occupies leading positions within overarching political unit, at the local or regional level",local elite occupies leading positions within political unit
-SCCS1732,NA,Missing data,NA
+SCCS1728,4,permanent,permanent
+SCCS1729,NA,missing data,missing data
+SCCS1729,10,local community autonomous,local community autonomous
+SCCS1729,20,local community is part of a precolonial state,local community is part of a precolonial state
+SCCS1729,21,ethnic group to which the local community belongs is politically dominant in the precolonial state,ethnic group to which the local community belongs is politically dominant in the precolonial state
+SCCS1729,22,ethnic group to which the local community belongs occupies a politically subordinate position in the precolonial state,ethnic group to which the local community belongs occupies a politically subordinate position in the precolonial state
+SCCS1729,30,local community is part of a colonial state,local community is part of a colonial state
+SCCS1729,40,local community is part of a postcolonial state,local community is part of a postcolonial state
+SCCS1729,41,ethnic group to which the local community belongs is politically dominant in the postcolonial state,ethnic group to which the local community belongs is politically dominant in the postcolonial state
+SCCS1729,42,ethnic group to which the local community belongs occupies a politically subordinate position in the postcolonial state,ethnic group to which the local community belongs occupies a politically subordinate position in the postcolonial state
+SCCS1730,NA,missing data,missing data
+SCCS1730,88,local community not part of an overarching political unit (variable SCCS1729 coded as ´10´),local community not part of an overarching political unit (variable SCCS1729 coded as ´10´)
+SCCS1730,10,overarching political unit claims administrative hierarchy without actual execution,overarching political unit claims administrative hierarchy without actual execution
+SCCS1730,20,"administration representative absent or only sporadically present, administrative functions are executed from outside","administration representative absent or only sporadically present, administrative functions are executed from outside"
+SCCS1730,30,"administration representative present (e.g. military, civilian administrators, school personnel)","administration representative present (e.g. military, civilian administrators, school personnel)"
+SCCS1730,31,"same as above (30), administration representative member of the same ethnic group as local community","same as above (30), administration representative member of the same ethnic group as local community"
+SCCS1730,32,"same as above (30), administration representative of different ethnic affiliation than local community","same as above (30), administration representative of different ethnic affiliation than local community"
+SCCS1731,NA,missing data,missing data
+SCCS1731,88,local community not part of an overarching political unit (variable SCCS1729 coded as ´10´); ethnic group occupies a dominant position within overarching political unit (variable SCCS1729 coded as ´21´ or ´41´); overarching political unit does not execute administrative functions (variable SCCS1730 coded as ´10´),local community not part of an overarching political unit (variable SCCS1729 coded as ´10´); ethnic group occupies a dominant position within overarching political unit (variable SCCS1729 coded as ´21´ or ´41´); overarching political unit does not execute administrative functions (variable SCCS1730 coded as ´10´)
+SCCS1731,1,no elite present in ethnic group of which the local community is a part,no elite present in ethnic group of which the local community is a part
+SCCS1731,2,local elite does not participate in decisions of overarching political unit,local elite does not participate in decisions of overarching political unit
+SCCS1731,3,"local elite occupies leading positions within overarching political unit, at the local or regional level","local elite occupies leading positions within overarching political unit, at the local or regional level"
+SCCS1732,NA,missing data,missing data
 SCCS1732,1,no wage labor,no wage labor
 SCCS1732,2,"wage labor present, migratory labor unimportant","wage labor present, migratory labor unimportant"
-SCCS1732,3,"wage labor, mainly in the form of migratory labor","wage labor, mainly in form of migratory labor"
-SCCS1733,NA,Missing data,NA
-SCCS1733,1,no market exchange (original code 10),no market exchange
-SCCS1733,2,"market exchange within local community present, no further information (original code 20)","market exchange outside of local community, on further info"
-SCCS1733,3,"market exchange within local community present, involving local and regional products (original code 21)","market exchange present, local and regional products"
-SCCS1733,4,"market exchange within local community present, involving local, regional, and supra-regional products (original code 22)","market exchange present, local, regional, and supra-regional"
-SCCS1734,NA,Missing data,NA
-SCCS1734,1,no market exchange outside of local community (original code 10),no market exchange
-SCCS1734,2,"market exchange outside of local community (at trading posts, market places), no further information (original code 20)","market exchange outside of local community, on further info"
-SCCS1734,3,"market exchange outside of local community, involving local and regional products (original code 21)","market exchange present, local and regional products"
-SCCS1734,4,"market exchange outside of local community, involving local, regional, and supra-regional products (original code 22)","market exchange present, local, regional, and supra-regional"
-SCCS1735,NA,Missing data,NA
+SCCS1732,3,"wage labor, mainly in the form of migratory labor","wage labor, mainly in the form of migratory labor"
+SCCS1733,NA,missing data,missing data
+SCCS1733,10,no market exchange,no market exchange
+SCCS1733,20,"market exchange within local community present, no further information","market exchange within local community present, no further information"
+SCCS1733,21,"market exchange within local community present, involving local and regional products","market exchange within local community present, involving local and regional products"
+SCCS1733,22,"market exchange within local community present, involving local, regional, and supra-regional products","market exchange within local community present, involving local, regional, and supra-regional products"
+SCCS1734,NA,missing data,missing data
+SCCS1734,10,no market exchange outside of local community,no market exchange outside of local community
+SCCS1734,20,"market exchange outside of local community (at trading posts, market places), no further information","market exchange outside of local community (at trading posts, market places), no further information"
+SCCS1734,21,"market exchange outside of local community, involving local and regional products","market exchange outside of local community, involving local and regional products"
+SCCS1734,22,"market exchange outside of local community, involving local, regional, and supra-regional products","market exchange outside of local community, involving local, regional, and supra-regional products"
+SCCS1735,NA,missing data,missing data
 SCCS1735,1,production for consumption more important,production for consumption more important
-SCCS1735,2,production for consumption and production for market exchange of equal importance,production for consumption and market exchange equal
-SCCS1736,NA,Missing data,NA
-SCCS1736,1,"no tribute, taxation, or expropriation (original code 10)","no tribute, taxation, or expropriation"
-SCCS1736,2,"payment of tribute, taxation, or expropriation occur (original code 20)","payment of tribute, taxation, or expropriation occur"
-SCCS1736,3,corvee labor (original code 21),"corve, labor"
-SCCS1736,4,money (original code 22),money
-SCCS1736,5,mobile goods (original code 23),mobile goods
-SCCS1736,6,more than one of the above (original code 24),more than one of the above
-SCCS1737,NA,Missing data,NA
-SCCS1737,0,no tribute or taxation (original code 88),no tribute or taxation
-SCCS1737,1,sporadic taxation or request for tribute (original code 10),sporadic taxation or request for tribute
-SCCS1737,2,the exactions are reported not to be burdensome (original code 20),the exactions are reported not to be burdensome
-SCCS1737,3,the exactions are reported to be burdensome (original code 21),the exactions are reported to be burdensome
-SCCS1737,4,regular taxation or request for tribute (original code 30),regular taxation or request of tribute
-SCCS1737,5,the exactions are reported not to be burdensome (original code 31),the exactions are reported not to be burdensome_duplicated_5
-SCCS1737,6,the exactions are reported to be burdensome (original code 32),the exactions are reported to be burdensome_duplicated_6
-SCCS1738,NA,Missing data,NA
-SCCS1738,1,no formal education (original code 10),no formal education
-SCCS1738,2,formal education present (original code 20),formal education present
-SCCS1738,3,small fraction of local community is formally educated (original code 21),small fraction of local community is formally educated
-SCCS1738,4,large part of local community is formally educated (original code 22),large part of local community is formally educated
-SCCS1738,5,members of local community have a higher education (original code 23),members of local community have a higher education
-SCCS1739,NA,Missing data,NA
-SCCS1739,0,no overarching political unit (variable 1729 coded as 1) (original code 88),no overarching political unit
+SCCS1735,2,production for consumption and production for market exchange of equal importance,production for consumption and production for market exchange of equal importance
+SCCS1736,NA,missing data,missing data
+SCCS1736,10,"no tribute, taxation, or expropriation","no tribute, taxation, or expropriation"
+SCCS1736,20,"payment of tribute, taxation, or expropriation occur","payment of tribute, taxation, or expropriation occur"
+SCCS1736,21,corveé labor,corveé labor
+SCCS1736,22,money,money
+SCCS1736,23,mobile goods,mobile goods
+SCCS1736,24,more than one of the above,more than one of the above
+SCCS1737,NA,missing data,missing data
+SCCS1737,88,no tribute or taxation,no tribute or taxation
+SCCS1737,20,sporadic taxation or request for tribute,sporadic taxation or request for tribute
+SCCS1737,21,the exactions are reported not to be burdensome,the exactions are reported not to be burdensome
+SCCS1737,22,the exactions are reported to be burdensome,the exactions are reported to be burdensome
+SCCS1737,30,regular taxation or request for tribute,regular taxation or request for tribute
+SCCS1737,31,the exactions are reported not to be burdensome,the exactions are reported not to be burdensome
+SCCS1737,32,the exactions are reported to be burdensome,the exactions are reported to be burdensome
+SCCS1737,10,--invalid--,--invalid--
+SCCS1738,NA,missing data,missing data
+SCCS1738,10,no formal education,no formal education
+SCCS1738,20,formal education present,formal education present
+SCCS1738,21,small fraction of local community is formally educated,small fraction of local community is formally educated
+SCCS1738,22,large part of local community is formally educated,large part of local community is formally educated
+SCCS1738,23,members of local community have a higher education,members of local community have a higher education
+SCCS1739,NA,missing data,missing data
+SCCS1739,88,no overarching political unit (variable SCCS1729 coded as ´10´),no overarching political unit (variable SCCS1729 coded as ´10´)
 SCCS1739,1,violent acts absent,violent acts absent
-SCCS1739,2,"acts of violence, in reaction against attacks by overarching political unit","acts of violence, reaction against attacks by political unit"
+SCCS1739,2,"acts of violence, in reaction against attacks by overarching political unit","acts of violence, in reaction against attacks by overarching political unit"
 SCCS1739,3,"active resistance, aiming at revolution","active resistance, aiming at revolution"
-SCCS1740,NA,Missing data,NA
-SCCS1740,1,no political office (original code 10),no political office
-SCCS1740,2,"no political office at the head of local community, but segments of different local communities belong to supralocal non-territorially organized political unit (original code 20)",no political office at head of community
-SCCS1740,3,highest political office one level above smallest supralocal non-territorially organized political unit (original code 21),highest political office 1 level above smallest
-SCCS1740,4,highest political office two levels above smallest supralocal non-territorially organized political unit (original code 22),highest political office 2 levels above smallest
-SCCS1740,7,highest political office at the head of local community,highest political office at head of local community
-SCCS1740,8,highest political office one level above local community (original code 31),highest political office 1 level above local community
-SCCS1740,9,highest political office two levels above local community (original code 32),highest political office 2 levels above local community
-SCCS1740,10,highest political office three levels above local community (original code 33),highest political office 3 leves above local community
-SCCS1740,11,highest political office four or more levels above local community (original code 34),highest political office 4 or more levels above local com.
-SCCS1741,NA,Missing data,NA
+SCCS1740,NA,missing data,missing data
+SCCS1740,10,no political office,no political office
+SCCS1740,20,"no political office at the head of local community, but segments of different local communities belong to supralocal non-territorially organized political unit","no political office at the head of local community, but segments of different local communities belong to supralocal non-territorially organized political unit"
+SCCS1740,21,highest political office one level above smallest supralocal non-territorially organized political unit,highest political office one level above smallest supralocal non-territorially organized political unit
+SCCS1740,22,highest political office two levels above smallest supralocal non-territorially organized political unit,highest political office two levels above smallest supralocal non-territorially organized political unit
+SCCS1740,23,highest political office three levels above smallest supralocal non-territorially organized political unit,highest political office three levels above smallest supralocal non-territorially organized political unit
+SCCS1740,24,highest political office four levels above smallest supralocal non-territorially organized political unit,highest political office four levels above smallest supralocal non-territorially organized political unit
+SCCS1740,30,highest political office at the head of local community (=politically autonomous local community),highest political office at the head of local community (=politically autonomous local community)
+SCCS1740,31,highest political office one level above local community,highest political office one level above local community
+SCCS1740,32,highest political office two levels above local community,highest political office two levels above local community
+SCCS1740,33,highest political office three levels above local community,highest political office three levels above local community
+SCCS1740,34,highest political office four or more levels above local community,highest political office four or more levels above local community
+SCCS1741,NA,missing data,missing data
 SCCS1741,1,no formal jurisdiction present,no formal jurisdiction present
-SCCS1741,2,highest level of formal jurisdiction below the unit of maximal political authority,highest level of jurisdiction below political authority
-SCCS1741,3,highest level of formal jurisdiction at the level of maximal political authority,highest level of jurisdiction at the level of political auth
-SCCS1742,NA,Missing data,NA
-SCCS1742,0,"no political office above the level of the local community (variable 1730 coded as 1,2, or 3 (original code 88)",no political office
-SCCS1742,1,selection of officials at the lowest level of political hierarchy independent of higher-ranking officials,selection by lowest level of political hierarchy
-SCCS1742,2,"selection of officials at the lowest level of political hierarchy within local community, but it has to be reconfirmed by higher-ranking officials",reconfirmed by higher-ranking officials
-SCCS1742,3,officials at the lowest level of political hierarchy are determined by higher-ranking officials,determined by higher-ranking officials
-SCCS1743,NA,Missing data,NA
-SCCS1743,0,no formal political office present (variable 1740 coded as 1) (original code 88),no formal political office present
+SCCS1741,2,highest level of formal jurisdiction below the unit of maximal political authority,highest level of formal jurisdiction below the unit of maximal political authority
+SCCS1741,3,highest level of formal jurisdiction at the level of maximal political authority,highest level of formal jurisdiction at the level of maximal political authority
+SCCS1742,NA,missing data,missing data
+SCCS1742,88,"no political office above the level of the local community (variable SCCS1740 coded as ´10´, ´20´, or ´30´","no political office above the level of the local community (variable SCCS1740 coded as ´10´, ´20´, or ´30´"
+SCCS1742,1,selection of officials at the lowest level of political hierarchy independent of higher-ranking officials,selection of officials at the lowest level of political hierarchy independent of higher-ranking officials
+SCCS1742,2,"selection of officials at the lowest level of political hierarchy within local community, but it has to be reconfirmed by higher-ranking officials","selection of officials at the lowest level of political hierarchy within local community, but it has to be reconfirmed by higher-ranking officials"
+SCCS1742,3,officials at the lowest level of political hierarchy are determined by higher-ranking officials,officials at the lowest level of political hierarchy are determined by higher-ranking officials
+SCCS1743,NA,missing data,missing data
+SCCS1743,88,no formal political office present (variable SCCS1740 coded  as ´10´),no formal political office present (variable SCCS1740 coded  as ´10´)
 SCCS1743,1,no or few means of coercion,no or few means of coercion
-SCCS1743,2,"restricted means of coercion, e.g. only for certain types of decisions",restricted means of coercion
+SCCS1743,2,"restricted means of coercion, e.g. only for certain types of decisions","restricted means of coercion, e.g. only for certain types of decisions"
 SCCS1743,3,coercive means to enforce all decisions,coercive means to enforce all decisions
-SCCS1744,NA,Missing data,NA
-SCCS1744,0,no formal political office present (variable 1740 coded as 1) (original code 88),no formal political office present
-SCCS1744,1,"decision making at the highest level of political authority independent of lower-ranking levels, groups, or individuals",decision making at highest level
-SCCS1744,2,"decisions at the highest level of political authority are made after consultation with representatives of lower-ranking levels, groups, or individuals",decisions made after consultation
-SCCS1744,3,"lower-ranking individuals or group representatives fully participate in decision making at the highest level of political authority, they are members of the decision making body",fully participate
-SCCS1745,NA,Missing data,NA
-SCCS1745,0,no formal political office present (variable 1740 coded as 1) (original code 88),no formal political office present
-SCCS1745,1,religious specialists have no influence on decision making at the level of maximal political authority,religious specialists have no influence on decision making
-SCCS1745,2,religious specialists participate in decision making at the level of maximal political authority,religious specialists participate in decision making
-SCCS1745,3,officials at the level of maximal political authority are at the same time religious specialists,official are at the same time religious specialists
-SCCS1746,NA,Missing data,NA
-SCCS1746,0,no formal political office present (variable 1740 coded as 1) (original code 88),no formal political office present
+SCCS1744,NA,missing data,missing data
+SCCS1744,88,no formal political office present (variable SCCS1740 coded  as ´10´),no formal political office present (variable SCCS1740 coded  as ´10´)
+SCCS1744,1,"decision making at the highest level of political authority independent of lower-ranking levels, groups, or individuals","decision making at the highest level of political authority independent of lower-ranking levels, groups, or individuals"
+SCCS1744,2,"decisions at the highest level of political authority are made after consultation with representatives of lower-ranking levels, groups, or individuals","decisions at the highest level of political authority are made after consultation with representatives of lower-ranking levels, groups, or individuals"
+SCCS1744,3,"lower-ranking individuals or group representatives fully participate in decision making at the highest level of political authority, they are members of the decisionmaking body","lower-ranking individuals or group representatives fully participate in decision making at the highest level of political authority, they are members of the decisionmaking body"
+SCCS1745,NA,missing data,missing data
+SCCS1745,88,no formal political office present (variable SCCS1740 coded  as ´10´),no formal political office present (variable SCCS1740 coded  as ´10´)
+SCCS1745,1,religious specialists have no influence on decision making at the level of maximal political authority,religious specialists have no influence on decision making at the level of maximal political authority
+SCCS1745,2,religious specialists participate in decision making at the level of maximal political authority,religious specialists participate in decision making at the level of maximal political authority
+SCCS1745,3,officials at the level of maximal political authority are at the same time religious specialists,officials at the level of maximal political authority are at the same time religious specialists
+SCCS1746,NA,missing data,missing data
+SCCS1746,88,no formal political office present (variable SCCS1740 coded as ´10´),no formal political office present (variable SCCS1740 coded as ´10´)
+SCCS1746,1,supernatural powers,supernatural powers
+SCCS1746,2,office holder has been installed by gods,office holder has been installed by gods
 SCCS1746,3,office holder belongs to privileged descent group,office holder belongs to privileged descent group
 SCCS1746,4,office holder elected by the represented group,office holder elected by the represented group
 SCCS1746,5,office holder elected by subordinate authorities,office holder elected by subordinate authorities
+SCCS1746,6,office holder is formal owner of the group´s land,office holder is formal owner of the group´s land
+SCCS1746,7,wealth based on possession of mobile property,wealth based on possession of mobile property
 SCCS1746,8,office inherited,office inherited
-SCCS1746,9,seniority,Seniority
-SCCS1746,10,"office holder installed by overarching administration, e.g. colonial power",office holder installed by overarching administration
-SCCS1746,11,other sources of legitimation,other sourcesa of legitimation
-SCCS1746,12,multiple sources of legitimation; more than one of the above (original code 77),multiple sources of legitimation
-SCCS1747,NA,Missing data,NA
-SCCS1747,0,no formal political office present (variable 1740 coded as 1) (original code 88),no formal political office present
-SCCS1747,1,rare or never,Rare or never
-SCCS1747,2,occasional,Occasional
+SCCS1746,9,seniority,seniority
+SCCS1746,10,"office holder installed by overarching administration, e.g. colonial power","office holder installed by overarching administration, e.g. colonial power"
+SCCS1746,11,other sources of legitimation,other sources of legitimation
+SCCS1746,77,multiple sources of legitimation; more than one of the above,multiple sources of legitimation; more than one of the above
+SCCS1747,NA,missing data,missing data
+SCCS1747,88,no formal political office present (variable SCCS1740 coded  as ´10´),no formal political office present (variable SCCS1740 coded  as ´10´)
+SCCS1747,1,rare or never,rare or never
+SCCS1747,2,occasional,occasional
 SCCS1747,3,often,often
-SCCS1747,4,permanent,Permanent
-SCCS1748,NA,Missing data,NA
-SCCS1748,0,"no political office above the level of the local community (variable 1740 coded as 1, 2, or 7) (original code 88)",no political office above the level of the local community
-SCCS1748,1,rare or never,Rare or never
-SCCS1748,2,occasional,Occasional
+SCCS1747,4,permanent,permanent
+SCCS1748,NA,missing data,missing data
+SCCS1748,88,"no political office above the level of the local community (variable SCCS1740 coded as ´10´, ´20´, or ´30´","no political office above the level of the local community (variable SCCS1740 coded as ´10´, ´20´, or ´30´"
+SCCS1748,1,rare or never,rare or never
+SCCS1748,2,occasional,occasional
 SCCS1748,3,often,often
-SCCS1748,4,permanent,Permanent
-SCCS1749,NA,Missing data,NA
-SCCS1749,0,"no political office above the level of the local community (variable 1740 coded as 1, 2, or 7) (original code 88)",no political office above the level of the local community
-SCCS1749,1,rare or never,Rare or never
-SCCS1749,2,occasional,Occasional
+SCCS1748,4,permanent,permanent
+SCCS1749,NA,missing data,missing data
+SCCS1749,88,"no political office above the level of the local community (variable SCCS1740 coded as ´10´, ´20´, or ´30´","no political office above the level of the local community (variable SCCS1740 coded as ´10´, ´20´, or ´30´"
+SCCS1749,1,rare or never,rare or never
+SCCS1749,2,occasional,occasional
 SCCS1749,3,often,often
-SCCS1749,4,permanent,Permanent
-SCCS1750,NA,Missing data,NA
-SCCS1750,1,rare or never,Rare or never
-SCCS1750,2,occasional,Occasional
+SCCS1749,4,permanent,permanent
+SCCS1750,NA,missing data,missing data
+SCCS1750,1,rare or never,rare or never
+SCCS1750,2,occasional,occasional
 SCCS1750,3,often,often
-SCCS1750,4,permanent,Permanent
-SCCS1751,NA,Missing data,NA
-SCCS1751,1,"no differences in access to economic resources, political power, and/or status","no differences in access to eco. resources,pol. power,status"
-SCCS1751,2,"differences in access to economic resources, political power, and/or status, not resulting in class formation","differences in access to eco. resources, pol. power, status"
+SCCS1750,4,permanent,permanent
+SCCS1751,NA,missing data,missing data
+SCCS1751,1,"no differences in access to economic resources, political power, and/or status","no differences in access to economic resources, political power, and/or status"
+SCCS1751,2,"differences in access to economic resources, political power, and/or status, not resulting in class formation","differences in access to economic resources, political power, and/or status, not resulting in class formation"
 SCCS1751,3,two classes,two classes
 SCCS1751,4,complex stratification into more than two classes,complex stratification into more than two classes
-SCCS1752,NA,Missing data,NA
+SCCS1752,NA,missing data,missing data
 SCCS1752,1,no marriage transactions,no marriage transactions
-SCCS1752,2,"marriage transactions, but not by the groom or his kin","marriage transactions, not by groom or his kin"
-SCCS1752,3,"groom is able to procure the necessary goods for marriage transactions or else can provide alternatives as e.g., bride service",groom is able to procure necessary goods for marriage
-SCCS1752,4,groom depends on the help of father or another single relative of the father for marriage transaction,depends on help from father or single relative of father
-SCCS1752,5,groom depends on the help of father or a relative of the father and additional paternal relatives,additional paternal relatives
-SCCS1752,6,groom depends on help of non-paternal or not exclusively paternal relatives to provide for marriage transaction,depends on help of non-paternal or not exclusive paternal
+SCCS1752,2,"marriage transactions, but not by the groom or his kin","marriage transactions, but not by the groom or his kin"
+SCCS1752,3,groom is able to procure the necessary goods for marriage transactions or else can provide alternatives as e.g. bride service,groom is able to procure the necessary goods for marriage transactions or else can provide alternatives as e.g. bride service
+SCCS1752,4,groom depends on the help of father or another single relative of the father for marriage transaction,groom depends on the help of father or another single relative of the father for marriage transaction
+SCCS1752,5,groom depends on the help of father or a relative of the father and additional paternal relatives,groom depends on the help of father or a relative of the father and additional paternal relatives
+SCCS1752,6,groom depends on help of non-paternal or not exclusively paternal relatives to provide for marriage transaction,groom depends on help of non-paternal or not exclusively paternal relatives to provide for marriage transaction
 SCCS1753,NA,Missing data,NA
-SCCS1753,1,"patrilineal descent, no information on genealogical depth (original code 1000)",patrilineal descent no information on genealogical depth
-SCCS1753,2,"patrilineal descent, genealogical depth is 002 (original code 1002)","patrilineal descent, genealogical depth= 002"
-SCCS1753,3,"patrilineal descent, genealogical depth is 003 (original code 1003)","patrilineal descent, genealogical depth= 003"
-SCCS1753,4,"patrilineal descent, genealogical depth is 004 (original code 1004)","patrilineal descent, genealogical depth= 004"
-SCCS1753,5,"patrilineal descent, genealogical depth is 005 (original code 1005)","patrilineal descent, genealogical descent= 005"
-SCCS1753,6,"patrilineal descent, genealogical depth is 006 (original code 1006)","patrilineal descent, genealogical depth= 006"
-SCCS1753,7,"patrilineal descent, genealogical depth is 008 (original code 1008)","patrilineal descent, genealogical depth= 008"
-SCCS1753,8,"patrilineal descent, genealogical depth is 009 (original code 1009)","patrilineal descent, genealogical depth= 009"
-SCCS1753,9,"patrilineal descent, genealogical depth is 011 (original code 1011)","patrilineal descent, genealogical depth= 011"
-SCCS1753,10,"patrilineal descent, genealogical depth is 015 (original code 1015)","patrilineal descent, genealogical depth= 015"
-SCCS1753,11,"patrilineal descent, genealogical depth is 030 (original code 1030)","patrilineal descent, genealogical depth= 030"
-SCCS1753,12,"matrilineal descent, no information on genealogical depth (original code 2000)","matrilineal descent, no information on genealogical depth"
-SCCS1753,13,"matrilineal descent, genealogical depth is 002 (original code 2002)","matrilineal descent, genealogical depth= 002"
-SCCS1753,14,"matrilineal descent, genealogical depth is 003 (original code 2003)","matrilineal descent, genealogical depth= 003"
-SCCS1753,15,"matrilineal descent, genealogical depth is 004 (original code 2004)","matrilineal descent, genealogical depth= 004"
-SCCS1753,16,"matrilineal descent, genealogical depth is 006 (original code 2006)","matrilineal descent, genealogical depth= 006"
-SCCS1753,17,"matrilineal descent, genealogical depth is 007 (original code 2007)","matrilineal descent, genealogical depth= 007"
-SCCS1753,18,"matrilineal descent, genealogical depth is 009 (original code 2009)","matrilineal descent, genealogical depth= 009"
-SCCS1753,19,"matrilineal descent, genealogical depth is 011 (original code 2011)","matrilineal descent, genealogical depth= 011"
-SCCS1753,20,"double descent, genealogical depth is 002 (original code 3002)","double descent, genealogical depth= 002"
-SCCS1753,21,"double descent, genealogical depth is 003 (original code 3003)","double descent, genealogical depth= 003"
-SCCS1753,22,"double descent, genealogical depth is 004 (original code 3004)","double descent, genealogical depth= 004"
-SCCS1753,23,"double descent, genealogical depth is 005 (original code 3005)","double descent, genealogical depth= 005"
-SCCS1753,24,no unilineal descent (original code 4000),no unilineal descent
-SCCS1754,NA,Missing data,NA
-SCCS1754,1,absent,Absent
-SCCS1754,2,present,Present
-SCCS1755,NA,Missing data,NA
-SCCS1755,0,"does not apply, variable 1754 coded as 1 (original code 88)",does not apply
-SCCS1755,1,maximal effective kin group forms part of local community,part of local community
-SCCS1755,2,"maximal effective kin group congruent with local community, no subgroups discernible",congruent of local community
-SCCS1755,3,"maximal effective kin group congruent with local community, with spatially segregated subgroups (e.g. wards)",congruent but spatially segregated subgroups
-SCCS1755,4,"maximal effective kin group covers a bounded territory including a number of local communities, which form segments of the maximal effective kin group",a number of local communities
-SCCS1755,5,"maximal effective kin group is dispersed among several local communities, located in the same territory as local communities inhabited by other effective kin groups",among several local communities
-SCCS1755,6,segments of maximal effective kin groups coreside with segments of other maximal effective kin groups in several local communities,in several local communities
-SCCS1756,NA,Missing data,NA
-SCCS1756,1,between 10 and 50,between 10 and 50
-SCCS1756,2,between 51 and 100,between 51 and 100
-SCCS1756,3,between 101 and 150,between 101 and 150
-SCCS1756,4,between 151 and 200,between 151 and 200
-SCCS1756,5,between 201 and 250,between 201 and 250
-SCCS1756,6,between 251 and 300,between 251 and 300
-SCCS1756,7,between 301 and 500,between 301and 500
-SCCS1756,8,between 501 and 1000,between 501 and 1000
-SCCS1756,9,greater than 1001,greater than 1001
-SCCS1757,NA,Missing data,NA
-SCCS1757,0,"does not apply, variable 1754 coded as 1 (original code 88)",does not apply
-SCCS1757,1,rare or never,Rare or never
-SCCS1757,2,occasional,Occasional
+SCCS1753,1000,"patrilineal descent, no information on genealogical depth",patrilineal descent no information on genealogical depth
+SCCS1753,1002,"patrilineal descent, genealogical depth is 002","patrilineal descent, genealogical depth= 002"
+SCCS1753,1003,"patrilineal descent, genealogical depth is 003","patrilineal descent, genealogical depth= 003"
+SCCS1753,1004,"patrilineal descent, genealogical depth is 004","patrilineal descent, genealogical depth= 004"
+SCCS1753,1005,"patrilineal descent, genealogical depth is 005","patrilineal descent, genealogical descent= 005"
+SCCS1753,1006,"patrilineal descent, genealogical depth is 006","patrilineal descent, genealogical depth= 006"
+SCCS1753,1008,"patrilineal descent, genealogical depth is 008","patrilineal descent, genealogical depth= 008"
+SCCS1753,1009,"patrilineal descent, genealogical depth is 009","patrilineal descent, genealogical depth= 009"
+SCCS1753,1011,"patrilineal descent, genealogical depth is 011","patrilineal descent, genealogical depth= 011"
+SCCS1753,1015,"patrilineal descent, genealogical depth is 015","patrilineal descent, genealogical depth= 015"
+SCCS1753,1030,"patrilineal descent, genealogical depth is 030","patrilineal descent, genealogical depth= 030"
+SCCS1753,2000,"matrilineal descent, no information on genealogical depth","matrilineal descent, no information on genealogical depth"
+SCCS1753,2002,"matrilineal descent, genealogical depth is 002","matrilineal descent, genealogical depth= 002"
+SCCS1753,2003,"matrilineal descent, genealogical depth is 003","matrilineal descent, genealogical depth= 003"
+SCCS1753,2004,"matrilineal descent, genealogical depth is 004","matrilineal descent, genealogical depth= 004"
+SCCS1753,2006,"matrilineal descent, genealogical depth is 006","matrilineal descent, genealogical depth= 006"
+SCCS1753,2007,"matrilineal descent, genealogical depth is 007","matrilineal descent, genealogical depth= 007"
+SCCS1753,2009,"matrilineal descent, genealogical depth is 009","matrilineal descent, genealogical depth= 009"
+SCCS1753,2011,"matrilineal descent, genealogical depth is 011","matrilineal descent, genealogical depth= 011"
+SCCS1753,3002,"double descent, genealogical depth is 002","double descent, genealogical depth= 002"
+SCCS1753,3003,"double descent, genealogical depth is 003","double descent, genealogical depth= 003"
+SCCS1753,3004,"double descent, genealogical depth is 004","double descent, genealogical depth= 004"
+SCCS1753,3005,"double descent, genealogical depth is 005","double descent, genealogical depth= 005"
+SCCS1753,4000,no unilineal descent,no unilineal descent
+SCCS1754,NA,missing data,missing data
+SCCS1754,1,absent,absent
+SCCS1754,2,present,present
+SCCS1755,NA,missing data,missing data
+SCCS1755,88,"does not apply, variable SCCS1754 coded as '1'","does not apply, variable SCCS1754 coded as '1'"
+SCCS1755,1,maximal effective kin group forms part of local community,maximal effective kin group forms part of local community
+SCCS1755,2,"maximal effective kin group congruent with local community, no subgroups discernible","maximal effective kin group congruent with local community, no subgroups discernible"
+SCCS1755,3,"maximal effective kin group congruent with local community, with spatially segregated subgroups (e.g. wards)","maximal effective kin group congruent with local community, with spatially segregated subgroups (e.g. wards)"
+SCCS1755,4,"maximal effective kin group covers a bounded territory including a number of local communities, which form segments of the maximal effective kin group","maximal effective kin group covers a bounded territory including a number of local communities, which form segments of the maximal effective kin group"
+SCCS1755,5,"maximal effective kin group is dispersed among several local communities, located in the same territory as local communities inhabited by other effective kin groups","maximal effective kin group is dispersed among several local communities, located in the same territory as local communities inhabited by other effective kin groups"
+SCCS1755,6,segments of maximal effective kin groups coreside with segments of other maximal effective kin groups in several local communities,segments of maximal effective kin groups coreside with segments of other maximal effective kin groups in several local communities
+SCCS1756,NA,missing data,missing data
+SCCS1757,NA,missing data,missing data
+SCCS1757,88,"does not apply, variable SCCS1754 coded as '1'","does not apply, variable SCCS1754 coded as '1'"
+SCCS1757,1,rare or never,rare or never
+SCCS1757,2,occasional,occasional
 SCCS1757,3,often,often
-SCCS1757,4,permanent,Permanent
-SCCS1758,NA,Missing data,NA
-SCCS1758,1,rare or never,Rare or never
-SCCS1758,2,occasional,Occasional
+SCCS1757,4,permanent,permanent
+SCCS1758,NA,missing data,missing data
+SCCS1758,1,rare or never,rare or never
+SCCS1758,2,occasional,occasional
 SCCS1758,3,often,often
-SCCS1758,4,permanent,Permanent
-SCCS1759,NA,Missing data,NA
-SCCS1759,1,children often experience emotional rejection; no further information about loving affection (original code 10),children often experience emotional rejection
-SCCS1759,2,children receive noticeably more emotional rejection than loving affection (original code 11),noticeably more emotional rejection than loving affection
-SCCS1759,3,children receive emotional rejection and loving affection to the same degree (original code 20),both rejection and affection to the same degree
-SCCS1759,4,children often experience loving affection; no further information about emotional rejection (original code 30),children often experience loving affection
-SCCS1759,5,children receive noticeably more loving affection than emotional rejection (original code 31),noticeably more loving affection than emotional rejection
-SCCS1760,NA,Missing data,NA
-SCCS1760,1,boys have almost no contact with adult males,boys have almost no contact with male adults
-SCCS1760,2,"even though boys have contact with adult males, they have more contact with adult females",more contact with adult female than adult male
-SCCS1760,3,contact with male and female adults is about the same,contact with adult males and females is about the same
-SCCS1760,4,boys have noticeably more contact with male than female adults,noticeably more contact with male than female adults
-SCCS1761,NA,Missing data,NA
-SCCS1761,1,"inculcation of mistrust and fear in children; the socializing agents scare the children by pretending to harm them, or by instilling of fear by reference to potentially harmful persons, groups, or supernatural beings.",inculcation of mistrust and fear in children
-SCCS1761,2,Childrens mistrust is restricted to a certain group of persons. Instilling of fear by certain persons or warning of potential threat occurs rarely.,children's mistrust restricted a to certain group of persons
-SCCS1761,3,inculcation of trust in children; the socializing agents never scare children or warn them of distant persons or groups.,inculcation of trust in children
-SCCS1762,NA,Missing data,NA
-SCCS1762,1,"generosity is rarely fostered; the children rarely exhibit willingness to share, give, or help. This behavior rarely causes punishment.",generosity is rarely fostered
-SCCS1762,2,"generosity is moderately fostered; the children show willingness to share, give, or help. A lack of this behavior causes punishment or admonishment.",generosity is moderately fostered
-SCCS1762,3,"generosity is strongly fostered; other adults and children frequently request the children to share, give, and help.",generosity is strongly fostered
-SCCS1763,NA,Missing data,NA
-SCCS1763,1,honesty is not furthered. (Dishonesty is generally accepted.),honesty is not furthered
-SCCS1763,2,honesty is rarely furthered. (Dishonest behavior is only accepted towards a specific group of persons.),honesty is rarely furthered
+SCCS1758,4,permanent,permanent
+SCCS1759,NA,missing data,missing data
+SCCS1759,10,children often experience emotional rejection; no further information about loving affection,children often experience emotional rejection; no further information about loving affection
+SCCS1759,11,children receive noticeably more emotional rejection than loving affection,children receive noticeably more emotional rejection than loving affection
+SCCS1759,20,children receive emotional rejection and loving affection to the same degree,children receive emotional rejection and loving affection to the same degree
+SCCS1759,30,children often experience loving affection; no further information about emotional rejection,children often experience loving affection; no further information about emotional rejection
+SCCS1759,31,children receive noticeably more loving affection than emotional rejection,children receive noticeably more loving affection than emotional rejection
+SCCS1760,NA,missing data,missing data
+SCCS1760,1,boys have almost no contact with adult males,boys have almost no contact with adult males
+SCCS1760,2,"even though boys have contact with adult males, they have more contact with adult females","even though boys have contact with adult males, they have more contact with adult females"
+SCCS1760,3,contact with male and female adults is about the same,contact with male and female adults is about the same
+SCCS1760,4,boys have noticeably more contact with male than female adults,boys have noticeably more contact with male than female adults
+SCCS1761,NA,missing data,missing data
+SCCS1761,1,"inculcation of mistrust and fear in children; the socializing agents scare the children by pretending to harm them, or by instilling of fear by reference to potentially harmful persons, groups, or supernatural beings.","inculcation of mistrust and fear in children; the socializing agents scare the children by pretending to harm them, or by instilling of fear by reference to potentially harmful persons, groups, or supernatural beings."
+SCCS1761,2,Children´s mistrust is restricted to a certain group of persons. Instilling of fear by certain persons or warning of potential threat occurs rarely.,Children´s mistrust is restricted to a certain group of persons. Instilling of fear by certain persons or warning of potential threat occurs rarely.
+SCCS1761,3,inculcation of trust in children; the socializing agents never scare children or warn them of distant persons or groups.,inculcation of trust in children; the socializing agents never scare children or warn them of distant persons or groups.
+SCCS1762,NA,missing data,missing data
+SCCS1762,1,"generosity is rarely fostered; the children rarely exhibit willingness to share, give, or help. This behavior is rarely causes punishment.","generosity is rarely fostered; the children rarely exhibit willingness to share, give, or help. This behavior is rarely causes punishment."
+SCCS1762,2,"generosity is moderately fostered; the children show willingness to share, give, or help. A lack of this behavior causes punishment or admonishment.","generosity is moderately fostered; the children show willingness to share, give, or help. A lack of this behavior causes punishment or admonishment."
+SCCS1762,3,"generosity is strongly fostered; other adults and children frequently request the children to share, give, and help.","generosity is strongly fostered; other adults and children frequently request the children to share, give, and help."
+SCCS1763,NA,missing data,missing data
+SCCS1763,1,honesty is not furthered. (Dishonesty is generally accepted.),honesty is not furthered. (Dishonesty is generally accepted.)
+SCCS1763,2,honesty is rarely furthered. (Dishonest behavior is only accepted towards a specific group of persons.),honesty is rarely furthered. (Dishonest behavior is only accepted towards a specific group of persons.)
 SCCS1763,3,honesty is furthered,honesty is furthered
-SCCS1763,4,honesty is explicitly furthered. (Dishonest behavior of children is the cause for punishment and reprimands.),honesty is explicitly furthered
-SCCS1764,NA,Missing data,NA
-SCCS1764,1,violence of children is generally objected (original code 10),violence of children is generally objected
-SCCS1764,2,violence of children is tolerated (socializing agents only interfere when there is danger of serious injuries); no data on restriction of violence to specific group of persons(original code 20),violence of children is objected
-SCCS1764,3,violence of children is tolerated only towards specific group of persons (original code 21),violence tolerated only towards a specific group of perso
-SCCS1764,4,violence of children is tolerated regardless of group of persons (original code,violence is tolerated regardless of group of persons
-SCCS1764,5,violence of children is explicitly encouraged; no data on restriction to specific group of persons (original code 30),violence of children is explicitly encouraged
-SCCS1764,6,violence of children is explicitly encouraged only towards specific group of persons (original code 31),violence explicitly encouraged towards specific group
-SCCS1764,7,violence of children is explicitly encouraged regardless of group of persons (original code 32),violence explicitly encouraged regardless of group
-SCCS1765,NA,Missing data,NA
-SCCS1765,1,"courage is not emphasized; children are protected from harm which may be caused by scary situations, cold, and physical injuries",courage is not emphasized
-SCCS1765,2,courage is mildly emphasized; children are not protected from potentially dangerous situations; the expression of fear and pain is tolerated,courage is mildly emphasized
-SCCS1765,3,courage is strongly emphasized; children are expected to tolerate pain and overcome fear in dangerous situations; the expression of fear and pain is not tolerated,courage is strongly emphasized
-SCCS1766,NA,Missing data,NA
-SCCS1766,1,"children are not punished physically, corporal punishment as a means of education is rejected (original code 10)",children are not punished physically
-SCCS1766,2,children are punished physically; no information on frequency of occurrence (original code 20),children are punished physically
-SCCS1766,3,children are rarely punished physically for only certain types of misbehavior (original code 21),children are rarely punished physically
-SCCS1766,4,children are often punished physically for almost any type of misbehavior (original code 22),children are often punished physically
-SCCS1767,NA,Missing data,NA
+SCCS1763,4,honesty is explicitly furthered. (Dishonest behavior of children is the cause for punishment and reprimands.),honesty is explicitly furthered. (Dishonest behavior of children is the cause for punishment and reprimands.)
+SCCS1764,NA,missing data,missing data
+SCCS1764,10,violence of children is generally objected,violence of children is generally objected
+SCCS1764,20,violence of children is tolerated (socializing agents only interfere when there is danger of serious injuries); no data on restriction of violence to specific group of persons.,violence of children is tolerated (socializing agents only interfere when there is danger of serious injuries); no data on restriction of violence to specific group of persons.
+SCCS1764,21,violence of children is tolerated only towards specific group of persons,violence of children is tolerated only towards specific group of persons
+SCCS1764,22,violence of children is tolerated regardless of group of persons,violence of children is tolerated regardless of group of persons
+SCCS1764,30,violence of children is explicitly encouraged; no data on restriction to specific group of persons.,violence of children is explicitly encouraged; no data on restriction to specific group of persons.
+SCCS1764,31,violence of children is explicitly encouraged only towards specific group of persons,violence of children is explicitly encouraged only towards specific group of persons
+SCCS1764,32,violence of children is explicitly encouraged regardless of group of persons,violence of children is explicitly encouraged regardless of group of persons
+SCCS1765,NA,missing data,missing data
+SCCS1765,1,"courage is not emphasized; children are protected from harm which may be caused by scary situations, cold, and physical injuries","courage is not emphasized; children are protected from harm which may be caused by scary situations, cold, and physical injuries"
+SCCS1765,2,courage is mildly emphasized; children are not protected from potentially dangerous situations; the expression of fear and pain is tolerated,courage is mildly emphasized; children are not protected from potentially dangerous situations; the expression of fear and pain is tolerated
+SCCS1765,3,courage is strongly emphasized; children are expected to tolerate pain and overcome fear in dangerous situations; the expression of fear and pain is not tolerated,courage is strongly emphasized; children are expected to tolerate pain and overcome fear in dangerous situations; the expression of fear and pain is not tolerated
+SCCS1766,NA,missing data,missing data
+SCCS1766,10,"children are not punished physically, corporal punishment as a means of education is rejected","children are not punished physically, corporal punishment as a means of education is rejected"
+SCCS1766,20,children are punished physically; no information on frequency of occurrence,children are punished physically; no information on frequency of occurrence
+SCCS1766,21,children are rarely punished physically for only certain types of misbehavior,children are rarely punished physically for only certain types of misbehavior
+SCCS1766,22,children are often punished physically for almost any type of misbehavior,children are often punished physically for almost any type of misbehavior
+SCCS1767,NA,missing data,missing data
 SCCS1767,1,no ideology of male superiority,no ideology of male superiority
 SCCS1767,2,weakly articulated ideology of male superiority,weakly articulated ideology of male superiority
-SCCS1767,3,strongly articulated ideology of male superiority (it is the basic determinant of gender relations),strongly articulated ideology of male superiority
-SCCS1768,NA,Missing data,NA
+SCCS1767,3,strongly articulated ideology of male superiority (it is the basic determinant of gender relations),strongly articulated ideology of male superiority (it is the basic determinant of gender relations)
+SCCS1768,NA,missing data,missing data
 SCCS1768,1,physical violence within local community is rejected,physical violence within local community is rejected
-SCCS1768,2,physical violence within local community is tolerated or accepted,physical violence within local community is tolerated or
+SCCS1768,2,physical violence within local community is tolerated or accepted,physical violence within local community is tolerated or accepted
 SCCS1768,3,physical violence within local community is appreciated,physical violence within local community is appreciated
-SCCS1769,NA,Missing data,NA
+SCCS1769,NA,missing data,missing data
 SCCS1769,1,physical violence within ethnic group is rejected,physical violence within ethnic group is rejected
-SCCS1769,2,physical violence within ethnic group is tolerated or accepted,physical violence within ethnic group is tolerated
-SCCS1769,3,physical violence within ethnic group is appreciated,physical violence withiin ethnic group is appreciated
-SCCS1770,NA,Missing data,NA
-SCCS1770,0,no contact with other ethnic groups (original code 88),no contact with other ethnic groups
-SCCS1770,1,physical violence outside of ethnic group is rejected (original code 10),physical violence outside ethnic group is rejected
-SCCS1770,2,physical violence outside of ethnic group is rejected because of military inferiority or cowardice (original code 11),rejected because of military inferiority
-SCCS1770,3,physical violence is tolerated or accepted - specification of the enemies is absent (original code 20),physical violence is tolerated or accepted
-SCCS1770,4,physical violence is tolerated or accepted - but not against the majority of other ethnic groups (original code 21),tolerated- not against the majority of other ethnic groups
-SCCS1770,5,physical violence is tolerated or accepted against the majority of other ethnic groups (original code 22),tolerated- against the majority of other ethnic groups
-SCCS1770,6,physical violence is appreciated - no further specification against whom (original code 30),physical violence is appreciated
-SCCS1770,7,physical violence is appreciated - but not against the majority of other ethnic groups (original code 31),appreciated- not against the majority of other ethnic groups
-SCCS1770,8,physical violence is appreciated against the majority of other ethnic groups (original code 32),appreciated- against the majority of other ethnic groups
-SCCS1771,NA,Missing data,NA
+SCCS1769,2,physical violence within ethnic group is tolerated or accepted,physical violence within ethnic group is tolerated or accepted
+SCCS1769,3,physical violence within ethnic group is appreciated,physical violence within ethnic group is appreciated
+SCCS1770,NA,missing data,missing data
+SCCS1770,88,no contact with other ethnic groups,no contact with other ethnic groups
+SCCS1770,10,physical violence outside of ethnic group is rejected,physical violence outside of ethnic group is rejected
+SCCS1770,11,physical violence outside of ethnic group is rejected because of military inferiority or cowardice,physical violence outside of ethnic group is rejected because of military inferiority or cowardice
+SCCS1770,20,physical violence is tolerated or accepted - specification of the enemies is absent,physical violence is tolerated or accepted - specification of the enemies is absent
+SCCS1770,21,physical violence is tolerated or accepted - but not against the majority of other ethnic groups,physical violence is tolerated or accepted - but not against the majority of other ethnic groups
+SCCS1770,22,physical violence is tolerated or accepted against the majority of other ethnic groups,physical violence is tolerated or accepted against the majority of other ethnic groups
+SCCS1770,30,physical violence is appreciated - no further specification against whom,physical violence is appreciated - no further specification against whom
+SCCS1770,31,physical violence is appreciated - but not against the majority of other ethnic groups,physical violence is appreciated - but not against the majority of other ethnic groups
+SCCS1770,32,physical violence is appreciated against the majority of other ethnic groups,physical violence is appreciated against the majority of other ethnic groups
+SCCS1771,NA,missing data,missing data
 SCCS1771,1,low,low
 SCCS1771,2,middle,middle
 SCCS1771,3,high,high
-SCCS1772,NA,Missing data,NA
-SCCS1772,0,no contact with other ethnic groups (original code 88),no contact with other ethnic groups
-SCCS1772,1,no or negligible hostility (original code 10),no or negligible hostility
-SCCS1772,2,weak degree of hostility (original code 20),weak degree of hostility
-SCCS1772,3,moderate degree of hostility (original code 30),moderate degree of hostility
-SCCS1772,4,"moderate degree of hostility, only directed against some other ethnic groups (original code 31)",moderate- directed against some other ethnic groups
-SCCS1772,5,moderate degree of hostility; directed against almost all other ethnic groups (original code 32),moderate- directed against almost all other ethnic groups
-SCCS1772,6,high degree of hostility (original code 40),high degree of hostility
-SCCS1772,7,high degree of hostility; only directed against some other ethnic groups (original code 41),high degree- directed against some other ethnic groups
-SCCS1772,8,high degree of hostility; directed against almost all other ethnic groups (original code 42),high degree- directed against almost all other ethnic groups
-SCCS1773,NA,Missing data,NA
-SCCS1773,0,no warriors (original code 88),no warriors
-SCCS1773,1,"low prestige, warriors receive no special recognition (original code 10)",low prestige
-SCCS1773,2,"middle to high prestige; warriors have a good reputation, no data on other sources of reputation (original code 20)",middle to high prestige
-SCCS1773,3,"medium prestige of warriors, other sources of reputation are valued higher (original code 21)",medium prestige of warriors
-SCCS1773,4,"high prestige of warriors, other equally valued sources of reputation exist (original code 22)",high prestige of warriors
-SCCS1773,5,"very high prestige, to gain prestige as a warrior is of special importance for every man (original code 24)",very high prestige
-SCCS1774,NA,Missing data,NA
-SCCS1774,1,revenge taking is forbidden (original code 10),revenge taking is forbidden
-SCCS1774,2,taking of revenge is neither forbidden nor prescribed (original code 20),taking revenge is neither forbbiden nor prescribed
-SCCS1774,3,taking of revenge is prescribed but compensation by payment equally valued (original code 21),"revenge is prescribed, compensation by payment equally value"
-SCCS1774,4,taking of revenge is prescribed (original code 30),taking of revenge is prescrined
-SCCS1774,5,"taking of revenge is prescribed, retaliation is allowed only against the culprit (original code 31)","revenge is prescribed, retaliation is allowed"
-SCCS1775,NA,Missing data,NA
-SCCS1775,0,no intraethnic violence (variable 1776 coded as 1) (original code 88),no intraethnic violence
+SCCS1772,NA,missing data,missing data
+SCCS1772,88,no contact with other ethnic groups,no contact with other ethnic groups
+SCCS1772,10,no or negligible hostility,no or negligible hostility
+SCCS1772,20,weak degree of hostility,weak degree of hostility
+SCCS1772,30,moderate degree of hostility,moderate degree of hostility
+SCCS1772,31,"moderate degree of hostility, only directed against some other ethnic groups","moderate degree of hostility, only directed against some other ethnic groups"
+SCCS1772,32,moderate degree of hostility; directed against almost all other ethnic groups,moderate degree of hostility; directed against almost all other ethnic groups
+SCCS1772,40,high degree of hostility,high degree of hostility
+SCCS1772,41,high degree of hostility; only directed against some other ethnic groups,high degree of hostility; only directed against some other ethnic groups
+SCCS1772,42,high degree of hostility; directed against almost all other ethnic groups,high degree of hostility; directed against almost all other ethnic groups
+SCCS1773,NA,missing data,missing data
+SCCS1773,88,no warriors,no warriors
+SCCS1773,10,"low prestige, warriors receive no special recognition","low prestige, warriors receive no special recognition"
+SCCS1773,20,"middle to high prestige; warriors have a good reputation, no data on other sources of reputation","middle to high prestige; warriors have a good reputation, no data on other sources of reputation"
+SCCS1773,21,"medium prestige of warriors, other sources of reputation are valued higher","medium prestige of warriors, other sources of reputation are valued higher"
+SCCS1773,22,"high prestige of warriors, other equally valued sources of reputation exist","high prestige of warriors, other equally valued sources of reputation exist"
+SCCS1773,23,"very high prestige, to gain prestige as a warrior is of special importance for every man","very high prestige, to gain prestige as a warrior is of special importance for every man"
+SCCS1774,NA,missing data,missing data
+SCCS1774,10,revenge taking is forbidden,revenge taking is forbidden
+SCCS1774,20,taking of revenge is neither forbidden nor prescribed,taking of revenge is neither forbidden nor prescribed
+SCCS1774,21,taking of revenge is prescribed but compensation by payment equally valued,taking of revenge is prescribed but compensation by payment equally valued
+SCCS1774,30,taking of revenge is prescribed,taking of revenge is prescribed
+SCCS1774,31,"taking of revenge is prescribed, retaliation is allowed only against the culprit","taking of revenge is prescribed, retaliation is allowed only against the culprit"
+SCCS1775,NA,missing data,missing data
+SCCS1775,88,no intraethnic violence (variable SCCS1776 coded as ´1´),no intraethnic violence (variable SCCS1776 coded as ´1´)
 SCCS1775,1,no reglementation,no reglementation
-SCCS1775,2,moderate reglementation,modreate reglementation
+SCCS1775,2,moderate reglementation,moderate reglementation
 SCCS1775,3,highly reglemented or ritualized,highly reglemented or ritualized
-SCCS1776,NA,Missing data,NA
-SCCS1776,1,rare or never,Rare or never
-SCCS1776,2,occasional,Occasional
+SCCS1776,NA,missing data,missing data
+SCCS1776,1,rare or never,rare or never
+SCCS1776,2,occasional,occasional
 SCCS1776,3,often,often
-SCCS1776,4,permanent,Permanent
-SCCS1777,NA,Missing data,NA
-SCCS1777,0,no intraethnic violence (variable 1776 coded as 1) (original code 88),no intraethnic violence
+SCCS1776,4,permanent,permanent
+SCCS1777,NA,missing data,missing data
+SCCS1777,88,no intraethnic violence (variable SCCS1776 coded as ´1´),no intraethnic violence (variable SCCS1776 coded as ´1´)
 SCCS1777,1,"low; when violence occurs, only occasional victims","low; when violence occurs, only occasional victims"
-SCCS1777,2,"moderate; when violence occurs many victims, ca. one half of one of the parties in conflict is killed",moderate; when violence occurs many victims
+SCCS1777,2,"moderate; when violence occurs many victims, ca. one half of one of the parties in conflict is killed","moderate; when violence occurs many victims, ca. one half of one of the parties in conflict is killed"
 SCCS1777,3,high; one of the parties in conflict is nearly extinguished,high; one of the parties in conflict is nearly extinguished
-SCCS1778,NA,Missing data,NA
-SCCS1778,0,no contact with other ethnic groups (original code 88),no contact with other ethnic groups
-SCCS1778,1,rare or never,Rare or never
-SCCS1778,2,occasional,Occasional
+SCCS1778,NA,missing data,missing data
+SCCS1778,88,no contact with other ethnic groups,no contact with other ethnic groups
+SCCS1778,1,rare or never,rare or never
+SCCS1778,2,occasional,occasional
 SCCS1778,3,often,often
-SCCS1778,4,permanent,Permanent
-SCCS1779,NA,Missing data,NA
+SCCS1778,4,permanent,permanent
+SCCS1779,NA,missing data,missing data
 SCCS1779,1,projectiles,projectiles
-SCCS1779,2,shock weapons,schock weapons
-SCCS1779,3,both,Both
-SCCS1780,NA,Missing data,NA
-SCCS1780,1,no protective weapons,no projective weapons
+SCCS1779,2,shock weapons,shock weapons
+SCCS1779,3,both,both
+SCCS1780,NA,missing data,missing data
+SCCS1780,1,no protective weapons,no protective weapons
 SCCS1780,2,body armor,body armor
 SCCS1780,3,shields,shields
-SCCS1780,4,both,Both
+SCCS1780,4,both,both
 SCCS1781,NA,Missing data,NA
 SCCS1781,0,absent,Absent
 SCCS1781,1,present for males only,Present
