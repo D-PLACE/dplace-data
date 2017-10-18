@@ -23,7 +23,7 @@ setup(
     include_package_data=True,
     zip_safe=False,
     install_requires=[
-        'clldutils>=1.9',
+        'clldutils>=1.13.9',
         'attrs',
         'pyglottolog>=0.3.2',
         'python-nexus>=1.4.2',
