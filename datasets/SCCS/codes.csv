@@ -9069,7 +9069,7 @@ SCCS1721,20,"presence of rich, no information on numbers","presence of rich, no 
 SCCS1721,21,few rich,few rich
 SCCS1721,22,many rich,many rich
 SCCS1722,NA,missing data,missing data
-SCCS1722,88,absence of rich (variable 11 coded ´10´),absence of rich (variable 11 coded ´10´)
+SCCS1722,88,absence of rich (variable SCCS1721 coded ´10´),absence of rich (variable SCCS1721 coded ´10´)
 SCCS1722,10,"presence of rich, no information on sources of wealth","presence of rich, no information on sources of wealth"
 SCCS1722,11,acquired wealth of land (through buying or skill),acquired wealth of land (through buying or skill)
 SCCS1722,12,inheritance of land,inheritance of land
@@ -9089,7 +9089,7 @@ SCCS1724,20,"presence of dispossessed, no information on percentage","presence o
 SCCS1724,21,few dispossessed,few dispossessed
 SCCS1724,22,many dispossessed,many dispossessed
 SCCS1725,NA,missing data,missing data
-SCCS1725,88,no need for expansion (variable 10 coded as ´10´),no need for expansion (variable 10 coded as ´10´)
+SCCS1725,88,no need for expansion (variable SCCS1720 coded as ´10´),no need for expansion (variable SCCS1720 coded as ´10´)
 SCCS1725,10,peaceful territorial expansion impossible,peaceful territorial expansion impossible
 SCCS1725,20,"peaceful territorial expansion possible, no information on quality of land","peaceful territorial expansion possible, no information on quality of land"
 SCCS1725,21,access to land of good quality,access to land of good quality
@@ -9118,14 +9118,14 @@ SCCS1729,40,local community is part of a postcolonial state,local community is p
 SCCS1729,41,ethnic group to which the local community belongs is politically dominant in the postcolonial state,ethnic group to which the local community belongs is politically dominant in the postcolonial state
 SCCS1729,42,ethnic group to which the local community belongs occupies a politically subordinate position in the postcolonial state,ethnic group to which the local community belongs occupies a politically subordinate position in the postcolonial state
 SCCS1730,NA,missing data,missing data
-SCCS1730,88,local community not part of an overarching political unit (variable 19 coded as ´10´),local community not part of an overarching political unit (variable 19 coded as ´10´)
+SCCS1730,88,local community not part of an overarching political unit (variable SCCS1729 coded as ´10´),local community not part of an overarching political unit (variable SCCS1729 coded as ´10´)
 SCCS1730,10,overarching political unit claims administrative hierarchy without actual execution,overarching political unit claims administrative hierarchy without actual execution
 SCCS1730,20,"administration representative absent or only sporadically present, administrative functions are executed from outside","administration representative absent or only sporadically present, administrative functions are executed from outside"
 SCCS1730,30,"administration representative present (e.g. military, civilian administrators, school personnel)","administration representative present (e.g. military, civilian administrators, school personnel)"
 SCCS1730,31,"same as above (30), administration representative member of the same ethnic group as local community","same as above (30), administration representative member of the same ethnic group as local community"
 SCCS1730,32,"same as above (30), administration representative of different ethnic affiliation than local community","same as above (30), administration representative of different ethnic affiliation than local community"
 SCCS1731,NA,missing data,missing data
-SCCS1731,88,local community not part of an overarching political unit (variable 19 coded as ´10´); ethnic group occupies a dominant position within overarching political unit (variable 19 coded as ´21´ or ´41´); overarching political unit does not execute administrative functions (variable 20 coded as ´10´),local community not part of an overarching political unit (variable 19 coded as ´10´); ethnic group occupies a dominant position within overarching political unit (variable 19 coded as ´21´ or ´41´); overarching political unit does not execute administrative functions (variable 20 coded as ´10´)
+SCCS1731,88,local community not part of an overarching political unit (variable SCCS1729 coded as ´10´); ethnic group occupies a dominant position within overarching political unit (variable SCCS1729 coded as ´21´ or ´41´); overarching political unit does not execute administrative functions (variable SCCS1730 coded as ´10´),local community not part of an overarching political unit (variable SCCS1729 coded as ´10´); ethnic group occupies a dominant position within overarching political unit (variable SCCS1729 coded as ´21´ or ´41´); overarching political unit does not execute administrative functions (variable SCCS1730 coded as ´10´)
 SCCS1731,1,no elite present in ethnic group of which the local community is a part,no elite present in ethnic group of which the local community is a part
 SCCS1731,2,local elite does not participate in decisions of overarching political unit,local elite does not participate in decisions of overarching political unit
 SCCS1731,3,"local elite occupies leading positions within overarching political unit, at the local or regional level","local elite occupies leading positions within overarching political unit, at the local or regional level"
@@ -9169,7 +9169,7 @@ SCCS1738,21,small fraction of local community is formally educated,small fractio
 SCCS1738,22,large part of local community is formally educated,large part of local community is formally educated
 SCCS1738,23,members of local community have a higher education,members of local community have a higher education
 SCCS1739,NA,missing data,missing data
-SCCS1739,88,no overarching political unit (variable 19 coded as ´10´),no overarching political unit (variable 19 coded as ´10´)
+SCCS1739,88,no overarching political unit (variable SCCS1729 coded as ´10´),no overarching political unit (variable SCCS1729 coded as ´10´)
 SCCS1739,1,violent acts absent,violent acts absent
 SCCS1739,2,"acts of violence, in reaction against attacks by overarching political unit","acts of violence, in reaction against attacks by overarching political unit"
 SCCS1739,3,"active resistance, aiming at revolution","active resistance, aiming at revolution"
@@ -9190,27 +9190,27 @@ SCCS1741,1,no formal jurisdiction present,no formal jurisdiction present
 SCCS1741,2,highest level of formal jurisdiction below the unit of maximal political authority,highest level of formal jurisdiction below the unit of maximal political authority
 SCCS1741,3,highest level of formal jurisdiction at the level of maximal political authority,highest level of formal jurisdiction at the level of maximal political authority
 SCCS1742,NA,missing data,missing data
-SCCS1742,88,"no political office above the level of the local community (variable 30 coded as ´10´, ´20´, or ´30´","no political office above the level of the local community (variable 30 coded as ´10´, ´20´, or ´30´"
+SCCS1742,88,"no political office above the level of the local community (variable SCCS1740 coded as ´10´, ´20´, or ´30´","no political office above the level of the local community (variable SCCS1740 coded as ´10´, ´20´, or ´30´"
 SCCS1742,1,selection of officials at the lowest level of political hierarchy independent of higher-ranking officials,selection of officials at the lowest level of political hierarchy independent of higher-ranking officials
 SCCS1742,2,"selection of officials at the lowest level of political hierarchy within local community, but it has to be reconfirmed by higher-ranking officials","selection of officials at the lowest level of political hierarchy within local community, but it has to be reconfirmed by higher-ranking officials"
 SCCS1742,3,officials at the lowest level of political hierarchy are determined by higher-ranking officials,officials at the lowest level of political hierarchy are determined by higher-ranking officials
 SCCS1743,NA,missing data,missing data
-SCCS1743,88,no formal political office present (variable 30 coded  as ´10´),no formal political office present (variable 30 coded  as ´10´)
+SCCS1743,88,no formal political office present (variable SCCS1740 coded  as ´10´),no formal political office present (variable SCCS1740 coded  as ´10´)
 SCCS1743,1,no or few means of coercion,no or few means of coercion
 SCCS1743,2,"restricted means of coercion, e.g. only for certain types of decisions","restricted means of coercion, e.g. only for certain types of decisions"
 SCCS1743,3,coercive means to enforce all decisions,coercive means to enforce all decisions
 SCCS1744,NA,missing data,missing data
-SCCS1744,88,no formal political office present (variable 30 coded  as ´10´),no formal political office present (variable 30 coded  as ´10´)
+SCCS1744,88,no formal political office present (variable SCCS1740 coded  as ´10´),no formal political office present (variable SCCS1740 coded  as ´10´)
 SCCS1744,1,"decision making at the highest level of political authority independent of lower-ranking levels, groups, or individuals","decision making at the highest level of political authority independent of lower-ranking levels, groups, or individuals"
 SCCS1744,2,"decisions at the highest level of political authority are made after consultation with representatives of lower-ranking levels, groups, or individuals","decisions at the highest level of political authority are made after consultation with representatives of lower-ranking levels, groups, or individuals"
 SCCS1744,3,"lower-ranking individuals or group representatives fully participate in decision making at the highest level of political authority, they are members of the decisionmaking body","lower-ranking individuals or group representatives fully participate in decision making at the highest level of political authority, they are members of the decisionmaking body"
 SCCS1745,NA,missing data,missing data
-SCCS1745,88,no formal political office present (variable 30 coded  as ´10´),no formal political office present (variable 30 coded  as ´10´)
+SCCS1745,88,no formal political office present (variable SCCS1740 coded  as ´10´),no formal political office present (variable SCCS1740 coded  as ´10´)
 SCCS1745,1,religious specialists have no influence on decision making at the level of maximal political authority,religious specialists have no influence on decision making at the level of maximal political authority
 SCCS1745,2,religious specialists participate in decision making at the level of maximal political authority,religious specialists participate in decision making at the level of maximal political authority
 SCCS1745,3,officials at the level of maximal political authority are at the same time religious specialists,officials at the level of maximal political authority are at the same time religious specialists
 SCCS1746,NA,missing data,missing data
-SCCS1746,88,no formal political office present (variable 30 coded as ´10´),no formal political office present (variable 30 coded as ´10´)
+SCCS1746,88,no formal political office present (variable SCCS1740 coded as ´10´),no formal political office present (variable SCCS1740 coded as ´10´)
 SCCS1746,1,supernatural powers,supernatural powers
 SCCS1746,2,office holder has been installed by gods,office holder has been installed by gods
 SCCS1746,3,office holder belongs to privileged descent group,office holder belongs to privileged descent group
@@ -9224,19 +9224,19 @@ SCCS1746,10,"office holder installed by overarching administration, e.g. colonia
 SCCS1746,11,other sources of legitimation,other sources of legitimation
 SCCS1746,77,multiple sources of legitimation; more than one of the above,multiple sources of legitimation; more than one of the above
 SCCS1747,NA,missing data,missing data
-SCCS1747,88,no formal political office present (variable 30 coded  as ´10´),no formal political office present (variable 30 coded  as ´10´)
+SCCS1747,88,no formal political office present (variable SCCS1740 coded  as ´10´),no formal political office present (variable SCCS1740 coded  as ´10´)
 SCCS1747,1,rare or never,rare or never
 SCCS1747,2,occasional,occasional
 SCCS1747,3,often,often
 SCCS1747,4,permanent,permanent
 SCCS1748,NA,missing data,missing data
-SCCS1748,88,"no political office above the level of the local community (variable 30 coded as ´10´, ´20´, or ´30´","no political office above the level of the local community (variable 30 coded as ´10´, ´20´, or ´30´"
+SCCS1748,88,"no political office above the level of the local community (variable SCCS1740 coded as ´10´, ´20´, or ´30´","no political office above the level of the local community (variable SCCS1740 coded as ´10´, ´20´, or ´30´"
 SCCS1748,1,rare or never,rare or never
 SCCS1748,2,occasional,occasional
 SCCS1748,3,often,often
 SCCS1748,4,permanent,permanent
 SCCS1749,NA,missing data,missing data
-SCCS1749,88,"no political office above the level of the local community (variable 30 coded as ´10´, ´20´, or ´30´","no political office above the level of the local community (variable 30 coded as ´10´, ´20´, or ´30´"
+SCCS1749,88,"no political office above the level of the local community (variable SCCS1740 coded as ´10´, ´20´, or ´30´","no political office above the level of the local community (variable SCCS1740 coded as ´10´, ´20´, or ´30´"
 SCCS1749,1,rare or never,rare or never
 SCCS1749,2,occasional,occasional
 SCCS1749,3,often,often
@@ -9287,7 +9287,7 @@ SCCS1754,NA,missing data,missing data
 SCCS1754,1,absent,absent
 SCCS1754,2,present,present
 SCCS1755,NA,missing data,missing data
-SCCS1755,88,"does not apply, variable 44 coded as '1'","does not apply, variable 44 coded as '1'"
+SCCS1755,88,"does not apply, variable SCCS1754 coded as '1'","does not apply, variable SCCS1754 coded as '1'"
 SCCS1755,1,maximal effective kin group forms part of local community,maximal effective kin group forms part of local community
 SCCS1755,2,"maximal effective kin group congruent with local community, no subgroups discernible","maximal effective kin group congruent with local community, no subgroups discernible"
 SCCS1755,3,"maximal effective kin group congruent with local community, with spatially segregated subgroups (e.g. wards)","maximal effective kin group congruent with local community, with spatially segregated subgroups (e.g. wards)"
@@ -9296,7 +9296,7 @@ SCCS1755,5,"maximal effective kin group is dispersed among several local communi
 SCCS1755,6,segments of maximal effective kin groups coreside with segments of other maximal effective kin groups in several local communities,segments of maximal effective kin groups coreside with segments of other maximal effective kin groups in several local communities
 SCCS1756,NA,missing data,missing data
 SCCS1757,NA,missing data,missing data
-SCCS1757,88,"does not apply, variable 44 coded as '1'","does not apply, variable 44 coded as '1'"
+SCCS1757,88,"does not apply, variable SCCS1754 coded as '1'","does not apply, variable SCCS1754 coded as '1'"
 SCCS1757,1,rare or never,rare or never
 SCCS1757,2,occasional,occasional
 SCCS1757,3,often,often
@@ -9397,7 +9397,7 @@ SCCS1774,21,taking of revenge is prescribed but compensation by payment equally 
 SCCS1774,30,taking of revenge is prescribed,taking of revenge is prescribed
 SCCS1774,31,"taking of revenge is prescribed, retaliation is allowed only against the culprit","taking of revenge is prescribed, retaliation is allowed only against the culprit"
 SCCS1775,NA,missing data,missing data
-SCCS1775,88,no intraethnic violence (variable 66 coded as ´1´),no intraethnic violence (variable 66 coded as ´1´)
+SCCS1775,88,no intraethnic violence (variable SCCS1776 coded as ´1´),no intraethnic violence (variable SCCS1776 coded as ´1´)
 SCCS1775,1,no reglementation,no reglementation
 SCCS1775,2,moderate reglementation,moderate reglementation
 SCCS1775,3,highly reglemented or ritualized,highly reglemented or ritualized
@@ -9407,7 +9407,7 @@ SCCS1776,2,occasional,occasional
 SCCS1776,3,often,often
 SCCS1776,4,permanent,permanent
 SCCS1777,NA,missing data,missing data
-SCCS1777,88,no intraethnic violence (variable 66 coded as ´1´),no intraethnic violence (variable 66 coded as ´1´)
+SCCS1777,88,no intraethnic violence (variable SCCS1776 coded as ´1´),no intraethnic violence (variable SCCS1776 coded as ´1´)
 SCCS1777,1,"low; when violence occurs, only occasional victims","low; when violence occurs, only occasional victims"
 SCCS1777,2,"moderate; when violence occurs many victims, ca. one half of one of the parties in conflict is killed","moderate; when violence occurs many victims, ca. one half of one of the parties in conflict is killed"
 SCCS1777,3,high; one of the parties in conflict is nearly extinguished,high; one of the parties in conflict is nearly extinguished
