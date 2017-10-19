@@ -377,8 +377,7 @@ def main(source_dir=SRC, dest_dir=DST, dialect=DIALECT):
     for d in repo.datasets:
         print(d)
         result_dir = os.path.join(dest_dir, d.id)
-        result = pycldf.dataset.StructureDataset.in_dir(result_dir)
-        del result.tables[:]  # FIXME
+        result = pycldf.dataset.StructureDataset.in_dir(result_dir, empty_tables=True)
         result.tablegroup.dialect = dialect
         final_write_kwargs = {}
         for conv in converters:
