@@ -102,19 +102,12 @@ class Converter(BaseConverter):
         return [c for c in columns if c is not None]
 
     @lazyproperty
-    def extract(self):
-        def extract_func(s):
-            return {target: transform(getattr(s, name))
-                    for name, transform, target, _ in self.columns}
-
-        return extract_func
-
-    @lazyproperty
     def add_component_args(self):
         return [self.component] + [col_spec for _, _, _, col_spec in self.columns]
 
     def items(self, dataset):
-        return map(self.extract, self.iterdata(dataset))
+        for d in self.iterdata(dataset):
+            yield {target: transform(getattr(d, name)) for name, transform, target, _ in self.columns}
 
     def __call__(self, dataset):
         return self.filename, self.add_component_args, self.items(dataset)
@@ -285,7 +278,8 @@ class CodeTable(SkipMixin, BaseConverter):
         return [self.component] + self.column_specs(dataset)
 
     def items(self, dataset):
-        return (c._asdict() for c in self.iterdata(dataset))
+        for c in self.iterdata(dataset):
+            yield c._asdict()
 
     def __call__(self, dataset):
         return self.filename, self.add_component_args(dataset), self.items(dataset)
@@ -340,12 +334,9 @@ class ValueTable(Converter):
     }
 
     def items(self, dataset):
-        def extract_add_id(d, i, _extract=self.extract):
-            result = _extract(d)
-            result['id'] = i
-            return result
-
-        return (extract_add_id(d, i) for i, d in enumerate(self.iterdata(dataset), 1))
+        for i, d in enumerate(super(ValueTable, self).items(dataset), 1):
+            d['id'] = i
+            yield d
 
     def __call__(self, dataset):
         component = self.add_component_args[0]
