@@ -1,32 +1,40 @@
 #!/usr/bin/env python
-# dplase_to_cldf.py - convert all datasets to csvw using pycldf
+# dplase_to_cldf.py - convert all dplace datasets to cldf copying from pydplace to pycldf
 
-from __future__ import unicode_literals, print_function
+from __future__ import unicode_literals
 
 import os
 import copy
 import collections
-
-from six.moves import map
+try:
+    from itertools import imap as map
+except ImportError:
+    map = map
 
 import attr
-import clldutils.dsv
-import pycldf.dataset
+import pycldf
 
 import pydplace.api
 
-SRC = '..'
-DST = '../cldf'
-DIALECT = clldutils.dsv.Dialect()
+SOURCE, TARGET = '..', '../cldf'
+
+CONVERTERS = []
+
+CLDF = 'http://cldf.clld.org/v1.0/terms.rdf#'
 
 
-def registered(cls):
+def register(cls):
+    """Register an instance of the decorated converter class for execution.
+
+    Args:
+        cls (BaseConverter): class whose instances will be called.
+
+    cls()(<pydplace.api.Dataset instance>) returns an (add_component_args, write_kwargs) tuple.
+    """
     assert issubclass(cls, BaseConverter)
-    try:
-        seen = registered.converters
-    except AttributeError:
-        seen = registered.converters = []
-    seen.append(cls)
+    inst = cls()
+    assert callable(inst)
+    CONVERTERS.append(inst)
     return cls
 
 
@@ -96,7 +104,7 @@ class SkipMixin(object):
         return next(iter(cls._iterdata(dataset)), _sentinel) is _sentinel
 
 
-@registered
+@register
 class LanguageTable(SkipMixin, Converter):
 
     _source_cls = pydplace.api.Society
@@ -164,7 +172,7 @@ class LanguageTable(SkipMixin, Converter):
     }
 
 
-@registered
+@register
 class LangugageRelatedTable(SkipMixin, Converter):
 
     _source_cls = pydplace.api.RelatedSocieties
@@ -193,7 +201,7 @@ class LangugageRelatedTable(SkipMixin, Converter):
     }
 
 
-@registered
+@register
 class ParameterTable(Converter):
 
     _source_cls = pydplace.api.Variable
@@ -237,7 +245,7 @@ class ParameterTable(Converter):
     }
 
 
-@registered
+@register
 class CodeTable(SkipMixin, BaseConverter):
 
     _iterdata = staticmethod(lambda dataset: (c for v in dataset.variables for c in v.codes))
@@ -286,7 +294,7 @@ class CodeTable(SkipMixin, BaseConverter):
         return add_component_args, write_kwargs
 
 
-@registered
+@register
 class ValueTable(Converter):
 
     _source_cls = pydplace.api.Data
@@ -366,27 +374,24 @@ class ValueTable(Converter):
         return add_component_args, write_kwargs
 
 
-def main(source_dir=SRC, dest_dir=DST, dialect=DIALECT):
+def main(source_dir=SOURCE, target_dir=TARGET, converters=CONVERTERS):
+    """Write pydplace.api.Datasets in ``source_dir`` to pycldf.StructureDatasets in ``target_dir``."""
+    if not os.path.exists(target_dir):
+        os.mkdir(target_dir)
+
     repo = pydplace.api.Repos(source_dir)
-
-    if not os.path.exists(dest_dir):
-        os.mkdir(dest_dir)
-
-    converters = [cls() for cls in registered.converters]
-
-    for d in repo.datasets:
-        print(d)
-        result_dir = os.path.join(dest_dir, d.id)
-        result = pycldf.dataset.StructureDataset.in_dir(result_dir, empty_tables=True)
-        result.tablegroup.dialect = dialect
-        final_write_kwargs = {}
-        for conv in converters:
-            if not conv.skip(d):
-                add_args, write_kwargs = conv(d)
-                result.add_component(*add_args)
-                final_write_kwargs.update(write_kwargs)
-        result.write(**final_write_kwargs)
-        result.validate()
+    for source_ds in repo.datasets:
+        print(source_ds)
+        target_dir = os.path.join(target_dir, source_ds.id)
+        target_ds = pycldf.StructureDataset.in_dir(target_dir, empty_tables=True)
+        write_kwargs = {}
+        for c in converters:
+            if not c.skip(source_ds):
+                add_args, _write_kwargs = c(source_ds)
+                target_ds.add_component(*add_args)
+                write_kwargs.update(_write_kwargs)
+        target_ds.write(**write_kwargs)
+        target_ds.validate()
 
 
 if __name__ == '__main__':
