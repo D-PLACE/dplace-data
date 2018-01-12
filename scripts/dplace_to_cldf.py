@@ -72,50 +72,46 @@ class SkipMixin(object):
 class Converter(BaseConverter):
 
     @staticmethod
-    def _itercolumns(fields, convert):
-        for f in fields:
-            name = f.name
-            if name in convert:
-                args = convert[name]
-                if args is None:
-                    continue
-                elif hasattr(args, 'setdefault'):
-                    target = args.setdefault('name', name)
-                else:
-                    target = args
-                    args = {'name': target}
-            else:
-                args = {'name': name}
-                target = name
+    def _column_info(field, convert):
+        """Return (name, transform_fuc, target_name, column_spec) for attrs.field, or None to omit."""
+        if field.name in convert:
+            spec = convert[field.name]
+            if spec is None:
+                return None
+            target = spec.setdefault('name', field.name)
+        else:
+            target, spec = field.name, {'name': field.name}
 
-            transform = lambda x: x
-            if 'separator' in args:
-                sep, split = args['separator']
-                args['separator'] = sep
-                if split:
-                    transform = lambda x: x.split(sep)
+        transform_func = lambda x: x
+        if 'separator' in spec:
+            sep, split = spec['separator']
+            spec['separator'] = sep
+            spec['datatype'] = 'string'  # TODO: needed?
+            if split:
+                transform_func = lambda x: x.split(sep)
 
-            if 'datatype' not in args:
-                args['datatype'] = 'float' if f.convert is float else 'string'
+        if 'datatype' not in spec and field.convert is float:
+            spec['datatype'] = 'float'
 
-            yield name, transform, target, args
+        return field.name, transform_func, target, spec
 
     @lazyproperty
     def columns(self):
         fields = attr.fields(self.source_cls)
-        return list(self._itercolumns(fields, self._convert))
+        columns = (self._column_info(f, self._convert) for f in fields)
+        return [c for c in columns if c is not None]
 
     @lazyproperty
     def extract(self):
         def extract_func(s):
-            return {target: trans(getattr(s, name))
-                    for name, trans, target, _ in self.columns}
+            return {target: transform(getattr(s, name))
+                    for name, transform, target, _ in self.columns}
 
         return extract_func
 
     @lazyproperty
     def add_component_args(self):
-        return [self.component] + [args for _, _, _, args in self.columns]
+        return [self.component] + [col_spec for _, _, _, col_spec in self.columns]
 
     def items(self, dataset):
         return map(self.extract, self.iterdata(dataset))
@@ -153,38 +149,15 @@ class LanguageTable(SkipMixin, Converter):
     }
 
     _convert = {
-        'id': {
-            'propertyUrl': cldf.id,
-            'required': True,
-        },
-        'xd_id': {
-            'required': True,
-            'datatype': {'base': 'string', 'format': r'xd\d+'},
-        },
-        'pref_name_for_society': {
-            'propertyUrl': cldf.name,
-            'required': True,
-        },
-        'glottocode': {
-            'propertyUrl': cldf.glottocode,
-            'required': True,
-        },
-        'ORIG_name_and_ID_in_this_dataset': {
-            'required': True,
-        },
-        'alt_names_by_society': {
-            'separator': Separator(', ', split=True)
-        },
-        'main_focal_year': {
-            'datatype': 'integer',
-            'null': 'NA',
-        },
-        'HRAF_name_ID': {
-            'datatype': {'base': 'string', 'format': r'.+ \([^)]+\)'},
-        },
-        'HRAF_link': {
-            'datatype': {'base': 'string', 'format': r'http://.+|in process'},
-        },
+        'id': {'propertyUrl': cldf.id, 'required': True},
+        'xd_id': {'datatype': {'base': 'string', 'format': r'xd\d+'}, 'required': True},
+        'pref_name_for_society': {'propertyUrl': cldf.name, 'required': True},
+        'glottocode': {'propertyUrl': cldf.glottocode,'required': True},
+        'ORIG_name_and_ID_in_this_dataset': {'required': True},
+        'alt_names_by_society': {'separator': Separator(', ', split=True)},
+        'main_focal_year': {'datatype': 'integer','null': 'NA'},
+        'HRAF_name_ID': {'datatype': {'base': 'string', 'format': r'.+ \([^)]+\)'}},
+        'HRAF_link': {'datatype': {'base': 'string', 'format': r'http://.+|in process'}},
         'origLat': {
             'datatype': {'base': 'decimal', 'minimum': -90, 'maximum': 90},
             'required': True,
@@ -228,13 +201,8 @@ class LangugageRelatedTable(SkipMixin, Converter):
     }
 
     _convert = {
-        'id': {
-            'propertyUrl': cldf.id,
-            'required': True,
-        },
-        'related': {
-            'separator': Separator('; ', split=False),
-        },
+        'id': {'propertyUrl': cldf.id, 'required': True},
+        'related': {'separator': Separator('; ', split=False)},
     }
 
 
@@ -253,31 +221,18 @@ class ParameterTable(Converter):
     }
 
     _convert = {
-        'id': {
-            'propertyUrl': cldf.id,
-            'required': True,
-        },
-        'category': {
-            'separator': Separator(', ', split=False),
-            'required': True,
-        },
-        'title': {
-            'propertyUrl': cldf.name,
-            'required': True,
-        },
-        'definition': {
-            'propertyUrl': cldf.description,
-        },
+        'id': {'propertyUrl': cldf.id, 'required': True},
+        'category': {'separator': Separator(', ', split=False), 'required': True},
+        'title': {'propertyUrl': cldf.name,'required': True},
+        'definition': {'propertyUrl': cldf.description},
         'type': {
             'datatype': {
                 'base': 'string',
-                'format': r'Categorical|Ordinal|Continuous',
+                'format': '|'.join(['Categorical', 'Ordinal', 'Continuous']),
             },
             'required': True,
         },
-        'source': {
-            'propertyUrl': cldf.source,
-        },
+        'source': {'propertyUrl': cldf.source},
         'notes': {'propertyUrl': cldf.comment},
         'codes': None,
     }
@@ -302,34 +257,32 @@ class CodeTable(SkipMixin, BaseConverter):
     }
 
     _convert = {
-        'var_id': {
-            'name': 'var_id',
-            'propertyUrl': cldf.parameterReference,
-            'required': True,
-        },
+        'var_id': {'propertyUrl': cldf.parameterReference, 'required': True},
         'code': {
-            'name': 'code',
             # FIXME: MODIS/data.csv:5884:6
             'datatype': {'base': 'string', 'format': r'-?\d+(?:.\d+)?(?:E[+-]\d+)?|NA'},
             'required': True,
         },
-        'description': {
-            'name': 'description',
-            'propertyUrl': cldf.description,
-        },
-        'name': {
-            'name': 'name',
-            'propertyUrl': cldf.name,
-            'required': True,
-        },
+        'description': {'propertyUrl': cldf.description},
+        'name': {'propertyUrl': cldf.name, 'required': True},
     }
 
-    def columns(self, dataset):
-        fields = next(self.iterdata(dataset))._fields
-        return [self._convert.get(f, f) for f in fields]
+    @staticmethod
+    def _column_spec(fieldname, convert):
+        try:
+            spec = convert[fieldname]
+        except KeyError:
+            spec = {'name': fieldname}
+        else:
+            spec.setdefault('name', fieldname)
+        return spec
+
+    def column_specs(self, dataset):
+        fieldnames = next(self.iterdata(dataset))._fields
+        return [self._column_spec(f, self._convert) for f in fieldnames]
 
     def add_component_args(self, dataset):
-        return [self.component] + self.columns(dataset)
+        return [self.component] + self.column_specs(dataset)
 
     def items(self, dataset):
         return (c._asdict() for c in self.iterdata(dataset))
@@ -361,30 +314,17 @@ class ValueTable(Converter):
         },
     }
 
-    _component_extra = {
-        'name': 'id',
-        'propertyUrl': cldf.id,
-        'required': True,
-    }
+    _component_extra = [{'name': 'id', 'propertyUrl': cldf.id, 'required': True}]
 
     _convert = {
-        'soc_id': {
-            'propertyUrl': cldf.languageReference,
-            'required': True,
-        },
-        'sub_case': {
-            'null': None,
-            'required': True,
-        },
+        'soc_id': {'propertyUrl': cldf.languageReference, 'required': True},
+        'sub_case': {'null': None, 'required': True},
         'year': {
             'datatype': {'base': 'string', 'format': r'-?\d+(?:-\d+)?|(?:NA)?'},
             'null': None,
             'required': True,
         },
-        'var_id': {
-            'propertyUrl': cldf.parameterReference,
-            'required': True,
-        },
+        'var_id': {'propertyUrl': cldf.parameterReference, 'required': True},
         'code': {
             'propertyUrl': cldf.codeReference,
             'datatype': CodeTable._convert['code']['datatype'],
@@ -415,7 +355,7 @@ class ValueTable(Converter):
             reduced = [f for f in component['tableSchema']['foreignKeys']
                        if f['reference']['resource'] != LanguageTable.filename]
             component['tableSchema']['foreignKeys'] = reduced
-        add_component_args = [component, self._component_extra] + self.add_component_args[1:]
+        add_component_args = [component] + self._component_extra + self.add_component_args[1:]
         return self.filename, add_component_args, self.items(dataset)
 
 
