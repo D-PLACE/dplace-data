@@ -20,8 +20,6 @@ SOURCE, TARGET = '..', '../cldf'
 
 CONVERTERS = []
 
-CLDF = 'http://cldf.clld.org/v1.0/terms.rdf#'
-
 
 def register(cls):
     """Register an instance of the decorated converter class for execution.
@@ -29,7 +27,7 @@ def register(cls):
     Args:
         cls (BaseConverter): class whose instances will be called.
 
-    cls()(<pydplace.api.Dataset instance>) returns an (add_component_args, write_kwargs) tuple.
+    cls()(<pydplace.api.Dataset instance>) returns a (filename, add_component_args, items) tuple.
     """
     assert issubclass(cls, BaseConverter)
     inst = cls()
@@ -38,31 +36,43 @@ def register(cls):
     return cls
 
 
+class lazyproperty(object):
+
+    def __init__(self, fget):
+        self.fget = fget
+        for attr in ('__module__', '__name__', '__doc__'):
+            setattr(self, attr, getattr(fget, attr))
+
+    def __get__(self, instance, owner):
+        if instance is None:
+            return self
+        result = instance.__dict__[self.__name__] = self.fget(instance)
+        return result
+
+
 class BaseConverter(object):
 
     def skip(self, dataset):
         return False
 
+    @lazyproperty
+    def component(self):
+        result = {'url': self.filename}
+        result.update(self._component)
+        return result
 
-Separator = collections.namedtuple('Separator', ['sep', 'split'])
+
+class SkipMixin(object):
+
+    @classmethod
+    def skip(cls, dataset, _sentinel=object()):
+        return next(iter(cls.iterdata(dataset)), _sentinel) is _sentinel
 
 
 class Converter(BaseConverter):
 
-    def __init__(self):
-        fields = attr.fields(self._source_cls)
-        columns = list(self._itercols(fields, self._convert))
-
-        def extract(s):
-            return {target: trans(getattr(s, name))
-                    for name, trans, target, _ in columns}
-
-        self._extract = extract
-        self._add_component_args = ([self._component] +
-                                    [args for _, _, _, args in columns])
-
     @staticmethod
-    def _itercols(fields, convert):
+    def _itercolumns(fields, convert):
         for f in fields:
             name = f.name
             if name in convert:
@@ -90,36 +100,61 @@ class Converter(BaseConverter):
 
             yield name, transform, target, args
 
+    @lazyproperty
+    def columns(self):
+        fields = attr.fields(self.source_cls)
+        return list(self._itercolumns(fields, self._convert))
+
+    @lazyproperty
+    def extract(self):
+        def extract_func(s):
+            return {target: trans(getattr(s, name))
+                    for name, trans, target, _ in self.columns}
+
+        return extract_func
+
+    @lazyproperty
+    def add_component_args(self):
+        return [self.component] + [args for _, _, _, args in self.columns]
+
+    def items(self, dataset):
+        return map(self.extract, self.iterdata(dataset))
+
     def __call__(self, dataset):
-        component = self._component.get('dc:conformsTo', self._component['url'])
-        items = map(self._extract, self._iterdata(dataset))
-        write_kwargs = {component: items}
-        return self._add_component_args, write_kwargs
+        return self.filename, self.add_component_args, self.items(dataset)
 
 
-class SkipMixin(object):
+Separator = collections.namedtuple('Separator', ['sep', 'split'])
 
-    @classmethod
-    def skip(cls, dataset, _sentinel=object()):
-        return next(iter(cls._iterdata(dataset)), _sentinel) is _sentinel
+
+class Cldf(object):
+
+    base = 'http://cldf.clld.org/v1.0/terms.rdf#'
+
+    def __getattr__(self, term):
+        return self.base + term
+
+
+cldf = Cldf()
 
 
 @register
 class LanguageTable(SkipMixin, Converter):
 
-    _source_cls = pydplace.api.Society
+    filename = 'societies.csv'
 
-    _iterdata = staticmethod(lambda dataset: dataset.societies)
+    source_cls = pydplace.api.Society
+
+    iterdata = staticmethod(lambda dataset: dataset.societies)
 
     _component = {
-        'url': 'societies.csv',
-        'dc:conformsTo': 'http://cldf.clld.org/v1.0/terms.rdf#LanguageTable',
+        'dc:conformsTo': cldf.LanguageTable,
         'tableSchema': {'primaryKey': ['id']},
     }
 
     _convert = {
         'id': {
-            'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
+            'propertyUrl': cldf.id,
             'required': True,
         },
         'xd_id': {
@@ -127,11 +162,11 @@ class LanguageTable(SkipMixin, Converter):
             'datatype': {'base': 'string', 'format': r'xd\d+'},
         },
         'pref_name_for_society': {
-            'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name',
+            'propertyUrl': cldf.name,
             'required': True,
         },
         'glottocode': {
-            'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#glottocode',
+            'propertyUrl': cldf.glottocode,
             'required': True,
         },
         'ORIG_name_and_ID_in_this_dataset': {
@@ -154,33 +189,35 @@ class LanguageTable(SkipMixin, Converter):
             'datatype': {'base': 'decimal', 'minimum': -90, 'maximum': 90},
             'required': True,
         },
-        'origLong': {  # FIXME: EA/societies.csv:1279:11
+        'origLong': {
+            # FIXME: EA/societies.csv:1279:11
             'datatype': {'base': 'decimal', 'minimum': -190, 'maximum': 180},
             'required': True,
         },
         'Lat': {
-            'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#latitude',
+            'propertyUrl': cldf.latitude,
             'datatype': {'base': 'decimal', 'minimum': -90, 'maximum': 90},
             'required': True,
         },
         'Long': {
-            'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#longitude',
+            'propertyUrl': cldf.longitude,
             'datatype': {'base': 'decimal', 'minimum': -180, 'maximum': 180},
             'required': True,
         },
-        'Comment': {'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#comment'},
+        'Comment': {'propertyUrl': cldf.comment},
     }
 
 
 @register
 class LangugageRelatedTable(SkipMixin, Converter):
 
-    _source_cls = pydplace.api.RelatedSocieties
+    filename = 'societies_mapping.csv'
 
-    _iterdata = staticmethod(lambda dataset: dataset.society_relations)
+    source_cls = pydplace.api.RelatedSocieties
+
+    iterdata = staticmethod(lambda dataset: dataset.society_relations)
 
     _component = {
-        'url': 'societies_mapping.csv',
         'tableSchema': {
             'primaryKey': ['id'],
             'foreignKeys': [
@@ -192,7 +229,7 @@ class LangugageRelatedTable(SkipMixin, Converter):
 
     _convert = {
         'id': {
-            'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
+            'propertyUrl': cldf.id,
             'required': True,
         },
         'related': {
@@ -204,19 +241,20 @@ class LangugageRelatedTable(SkipMixin, Converter):
 @register
 class ParameterTable(Converter):
 
-    _source_cls = pydplace.api.Variable
+    filename = 'variables.csv'
 
-    _iterdata = staticmethod(lambda dataset: dataset.variables)
+    source_cls = pydplace.api.Variable
+
+    iterdata = staticmethod(lambda dataset: dataset.variables)
 
     _component = {
-        'url': 'variables.csv',
-        'dc:conformsTo': 'http://cldf.clld.org/v1.0/terms.rdf#ParameterTable',
+        'dc:conformsTo': cldf.ParameterTable,
         'tableSchema': {'primaryKey': ['id']}
     }
 
     _convert = {
         'id': {
-            'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
+            'propertyUrl': cldf.id,
             'required': True,
         },
         'category': {
@@ -224,11 +262,11 @@ class ParameterTable(Converter):
             'required': True,
         },
         'title': {
-            'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name',
+            'propertyUrl': cldf.name,
             'required': True,
         },
         'definition': {
-            'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#description',
+            'propertyUrl': cldf.description,
         },
         'type': {
             'datatype': {
@@ -238,9 +276,9 @@ class ParameterTable(Converter):
             'required': True,
         },
         'source': {
-            'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#source',
+            'propertyUrl': cldf.source,
         },
-        'notes': {'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#comment'},
+        'notes': {'propertyUrl': cldf.comment},
         'codes': None,
     }
 
@@ -248,11 +286,12 @@ class ParameterTable(Converter):
 @register
 class CodeTable(SkipMixin, BaseConverter):
 
-    _iterdata = staticmethod(lambda dataset: (c for v in dataset.variables for c in v.codes))
+    filename = 'codes.csv'
+
+    iterdata = staticmethod(lambda dataset: (c for v in dataset.variables for c in v.codes))
 
     _component = {
-        'url': 'codes.csv',
-        'dc:conformsTo': 'http://cldf.clld.org/v1.0/terms.rdf#CodeTable',
+        'dc:conformsTo': cldf.CodeTable,
         'tableSchema': {
             'primaryKey': ['var_id', 'code'],
             'foreignKeys': [
@@ -265,45 +304,51 @@ class CodeTable(SkipMixin, BaseConverter):
     _convert = {
         'var_id': {
             'name': 'var_id',
-            'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#parameterReference',
+            'propertyUrl': cldf.parameterReference,
             'required': True,
         },
         'code': {
-            'name': 'code',  # FIXME: MODIS/data.csv:5884:6
+            'name': 'code',
+            # FIXME: MODIS/data.csv:5884:6
             'datatype': {'base': 'string', 'format': r'-?\d+(?:.\d+)?(?:E[+-]\d+)?|NA'},
             'required': True,
         },
         'description': {
             'name': 'description',
-            'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#description',
+            'propertyUrl': cldf.description,
         },
         'name': {
             'name': 'name',
-            'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#name',
+            'propertyUrl': cldf.name,
             'required': True,
         },
     }
 
+    def columns(self, dataset):
+        fields = next(self.iterdata(dataset))._fields
+        return [self._convert.get(f, f) for f in fields]
+
+    def add_component_args(self, dataset):
+        return [self.component] + self.columns(dataset)
+
+    def items(self, dataset):
+        return (c._asdict() for c in self.iterdata(dataset))
+
     def __call__(self, dataset):
-        codes = list(self._iterdata(dataset))
-        add_component_args = ([self._component] +
-                              [self._convert.get(f, f) for f in codes[0]._fields])
-        component = self._component.get('dc:conformsTo', self._component['url'])
-        items = (c._asdict() for c in codes)
-        write_kwargs = {component: items}
-        return add_component_args, write_kwargs
+        return self.filename, self.add_component_args(dataset), self.items(dataset)
 
 
 @register
 class ValueTable(Converter):
 
-    _source_cls = pydplace.api.Data
+    filename = 'data.csv'
 
-    _iterdata = staticmethod(lambda dataset: dataset.data)
+    source_cls = pydplace.api.Data
+
+    iterdata = staticmethod(lambda dataset: dataset.data)
 
     _component = {
-        'url': 'data.csv',
-        'dc:conformsTo': 'http://cldf.clld.org/v1.0/terms.rdf#ValueTable',
+        'dc:conformsTo': cldf.ValueTable,
         'tableSchema': {
             'primaryKey': 'id',
             #'primaryKey': ['soc_id', 'sub_case', 'year', 'var_id', 'code', 'references'],
@@ -316,15 +361,15 @@ class ValueTable(Converter):
         },
     }
 
-    _extra = {
+    _component_extra = {
         'name': 'id',
-        'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#id',
+        'propertyUrl': cldf.id,
         'required': True,
     }
 
     _convert = {
         'soc_id': {
-            'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#languageReference',
+            'propertyUrl': cldf.languageReference,
             'required': True,
         },
         'sub_case': {
@@ -337,61 +382,63 @@ class ValueTable(Converter):
             'required': True,
         },
         'var_id': {
-            'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#parameterReference',
+            'propertyUrl': cldf.parameterReference,
             'required': True,
         },
         'code': {
-            'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#codeReference',
+            'propertyUrl': cldf.codeReference,
             'datatype': CodeTable._convert['code']['datatype'],
             'required': True,
         },
-        'comment': {'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#comment'},
+        'comment': {'propertyUrl': cldf.comment},
         'references': {
-            'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#source',
+            'propertyUrl': cldf.source,
             'separator': Separator('; ', split=False),
             'null': None,
             'required': True,
         },
     }
 
-    def __call__(self, dataset):
-        component = self._add_component_args[0]
-        if LanguageTable.skip(dataset):  # drop data.csv fks to societies.csv if there is none
-            component = copy.deepcopy(component)
-            reduced = [f for f in component['tableSchema']['foreignKeys']
-                       if f['reference']['resource'] != LanguageTable._component['url']]
-            component['tableSchema']['foreignKeys'] = reduced
-        add_component_args = [component, self._extra] + self._add_component_args[1:]
-
-        def extract_add_id(d, i, _extract=self._extract):
+    def items(self, dataset):
+        def extract_add_id(d, i, _extract=self.extract):
             result = _extract(d)
             result['id'] = i
             return result
 
-        component = self._component.get('dc:conformsTo', self._component['url'])
-        items = (extract_add_id(d, i) for i, d in enumerate(self._iterdata(dataset), 1))
-        write_kwargs = {component: items}
-        return add_component_args, write_kwargs
+        return (extract_add_id(d, i) for i, d in enumerate(self.iterdata(dataset), 1))
+
+    def __call__(self, dataset):
+        component = self.add_component_args[0]
+        if LanguageTable.skip(dataset):
+            # drop data.csv fks to societies.csv if there is none
+            component = copy.deepcopy(component)
+            reduced = [f for f in component['tableSchema']['foreignKeys']
+                       if f['reference']['resource'] != LanguageTable.filename]
+            component['tableSchema']['foreignKeys'] = reduced
+        add_component_args = [component, self._component_extra] + self.add_component_args[1:]
+        return self.filename, add_component_args, self.items(dataset)
 
 
-def main(source_dir=SOURCE, target_dir=TARGET, converters=CONVERTERS):
-    """Write pydplace.api.Datasets in ``source_dir`` to pycldf.StructureDatasets in ``target_dir``."""
+def main(source_dir=SOURCE, target_dir=TARGET):
+    """Write pydplace.api.Datasets from ``source_dir`` to pycldf.StructureDatasets under ``target_dir``."""
     if not os.path.exists(target_dir):
         os.mkdir(target_dir)
 
     repo = pydplace.api.Repos(source_dir)
     for source_ds in repo.datasets:
         print(source_ds)
-        target_dir = os.path.join(target_dir, source_ds.id)
-        target_ds = pycldf.StructureDataset.in_dir(target_dir, empty_tables=True)
-        write_kwargs = {}
-        for c in converters:
-            if not c.skip(source_ds):
-                add_args, _write_kwargs = c(source_ds)
-                target_ds.add_component(*add_args)
-                write_kwargs.update(_write_kwargs)
-        target_ds.write(**write_kwargs)
-        target_ds.validate()
+        convert(source_ds, target_dir=os.path.join(target_dir, source_ds.id))
+
+
+def convert(source_ds, target_dir, converters=CONVERTERS):
+    target_ds = pycldf.StructureDataset.in_dir(target_dir, empty_tables=True)
+    for c in converters:
+        if not c.skip(source_ds):
+            filename, add_args, items = c(source_ds)
+            target_ds.add_component(*add_args)
+            target_ds[filename].write(items)
+    target_ds.write_metadata()
+    target_ds.validate()
 
 
 if __name__ == '__main__':
