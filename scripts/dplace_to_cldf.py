@@ -1,10 +1,12 @@
 #!/usr/bin/env python
-# dplase_to_cldf.py - convert all dplace datasets to cldf copying from pydplace to pycldf
+# dplace_to_cldf.py - convert all dplace datasets to cldf copying from pydplace to pycldf
 
 from __future__ import unicode_literals
 
 import os
 import copy
+import argparse
+import functools
 import collections
 try:
     from itertools import imap as map
@@ -71,6 +73,8 @@ class SkipMixin(object):
 
 class Converter(BaseConverter):
 
+    _columns_extra = []
+
     @staticmethod
     def _column_info(field, convert):
         """Return (name, transform_fuc, target_name, column_spec) for attrs.field, or None to omit."""
@@ -86,7 +90,6 @@ class Converter(BaseConverter):
         if 'separator' in spec:
             sep, split = spec['separator']
             spec['separator'] = sep
-            spec['datatype'] = 'string'  # TODO: needed?
             if split:
                 transform_func = lambda x: x.split(sep)
 
@@ -99,7 +102,7 @@ class Converter(BaseConverter):
     def columns(self):
         fields = attr.fields(self.source_cls)
         columns = (self._column_info(f, self._convert) for f in fields)
-        return [c for c in columns if c is not None]
+        return [c for c in columns if c is not None] + self._columns_extra
 
     @lazyproperty
     def add_component_args(self):
@@ -181,11 +184,14 @@ class LangugageRelatedTable(SkipMixin, Converter):
 
     source_cls = pydplace.api.RelatedSocieties
 
-    iterdata = staticmethod(lambda dataset: dataset.society_relations)
+    @staticmethod
+    def iterdata(dataset, make_ns=argparse.Namespace):
+        for r in dataset.society_relations:
+            for rs in r.related:
+                yield make_ns(id=r.id, related_dataset=rs.dataset, related_name=rs.name, related_id=rs.id)
 
     _component = {
         'tableSchema': {
-            'primaryKey': ['id'],
             'foreignKeys': [
                 {'columnReference': 'id',
                 'reference': {'resource': 'societies.csv', 'columnReference': 'id'}},
@@ -194,9 +200,15 @@ class LangugageRelatedTable(SkipMixin, Converter):
     }
 
     _convert = {
-        'id': {'propertyUrl': cldf.id, 'required': True},
-        'related': {'separator': Separator('; ', split=False)},
+        'id': {'propertyUrl': cldf.languageReference, 'required': True},
+        'related': None,
     }
+
+    _columns_extra= [
+        ('related_dataset', (lambda x: x), 'related_dataset', {'name': 'related_dataset', 'required': True}),
+        ('related_name', (lambda x: x), 'related_name', {'name': 'related_name', 'required': True}),
+        ('related_id', (lambda x: x), 'related_id', {'name': 'related_id', 'required': True}),
+    ]
 
 
 @register
@@ -292,16 +304,22 @@ class ValueTable(Converter):
 
     source_cls = pydplace.api.Data
 
-    iterdata = staticmethod(lambda dataset: dataset.data)
+    @staticmethod
+    def iterdata(dataset, make_dict=functools.partial(attr.asdict, recurse=False), make_ns=argparse.Namespace):
+        for d in dataset.data:
+            d = make_ns(**make_dict(d))
+            d.references = [str(r) for r in d.references]
+            yield d
 
     _component = {
         'dc:conformsTo': cldf.ValueTable,
         'tableSchema': {
-            'primaryKey': 'id',
-            #'primaryKey': ['soc_id', 'sub_case', 'year', 'var_id', 'code', 'references'],
+            'primaryKey': 'id',  # ['soc_id', 'sub_case', 'year', 'var_id', 'code', 'references']
             'foreignKeys': [
                 {'columnReference': 'soc_id',
                 'reference': {'resource': 'societies.csv', 'columnReference': 'id'}},
+                # NOTE: code is only a reference for catgorical variables
+                # TODO: consider putting raw values in a 'value' column
                 #{'columnReference': ['var_id', 'code'],
                 #'reference': {'resource': 'codes.csv', 'columnReference': ['var_id', 'code']}},
             ],
