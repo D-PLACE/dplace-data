@@ -1018,8 +1018,8 @@ SCCS149,5,True writing; records,"True writing, records"
 SCCS150,NA,Missing data,NA
 SCCS150,1,Nomadic,Nomadic
 SCCS150,2,Seminomadic,Seminomadic
-SCCS150,3,Semisedentary,Sedentary; impermanent
-SCCS150,4,Sedentary; impermanent,Sedentary
+SCCS150,3,Semisedentary,Semisedentary
+SCCS150,4,Sedentary; impermanent,Sedentary; impermanent
 SCCS150,5,Sedentary,Sedentary
 SCCS151,NA,Missing data,NA
 SCCS151,1,None,None
@@ -6617,8 +6617,8 @@ SCCS1262,3,High,high
 SCCS1263,NA,Missing data,NA
 SCCS1263,1,Very Low,Very Low
 SCCS1263,2,Low,low
-SCCS1263,3,Moderate,high
-SCCS1263,4,High,Very High
+SCCS1263,3,Moderate,moderate
+SCCS1263,4,High,high
 SCCS1263,5,Very High,Very High
 SCCS1264,NA,Missing data,NA
 SCCS1264,0,Post-dates ethnographic present.,Post-dates ethnographic present
@@ -9156,11 +9156,11 @@ SCCS1736,24,more than one of the above,more than one of the above
 SCCS1737,NA,missing data,missing data
 SCCS1737,88,no tribute or taxation,no tribute or taxation
 SCCS1737,20,sporadic taxation or request for tribute,sporadic taxation or request for tribute
-SCCS1737,21,the exactions are reported not to be burdensome,the exactions are reported not to be burdensome
-SCCS1737,22,the exactions are reported to be burdensome,the exactions are reported to be burdensome
+SCCS1737,21,the sporadic exactions are reported not to be burdensome,the sporadic exactions are reported not to be burdensome
+SCCS1737,22,the sporadic exactions are reported to be burdensome,the sporadic exactions are reported to be burdensome
 SCCS1737,30,regular taxation or request for tribute,regular taxation or request for tribute
-SCCS1737,31,the exactions are reported not to be burdensome,the exactions are reported not to be burdensome
-SCCS1737,32,the exactions are reported to be burdensome,the exactions are reported to be burdensome
+SCCS1737,31,the regular exactions are reported not to be burdensome,the regular exactions are reported not to be burdensome
+SCCS1737,32,the regular exactions are reported to be burdensome,the regular exactions are reported to be burdensome
 SCCS1737,10,--invalid--,--invalid--
 SCCS1738,NA,missing data,missing data
 SCCS1738,10,no formal education,no formal education
@@ -9782,7 +9782,7 @@ SCCS1920,5,5 (on a scale of 0-10),5 (on a scale of 0-10)
 SCCS1920,6,6 (on a scale of 0-10),6 (on a scale of 0-10)
 SCCS1920,7,7 (on a scale of 0-10),7 (on a scale of 0-10)
 SCCS1920,8,Very frequent,Very frequent
-SCCS1920,9,7 (on a scale of 0-10),7 (on a scale of 0-10)
+SCCS1920,9,9 (on a scale of 0-10),9 (on a scale of 0-10)
 SCCS1920,10,Occurs always,Always occurs
 SCCS1921,NA,Missing data,NA
 SCCS1921,0,Absent,Absent
