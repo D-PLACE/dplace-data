@@ -29,6 +29,9 @@ setup(
         'python-nexus>=1.4.2',
         'pycldf>=1.0.6',
         'ete3>=3.0.0b34',
+        'pygdal==1.11.3.3',
+        'fiona',
+        'shapely',
     ],
     entry_points={
         'console_scripts': [

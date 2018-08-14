@@ -15,6 +15,7 @@ except ImportError:
 
 import attr
 import pycldf
+from clldutils.misc import lazyproperty
 
 import pydplace.api
 
@@ -36,20 +37,6 @@ def register(cls):
     assert callable(inst)
     CONVERTERS.append(inst)
     return cls
-
-
-class lazyproperty(object):
-
-    def __init__(self, fget):
-        self.fget = fget
-        for attr in ('__module__', '__name__', '__doc__'):
-            setattr(self, attr, getattr(fget, attr))
-
-    def __get__(self, instance, owner):
-        if instance is None:
-            return self
-        result = instance.__dict__[self.__name__] = self.fget(instance)
-        return result
 
 
 class BaseConverter(object):
@@ -330,11 +317,11 @@ class ValueTable(Converter):
 
     _convert = {
         'soc_id': {'propertyUrl': cldf.languageReference, 'required': True},
-        'sub_case': {'null': None, 'required': True},
+        'sub_case': {'null': None, 'required': False},
         'year': {
             'datatype': {'base': 'string', 'format': r'-?\d+(?:-\d+)?|(?:NA)?'},
             'null': None,
-            'required': True,
+            'required': False,
         },
         'var_id': {'propertyUrl': cldf.parameterReference, 'required': True},
         'code': {
@@ -347,7 +334,7 @@ class ValueTable(Converter):
             'propertyUrl': cldf.source,
             'separator': Separator('; ', split=False),
             'null': None,
-            'required': True,
+            'required': False,
         },
     }
 
@@ -387,7 +374,7 @@ def convert(source_ds, target_dir, converters=CONVERTERS):
             target_ds.add_component(*add_args)
             target_ds[filename].write(items)
     target_ds.write_metadata()
-    target_ds.validate()
+    #target_ds.validate()
 
 
 if __name__ == '__main__':

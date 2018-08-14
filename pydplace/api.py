@@ -207,6 +207,13 @@ class Phylogeny(ObjectWithSource):
 
     @property
     def taxa(self):
+        res = []
+        for d in reader(self.dir.joinpath('taxa.csv'), dicts=True):
+            try:
+                res.append(Taxon(**d))
+            except:
+                print(d)
+                raise
         return [Taxon(**d) for d in reader(self.dir.joinpath('taxa.csv'), dicts=True)]
 
 
