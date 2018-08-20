@@ -7,7 +7,7 @@ from itertools import groupby, chain
 import attr
 from clldutils.text import split_text
 from clldutils.dsv import reader
-from clldutils.path import Path, git_describe
+from clldutils.path import Path, git_describe, read_text
 from clldutils.misc import UnicodeMixin
 from clldutils import jsonlib
 from nexus import NexusReader
@@ -223,6 +223,11 @@ class Repos(UnicodeMixin):
         self.datasets = [
             Dataset(base_dir=self.dir.joinpath('datasets'), **r) for r in
             reader(self.dir.joinpath('datasets', 'index.csv'), dicts=True)]
+        for ds in self.datasets:
+            if not ds.description:
+                readme = ds.base_dir / ds.id / 'README.md'
+                if readme.exists():
+                    ds.description = read_text(readme)
         self.phylogenies = [
             Phylogeny(base_dir=self.dir.joinpath('phylogenies'), **r) for r in
             reader(self.dir.joinpath('phylogenies', 'index.csv'), dicts=True)]
