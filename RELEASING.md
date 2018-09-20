@@ -47,35 +47,3 @@ Allow ZENODO some time to process the release, then search for the release on
 ZENODO, copy the corresponding DOI badge and paste it at the end of the release
 description.
 
-
-# Releasing `pydplace`
-
-- Make sure the tests pass:
-  ```
-  tox -r
-  ```
-- Make sure flake8 passes:
-  ```
-  flake8 --ignore=E711,E712,D100,D101,D103,D102,D301 --max-line-length=100 pydplace
-  ```
-- Change version to the new version number in
-  - `setup.py`
-  - `pydplace/__init__.py`
-- Bump version number:
-  ```
-  git commit -a -m"bumped version number"
-  ```
-- Create a release tag:
-  ```
-  git tag -a pydplace-<version> -m"first version to be released on pypi"
-  ```
-- Push to github:
-  ```
-  git push origin
-  git push --tags
-  ```
-- Make sure your system Python has ``setuptools-git`` installed and release to PyPI:
-  ```
-  git checkout tags/v$1
-  python setup.py sdist register upload
-  ```
