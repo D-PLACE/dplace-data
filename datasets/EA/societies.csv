@@ -77,7 +77,7 @@ Nb27,xd1087,Stó:lō,chil1281,Stalo (Nb27),"Stalo, Halkomelem, Fraser River Cowi
 Nb28,xd1088,Alsea,alse1251,Alsea (Nb28),,1860,,,44,-124,44,-124,Original,
 Nb29,xd1089,Siuslaw,sius1254,Siuslaw (Nb29),,1860,,,44,-124,44,-124,Original,
 Ad4,xd109,Kikuyu,kiku1240,Kikuyu (Ad4),Aikikuyu,1930,Gikuyu (FL10),http://ehrafworldcultures.yale.edu/collection?owc=FL10,-1,37,-1,37,Original,
-Nb3,xd1090,Kwakwaka'wakw,kwak1269,Kwakiutl (Nb3),"Southern Kwakiutl,Kwagu'ł, Kwagyewlth",1890,,,51,-128,51,-127.49,Revised,
+Nb3,xd1090,Kwakwaka'wakw,kwak1269,Kwakiutl (Nb3),"Southern Kwakiutl, Kwagu'ł, Kwagyewlth",1890,,,51,-128,51,-127.49,Revised,
 Nb30,xd1091,Takelma,take1257,Takelma (Nb30),"Rogue River Indians, Tekelma",1860,,,42,-123,42,-123,Original,
 Nb31,xd1092,Tututni,tutu1242,Tututni (Nb31),,1870,,,42,-124,42,-124,Original,
 Nb32,xd1093,Shasta,shas1239,Shasta (Nb32),,1860,,,41,-122,41,-122,Original,
@@ -361,7 +361,7 @@ Sc2,xd1345,Pumé,pume1238,Yaruro (Sc2),Yaruro,1950,Pumé (SS19),http://ehrafworl
 Sc3,xd1346,Barama River Carib,mura1272,Barama Carib (Sc3),"Barama Carib, Carib",1930,Barama River Carib (SR09),http://ehrafworldcultures.yale.edu/collection?owc=SR09,5,-59,5,-59,Original,"Note 24Sept2018 - KK has high confidence in this dialect assignment (mura1272). The Barama carib location is in Guyana; there is an Etnologue point for Carib here (7.42,-60.17 approx.). This URL gives the relative location of Carib dialects: https://www.mona.uwi.edu/dllp/jlu/ciel/pages/kalihna.htm."
 Sc4,xd1347,Guahibo,guah1255,Guahibo (Sc4),,1950,,,5,-69,5,-69,Original,
 Sc5,xd1348,Wapishana,wapi1253,Wapishana (Sc5),,1900,,,3,-60,3,-60,Original,
-Sc6,xd1349,Saramaccan ,sara1340,Saramacca (Sc6),"Saramaccan of Suriname , Saramacca, Bush Negroes",1920,Saramaka (SR15),http://ehrafworldcultures.yale.edu/collection?owc=SR15,4,-56,4,-56,Original,
+Sc6,xd1349,Saramaccan ,sara1340,Saramacca (Sc6),"Saramaccan of Suriname, Saramacca, Bush Negroes",1920,Saramaka (SR15),http://ehrafworldcultures.yale.edu/collection?owc=SR15,4,-56,4,-56,Original,
 Ae17,xd135,Rega,lega1249,Rega (Ae17),"Balegga, Barega, Valega, Warega",1900,,,-3,28,-3,28,Original,
 Sc7,xd1350,Yabarana,yaba1248,Yabarana (Sc7),,1950,,,5,-66,5,-66,Original,
 Sc8,xd1351,Piaroa,piar1243,Piaroa (Sc8),,1950,,,5,-67,5,-67,Original,
@@ -579,7 +579,7 @@ Ag3,xd266,Dogon,bank1259,Dogon (Ag3),"Dagom, Habbe, Kado, Tombo",1930,Dogon (FA1
 Ag30,xd267,Bobo,nort2819,Bobo (Ag30),,1910,,,13,-4,13,-4,Original,
 Ag31,xd268,Minianka,mama1271,Minianka (Ag31),,1910,,,12,-6,12,-6,Original,
 Ag32,xd269,Senufo,ceba1235,Senufo (Ag32),"Sene, Siena",1900,,,10,-6,10,-6,Original,
-Ab4,xd27,Tsonga,tson1249,Thonga (Ab4),"Thonga, Tonga, Vatsonga ",1920,Tsonga (FT06),http://ehrafworldcultures.yale.edu/collection?owc=FT06,-24,32,-24,32,Original,
+Ab4,xd27,Tsonga,tson1249,Thonga (Ab4),"Thonga, Tonga, Vatsonga",1920,Tsonga (FT06),http://ehrafworldcultures.yale.edu/collection?owc=FT06,-24,32,-24,32,Original,
 Ag33,xd270,Dyan,dyan1251,Dian (Ag33),"Dian, Dya",1920,,,11,-3,11,-3,Original,
 Ag34,xd271,Dorosie,dogo1295,Dorosie (Ag34),Dorho,1930,,,11,-4,11,-4,Original,
 Ag35,xd272,Kulango,boun1243,Kulango (Ag35),Parkhalla,1910,,,7,-3,7,-3,Original,
@@ -843,7 +843,7 @@ Cc6,xd503,Kababish,nort3133,Kababish (Cc6),Kubbabish,1910,,,17,31,17,31,Original
 Cc7,xd504,Barabish,hass1238,Barabish (Cc7),,1950,,,20,-5,20,-5,Original,
 Cc8,xd505,Aulliminden,ioul1238,Aulliminden (Cc8),Oulliminden,1890,,,8,2,8,2,Original,
 Cc9,xd506,Tuareg Ahaggar,hogg1238,Tuareg Ahaggar (Cc9),Tuareg,1920,Tuareg (MS25),http://ehrafworldcultures.yale.edu/collection?owc=MS25,23,6,23,6,Original,
-Cd1,xd507,Barabra,kenu1236,Barabra (Cd1),Kenuzi Nubians ,1920,,,23,33,23,33,Original,
+Cd1,xd507,Barabra,kenu1236,Barabra (Cd1),Kenuzi Nubians,1920,,,23,33,23,33,Original,
 Cd10,xd508,Zekara,chen1266,Zekara (Cd10),Zkara,1900,,,34,-2,34,-2,Original,Note 8Feb2018: Changed based on note from HH: Beni Snous = Western Algerian Berber [cnu]
 Cd11,xd509,Guanche,guan1277,Guanche (Cd11),,1500,,,28,-16,27.99,-15.62,Revised,
 Ac26,xd51,Yanzi,yans1239,Yanzi (Ac26),"Bayansi, Wachanzi",1920,,,-4,18,-4,18,Original,
@@ -944,10 +944,10 @@ Cj9,xd595,Yemeni,sana1295,Yemeni (Cj9),,1950,Yemen (ML01),http://ehrafworldcultu
 Ea1,xd596,Sindhi,sind1272,Sindhi (Ea1),Hindu Sindhi,1950,,,25,68,25,68,Original,
 Ea10,xd597,Marri,east2304,Marri (Ea10),,1950,,,30,69,30,69,Original,
 Ea11,xd598,Ghilzai,ghil1238,Afghans (Ea11),"Pashtuns, Pushtun, Afghans",1950,,,33,68,33,68,Original,
-Ea12,xd599,Qashqui,qash1240,Quahgai (Ea12),"Quahgai, Qashgai ",1940,,,30,52,30,52,Original,
+Ea12,xd599,Qashqui,qash1240,Quahgai (Ea12),"Quahgai, Qashgai",1940,,,30,52,30,52,Original,
 Aa6,xd6,Sandawe,sand1273,Sandawe (Aa6),Wasandaui,1920,,,-5,36,-5,36,Original,
 Ac34,xd60,Luapula,luun1238,Luapula (Ac34),Bena Kazembe,1940,,,-10,29,-10,29,Original,
-Ea13,xd600,Punjabi,west2386,"Punjabi, West (Ea13)",Punjabi (West) ,1950,,,32,73,32,73,Original,"Note 8Feb2018: Changed based on note by HH: ""References look more like Western Panjabi [pnb] in Pakistan"". Focus does indeed seem to be in Western Pakistan. Note that there is an unclear note in the White SCCS pinpointing sheet for this society: ""Representative of West Punjabi (not in the Ethnographic Atlas) [sic]; Focus: Village of Mohla, Punjabi of southern Rawalpindi and northern Lahore Divisions, 32°30N and 74°E, about 1952 [...] The village of Mohla, studied by Eglar, is the most fully described, and represents the less developed form of agriculture, lacking irrigation. Coders should be careful in inferring from other village studies, since each village is highly distinctive in terms of caste composition and economic position. Honigmann's village, in the desert of southwest Rawalpindi, was founded very recently by East Punjabi are close [sic]; this village utilizes newly constructed irrigation works. The village surveys by Dass and Ghulam Yasim have not been evaluated."""
+Ea13,xd600,Punjabi,west2386,"Punjabi, West (Ea13)",Punjabi (West),1950,,,32,73,32,73,Original,"Note 8Feb2018: Changed based on note by HH: ""References look more like Western Panjabi [pnb] in Pakistan"". Focus does indeed seem to be in Western Pakistan. Note that there is an unclear note in the White SCCS pinpointing sheet for this society: ""Representative of West Punjabi (not in the Ethnographic Atlas) [sic]; Focus: Village of Mohla, Punjabi of southern Rawalpindi and northern Lahore Divisions, 32°30N and 74°E, about 1952 [...] The village of Mohla, studied by Eglar, is the most fully described, and represents the less developed form of agriculture, lacking irrigation. Coders should be careful in inferring from other village studies, since each village is highly distinctive in terms of caste composition and economic position. Honigmann's village, in the desert of southwest Rawalpindi, was founded very recently by East Punjabi are close [sic]; this village utilizes newly constructed irrigation works. The village surveys by Dass and Ghulam Yasim have not been evaluated."""
 Ea2,xd601,Yusufzai,yusu1238,Pathan (Ea2),"Pukhtun, Pathan, Yusufsai, Yūsufzai, Yousafzai",1950,Pashtun (AU04),http://ehrafworldcultures.yale.edu/collection?owc=AU04,35,72,35,72,Original,
 Ea3,xd602,Hazara,haza1239,Hazara (Ea3),,1930,,,35,66,35,66,Original,
 Ea4,xd603,Kohistani,indu1241,Kohistani (Ea4),"Kohistei, Mayan",1950,,,35,73,35,73,Original,
