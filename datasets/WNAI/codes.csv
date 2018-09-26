@@ -690,11 +690,6 @@ WNAI181,1,No apron,Absent
 WNAI181,2,Front apron,Front apron
 WNAI181,3,Back apron,Back apron
 WNAI181,4,Both front and back apron,2 and 3
-WNAI184,NA,Missing data,Missing data
-WNAI184,1,Absent,Absent
-WNAI184,2,Hide or fur mittens,Hide or fur
-WNAI184,3,Fur muff,Fur muff
-WNAI184,4,Both 2 and 3,2 and 3
 WNAI182,NA,Missing data,Missing data
 WNAI182,1,Neither hard- nor soft-soled moccasins,Absent
 WNAI182,2,Hard- (separate-) soled,Hard-separate sole
@@ -705,6 +700,11 @@ WNAI183,1,Neither hide nor plant material used in sandals,Absent
 WNAI183,2,Hide used as material for sandals,Hide
 WNAI183,3,Plant material used for sandals,Plant material
 WNAI183,4,Both hide and plant material used for sandals,2 and 3
+WNAI184,NA,Missing data,Missing data
+WNAI184,1,Absent,Absent
+WNAI184,2,Hide or fur mittens,Hide or fur
+WNAI184,3,Fur muff,Fur muff
+WNAI184,4,Both 2 and 3,2 and 3
 WNAI185,NA,Missing data,Missing data
 WNAI185,1,Both twining and coiling absent,Both absent
 WNAI185,2,"Twining done exclusively, or definitely was more frequent",Twining near exclusive
@@ -1413,7 +1413,7 @@ WNAI284,2,"That of seminomadic communities temporary camps for much of the year 
 WNAI284,3,"Rotating settlements, i.e., two or more permanent or semipermanent settlements occupied successively at different seasons","Rotate,semi or perm"
 WNAI284,4,"Semisedentary settlements occupied throughout the year by at least a nucleus of the community's population, but from which a substantial proportion of the population departs seasonally to occupy shifting camps, e.g., on extended hunting or fishing trips or during pastoral transhumanance","Semisd,some seas shf"
 WNAI284,5,"Impermanent settlements occupied throughout the year, but periodically moved for ecological reasons, as under conditions of shifting cultivation","Imperm,eco reasons"
-WNAI284,6,"Impermanent settlements occupied throughout the year, but moved from time to time for nonecological reasons, e.g., because of untoward events like an epidemic or the death of a headman ","Imperm,noneco reason"
+WNAI284,6,"Impermanent settlements occupied throughout the year, but moved from time to time for nonecological reasons, e.g., because of untoward events like an epidemic or the death of a headman","Imperm,noneco reason"
 WNAI284,7,"Permanent settlements occupied throughout the year and for long or indefinite periods (In default of definite evidence of impermanence, raters were instructed to use7 rather than 5 or 6)",Permanent
 WNAI285,NA,Missing data,Missing data
 WNAI285,1,"Settlements are compact, e.g., nucleated villages or concentrated camps",Compact
@@ -1447,7 +1447,7 @@ WNAI289,NA,Missing data,Missing data
 WNAI289,1,There are no structures in the community that are larger or more impressive than the usual residential dwellings,Residence
 WNAI289,2,"The most impressive structure (or type of structure) in the community is the residence of a category of influential persons, e.g., a mansion, palace, or large structure occupied by the local headman, a noble or a wealthy landowner",Impressive residence
 WNAI289,3,"The most impressive structure (or type of structure) is an assembly hall, a men's house, or other essentially secular or public building",Secular/public bldg
-WNAI289,4,"The most impressive structure (or type of structure) is a temple, church, or other essentially religious or ceremonial edifice ",Relig/ceremony bldg
+WNAI289,4,"The most impressive structure (or type of structure) is a temple, church, or other essentially religious or ceremonial edifice",Relig/ceremony bldg
 WNAI289,5,"The most impressive structure (or type of structure) is a fort, citadel, massive defensive wall, or other military installation",Military installatn
 WNAI289,6,There are two or more types of impressive structures other than dwellings; no one type clearly preponderates,"2+, not residence"
 WNAI290,NA,Missing data,Missing data
@@ -1549,7 +1549,7 @@ WNAI305,2,"Independent families, or nuclear families composed of a man, wife, an
 WNAI305,3,"Polygynous families composed of a man, his wives, and their unmarried offspring",Polygynous
 WNAI305,4,"Polyandrous families composed of a woman, her husbands, and their unmarried offspring",Polyandrous
 WNAI305,5,"Stem families, which normally include only two related families of procreation (disregarding polygamous unions), the two being of adjacent generations",Stem
-WNAI305,6,"Lineal families, which normally include one family of procreation in the senior generation, but include at least two such families in the next generation ",Lineal
+WNAI305,6,"Lineal families, which normally include one family of procreation in the senior generation, but include at least two such families in the next generation",Lineal
 WNAI305,7,"Extended families, which normally include at least two related families of procreation in at least two adjacent generations",Extended
 WNAI306,NA,Missing data,Missing data
 WNAI306,1,No modal or secondary family form (Analysts used this attribute unless secondary form was explicitly stated or indicated),No modal/second type
@@ -1610,7 +1610,7 @@ WNAI314,3,Phratries: any grouping of kinship units other than moiety,Phratries
 WNAI315,NA,Missing data,Missing data
 WNAI315,1,No demonstrated kinship units,None
 WNAI315,2,Residence is ambilocal (ambilocal demes of a special types are called ramages),Ambilocal
-WNAI315,3,Residence is patrilocal (or virilocal) ,Patrilocal
+WNAI315,3,Residence is patrilocal (or virilocal),Patrilocal
 WNAI315,4,Matrilocal (or uxorilocal),Matrilocal
 WNAI315,5,Avunculocal,Avunculocal
 WNAI316,NA,Missing data,Missing data
@@ -2247,7 +2247,7 @@ WNAI413,6,"Spirit quests for shaman and layman are rather similar, though durati
 WNAI413,7,Spirit quests for shaman and layman are dissimilar. Specialized spirits are sought by shaman and inheritance or sponsorship is often necessary to acquire these spirits,Sha spec spi/assist
 WNAI413,8,Power comes to the shaman sought or unsought; shaman must also train with another shaman; power does not come to the layman unsought. Some laymen seek special hunting abilities or the like,Sha apprentc/lay not
 WNAI413,9,"Power comes through purchase and training with shaman (or medium societies); initiation to shaman or curing society is usually required as well. (Purchase is made with gifts or feasts. Moreover, sick often pledge themselves to society or cause if they are cured)",Sha buy spirit&train
-WNAI413,10,"Power comes through sickness and cure, plus apprenticeship to shaman who cures the person ",Sickness+apprenticeship to shaman
+WNAI413,10,"Power comes through sickness and cure, plus apprenticeship to shaman who cures the person",Sickness+apprenticeship to shaman
 WNAI414,NA,Missing data,Missing data
 WNAI414,1,"Only shamans, priests, ritualists, and the like receive power",Only rl spec rec pwr
 WNAI414,2,"Shamans possess greater power than laymen, but not a greater number of different kinds of spirits than laymen",Sha power > lay powr

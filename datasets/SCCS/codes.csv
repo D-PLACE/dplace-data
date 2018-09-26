@@ -1177,21 +1177,21 @@ SCCS177,2,Present,Present
 SCCS178,NA,Missing data,NA
 SCCS178,1,No concern,No concern
 SCCS178,2,Concern,Concern
-SCCS200,NA,Missing data ,Missing data
-SCCS200,1,"Trance behavior is known to occur, but there is no belief in possession. ","Trance, no possession"
-SCCS200,2,A belief in possession exists. ,Possession
-SCCS200,3,Trance behavior is known to occur and is explained as due to possession. There is no possession belief referring to other experiences and there are no trance states with other explanations. ,T due to P only; P causes T only
-SCCS200,4,"Two types of trance states are known to occur. One which is explained as due to possession and one which is given another type of explanation. In addition to explaining trance, possession belief also refers to one or more other phenomena. ","Two T states, one due to P; P expl. T and others"
-SCCS200,5,"There is both a trance state and a belief in possession, but this belief refers to phenomena other than trance, which is explained through other categories.  ","T and P,  but T not due to P"
-SCCS200,6,"Trance explained as due to possession is known to occur, and there are no other trance states, but cases of possession outside of trance are also believed to occur. ",T due to P only; P explains T and others
-SCCS200,7,"Trance states of two kinds are known to occur, some of which are explained by possession. No other phenomena are explained by possession. ","Two T states, one due to P; P explains T only"
-SCCS200,8,"No trance states of any kind are known to occur, and there is no belief in possession. ",No trance or possession
+SCCS200,NA,Missing data,Missing data
+SCCS200,1,"Trance behavior is known to occur, but there is no belief in possession.","Trance, no possession"
+SCCS200,2,A belief in possession exists.,Possession
+SCCS200,3,Trance behavior is known to occur and is explained as due to possession. There is no possession belief referring to other experiences and there are no trance states with other explanations.,T due to P only; P causes T only
+SCCS200,4,"Two types of trance states are known to occur. One which is explained as due to possession and one which is given another type of explanation. In addition to explaining trance, possession belief also refers to one or more other phenomena.","Two T states, one due to P; P expl. T and others"
+SCCS200,5,"There is both a trance state and a belief in possession, but this belief refers to phenomena other than trance, which is explained through other categories.","T and P,  but T not due to P"
+SCCS200,6,"Trance explained as due to possession is known to occur, and there are no other trance states, but cases of possession outside of trance are also believed to occur.",T due to P only; P explains T and others
+SCCS200,7,"Trance states of two kinds are known to occur, some of which are explained by possession. No other phenomena are explained by possession.","Two T states, one due to P; P explains T only"
+SCCS200,8,"No trance states of any kind are known to occur, and there is no belief in possession.",No trance or possession
 SCCS201,NA,Missing data,Missing data
 SCCS201,1,Pattern of marital residence differs in the first years of marriage relative to later years.,Different
 SCCS201,2,Pattern of marital residence in the first years of marriage not different from later years.,Same
-SCCS202,NA,Missing data ,Missing data
-SCCS202,1,"Rigid, characterized as: non-egalitarian, ascriptive status distinctions, autocratic, hierarchical political system, fixed residence and group membership, central authority, fixed religious rites. ",Rigid
-SCCS202,2,"Flexible, characterized as: egalitarian, achieved status distinctions, autocratic, democratic, federated or stateless political system, ease in residence and group changes, individualized or flexible religious rites. ",Flexible
+SCCS202,NA,Missing data,Missing data
+SCCS202,1,"Rigid, characterized as: non-egalitarian, ascriptive status distinctions, autocratic, hierarchical political system, fixed residence and group membership, central authority, fixed religious rites.",Rigid
+SCCS202,2,"Flexible, characterized as: egalitarian, achieved status distinctions, autocratic, democratic, federated or stateless political system, ease in residence and group changes, individualized or flexible religious rites.",Flexible
 SCCS203,0,Zero to 5 percent dependence,0-5%
 SCCS203,NA,Missing data,Missing data
 SCCS203,1,6 to 15 percent dependence,6-15%
@@ -1268,8 +1268,8 @@ SCCS210,NA,Missing data,Missing data
 SCCS210,1,Independent nuclear families with monogamy,"Nuclear, monogamous"
 SCCS210,2,Independent nuclear families with occasional or limited polygyny,"Nuclear, limited polygyny"
 SCCS210,3,Independent polyandrous families,Polyandrous
-SCCS210,4,"Independent polygynous families, unusual co-wives pattern (either polygyny is preferentially sororal, with cowives in separate quarters or it is typically non-sororal, with cowives in same quarters ","Polygyny, atypical cowives pattern"
-SCCS210,5,"Independent polygynous families, usual co-wives pattern (either polygyny is preferentially sororal, with cowives in same quarters, OR typically non-sororal, with cowives in separate quarters) ","Polygyny, typical cowives pattern"
+SCCS210,4,"Independent polygynous families, unusual co-wives pattern (either polygyny is preferentially sororal, with cowives in separate quarters or it is typically non-sororal, with cowives in same quarters","Polygyny, atypical cowives pattern"
+SCCS210,5,"Independent polygynous families, usual co-wives pattern (either polygyny is preferentially sororal, with cowives in same quarters, OR typically non-sororal, with cowives in separate quarters)","Polygyny, typical cowives pattern"
 SCCS210,6,"Minimal extended or ""stem"" families, i.e., those consisting of only two related families of procreation (disregarding polygamous unions), particularly of adjacent generations",Minimal extended
 SCCS210,7,"Small extended families, i.e., those normally embracing the families of procreation of only one individual in the senior generation but of at least two in the next generation. Such families usually dissolve on the death of the head",Small extended
 SCCS210,8,"Large extended families, i.e., corporate aggregations of smaller family units occupying a single dwelling or a number of adjacent dwellings and normally embracing the families of procreation of at least two siblings or cousins in each of at least two adjacent generations",Large extended
@@ -1292,8 +1292,8 @@ SCCS213,7,"Nonestablishment of a common household, i.e., where both spouses rema
 SCCS213,8,"Patrilocal, i.e., normal residence with or near the male patrilineal kinsmen of the husband. Cf. V Virilocal",Patrilocal
 SCCS213,9,"Uxorilocal. Equivalent to ""matrilocal"" but confined to instances where the wife's matrikin are not aggregated in matrilocal and matrilineal kin groups",Uxorilocal
 SCCS213,10,"Virilocal. Equivalent to ""patrilocal"" but confined to instances where the husband's patrikin are not aggregated in patrilocal and patrilineal kin groups",Virilocal
-SCCS213,11,"Ambilocal, with a marked preponderance of uxorilocal practice (i.e., uxorilocal option exceeds virilocal option in actual frequency by a ratio greater than two to one). ",Ambi-uxo
-SCCS213,12,"Ambilocal, with a marked preponderance of virilocal practice (i.e., virilocal option exceeds uxorilocal option in actual frequency by a ratio greater than two to one). ",Ambi-viri
+SCCS213,11,"Ambilocal, with a marked preponderance of uxorilocal practice (i.e., uxorilocal option exceeds virilocal option in actual frequency by a ratio greater than two to one).",Ambi-uxo
+SCCS213,12,"Ambilocal, with a marked preponderance of virilocal practice (i.e., virilocal option exceeds uxorilocal option in actual frequency by a ratio greater than two to one).",Ambi-viri
 SCCS214,NA,Missing data,Missing data
 SCCS214,1,"Wife to husband's group (patrilocal, virilocal) or wife to husband's mother's brother's household (avunculocal)",Wife to husband
 SCCS214,2,Couple to either group or neolocal,Ambi/neo-local
@@ -1310,8 +1310,8 @@ SCCS215,7,"Nonestablishment of a common household, i.e., where both spouses rema
 SCCS215,8,"Patrilocal, i.e., normal residence with or near the male patrilineal kinsmen of the husband. Cf. V Virilocal",Patrilocal
 SCCS215,9,"Uxorilocal. Equivalent to ""matrilocal"" but confined to instances where the wife's matrikin are not aggregated in matrilocal and matrilineal kin groups",Uxorilocal
 SCCS215,10,"Virilocal. Equivalent to ""patrilocal"" but confined to instances where the husband's patrikin are not aggregated in patrilocal and patrilineal kin groups",Virilocal
-SCCS215,11,"Ambilocal, with a marked preponderance of uxorilocal practice (i.e., uxorilocal option exceeds virilocal option in actual frequency by a ratio greater than two to one). ",Ambi-uxo
-SCCS215,12,"Ambilocal, with a marked preponderance of virilocal practice (i.e., virilocal option exceeds uxorilocal option in actual frequency by a ratio greater than two to one). ",Ambi-viri
+SCCS215,11,"Ambilocal, with a marked preponderance of uxorilocal practice (i.e., uxorilocal option exceeds virilocal option in actual frequency by a ratio greater than two to one).",Ambi-uxo
+SCCS215,12,"Ambilocal, with a marked preponderance of virilocal practice (i.e., virilocal option exceeds uxorilocal option in actual frequency by a ratio greater than two to one).",Ambi-viri
 SCCS217,NA,Missing data,Missing data
 SCCS217,1,"Avunculocal, i.e., normal residence with or near the maternal uncle or other male matrilineal kinsmen of the husband",Avunculocal
 SCCS217,2,"Ambilocal, i.e., residence established optionally with or near the parents of either the husband or the wife, depending upon circumstances or personal choice, where neither alternative exceeds the other in actual frequency by a ratio greater than two to one.",Ambilocal
@@ -1364,7 +1364,7 @@ SCCS223,5,"Phratries, i.e., maximal lineages when there are more than two in the
 SCCS223,6,"Moieties, i.e., maximal lineages when there are only two such in the society",Moieties
 SCCS224,NA,Missing data,Missing data
 SCCS224,1,No matrilineal exogamy,No exogamy
-SCCS224,2,"Extension of incest taboos to known matrilineal kinsmen, provided extension does not apply generally to bilateral kinsmen of equal remoteness. ",Extended taboo
+SCCS224,2,"Extension of incest taboos to known matrilineal kinsmen, provided extension does not apply generally to bilateral kinsmen of equal remoteness.",Extended taboo
 SCCS224,3,"Lineages of modest size, i.e., matrilineal kin groups whose core membership is normally confined to a single community or a part thereof",Lineages
 SCCS224,4,"Sibs (""clans"" in British usage), i.e., lineages whose core membership normally comprises residents of more than one community",Sibs
 SCCS224,5,"Phratries, i.e., maximal lineages when there are more than two in the society and when sibs are also present. Segmentary lineage systems in which segments of a lower order of magnitude are equivalent to sibs are also included in this category.",Phratries
@@ -1407,7 +1407,7 @@ SCCS228,8,"Quadrilateral, symmetrical preference (FaSiDa or MoBrDa)",All: cross
 SCCS228,9,"Quadrilateral, matrilateral preference (MoSi__ or MoBr__)",All: matri
 SCCS228,10,"Nonlateral, with preference for particular second cross-cousins only, notably MoMoBrDaDa or FaMoBrSoDa, often reported of societies with subsection systems",Some second only
 SCCS228,11,"Nonlateral, with second-cousin marriage preferred rather than merely permitted",Second cousins preferred
-SCCS228,12,"Trilateral marriage, with preference for a bilateral cross-cousin (MoBrDa = FaSiDa). ",Tri: bilateral
+SCCS228,12,"Trilateral marriage, with preference for a bilateral cross-cousin (MoBrDa = FaSiDa).",Tri: bilateral
 SCCS228,13,"Trilateral marriage, with preference for a matrilateral cross-cousin (MoBrDa)",Tri: matrilateral
 SCCS228,14,"Trilateral marriage, with preference for a patrilateral cross-cousin (FaSiDa)",Tri: patrilateral
 SCCS228,15,No preferred cousin marriages,None preferred
@@ -1475,7 +1475,7 @@ SCCS236,4,Clan-barrios,Clan-barrios
 SCCS237,NA,Missing data,Missing data
 SCCS237,1,"No political authority beyond community (e.g., autonomous bands and villages)",Acephalous
 SCCS237,2,"One level (e.g., petty chiefdoms)",One level
-SCCS237,3,"Two levels (e.g., larger chiefdoms) ",Two levels
+SCCS237,3,"Two levels (e.g., larger chiefdoms)",Two levels
 SCCS237,4,"Three levels (e.g., states)",Three levels
 SCCS237,5,"Four levels (e.g., large states)",Four levels
 SCCS238,NA,Missing data,Missing data
@@ -1540,15 +1540,15 @@ SCCS246,5,Casual agriculture contributes most,Casual agriculture
 SCCS246,6,Extensive agriculture contributes most,Extensive agriculture
 SCCS246,7,Intensive agriculture contributes most,Intensive agriculture
 SCCS246,8,Two or more sources contribute equally,Two or more sources
-SCCS246,9,"Agriculture contributes most, type unknown ","Agriculture, type unknown"
+SCCS246,9,"Agriculture contributes most, type unknown","Agriculture, type unknown"
 SCCS247,NA,Missing data,Missing data
-SCCS247,1,"Patrilineal (EA017 > 1, EA019 = 1, EA021 = 9) ",Patrilineal
-SCCS247,2,"Duolateral (EA017 > 1, EA019 > 1, EA021 = 9 or EA021 = 0) ",Duolateral
-SCCS247,3,"Matrilineal (EA017 = 1, EA019 > 1, EA021 = 9) ",Matrilineal
-SCCS247,4,"Quasi-lineages (EA017 = 1, EA019 = 1, EA021 = 6) ",Quasi-lineages
-SCCS247,5,"Ambilineal (EA017 = 1, EA019 = 1, EA021 = 3 or EA021 = 4 or EA021 = 5) ",Ambilineal
-SCCS247,6,"Bilateral (EA017 = 1, EA019 = 1, EA021 = 1 or EA021 = 2) ",Bilateral
-SCCS247,7,"Mixed (EA017  and/or EA019 > 1,and EA021 not equal to 9) ",Mixed
+SCCS247,1,"Patrilineal (EA017 > 1, EA019 = 1, EA021 = 9)",Patrilineal
+SCCS247,2,"Duolateral (EA017 > 1, EA019 > 1, EA021 = 9 or EA021 = 0)",Duolateral
+SCCS247,3,"Matrilineal (EA017 = 1, EA019 > 1, EA021 = 9)",Matrilineal
+SCCS247,4,"Quasi-lineages (EA017 = 1, EA019 = 1, EA021 = 6)",Quasi-lineages
+SCCS247,5,"Ambilineal (EA017 = 1, EA019 = 1, EA021 = 3 or EA021 = 4 or EA021 = 5)",Ambilineal
+SCCS247,6,"Bilateral (EA017 = 1, EA019 = 1, EA021 = 1 or EA021 = 2)",Bilateral
+SCCS247,7,"Mixed (EA017  and/or EA019 > 1,and EA021 not equal to 9)",Mixed
 SCCS248,NA,Missing data,Missing data
 SCCS248,1,"Males alone perform the activity, female participation being negligible",Males alone
 SCCS248,2,"Both sexes participate, but males do appreciably more than females","Both, males more"

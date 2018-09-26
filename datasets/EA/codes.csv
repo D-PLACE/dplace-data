@@ -75,8 +75,8 @@ EA008,NA,Missing data,Missing data
 EA008,1,Independent nuclear families with monogamy,"Nuclear, monogamous"
 EA008,2,Independent nuclear families with occasional or limited polygyny,"Nuclear, limited polygyny"
 EA008,3,Independent polyandrous families,Polyandrous
-EA008,4,"Independent polygynous families, unusual co-wives pattern (either polygyny is preferentially sororal, with cowives in separate quarters or it is typically non-sororal, with cowives in same quarters ","Polygyny, atypical cowives pattern"
-EA008,5,"Independent polygynous families, usual co-wives pattern (either polygyny is preferentially sororal, with cowives in same quarters, OR typically non-sororal, with cowives in separate quarters) ","Polygyny, typical cowives pattern"
+EA008,4,"Independent polygynous families, unusual co-wives pattern (either polygyny is preferentially sororal, with cowives in separate quarters or it is typically non-sororal, with cowives in same quarters","Polygyny, atypical cowives pattern"
+EA008,5,"Independent polygynous families, usual co-wives pattern (either polygyny is preferentially sororal, with cowives in same quarters, OR typically non-sororal, with cowives in separate quarters)","Polygyny, typical cowives pattern"
 EA008,6,"Minimal extended or ""stem"" families, i.e., those consisting of only two related families of procreation (disregarding polygamous unions), particularly of adjacent generations",Minimal extended
 EA008,7,"Small extended families, i.e., those normally embracing the families of procreation of only one individual in the senior generation but of at least two in the next generation. Such families usually dissolve on the death of the head",Small extended
 EA008,8,"Large extended families, i.e., corporate aggregations of smaller family units occupying a single dwelling or a number of adjacent dwellings and normally embracing the families of procreation of at least two siblings or cousins in each of at least two adjacent generations",Large extended
@@ -99,8 +99,11 @@ EA010,7,"Nonestablishment of a common household, i.e., where both spouses remain
 EA010,8,"Patrilocal, i.e., normal residence with or near the male patrilineal kinsmen of the husband. Cf. V Virilocal",Patrilocal
 EA010,9,"Uxorilocal. Equivalent to ""matrilocal"" but confined to instances where the wife's matrikin are not aggregated in matrilocal and matrilineal kin groups",Uxorilocal
 EA010,10,"Virilocal. Equivalent to ""patrilocal"" but confined to instances where the husband's patrikin are not aggregated in patrilocal and patrilineal kin groups",Virilocal
-EA010,11,"Ambilocal, with a marked preponderance of uxorilocal practice (i.e., uxorilocal option exceeds virilocal option in actual frequency by a ratio greater than two to one). ",Ambi-uxo
-EA010,12,"Ambilocal, with a marked preponderance of virilocal practice (i.e., virilocal option exceeds uxorilocal option in actual frequency by a ratio greater than two to one). ",Ambi-viri
+EA010,11,"Ambilocal, with a marked preponderance of uxorilocal practice (i.e., uxorilocal option exceeds virilocal option in actual frequency by a ratio greater than two to one).",Ambi-uxo
+EA010,12,"Ambilocal, with a marked preponderance of virilocal practice (i.e., virilocal option exceeds uxorilocal option in actual frequency by a ratio greater than two to one).",Ambi-viri
+EA201,NA,Missing data,Missing data
+EA201,1,Pattern of marital residence differs in the first years of marriage relative to later years.,Different
+EA201,2,Pattern of marital residence in the first years of marriage not different from later years.,Same
 EA011,NA,Missing data,Missing data
 EA011,1,"Wife to husband's group (patrilocal, virilocal) or wife to husband's mother's brother's household (avunculocal)",Wife to husband
 EA011,2,Couple to either group or neolocal,Ambi/neo-local
@@ -117,8 +120,8 @@ EA012,7,"Nonestablishment of a common household, i.e., where both spouses remain
 EA012,8,"Patrilocal, i.e., normal residence with or near the male patrilineal kinsmen of the husband. Cf. V Virilocal",Patrilocal
 EA012,9,"Uxorilocal. Equivalent to ""matrilocal"" but confined to instances where the wife's matrikin are not aggregated in matrilocal and matrilineal kin groups",Uxorilocal
 EA012,10,"Virilocal. Equivalent to ""patrilocal"" but confined to instances where the husband's patrikin are not aggregated in patrilocal and patrilineal kin groups",Virilocal
-EA012,11,"Ambilocal, with a marked preponderance of uxorilocal practice (i.e., uxorilocal option exceeds virilocal option in actual frequency by a ratio greater than two to one). ",Ambi-uxo
-EA012,12,"Ambilocal, with a marked preponderance of virilocal practice (i.e., virilocal option exceeds uxorilocal option in actual frequency by a ratio greater than two to one). ",Ambi-viri
+EA012,11,"Ambilocal, with a marked preponderance of uxorilocal practice (i.e., uxorilocal option exceeds virilocal option in actual frequency by a ratio greater than two to one).",Ambi-uxo
+EA012,12,"Ambilocal, with a marked preponderance of virilocal practice (i.e., virilocal option exceeds uxorilocal option in actual frequency by a ratio greater than two to one).",Ambi-viri
 EA013,NA,Missing data,Missing data
 EA013,1,"Wife to husband's group (patrilocal, virilocal) or wife to husband's mother's brother's household (avunculocal)",Wife to husband
 EA013,2,Couple to either group or neolocal,Ambi/neo-local
@@ -171,7 +174,7 @@ EA019,5,"Phratries, i.e., maximal lineages when there are more than two in the s
 EA019,6,"Moieties, i.e., maximal lineages when there are only two such in the society",Moieties
 EA020,NA,Missing data,Missing data
 EA020,1,No matrilineal exogamy,No exogamy
-EA020,2,"Extension of incest taboos to known matrilineal kinsmen, provided extension does not apply generally to bilateral kinsmen of equal remoteness. ",Extended taboo
+EA020,2,"Extension of incest taboos to known matrilineal kinsmen, provided extension does not apply generally to bilateral kinsmen of equal remoteness.",Extended taboo
 EA020,3,"Lineages of modest size, i.e., matrilineal kin groups whose core membership is normally confined to a single community or a part thereof",Lineages
 EA020,4,"Sibs (""clans"" in British usage), i.e., lineages whose core membership normally comprises residents of more than one community",Sibs
 EA020,5,"Phratries, i.e., maximal lineages when there are more than two in the society and when sibs are also present. Segmentary lineage systems in which segments of a lower order of magnitude are equivalent to sibs are also included in this category.",Phratries
@@ -223,7 +226,7 @@ EA025,8,"Quadrilateral, symmetrical preference (FaSiDa or MoBrDa)",All: cross
 EA025,9,"Quadrilateral, matrilateral preference (MoSi__ or MoBr__)",All: matri
 EA025,10,"Nonlateral, with preference for particular second cross-cousins only, notably MoMoBrDaDa or FaMoBrSoDa, often reported of societies with subsection systems",Some second only
 EA025,11,"Nonlateral, with second-cousin marriage preferred rather than merely permitted",Second cousins preferred
-EA025,12,"Trilateral marriage, with preference for a bilateral cross-cousin (MoBrDa = FaSiDa). ",Tri: bilateral
+EA025,12,"Trilateral marriage, with preference for a bilateral cross-cousin (MoBrDa = FaSiDa).",Tri: bilateral
 EA025,13,"Trilateral marriage, with preference for a matrilateral cross-cousin (MoBrDa)",Tri: matrilateral
 EA025,14,"Trilateral marriage, with preference for a patrilateral cross-cousin (FaSiDa)",Tri: patrilateral
 EA025,15,No preferred cousin marriages,None preferred
@@ -282,7 +285,7 @@ EA032,4,Clan-barrios,Clan-barrios
 EA033,NA,Missing data,Missing data
 EA033,1,"No political authority beyond community (e.g., autonomous bands and villages)",Acephalous
 EA033,2,"One level (e.g., petty chiefdoms)",One level
-EA033,3,"Two levels (e.g., larger chiefdoms) ",Two levels
+EA033,3,"Two levels (e.g., larger chiefdoms)",Two levels
 EA033,4,"Three levels (e.g., states)",Three levels
 EA033,5,"Four levels (e.g., large states)",Four levels
 EA034,NA,Missing data,Missing data
@@ -347,15 +350,15 @@ EA042,5,Casual agriculture contributes most,Casual agriculture
 EA042,6,Extensive agriculture contributes most,Extensive agriculture
 EA042,7,Intensive agriculture contributes most,Intensive agriculture
 EA042,8,Two or more sources contribute equally,Two or more sources
-EA042,9,"Agriculture contributes most, type unknown ","Agriculture, type unknown"
+EA042,9,"Agriculture contributes most, type unknown","Agriculture, type unknown"
 EA043,NA,Missing data,Missing data
-EA043,1,"Patrilineal (EA017 > 1, EA019 = 1, EA021 = 9) ",Patrilineal
-EA043,2,"Duolateral (EA017 > 1, EA019 > 1, EA021 = 9 or EA021 = 0) ",Duolateral
-EA043,3,"Matrilineal (EA017 = 1, EA019 > 1, EA021 = 9) ",Matrilineal
-EA043,4,"Quasi-lineages (EA017 = 1, EA019 = 1, EA021 = 6) ",Quasi-lineages
-EA043,5,"Ambilineal (EA017 = 1, EA019 = 1, EA021 = 3 or EA021 = 4 or EA021 = 5) ",Ambilineal
-EA043,6,"Bilateral (EA017 = 1, EA019 = 1, EA021 = 1 or EA021 = 2) ",Bilateral
-EA043,7,"Mixed (EA017  and/or EA019 > 1,and EA021 not equal to 9) ",Mixed
+EA043,1,"Patrilineal (EA017 > 1, EA019 = 1, EA021 = 9)",Patrilineal
+EA043,2,"Duolateral (EA017 > 1, EA019 > 1, EA021 = 9 or EA021 = 0)",Duolateral
+EA043,3,"Matrilineal (EA017 = 1, EA019 > 1, EA021 = 9)",Matrilineal
+EA043,4,"Quasi-lineages (EA017 = 1, EA019 = 1, EA021 = 6)",Quasi-lineages
+EA043,5,"Ambilineal (EA017 = 1, EA019 = 1, EA021 = 3 or EA021 = 4 or EA021 = 5)",Ambilineal
+EA043,6,"Bilateral (EA017 = 1, EA019 = 1, EA021 = 1 or EA021 = 2)",Bilateral
+EA043,7,"Mixed (EA017  and/or EA019 > 1,and EA021 not equal to 9)",Mixed
 EA044,NA,Missing data,Missing data
 EA044,1,"Males alone perform the activity, female participation being negligible",Males alone
 EA044,2,"Both sexes participate, but males do appreciably more than females","Both, males more"
@@ -719,11 +722,15 @@ EA088,8,"Grass, leaves, brush, or other thatch","Grass, leaves or thatch"
 EA088,9,Earth or turf,Earth or turf
 EA088,10,Ice or snow,Ice or snow
 EA088,11,Tile or fired brick,Tile or fired brick
-EA201,NA,Missing data,Missing data
-EA201,1,Pattern of marital residence differs in the first years of marriage relative to later years.,Different
-EA201,2,Pattern of marital residence in the first years of marriage not different from later years.,Same
-EA202,NA,Missing data,Missing data
-EA094,NA,Insufficient information or not coded ,Missing data
+EA090,NA,Insufficient information or not coded,Missing data
+EA090,1,"Absence of any politicdal organization even at local level, e.g., where family heads acknowledge no higher political authority","Absence, even locally"
+EA090,2,"Autonomous local communities, i.e., politically independent groups which do not exceed 1500 in average population",Autonomous communities
+EA090,3,"Peace groups transcending the local community where the basis of unity is other than political, e.g., derived from reciprocal trade relations, defensive military agreements, or a common cult or age-grade organization",Peace groups among communities
+EA090,4,"Minimal states, i.e., political integration even at the local level, e.g., where family heads acknowledge no higher political authority (1500 ﾖ 10,000)",Minimal states
+EA090,5,"Little states, i.e., political integration in independent units averaging between 10,000 and 100,000 in population",Little states
+EA090,6,"States, i.e., political integration in large independent units averaging at least 100,000 in population",States
+EA090,8,"Dependent societies lacking any political organization of their own, e.g., those forming an integral part of some larger political system and those governed exclusively and directly by agents of another and politically dominant society. Colonial governments operating through indirect rule are ignored.",Dependent societies
+EA094,NA,Insufficient information or not coded,Missing data
 EA094,11,Patrilineal succession where a son is preferred to a younger brother,"Patrilineal, son"
 EA094,12,Patrilineal succession where a younger brother is preferred to a son,"Patrilineal, younger brother"
 EA094,13,"Patrilineal succession other than younger brother or son, or where preference is unspecified","Patrilineal, other/unspecified"
@@ -735,23 +742,16 @@ EA094,49,Nonhereditary succession through election or some other method of forma
 EA094,59,Nonhereditary succession through informal consensus or personal influence,"Nonhered, informal"
 EA094,69,"Councils, i.e., absence of true headmen, political authroity at the local level being exercised exclusively by a council or other collective body","Nonhered, council"
 EA094,99,"Absence of any indigenous political authority, as in societies lacking political integration even at the local level and in some dependent societies",Absence of political auth.
-EA090,NA,Insufficient information or not coded ,Missing data
-EA090,1,"Absence of any politicdal organization even at local level, e.g., where family heads acknowledge no higher political authority","Absence, even locally"
-EA090,2,"Autonomous local communities, i.e., politically independent groups which do not exceed 1500 in average population",Autonomous communities
-EA090,3,"Peace groups transcending the local community where the basis of unity is other than political, e.g., derived from reciprocal trade relations, defensive military agreements, or a common cult or age-grade organization",Peace groups among communities
-EA090,4,"Minimal states, i.e., political integration even at the local level, e.g., where family heads acknowledge no higher political authority (1500 ﾖ 10,000) ",Minimal states
-EA090,5,"Little states, i.e., political integration in independent units averaging between 10,000 and 100,000 in population",Little states
-EA090,6,"States, i.e., political integration in large independent units averaging at least 100,000 in population",States
-EA090,8,"Dependent societies lacking any political organization of their own, e.g., those forming an integral part of some larger political system and those governed exclusively and directly by agents of another and politically dominant society. Colonial governments operating through indirect rule are ignored.",Dependent societies
-EA112,NA,Missing data ,Missing data
-EA112,1,"Trance behavior is known to occur, but there is no belief in possession. ","Trance, no possession"
-EA112,2,A belief in possession exists. ,Possession
-EA112,3,Trance behavior is known to occur and is explained as due to possession. There is no possession belief referring to other experiences and there are no trance states with other explanations. ,T due to P only; P causes T only
-EA112,4,"Two types of trance states are known to occur. One which is explained as due to possession and one which is given another type of explanation. In addition to explaining trance, possession belief also refers to one or more other phenomena. ","Two T states, one due to P; P expl. T and others"
-EA112,5,"There is both a trance state and a belief in possession, but this belief refers to phenomena other than trance, which is explained through other categories.  ","T and P,  but T not due to P"
-EA112,6,"Trance explained as due to possession is known to occur, and there are no other trance states, but cases of possession outside of trance are also believed to occur. ",T due to P only; P explains T and others
-EA112,7,"Trance states of two kinds are known to occur, some of which are explained by possession. No other phenomena are explained by possession. ","Two T states, one due to P; P explains T only"
-EA112,8,"No trance states of any kind are known to occur, and there is no belief in possession. ",No trance or possession
-EA113,NA,Missing data ,Missing data
-EA113,1,"Rigid, characterized as: non-egalitarian, ascriptive status distinctions, autocratic, hierarchical political system, fixed residence and group membership, central authority, fixed religious rites. ",Rigid
-EA113,2,"Flexible, characterized as: egalitarian, achieved status distinctions, autocratic, democratic, federated or stateless political system, ease in residence and group changes, individualized or flexible religious rites. ",Flexible
+EA112,NA,Missing data,Missing data
+EA112,1,"Trance behavior is known to occur, but there is no belief in possession.","Trance, no possession"
+EA112,2,A belief in possession exists.,Possession
+EA112,3,Trance behavior is known to occur and is explained as due to possession. There is no possession belief referring to other experiences and there are no trance states with other explanations.,T due to P only; P causes T only
+EA112,4,"Two types of trance states are known to occur. One which is explained as due to possession and one which is given another type of explanation. In addition to explaining trance, possession belief also refers to one or more other phenomena.","Two T states, one due to P; P expl. T and others"
+EA112,5,"There is both a trance state and a belief in possession, but this belief refers to phenomena other than trance, which is explained through other categories.","T and P,  but T not due to P"
+EA112,6,"Trance explained as due to possession is known to occur, and there are no other trance states, but cases of possession outside of trance are also believed to occur.",T due to P only; P explains T and others
+EA112,7,"Trance states of two kinds are known to occur, some of which are explained by possession. No other phenomena are explained by possession.","Two T states, one due to P; P explains T only"
+EA112,8,"No trance states of any kind are known to occur, and there is no belief in possession.",No trance or possession
+EA113,NA,Missing data,Missing data
+EA113,1,"Rigid, characterized as: non-egalitarian, ascriptive status distinctions, autocratic, hierarchical political system, fixed residence and group membership, central authority, fixed religious rites.",Rigid
+EA113,2,"Flexible, characterized as: egalitarian, achieved status distinctions, autocratic, democratic, federated or stateless political system, ease in residence and group changes, individualized or flexible religious rites.",Flexible
+EA202,NA,Missing data,Missing data
