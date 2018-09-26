@@ -29,7 +29,7 @@ B359,xd1026,Nabesna,uppe1437,Nabesna (B359),Upper Tanana Indians,1930,,,63.44,-1
 B297,xd1027,Chugach,paci1278,Chugash (B297),"Chugachigmiut, Chugash",1930,South Alaskan Eskimo (NA10),http://ehrafworldcultures.yale.edu/collection?owc=NA10,61.21,-147.61,61.21,-147.61,Original,
 B377,xd1029,Nunamiut,nort2944,Nunamiut Inuit (B377),"Inland North Alaskan Eskimo, Nunamiut Eskimo",1950,,,68.18,-151.71,68.18,-151.71,Original,HH: Belongs to language North Alaskan Inupiatun [nort2943] and more specifically to the North Slope Inupiatun [nort2944] dialect
 B386,xd1030,Baffin Island Inuit,baff1240,Baffin Island Inuit (B386),Baffinland,1880,,,65,-65,65.21,-64.65,Revised,
-B390,xd1031,Inughuit (Northern Greenland),pola1254,Polar Inuit (B390),"Polar Eskimo, Arctic Highlanders, Smith Sound Inuit, Smith Sound Eskimo",1880,,,77.49,-69.5,77.53,-69.5,Revised,
+B390,xd1031,Inughuit (Northern Greenland),pola1254,Polar Inuit (B390),"Polar Eskimo, Arctic Highlanders, Smith Sound Inuit, Smith Sound Eskimo",1880,,,77.49,-69.5,77.53,-69.5,Revised,"Note 8Feb2018: Glottocode changed to [ike] based on note from HH: ""The Polar Eskimo do not speak a language intelligible to Kalaalisut and had until recent times no contact or knowledge of the Kalaalisut further south. The language is intelligible to North Baffin Inuktitut so Glottolog counts Polar Eskimo as Eastern Canadian Inuktitut [ike]. Furthermore, Oswalt 1963 is listed as a reference to Polar Eskimo but concerns a completely different people in Alaska who speak Yupik-Central [esu]."""
 B361,xd1032,Tlicho,dogr1252,Dogrib (B361),Dogrib,1860,,,63.85,-115.61,63.85,-115.61,Original,
 B358,xd1033,Délįne,nort2942,Satudene-Bear Lake (B358),"Bear Lake Dene, Satudene, Great Bear Lake People, Sahtu, Sahtu Dene",1860,,,65.75,-122.89,65.75,-122.89,Original,
 B345,xd1034,DeneTha,sout2959,Slave (B345),"Slave, Deh Cho (Southern Slavey), Slavey, Dene (distinguish from speakers of the Dene language)",1860,,,61.15,-119.5,61.15,-119.5,Original,
@@ -39,13 +39,13 @@ B356,xd1037,Kutchin,gwic1235,Kutchin (B356),"Gwich'in, Loucheux",1880,,,65.94,-1
 B374,xd1038,Caribou Inuit,cari1277,Caribou Inuit (B374),Caribou Eskimo,1900,,,64.33,-96.2,64.33,-96.2,Original,
 B372,xd1039,Labrador Inuit,labr1244,Labrador Inuit (B372),"Sukinninmiut, Labrador Eskimo",1890,,,57.97,-62.02,57.83,-62.32,Revised,
 B388,xd1040,Tasiilaq,tunu1234,Angmaksalik (B388),"Angmagsalik (East Greenland), Ammassalik, East Greenland Eskimo, Polar Eskimo",1880,,,65.63,-37.64,65.64,-37.64,Revised,HH: Tasiilaq are a subtribe of the Angmaksalik which are Tunumiisiut [tunu1234]
-B385,xd1041,Kalaallit (West Greenland),kala1399,West Greenland (B385),"West Greenland Eskimo, West Greenland Inuit",1880,,,69.31,-50.21,69.31,-50.21,Original,
+B385,xd1041,Kalaallit (West Greenland),kala1399,West Greenland (B385),"West Greenland Eskimo, West Greenland Inuit",1880,,,69.31,-50.21,69.31,-50.21,Original,Note 8Feb2018: Glottocode updated from west2617 to kala1399
 B362,xd1042,Dena'ina,tana1289,Tanaina (B362),Tanaina,1870,,,61.74,-150.45,61.74,-150.45,Original,
 B347,xd1043,Tahltan,tahl1239,Tahltan (B347),Southwestern Nahane,1870,,,57.66,-127.85,57.66,-127.85,Original,
 B343,xd1044,Sekani,seka1250,Sekani (B343),"Tsek'ene, Sicauni",1880,,,56.14,-120,56.14,-120,Original,
 B344,xd1045,Beaver,beav1236,Beaver (B344),"Denezaa, Tsattine",1850,,,58.51,-115.76,58.51,-115.76,Original,
 B355,xd1046,Dene,chip1261,Chippewyan (B355),Chipewyan,1880,Chipewyan (ND07),http://ehrafworldcultures.yale.edu/collection?owc=ND07,59.47,-106.19,59.47,-106.19,Original,
-B342,xd1048,Montagnais,mont1268,Montagnais (B342),"Innu, Naskapi",1880,Montagnais (NH06),http://ehrafworldcultures.yale.edu/collection?owc=NH06,52.42,-63.33,52.42,-63.33,Original,
+B342,xd1048,Montagnais,mont1268,Montagnais (B342),"Innu, Naskapi",1880,Montagnais (NH06),http://ehrafworldcultures.yale.edu/collection?owc=NH06,52.42,-63.33,52.42,-63.33,Original,"Note 8Feb2018: Not changed, despite comment from HH: ""Naskapi [nsk] is a different lg from Montagnais [moe]"". KK: Decided to leave, after looking into ethnographic materials: Foci are Lake St. John Band and Mistassini band [see KK notes for geographical extent of their territories]. Speck and Heye (1921): ""[the] Pikwagami (""Flat lake,"" Lake St John), are an interior Montagnais culture intermediate between that of the coast and that of the eastern Naskapi and Mistassini. Therefore, Montagnais [moe] is more appropriate choice. "
 B332,xd1049,Northern Saulteaux,alba1270,North Saulteaux (B332),"N. Saulteaux, North Sauteaux",1870,Ojibwa (NG06),http://ehrafworldcultures.yale.edu/collection?owc=NG06,52.28,-96.78,52.28,-96.78,Original,
 B334,xd1050,Pekangekum,lacs1238,Pekangekum Ojibwa (B334),,1940,Ojibwa (NG06),http://ehrafworldcultures.yale.edu/collection?owc=NG06,51.84,-93.85,51.84,-93.85,Original,
 B337,xd1051,Nipigon,cent2136,Nipigon Ojibwa (B337),"Lake Nipigon Ojibway, Anishinaabek, Southern Saulteaux",1800,Ojibwa (NG06),http://ehrafworldcultures.yale.edu/collection?owc=NG06,49.34,-88.31,49.34,-88.31,Original,
@@ -63,7 +63,7 @@ B357,xd1066,Deg Xit'an,dege1248,Ingalik (B357),Ingalik,1880,,,61.82,-157.75,61.8
 B298,xd1067,Aleut,east2533,Aleut (B298),Unagan,1830,Aleut (NA06),http://ehrafworldcultures.yale.edu/collection?owc=NA06,55,-162.85,55,-162.85,Original,
 B290,xd1068,Haida,nort2938,Haida (B290),,1890,,,53.54,-132.29,53.54,-132.29,Original,
 B336,xd1069,Alkatcho,sout2958,Alkatcho (B336),"Tsuu'Tina, Alkatcho Carrier, Ilgatcho, Ilgachuz",1865,,,51.32,-124.02,51.32,-124.02,Original,
-B273,xd1070,Nootka,nuuc1236,Nootka (B273),"Nuu-chah-nulth, Aht, Central Nootka",1880,Nuu-chah-nulth (NE11),http://ehrafworldcultures.yale.edu/collection?owc=NE11,49.34,-125.74,49.34,-125.74,Original,
+B273,xd1070,Nuu chah nulth,nuuc1236,Nootka (B273),"Nuu-chah-nulth, Aht, Central Nootka",1880,Nuu-chah-nulth (NE11),http://ehrafworldcultures.yale.edu/collection?owc=NE11,49.34,-125.74,49.34,-125.74,Original,
 B268,xd1072,Squamish,squa1248,Squamish (B268),,1880,,,49.77,-123.19,49.77,-123.19,Original,
 B282,xd1073,Comox,isla1276,Comox (B282),K'ómoks,1860,,,50,-125.5,50,-125.5,Original,
 B277,xd1074,Lummi,lumm1243,Lummi (B277),Lhaq'temish,1880,,,48.84,-122.34,48.84,-122.34,Original,
@@ -81,7 +81,7 @@ B278,xd1085,Quinault,quin1251,Quinault (B278),,1860,Quinault (NR17),http://ehraf
 B280,xd1086,Cowichan,cowi1241,Cowichan (B280),Hul'q'umi'num Mustimuhw,1880,,,48.41,-123.64,48.41,-123.64,Original,
 B279,xd1087,Stó:lō,chil1281,Stalo (B279),"Stalo, Halkomelem, Fraser River Cowichan",1880,,,49.23,-122.7,49.23,-122.7,Original,
 B269,xd1088,Alsea,alse1251,Alsea (B269),,1860,,,44.42,-123.84,44.42,-123.84,Original,
-B288,xd1090,Kwakiutl,kwak1269,Kwakiutl (B288),"Southern Kwakiutl,Kwagu'ł, Kwagyewlth",1890,,,50.42,-126.67,50.42,-126.67,Original,
+B288,xd1090,Kwakwaka'wakw,kwak1269,Kwakiutl (B288),"Southern Kwakiutl, Kwagu'ł, Kwagyewlth",1890,,,50.42,-126.67,50.42,-126.67,Original,
 B176,xd1091,Takelma,take1257,Tekelma (B176),"Rogue River Indians, Tekelma",1860,,,42.44,-123.48,42.44,-123.48,Original,
 B181,xd1092,Tututni,tutu1242,Tututni (B181),,1870,,,42.61,-124.04,42.61,-124.04,Original,
 B179,xd1093,Shasta,shas1239,Shasta (B179),,1860,,,41.62,-122.7,41.62,-122.7,Original,
@@ -98,12 +98,12 @@ B178,xd1103,Tolowa,tolo1259,Tolowa (B178),,1870,,,41.87,-123.92,41.87,-123.92,Or
 B289,xd1104,Tsimshian,nucl1649,Tsimshim (B289),Ts’msyan,1880,,,54,-129.58,54,-129.58,Original,
 B287,xd1105,Haisla,hais1244,Haisla (B287),Kitimat,1880,,,53.5,-128.42,53.5,-128.42,Original,
 B291,xd1106,Nuxalk,bell1243,Bella-Coola (B291),"Nuxalkmc, Bellacoola, Bilqula, Bella Coola",1880,Nuxalk (NE06),http://ehrafworldcultures.yale.edu/collection?owc=NE06,52.32,-126.58,52.32,-126.58,Original,
-B153,xd1107,Nomlaki,noml1242,Nomlaki (B153),Central Wintun,1850,,,40,-122.56,40,-122.56,Original,
+B153,xd1107,Nomlaki,noml1242,Nomlaki (B153),Central Wintun,1850,,,40,-122.56,40,-122.56,Original,Changed 15Nov2016 to differentiate Nomlaki from Wintu
 B187,xd1108,Achumawi,achu1247,Achomawi (B187),Achomawi,1860,,,41.32,-121.19,41.32,-121.19,Original,
 B174,xd1109,Yana,yana1271,Northern Yana (B174),Nozi,1860,,,40.38,-122.89,40.38,-122.89,Original,
 B185,xd1110,Maidu,nort2952,Mountain Maidu (B185),Pujunan,1850,,,40.28,-120.56,40.28,-120.56,Original,
 B163,xd1111,Nisenan,nise1244,Nisenan (B163),"Southern Maidu, Nisenan Southern Maidu",1850,,,39.03,-121.15,39.03,-121.15,Original,
-B160,xd1112,Wintu,nucl1651,Wintu (B160),Northern Wintu,1860,,,40.9,-122.35,40.9,-122.35,Original,
+B160,xd1112,Wintu,nucl1651,Wintu (B160),Northern Wintu,1860,,,40.9,-122.35,40.9,-122.35,Original,Changed 15Nov2016 to differentiate Nomlaki from Wintu
 B177,xd1113,Coast Yuki,yuki1243,Coast Yuki (B177),,1860,Yuki (NS30),http://ehrafworldcultures.yale.edu/collection?owc=NS30,39.64,-123.74,39.64,-123.74,Original,
 B173,xd1115,Northern Pomo,nort2966,Nothern Pomo (B173),,1860,Pomo (NS18),http://ehrafworldcultures.yale.edu/collection?owc=NS18,39.34,-123.29,39.34,-123.29,Original,
 B158,xd1116,Eastern Pomo,east2545,Eastern Pomo (B158),,1860,Pomo (NS18),http://ehrafworldcultures.yale.edu/collection?owc=NS18,39.03,-122.94,39.03,-122.94,Original,
@@ -127,7 +127,7 @@ B150,xd1133,Luiseño,luis1253,Luiseno (B150),"Payómkawichum, Luiseno",1860,,,33
 B146,xd1134,Kiliwa,kili1268,Kiliwa (B146),K'olew,1880,,,31.44,-115.25,31.44,-115.25,Original,
 B183,xd1135,Atsugewi,atsu1245,Atsugewi (B183),,1860,,,40.75,-121.12,40.75,-121.12,Original,
 B175,xd1136,Central Sierra Miwok,cent2140,Sierra Miwok (B175),Miwok,1850,,,38,-119.77,38,-119.77,Original,
-B147,xd1137,Kumeyaay,kumi1248,Diegueno (B147),"Diegueño, Diegueno",1850,,,32.44,-116.49,32.44,-116.49,Original,
+B147,xd1137,Kumeyaay,kumi1248,Diegueno (B147),"Diegueño, Diegueno",1850,,,32.44,-116.49,32.44,-116.49,Original,"Note, previously tipa1240 but changed by non-KK DPLACE editor in early 2016 (before 8April2016)"
 B171,xd1138,Yuki,yuki1243,Yuki (B171),,1850,Yuki (NS30),http://ehrafworldcultures.yale.edu/collection?owc=NS30,39.7,-123.15,39.7,-123.15,Original,
 B189,xd1139,Klamath,klam1254,Klamath (B189),,1860,Klamath (NR10),http://ehrafworldcultures.yale.edu/collection?owc=NR10,42.62,-121.5,42.62,-121.5,Original,
 B188,xd1140,Modoc,klam1254,Modoc (B188),,1860,,,42,-121.31,42,-121.31,Original,
@@ -216,7 +216,7 @@ B50,xd1411,Aweikoma,xokl1240,Aweikomo (B50),"Xokleng, Shokleng, Botocudo of Sant
 B48,xd1413,Aimoré,kren1239,Botocudo (B48),"Nac-nanuk, Nac-poruk, Botocudo",1880,,,-18.71,-41.86,-18.71,-41.86,Original,
 B165,xd1418,Kashaya Pomo,kash1280,Southern Pomo (B165),"Southwest dialect, Southern Pomo",1860,,,38.54,-122.88,38.54,-122.88,Original,
 B70,xd2,Dorobo,okie1245,Dorobo (B70),"Andorobo, Okiek, Wandorobbo",1920,Okiek (FL20),http://ehrafworldcultures.yale.edu/collection?owc=FL20,0,36,0,36,Original,
-B65,xd5,Mbuti,kang1285,Mbuti (B65),"Sua, BaSua, Kango, BaKango, Bambuti, BaMbuti Pygmies",1930,Mbuti (FO04),http://ehrafworldcultures.yale.edu/collection?owc=FO04,1.54,28.61,1.54,28.61,Original,
+B65,xd5,Mbuti,bila1255,Mbuti (B65),"Sua, BaSua, Kango, BaKango, Bambuti, BaMbuti Pygmies",1930,Mbuti (FO04),http://ehrafworldcultures.yale.edu/collection?owc=FO04,1.54,28.61,1.54,28.61,Original,"Note 8Feb2018: Changed. Focus is ""Epulu net-hunters, Ituri forest"". From White pinpointing sheets: ""The Pygmies and Pygmoid peoples of the Congo have been pushed into smaller and smaller areas of the tropical forest since the invasions of Bantu and Sudanic tribes in the 16-17th centuries, and most of the groups have adopted the languages of invading tribes with whom they allied themselves. Mbuti pygmies have adopted the languages of the Bira to the south of them, the Lese to the east, the Mangbetu and Azande to the northwest, and the Mamvu-Mangutu to the north. The [...] Epulu group studied by Turnbull situated to the north of the Ituri and Epulu Rivers, and the majority of the other groups to the south of the Ituri River [...] are net-hunters, and speak a language largely influenced by the Forest Bira."" Note, though, that Ember concordance lists the language as Lese."
 B25,xd617,Nivkh,gily1242,Gilyak (B25),Gilyak,1920,Nivkh (RX02),http://ehrafworldcultures.yale.edu/collection?owc=RX02,51.54,140,51.54,140,Original,
 B27,xd620,Nganasan,ngan1291,Nganasan (B27),Tavgi Samoyed,1933,Samoyed_with_notes_on_Nganasan (RU04),http://ehrafworldcultures.yale.edu/collection?owc=RU04,73.83,90,73.83,90,Original,
 B28,xd622,Ungazikmit,cent2128,Siberian Eskimo (B28),"Eskaleut, Asian Eskimo",1860,,,65.96,170.08,65.96,170.08,Original,
@@ -224,13 +224,13 @@ B26,xd634,Yukaghir,nort2745,Yukaghir (B26),,1900,,,70,145,70,145,Original,
 B22,xd635,Ainu,ainu1240,Ainu (B22),"Ainu (Hokkaido), Hokkaido",1900,Ainu (AB06),http://ehrafworldcultures.yale.edu/collection?owc=AB06,44.01,144.17,44.01,144.17,Original,
 B24,xd636,Ket,kett1243,Ket (B24),"Yenisei Ostyak, Yeniseians",1900,,,62,90,62,90,Original,
 B15,xd672,Chenchu,chen1255,Chenchu (B15),,1940,,,16.25,78.97,16.25,78.97,Original,
-B8,xd686,Andamanese,akab1249,Big Andaman Island (B8),"Big Andaman Island, Andamese",1870,Andamans (AZ02),http://ehrafworldcultures.yale.edu/collection?owc=AZ02,13.32,92.89,13.32,92.89,Original,
+B8,xd686,Andamanese,akab1249,Big Andaman Island (B8),"Big Andaman Island, Andamese",1870,Andamans (AZ02),http://ehrafworldcultures.yale.edu/collection?owc=AZ02,13.32,92.89,13.32,92.89,Original,Changed to abj from apq on 8 April 2017 based on comments from H. Hammarström: Man (1885) worked most with (and whose variety he spoke best) Bojingya or Aka-Bea [abj]
 B10,xd690,Vedda,vedd1240,Vedda (B10),"Wanniyalaeto, Veddah",1900,Vedda (AX05),http://ehrafworldcultures.yale.edu/collection?owc=AX05,8.58,81.25,8.59,81.19,Revised,
 B73,xd7,Naron,naro1249,Nharo (B73),Aikwe,1910,,,-21.64,21.61,-21.64,21.61,Original,
 B9,xd725,Semang,kens1248,Semang (B9),,1920,Semang (AN07),http://ehrafworldcultures.yale.edu/collection?owc=AN07,5.86,101,5.86,101,Original,
 B3,xd757,Anak Dalam,kubu1239,Kubu (B3),"Orang Batin Sembilan, Orang Rimba, Kubu",1900,,,-3.04,102.69,-3.04,102.69,Original,
-B1,xd1442,Punan,west2563,Punan (B1),"Penan Gang, Punan Busang",1970,,,3,114,3,114,Original,"Note, previously this language was associated with xd758, and with both Binford and EA ""Punan"" societies. This xd_id now refers only to the Binford ""Punan"" society, with the EA ""Punan"" society linked to xd758 and language iso ""pna"" (3 Mar 2016). In May 2016 received this further comment from H. Hammarström: ""The references here reference different hunting and gathering populations of Borneo, not all of which speak the [same] language"" ""[...] if you have to put one [language] for all of these then a better match is Penan-Western [pne] because e.g Urquhart 1951 is on Penan Gang and Penan Lusong and Brosius is on Penan Gang. Both Penan Gang and Penan Lusong speak varieties of Penan-Western [pne]."""
-B124,xd772,Northern Aranda,east2379,Northern Arenda (B124),"Aranda (Northern), Northern Arenda, Arunta",1900,Aranda (OI08),http://ehrafworldcultures.yale.edu/collection?owc=OI08,-23.7,133.76,-23.7,133.76,Original,
+B1,xd1442,Punan,west2563,Punan (B1),"Penan Gang, Punan Busang",1970,,,3,114,3,114,Original,"Note, previously this language was associated with xd758, and with both Binford and EA ""Punan"" societies. This xd_id now refers only to the Binford ""Punan"" society, with the EA ""Punan"" society linked to xd758 and language iso ""pna"" (3 Mar 2016). In May 2016 received this further comment from H. Hammarström: ""The references here reference different hunting and gathering populations of Borneo, not all of which speak the [same] language"" ""[...] if you have to put one [language] for all of these then a better match is Penan-Western [pne] because e.g Urquhart 1951 is on Penan Gang and Penan Lusong and Brosius is on Penan Gang. Both Penan Gang and Penan Lusong speak varieties of Penan-Western [pne]."""
+B124,xd772,Northern Aranda,east2379,Northern Arenda (B124),"Aranda (Northern), Northern Arenda, Arunta",1900,Aranda (OI08),http://ehrafworldcultures.yale.edu/collection?owc=OI08,-23.7,133.76,-23.7,133.76,Original,"Note 8Feb2018: Not changed, despite note from HH: ""Why is Strehlow not associated rather with Western Arrarnta [are]"". According to White SCCS Pinpointing sheets, focus is ""The Arunta Mbainda of Alice Springs: [...] closely studied by Spencer and Gillen in 1896, restudied in 1901, and visited by Spencer in 1926 for some follow-up reconstruction work with several informants."" [So, Strehlow was perhaps used for supporting materials?]"
 B109,xd773,Walbiri,warl1254,Walbiri (B109),Warlpiri,1965,,,-20,130.57,-20,130.57,Original,
 B87,xd774,Gidjingali,gunn1248,Gidjingali (B87),"Burarra, Gun-nartpa",1950,,,-12.18,134.4,-12.18,134.4,Original,
 B94,xd775,Yir Yoront,jirj1239,Yir-yoront (B94),,1937,,,-15,142.17,-15,142.17,Original,"Note, previously yiy and yiry1245, however both codes have been retired"
@@ -244,8 +244,7 @@ B137,xd783,Tasmanians (northwestern),port1278,Tasmanians (western) (B137),"Palaw
 B130,xd784,Ngiyambaa,wang1291,Wongaibon (B130),Wongaibon,1910,,,-32.14,146.09,-32.14,146.09,Original,
 B79,xd8,/Xam,xamm1241,/Xam (B79),"Xam, Cape Bushman",1970,,,-31.47,19.77,-31.47,19.77,Original,
 B69,xd9,Hadza,hadz1240,Hadza (B69),"Hadzabe, Hatsa Kindiga, Hadza, Kindiga",1910,,,-3.82,35.32,-3.82,35.32,Original,
-B2,xd900,Palawan Batak,bata1301,Batek (B2),"Batek, Batak, Batek (Palawan), Palawan",1968,,,10,119.11,10.03,119.09,Revised,"Changed from plw (broo1239) on 26 May 2016 based on feedback from H. Hammarström: ""The Batak in Cadeliña, Warren and Eder is Batak [bya] bata1301
-not [plw] broo1239"""
+B2,xd900,Palawan Batak,bata1301,Batek (B2),"Batek, Batak, Batek (Palawan), Palawan",1968,,,10,119.11,10.03,119.09,Revised,"Changed from plw (broo1239) on 26 May 2016 based on feedback from H. Hammarström: ""The Batak in Cadeliña, Warren and Eder is Batak [bya] bata1301 not [plw] broo1239"""
 B4,xd901,Shompen,shom1245,Shompen (B4),Shamhap,1989,,,7,93.77,7,93.77,Original,
 B5,xd902,Onge,onge1236,Onge (B5),"Andaman Islands (Onge), Onge Andamanese",1952,,,10.7,92.47,10.7,92.47,Original,
 B6,xd903,Jarawa,jara1245,Jarwa (B6),"Andaman Islands (Jarwa), Jarawa Andamanese",1906,,,12.19,92.37,12.17,92.65,Revised,
@@ -290,7 +289,7 @@ B86,xd941,Burarra,gunn1247,Anbarra (B86),"Anbarra, Gun-nartpa",1973,,,-12.2,134.
 B89,xd942,Yiiji,wuna1249,Jeidji (B89),Jeidji,1920,,,-15.55,128.19,-15.55,128.19,Original,
 B91,xd943,Kaakutju,gaga1251,Kakadu (B91),Kakadu,1920,,,-13.13,132.95,-13.13,132.95,Original,
 B92,xd944,Nunggubuyu,nung1290,Nunggubuyu (B92),Wubuy,1960,,,-13.76,135.98,-13.76,135.98,Original,
-B93,xd945,Yintjingga,umpi1239,Yintjingga (B93),,1930,,,-14,143.5,-14,143.5,Original,
+B93,xd945,Yintjingga,ayab1239,Yintjingga (B93),,1930,,,-14,143.5,-14,143.5,Original,"Note 8Feb2018: Glottocode changed based on comment by HH: ""Yintjingga (specifically) in the Glottolog inventory falls under Ayabadhu [ayd]."""
 B96,xd946,Kuku (Yalanji),kuku1273,Kuku (Yalanji) (B96),Yuku,1880,,,-15.92,145.32,-15.92,145.32,Original,
 B98,xd947,Walmbaria,flin1247,Walmbaria (B98),,1926,,,-14.34,144.22,-14.34,144.22,Original,
 B99,xd948,Mulluk,mull1237,Mulluk (B99),Malakmalak,1900,,,-13.58,130.58,-13.58,130.58,Original,
@@ -304,24 +303,24 @@ B107,xd955,Warunggu,waru1264,Warunggu (B107),Woronggo,1870,,,-18.41,145.61,-18.4
 B108,xd956,Djaru,jaru1254,Djaru (B108),Jaru,1934,,,-19.16,130,-19.16,130,Original,
 B110,xd957,Ngatjan,ngad1260,Ngatjan (B110),,1880,,,-17.36,145.56,-17.36,145.56,Original,
 B111,xd958,Mardudjara,mart1256,Mardudjara (B111),Ngatjan,1960,,,-22.79,125.06,-22.79,125.06,Original,
-B112,xd959,Ildawongga,wanm1242,Ildawongga (B112),,1968,,,-22.93,127.18,-22.93,127.18,Original,
+B112,xd959,Ildawongga,wanm1242,Ildawongga (B112),,1968,,,-22.93,127.18,-22.93,127.18,Original,"Note 8Feb2018: Note from HH: ""I thought Ildawongga were a late contacted band of Pintupi but I may be misremembering and I don't know the reference."" KK: leaving for now as Australian languages checked by C. Bowern."
 B113,xd960,Pintubi,pint1250,Pintubi (B113),,1936,,,-22.86,129.44,-22.86,129.44,Original,
 B114,xd961,Undanbi,waka1274,Undanbi (B114),Undambi,1848,,,-27.28,153.24,-27.27,153.02,Revised,
 B115,xd962,Jinibarra,yaga1256,Jinibarra (B115),,1840,,,-27.25,152.87,-27.25,152.87,Original,Assigned Glottolog id on 26 May 2016 based on feedback from H. Hammarström
 B116,xd963,Karuwali,karr1236,Karuwali (B116),,1900,,,-24.41,141.64,-24.41,141.64,Original,
 B117,xd964,Alyawara,alya1239,Alyawara (B117),,1965,,,-22.27,135.17,-22.27,135.17,Original,
 B118,xd965,Ngatatjara,ngaa1240,Ngatatjara (B118),,1968,,,-25.32,127.27,-25.32,127.27,Original,
-B119,xd966,Badjalang,band1339,Badjalang (B119),,1850,,,-29.59,152.78,-29.59,152.78,Original,
+B119,xd966,Badjalang,midd1357,Badjalang (B119),,1850,,,-29.59,152.78,-29.59,152.78,Original,Note 8Feb2018: KK: Updated Glottocode as the previous one (band1339) was a family-level code.
 B120,xd967,Pitjandjara,pitj1243,Pitjandjara (B120),Pitjantjatjara,1968,,,-26,130,-26,130,Original,
 B122,xd968,Southern Aranda,lowe1436,Southern Arenda (B122),"Aranda (Southern), Southern Arenda",1870,,,-26.09,135.52,-26.09,135.52,Original,
 B123,xd969,Jankundjara,yank1247,Jankundjara (B123),Yankunytjatjara,1922,,,-27,131.95,-27,131.95,Original,
 B125,xd970,Yuwaalaraay,gami1243,Ualarai (B125),Ualarai,1880,,,-29.3,147.25,-29.3,147.25,Original,
-B126,xd971,Nakako,wati1241,Nakako (B126),,1912,,,-27.31,128.19,-27.31,128.19,Original,"Language match uncertain: H. Hammarström suggests closest match is [ntj], when I discussed with Claire Bowern in 2015, she was not confident it should be matched to [ntj] (26 May 2016). KK note 2015, based on lit search: Wanadjara is a possible match, but geographically does not line up. Sources suggest it is most closely related to pjt, however, there is also society 'Pitjandjara' to which we've assigned pitj1243"
-B127,xd972,Ooldea,wira1265,Ooldea (B127),,1941,,,-30.38,131.81,-30.38,131.81,Original,
+B126,xd971,Nakako,pitj1243,Nakako (B126),,1912,,,-27.31,128.19,-27.31,128.19,Original,"KK: Language match uncertain: H. Hammarström suggests closest match is [ntj], when I discussed with Claire Bowern in 2015, she was not confident it should be matched to [ntj]. Therefore, left with a DPLACE placeholder for now [x03] (26 May 2016)"
+B127,xd972,Ooldea,anta1253,Ooldea (B127),,1941,,,-30.38,131.81,-30.38,131.81,Original,"Note 8Feb2018: Changed to anta1253, based on comment by HH (""Speech at Ooldea (a station) was a mix of dialects from people from different dialects and multidialectal people mainly Pitjantjatjara [pjt], but also Antakarinya [ant]. Very strange to attribute Berndt & Berndt to Wirangu"") and after looking into maps of Berndts research location. Some uncertainty remains."
 B128,xd973,Paakintji,darl1243,Barkindji (B128),Barkindji,1890,,,-32.4,142.25,-32.4,142.25,Original,
 B129,xd974,Kaurna,kaur1267,Kaurna (B129),Karuna,1840,,,-34.56,138.4,-34.56,138.4,Original,
 B131,xd975,Yaraldi,narr1259,Jaralde (B131),Jaralde,1850,,,-35.06,139.29,-35.06,139.29,Original,
-B132,xd976,Mirniny,ngad1258,Mineng (B132),"Mirniny, Mineng, Mount Barker Tribe, Minang, Noongar",1850,,,-34.95,117.81,-34.95,117.81,Original,
+B132,xd976,Mirniny,ngad1258,Mineng (B132),"Mirniny, Mineng, Mount Barker Tribe, Minang, Noongar",1850,,,-34.95,117.81,-34.95,117.81,Original,"Note 8Feb2018: Leaving for now, despite HH comment: ""HH: The vocabulary (""Minang"") is usually attributed to the language Nyungar [nys]. Have no idea why the paper is connected to Ngadjunmaya."". KK looked into this case in depth, checked with C. Bowern before settling on this language match. Certainly still some uncertainty, though, so with more evidence could be changed."
 B133,xd977,Tjapwurong,djab1234,Tjapwurong (B133),,1850,,,-35.86,141.38,-35.86,141.38,Original,
 B134,xd978,Bunurong,woiw1237,Bunurong (B134),,1850,,,-38.93,145.07,-38.48,145.23,Revised,
 B135,xd979,Kurnai,gana1278,Kurnai (B135),,1850,,,-37.59,147.42,-37.59,147.42,Original,

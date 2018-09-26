@@ -8,15 +8,15 @@ WNAI6,xd998,Gitxsan,gitx1241,Gitksan Tsimshian (J6),"Gitksan, Gitksan Tsimshian"
 WNAI7,xd1105,Haisla,hais1244,Haisla Kwakiutl (J7),"Kitimat, Haisla Kwakiutl",NA,,,53.5,128,53.5,-128,Original,
 WNAI8,xd1424,Haihais,oowe1239,Haihais Kwakiutl (J8),"Haihais, XaiXais",NA,,,53,128.5,53,-128.5,Original,
 WNAI9,xd1083,Heiltsuk,bell1263,Bella Bella Kwakiutl (J9),"Bellabella, Bella Bella, Bella Bella Kwakiutl",NA,,,52,128,52,-128,Original,
-WNAI10,xd1090,Kwakiutl,kwak1269,Fort Rupert Kwakiutl (J10),"Southern Kwakiutl,Kwagu'?, Kwagyewlth, Fort Rupert Kwakiutl",NA,,,50.8,127,50.86,-127,Revised,
+WNAI10,xd1090,Kwakwaka'wakw,kwak1269,Fort Rupert Kwakiutl (J10),"Southern Kwakiutl, Kwagu'?, Kwagyewlth, Fort Rupert Kwakiutl",NA,,,50.8,127,50.86,-127,Revised,
 WNAI11,xd1106,Nuxalk,bell1243,Bella Coola Salish (J11),"Nuxalkmc, Bellacoola, Bilqula, Bella Coola, Bella Coola Salish",NA,Nuxalk (NE06),http://ehrafworldcultures.yale.edu/collection?owc=NE06,52.5,127.5,52.5,-127.5,Original,
-WNAI12,xd1070,Nootka,nuuc1236,Clayoquot Nootka (J12),"Nuu-chah-nulth, Aht, Central Nootka, Clayoquot Nootka",NA,Nuu-chah-nulth (NE11),http://ehrafworldcultures.yale.edu/collection?owc=NE11,49,126,49.16,-125.85,Revised,
+WNAI12,xd1070,Nuu chah nulth,nuuc1236,Clayoquot Nootka (J12),"Nuu-chah-nulth, Aht, Central Nootka, Clayoquot Nootka",NA,Nuu-chah-nulth (NE11),http://ehrafworldcultures.yale.edu/collection?owc=NE11,49,126,49.16,-125.85,Revised,
 WNAI13,xd1084,Makah,maka1318,Makah Nootkan (J13),Makah Nootkan,NA,Nootka (NE11),http://ehrafworldcultures.yale.edu/collection?owc=NE11,48.5,124.7,48.33,-124.62,Revised,
 WNAI14,xd1071,Klahoose,slia1241,Klahuse Salish (J14),"Klahoose, Klahuse",NA,,,50.5,124.5,50.5,-124.5,Original,
 WNAI15,xd1427,Pentlatch,pent1242,Pentlatch Salish (J15),Pentlatch Salish,NA,,,49.5,125,49.5,-125,Original,
 WNAI16,xd1072,Squamish,squa1248,Squamish Salish (J16),Squamish Salish,NA,,,49.7,123.3,49.7,-123.3,Original,
 WNAI17,xd1086,Cowichan,cowi1241,Cowichan Salish (J17),"Hul'q'umi'num Mustimuhw, Cowichan Salish",NA,,,48.7,123.7,48.7,-123.7,Original,
-WNAI18,xd1428,West Saanich,saan1246,West Sanetch Salish (J18),West Sanetch Salish,NA,,,48.4,123.5,48.4,-123.5,Original,"Previously saan1244, updated to  saan1246 by @kirbykat 27 April 2017"
+WNAI18,xd1428,West Saanich,saan1246,West Sanetch Salish (J18),West Sanetch Salish,NA,,,48.4,123.5,48.4,-123.5,Original,"Note 8Feb2018: Glottocode updated from saan1244 to saan1246; Previously saan1244, updated to  saan1246 by @kirbykat 27 April 2017"
 WNAI19,xd1087,Stó:lō,chil1281,Upper Stalo Salish (J19),"Stalo, Halkomelem, Fraser River Cowichan, Upper Stalo Salish",NA,,,49.4,121.5,49.4,-121.5,Original,
 WNAI20,xd1441,Musqueam,musq1240,Lower Fraser Salish (J20),Lower Fraser Salish,NA,,,49.3,123.3,49.37,-123.24,Revised,
 WNAI21,xd1074,Lummi,lumm1243,Lummi Salish (J21),"Lhaq'temish, Lummi Salish",NA,,,48.7,123.7,48.7,-123.7,Original,
@@ -31,7 +31,7 @@ WNAI29,xd1088,Alsea,alse1251,Alsea (J29),,NA,,,44.7,124,44.7,-124,Original,
 WNAI30,xd1089,Siuslaw,sius1254,Siuslaw (J30),,NA,,,44,124,44,-124,Original,
 WNAI31,xd1081,Coos,coos1249,Coos (J31),,NA,,,43.3,124.2,43.3,-124.2,Original,
 WNAI32,xd1092,Tututni,tutu1242,Tututni Athapaskan (J32),Tututni Athapaskan,NA,,,42.5,124.3,42.5,-124.3,Original,
-WNAI33,xd1422,Chetco,tolo1259,Chetco Athapaskan (J33),Chetco Athapaskan,NA,,,42.1,124.2,42.1,-124.2,Original,
+WNAI33,xd1422,Chetco,tolo1259,Chetco Athapaskan (J33),Chetco Athapaskan,NA,,,42.1,124.2,42.1,-124.2,Original,"Note 8Feb2018: KK: changed back to tolo1259, as chet1237 was a bookkeeping language."
 WNAI34,xd1423,Taltushtuntede,gali1261,Galice Creek Athapaskan (J34),"Taltushtuntude, Galice Creek or Tal-tuc-tun-te-de",NA,,,42.5,123.5,42.5,-123.5,Original,
 WNAI35,xd1103,Tolowa,tolo1259,Tolowa Athapaskan (J35),Tolowa Athapaskan,NA,,,41.7,124.2,41.87,-123.92,Revised,
 WNAI36,xd1101,Yurok,yuro1248,Yurok (J36),,NA,Yurok (NS31),http://ehrafworldcultures.yale.edu/collection?owc=NS31,41.5,124,41.5,-124,Original,
@@ -86,9 +86,9 @@ WNAI84,xd1130,Serrano,serr1255,Serrano (J84),,NA,,,34.2,117,34.2,-117,Original,
 WNAI85,xd1131,Cahuilla (Desert),cahu1264,Desert Cahuilla (J85),Desert Cahuilla,NA,,,33.5,116.2,33.5,-116.2,Original,"Note, three Cahuilla Dialects (Mountain, Pass, Desert) are recognized by some, but Glottolog does not list any dialects"
 WNAI86,xd1439,Cahuilla (Pass),cahu1264,Pass Cahuilla (J86),Pass Cahuilla,NA,,,33.8,116.7,33.8,-116.7,Original,"Note, three Cahuilla Dialects (Mountain, Pass, Desert) are recognized by some, but Glottolog does not list any dialects"
 WNAI87,xd1440,Cahuilla (Mountain),cahu1264,Mountain Cahuilla (J87),Mountain Cahuilla,NA,,,33.3,116.5,33.3,-116.5,Original,"Note, three Cahuilla Dialects (Mountain, Pass, Desert) are recognized by some, but Glottolog does not list any dialects"
-WNAI88,xd1437,Kumeyaay (Mountain Diegueno),ipai1240,Mountain Diegueno (J88),"Eastern Ipai, Northern Kumeyaay",NA,,,33,117,33,-117,Original,"Previously ipai1239, updated to  ipai1240 by @kirbykat 27 April 2017"
-WNAI89,xd1137,Kumeyaay (Western Diegueno),kumi1248,Western Diegueno (J89),"Western Ipai and Western Tipai, Southern Kumeyaay",NA,,,32.7,117.1,32.7,-117.1,Original,"Previously  tipa1240, updated to  kumi1248 by @xrotwang or @SimonGreenhill in early 2017"
-WNAI90,xd1137,Kumeyaay (Desert Diegueno),kumi1248,Desert Diegueno (J90),"Tipai, Central and Southern Kumeyaay",NA,,,32.7,116,32.7,-116,Original,"Previously  tipa1240, updated to  kumi1248 by @xrotwang or @SimonGreenhill in early 2017"
+WNAI88,xd1437,Kumeyaay (Mountain Diegueno),kumi1248,Mountain Diegueno (J88),"Eastern Ipai, Northern Kumeyaay",NA,,,33,117,33,-117,Original,"Note 8Feb2018: Glottocode updated from ipai1239 to kumi1248; Previously ipai1239, updated to  ipai1240 by @kirbykat 27 April 2017"
+WNAI89,xd1137,Kumeyaay (Western Diegueno),kumi1248,Western Diegueno (J89),"Western Ipai and Western Tipai, Southern Kumeyaay",NA,,,32.7,117.1,32.7,-117.1,Original,"Note, previously tipa1240 but changed by non-KK DPLACE editor in early 2016 (before 8April2016)"
+WNAI90,xd1137,Kumeyaay (Desert Diegueno),kumi1248,Desert Diegueno (J90),"Tipai, Central and Southern Kumeyaay",NA,,,32.7,116,32.7,-116,Original,"Note, previously tipa1240 but changed by non-KK DPLACE editor in early 2016 (before 8April2016)"
 WNAI91,xd1134,Kiliwa,kili1268,Kaliwa (Hokan) (J91),"K'olew, Kaliwa (Hokan)",NA,,,31.5,115,31.5,-115,Original,
 WNAI92,xd1426,Akwa’ala,paip1241,Akwa’ala (Hokan) (J92),"Paipai, Akwa’ala (Hokan)",NA,,,31.5,115.8,31.5,-115.8,Original,
 WNAI93,xd1035,Dakelh (Alkatcho Carrier),carr1249,Alkatcho Carrier (J93),"Carrier, Takulli, Alkatcho Carrier",NA,,,55,127,55,-127,Original,
@@ -129,7 +129,7 @@ WNAI127,xd1185,Hukundika,nort2955,Hukundika Shoshone (J127),"Seed-Eaters, Northe
 WNAI128,xd1201,Wind River Eastern Shoshone,nort2955,Wind River Shoshone (J128),"Wind River, Eastern Shoshoni, Kucundika, Buffalo Hunters, Buffalo-Eater, Wind River Shoshone",NA,,,43,109,43,-109,Original,
 WNAI129,xd1194,Uintah Ute,utee1244,Uintah Ute (J129),"Tompanowots, Yampa",NA,,,40,111,40,-111,Original,
 WNAI130,xd1199,Uncompahgre Ute,utee1244,Uncompaghre Ute (J130),Mowataviwatsiu,NA,,,38,108,38,-108,Original,
-WNAI131,xd1152,Southern Ute,utee1244,Wimonuch Ute (Shoshonean) (J131),"Wimonuch Utes, Ute Mountain Ute,  Wimonutsi, Navajo Springs, Wimonuntci, Weminute, Wimonantci Ute",NA,Ute (NT19),http://ehrafworldcultures.yale.edu/collection?owc=NT19,38,109,38,-109,Original,
+WNAI131,xd1152,Southern Ute,utee1244,Wimonuch Ute (Shoshonean) (J131),"Wimonuch Utes, Ute Mountain Ute, Wimonutsi, Navajo Springs, Wimonuntci, Weminute, Wimonantci Ute",NA,Ute (NT19),http://ehrafworldcultures.yale.edu/collection?owc=NT19,38,109,38,-109,Original,
 WNAI132,xd1188,Shivwits,sout2969,Shivwits Southern Paiute (J132),"Shivwits, Suwuntsu (St. George), Suwuntsu, St. George, Gunlock, Uinkaret, Southern Paiute",NA,,,36.8,114,36.8,-114,Original,
 WNAI133,xd1189,Southern Paiute (Kaibab and Las Vegas),sout2969,Kaibab Southern Paiute (J133),"Kaivavwits, Southern Paiute, Southern Paiute, Kaibab Southern Paiute",NA,,,36.5,112,36.5,-112,Original,
 WNAI134,xd1192,San Juan,sout2969,San Juan Southern Paiute (J134),"San Juan, Kwaanitikwokets",NA,,,37,110,37,-110,Original,
@@ -140,7 +140,7 @@ WNAI138,xd1203,Yavapai (Northeast),yava1252,Northeast Yavapai (J138),"Apache-Moj
 WNAI139,xd1203,Yavapai (Southeast),yava1252,Southeast Yavapai (J139),"Apache-Mojave, Southeast Yavapai",NA,,,33.7,111.5,33.7,-111.5,Original,
 WNAI140,xd1272,Mojave,moha1256,Mohave (J140),Mohave,NA,Mohave (NT28),in process,34.5,114.5,34.5,-114.5,Original,
 WNAI141,xd1273,Quechan,quec1382,Yuma (J141),Yuma,NA,,,32.7,114.5,32.7,-114.5,Original,
-WNAI142,xd1271,Kamia,kumi1248,Kamia (J142),,NA,,,32.5,115,32.5,-115,Original,"Previously  kimi1238, updated to  kumi1248 by @xrotwang or @SimonGreenhill in early 2017"
+WNAI142,xd1271,Kamia,kumi1248,Kamia (J142),,NA,,,32.5,115,32.5,-115,Original,"Note, previously kimi1238 but changed by non-KK DPLACE editor in early 2016 (before 8April2016)"
 WNAI143,xd1269,Cocopa,coco1261,Cocopa (J143),Cocopah,NA,,,32,115,32,-115,Original,
 WNAI144,xd1281,Maricopa,mari1440,Maricopa (J144),Piipash,NA,River (NT15),in process,33.3,112.5,33.3,-112.5,Original,
 WNAI145,xd1291,Pima,akim1239,Pima (J145),Akimel O'Odham,NA,,,33.2,112,33.2,-112,Original,
@@ -165,7 +165,7 @@ WNAI163,xd1262,Santa Ana,sant1426,Santa Ana Keres (J163),Santa Ana Keres,NA,,,35
 WNAI164,xd1278,Kewa,sant1425,Santo Domingo Keres (J164),"Kewa, Santo Domingo, Santo Domingo Pueblo",NA,,,35.3,106.1,35.3,-106.1,Original,
 WNAI165,xd1283,Cochiti,coch1273,Cochiti (J165),,NA,,,35.6,106,35.6,-106,Original,
 WNAI166,xd1429,Ohkay Owingeh,sanj1276,San Juan Tewa (J166),San Juan Tewa,NA,Tewa Pueblos (NT18),http://ehrafworldcultures.yale.edu/collection?owc=NT18,36.1,106.1,36.1,-106.1,Original,
-WNAI167,xd1261,San Ildefonso,sani1273,San Ildefonso Tewa (J167),"San Ildefonso, Tewa, San Ildefonso Pueblo",NA,Tewa (NT18),http://ehrafworldcultures.yale.edu/collection?owc=NT18,35.9,106.2,35.9,-106.2,Original,
+WNAI167,xd1261,San Ildefonso,sani1273,San Ildefonso Tewa (J167),"San Ildefonso, Tewa, San Ildefonso Pueblo",NA,Tewa (NT18),http://ehrafworldcultures.yale.edu/collection?owc=NT18,35.9,106.2,35.9,-106.2,Original,"Note 8Feb2018: Not changed, as focus is the pueblo of San Ildefonso, despite comment from HH: ""Hopi Tewa now has its own language-level glottocode Arizona Tewa ariz1237"". However, ariz1237 now linked to another society in EA."
 WNAI168,xd1277,Santa Clara,sant1421,Santa Clara Tewa (J168),Santa Clara Tewa,NA,,,36,106.3,36,-106.3,Original,
 WNAI169,xd1430,Nambé Pueblo,namb1296,Nambe Tewa (J169),Nambe Tewa,NA,Tewa Pueblos (NT18),http://ehrafworldcultures.yale.edu/collection?owc=NT18,35.9,105.9,35.9,-105.9,Original,
 WNAI170,xd1282,Taos,taos1236,Taos (J170),,NA,Taos (NT17),in process,36.5,105.5,36.5,-105.5,Original,
