@@ -26,8 +26,8 @@ B017,NA,Missing data,Missing data
 B017,1,Independent nuclear families with monogamy,"Nuclear, monogamous"
 B017,2,Independent nuclear families with occasional or limited polygyny,"Nuclear, limited polygyny"
 B017,3,Independent polyandrous families,Polyandrous
-B017,4,"Independent polygynous families, unusual co-wives pattern (either polygyny is preferentially sororal, with cowives in separate quarters or it is typically non-sororal, with cowives in same quarters ","Polygyny, atypical cowives pattern"
-B017,5,"Independent polygynous families, usual co-wives pattern (either polygyny is preferentially sororal, with cowives in same quarters, OR typically non-sororal, with cowives in separate quarters) ","Polygyny, typical cowives pattern"
+B017,4,"Independent polygynous families, unusual co-wives pattern (either polygyny is preferentially sororal, with cowives in separate quarters or it is typically non-sororal, with cowives in same quarters","Polygyny, atypical cowives pattern"
+B017,5,"Independent polygynous families, usual co-wives pattern (either polygyny is preferentially sororal, with cowives in same quarters, OR typically non-sororal, with cowives in separate quarters)","Polygyny, typical cowives pattern"
 B017,6,"Minimal extended or ""stem"" families, i.e., those consisting of only two related families of procreation (disregarding polygamous unions), particularly of adjacent generations",Minimal extended
 B017,7,"Small extended families, i.e., those normally embracing the families of procreation of only one individual in the senior generation but of at least two in the next generation. Such families usually dissolve on the death of the head",Small extended
 B017,8,"Large extended families, i.e., corporate aggregations of smaller family units occupying a single dwelling or a number of adjacent dwellings and normally embracing the families of procreation of at least two siblings or cousins in each of at least two adjacent generations",Large extended
