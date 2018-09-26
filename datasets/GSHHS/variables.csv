@@ -1,2 +1,2 @@
-category,id,title,definition,type,units,source,changes,notes
-Physical Landscape,DistToCoast_km,Distance to coast,Distance to coast,Continuous,km,High-resolution Geography Database,,
+id,category,title,definition,type,units,source,changes,notes
+DistToCoast_km,Physical Landscape,Distance to coast,Distance to coast,Continuous,km,High-resolution Geography Database,,
