@@ -1,18 +1,16 @@
 taxon,glottocode,xd_ids,soc_ids
 adze1240,adze1240,xd803,Ie26
 agta1234,agta1234,xd907,B13
-ajie1238,ajie1238,xd871,Ih5
+ajie1238,ajie1238,xd871,"Ih5, SCCS103"
 akla1241,akla1241,xd741,Ia18
-alor1247,alor1247,xd764,Ic2
 ambo1250,ambo1250,xd761,Ic11
 amis1246,amis1246,xd749,Ia9
-atay1247,atay1247,xd732,Ia1
-bali1278,bali1278,xd752,Ib3
-bana1287,bana1287,xd829,If14
+atay1247,atay1247,xd732,"Ia1, SCCS113"
+bali1278,bali1278,xd752,"SCCS84, Ib3"
+bana1287,bana1287,xd829,"SCCS107, If14"
 bata1289,bata1289,xd753,Ib4
-bata1298,bata1298,xd743,Ia3
 bata1301,bata1301,xd900,B2
-bauu1243,bauu1243,xd867,Ih14
+bauu1243,bauu1243,xd867,"SCCS102, Ih14"
 bets1235,bets1235,xd687,Eh10
 bola1250,bola1250,xd847,Ig15
 bong1287,bong1287,xd812,Ie34
@@ -28,19 +26,19 @@ cent2089,cent2089,xd744,Ia4
 cent2100,cent2100,xd754,Ib5
 cent2292,cent2292,xd748,Ia8
 cham1312,cham1312,xd839,If8
-chuu1238,chuu1238,xd833,If2
+chuu1238,chuu1238,xd833,"If2, SCCS109"
 dehu1237,dehu1237,xd873,Ih7
 dobu1241,dobu1241,xd857,Ig5
 east2447,east2447,xd887,Ii8
 east2563,east2563,xd718,Ej11
 hanu1241,hanu1241,xd745,Ia5
 hawa1245,hawa1245,xd895,Ij6
-iban1264,iban1264,xd750,Ib1
-java1254,java1254,xd751,Ib2
+iban1264,iban1264,xd750,"Ib1, SCCS85"
+java1254,java1254,xd751,"SCCS83, Ib2"
 kamb1299,kamb1299,xd771,Ic9
 kapi1249,kapi1249,xd886,Ii7
 keii1239,keii1239,xd770,Ic8
-kili1267,kili1267,xd852,Ig2
+kili1267,kili1267,xd852,"Ig2, SCCS98"
 kodi1247,kodi1247,xd763,Ic13
 koro1310,koro1310,xd740,Ia17
 kosr1238,kosr1238,xd826,If11
@@ -57,7 +55,7 @@ maka1311,maka1311,xd759,Ic1
 mala1479,mala1479,xd730,Ej8
 mana1295,mana1295,xd806,Ie29
 mang1401,mang1401,xd896,Ij7
-maor1246,maor1246,xd891,Ij2
+maor1246,maor1246,xd891,"Ij2, SCCS104"
 masi1268,masi1268,xd928,B66
 meke1243,meke1243,xd799,Ie22
 ment1249,ment1249,xd756,Ib7
@@ -72,59 +70,60 @@ mudu1242,mudu1242,xd849,Ig17
 naka1262,naka1262,xd859,Ig7
 natu1246,natu1246,xd875,Ih9
 naur1243,naur1243,xd828,If13
-nege1240,nege1240,xd723,Ej16
+nege1240,nege1240,xd723,"SCCS82, Ej16"
 niue1239,niue1239,xd888,Ii9
 nort2839,nort2839,xd866,Ih13
 nort2843,nort2843,xd874,Ih8
-nort2845,nort2845,xd892,Ij3
+nort2845,nort2845,xd892,"SCCS105, Ij3"
 nort2877,nort2877,xd742,Ia2
-nots1237,nots1237,xd856,Ig4
+nots1237,nots1237,xd856,"Ig4, SCCS97"
 nucl1479,nucl1479,xd835,If4
 nuii1237,nuii1237,xd838,If7
 onto1237,onto1237,xd884,Ii5
 paiw1248,paiw1248,xd746,Ia6
-pala1344,pala1344,xd824,If1
+pala1344,pala1344,xd824,"If1, SCCS111"
 penr1237,penr1237,xd890,Ij10
 pohn1238,pohn1238,xd836,If5
 puka1242,puka1242,xd882,Ii3
 puna1275,puna1275,xd758,Ib9
 puyu1239,puyu1239,xd734,Ia11
-rade1240,rade1240,xd717,Ej10
+rade1240,rade1240,xd717,"SCCS74, Ej10"
 raka1237,raka1237,xd893,Ij4
 rali1241,rali1241,xd827,If12
 rapa1244,rapa1244,xd898,Ij9
 raro1241,raro1241,xd889,Ij1
-rata1243,rata1243,"xd832, xd834","If3, If17"
+rata1243,rata1243,"xd834, xd832","If17, SCCS108, If3"
 renn1242,renn1242,xd877,Ii10
 rotu1241,rotu1241,xd872,Ih6
 saaa1240,saaa1240,xd858,Ig6
-saaa1241,saaa1241,xd869,Ih3
+saaa1241,saaa1241,xd869,"Ih3, SCCS101"
 saka1291,saka1291,xd694,Eh8
-samo1305,samo1305,"xd880, xd876","Ii14, Ii1"
+samo1305,samo1305,"xd876, xd880","SCCS106, Ii14, Ii1"
 sela1259,sela1259,xd768,Ic6
 siee1239,siee1239,xd865,Ih12
 simb1256,simb1256,xd860,Ig8
 sioo1240,sioo1240,xd810,Ie32
 sout2857,sout2857,xd868,Ih2
 sout2869,sout2869,xd863,Ih10
-sout2918,sout2918,xd736,Ia13
+sout2918,sout2918,xd736,"SCCS86, Ia13"
 suau1242,suau1242,xd846,Ig14
 sumb1241,sumb1241,xd762,Ic12
 tagb1258,tagb1258,xd747,Ia7
 tahi1242,tahi1242,xd897,Ij8
-tana1285,tana1285,xd689,Eh3
+tana1285,tana1285,xd689,"SCCS81, Eh3"
 tand1256,tand1256,xd693,Eh7
 term1237,term1237,xd766,Ic4
 tesa1236,tesa1236,xd695,Eh9
 tetu1245,tetu1245,xd765,Ic3
-tiko1237,tiko1237,xd881,Ii2
+tiko1237,tiko1237,xd881,"Ii2, SCCS100"
 tinp1237,tinp1237,xd855,Ig3
-tita1241,tita1241,xd861,Ig9
+tita1241,tita1241,xd861,"Ig9, SCCS96"
 toke1240,toke1240,xd885,Ii6
 tong1325,tong1325,xd878,Ii12
-tora1261,tora1261,xd767,Ic5
+tora1261,tora1261,xd767,"Ic5, SCCS87"
 tuam1242,tuam1242,xd894,Ij5
 tuva1244,tuva1244,xd883,Ii4
+tuwa1243,tuwa1243,xd743,"Ia3, SCCS112"
 ulit1238,ulit1238,xd840,If9
 vagh1249,vagh1249,xd844,Ig12
 wall1257,wall1257,xd879,Ii13
@@ -134,4 +133,4 @@ west2563,west2563,xd1442,B1
 woge1237,woge1237,xd818,Ie4
 wuvu1239,wuvu1239,xd845,Ig13
 yami1254,yami1254,xd737,Ia14
-yape1248,yape1248,xd837,If6
+yape1248,yape1248,xd837,"SCCS110, If6"

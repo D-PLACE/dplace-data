@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_miwo1274 = ((coas1301,lake1258),cent2140);
+    tree glottolog_miwo1274 = ((coas1301,lake1258),(cent2140,nort2968,sout2985));
 end;

@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_pama1250 = ((((alya1239,east2379),lowe1436),(wira1265,kaur1267)),((jaru1254,warl1254),((mart1256,wanm1242),(pint1250,(ngaa1240,pitj1243,yank1247))),kara1476),(mamu1253,ngad1260),kala1377,(((flin1247,wikm1247),umpi1239),jirj1239),(ngad1258,kari1304),(((woiw1237,djab1234),narr1259),(gami1243,wang1291),band1339,waka1274),(dhuw1249,djin1252),yaga1256,gana1278,waru1264,(karr1236,dier1241),darl1243,kuku1273);
+    tree glottolog_pama1250 = ((((alya1239,east2379),lowe1436),(wira1265,kaur1267)),((jaru1254,warl1254),((mart1256,wanm1242),(pint1250,(ngaa1240,pitj1243,yank1247))),kara1476),(mamu1253,ngad1260),kala1377,(((flin1247,wikm1247),umpi1239),jirj1239),(ngad1258,kari1304),(((woiw1237,djab1234),narr1259),(wang1291,gami1243),band1339,waka1274),(dhuw1249,djin1252),yaga1256,gana1278,waru1264,(karr1236,dier1241),darl1243,kuku1273);
 end;

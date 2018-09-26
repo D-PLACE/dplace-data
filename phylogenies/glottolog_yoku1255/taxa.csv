@@ -1,4 +1,5 @@
 taxon,glottocode,xd_ids,soc_ids
-nort2937,nort2937,xd1129,"Nc3, B154"
-tule1245,tule1245,xd1124,"Nc25, B151"
-vall1251,vall1251,xd1123,"Nc24, B148"
+nort2937,nort2937,xd1129,"WNAI73, Nc3, B154"
+sout2955,sout2955,xd1436,WNAI74
+tule1245,tule1245,xd1124,"Nc25, WNAI75, B151"
+vall1251,vall1251,xd1123,"SCCS136, WNAI76, Nc24, WNAI77, B148"

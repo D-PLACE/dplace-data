@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_tupi1275 = (((awet1244,(kama1373,(ache1246,xeta1241,mbya1239,east2555),(tupi1273,coca1259),(tapi1254,temb1276),(siri1273,yuqu1240))),sate1243),mund1330);
+    tree glottolog_tupi1275 = (((awet1244,(kama1373,((ache1246,xeta1241,mbya1239,east2555),(tupi1273,coca1259),(siri1273,yuqu1240)),(tapi1254,temb1276))),sate1243),mund1330);
 end;

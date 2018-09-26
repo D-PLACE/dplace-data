@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_coch1271 = (((coco1261,kumi1248),(mari1440,moha1256,quec1382),(hava1249,wala1270,yava1252)),kili1268);
+    tree glottolog_coch1271 = (((coco1261,(ipai1240,kumi1248)),((hava1249,wala1270,yava1252),paip1241),(mari1440,moha1256,quec1382)),kili1268);
 end;

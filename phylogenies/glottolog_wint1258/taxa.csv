@@ -1,3 +1,4 @@
 taxon,glottocode,xd_ids,soc_ids
-patw1250,patw1250,xd1121,"Nc22, B155"
-wint1259,wint1259,"xd1112, xd1107","Nc1, Nc14, B160, B153"
+noml1242,noml1242,xd1107,"Nc1, B153, WNAI50"
+nucl1651,nucl1651,xd1112,"WNAI48, WNAI49, Nc14, B160, WNAI47"
+patw1250,patw1250,xd1121,"B155, WNAI67, Nc22"

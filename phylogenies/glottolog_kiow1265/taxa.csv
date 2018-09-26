@@ -1,9 +1,11 @@
 taxon,glottocode,xd_ids,soc_ids
 hano1247,hano1247,xd1270,Nh2
-jeme1245,jeme1245,xd1284,Nh8
-kiow1266,kiow1266,xd1216,"B243, Ne17"
+jeme1245,jeme1245,xd1284,"WNAI172, Nh8"
+kiow1266,kiow1266,xd1216,"Ne17, B243"
+namb1296,namb1296,xd1430,WNAI169
 nort1550,nort1550,xd1285,Nh9
-sani1273,sani1273,xd1261,Nh11
-sant1421,sant1421,xd1277,Nh26
-sout2961,sout2961,xd1260,Nh10
-taos1236,taos1236,xd1282,Nh6
+sani1273,sani1273,xd1261,"Nh11, WNAI167"
+sanj1276,sanj1276,xd1429,WNAI166
+sant1421,sant1421,xd1277,"Nh26, WNAI168"
+sout2961,sout2961,xd1260,"WNAI171, Nh10"
+taos1236,taos1236,xd1282,"WNAI170, Nh6"

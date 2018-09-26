@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_atha1245 = ((((kiow1264,((jica1244,lipa1241),(mesc1238,nava1243,west2615))),(beav1236,chil1280,chip1261,(carr1249,sout2958),dege1248,gwic1235,hann1241,(dogr1252,(nort2942,sout2959)),holi1241,koyu1237,sars1236,seka1250,(kask1239,tahl1239),tana1289,uppe1437,nort2941),((hupa1239,matt1238,wail1244),(tolo1259,tutu1242))),eyak1241),tlin1245);
+    tree glottolog_atha1245 = ((((kiow1264,((jica1244,lipa1241),(mesc1238,nava1243,west2615))),(beav1236,chil1280,chip1261,(carr1249,sout2958),dege1248,gwic1235,hann1241,(dogr1252,(nort2942,sout2959)),holi1241,koyu1237,sars1236,seka1250,(kask1239,tahl1239),tana1289,uppe1437,nort2941),((hupa1239,kato1244,matt1238,wail1244),((gali1261,tutu1242),tolo1259))),eyak1241),tlin1245);
 end;

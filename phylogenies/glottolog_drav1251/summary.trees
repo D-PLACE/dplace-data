@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_drav1251 = (((((dand1238,koya1251),nort2702),(chen1255,mukh1238,telu1262),kuii1252),(jenn1240,(toda1252,(koda1255,((kada1242,mala1464,pali1274),(mala1468,tami1289)))))),kuru1302);
+    tree glottolog_drav1251 = (((((dand1238,koya1251),nort2702),(chen1255,mukh1238,telu1262),kuii1252),(jenn1240,(toda1252,(koda1255,((kada1242,mala1464),(mala1468,(pali1274,tami1289))))))),kuru1302);
 end;

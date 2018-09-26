@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_sino1245 = (((garo1247,kach1279),kach1280),(lepc1244,east2352),(((sent1260,mara1382),lush1249,aimo1244,(puru1266,thad1238)),((((sout2732,sumi1235),anga1288),(aona1235,loth1237)),karb1241)),((mand1415,wuch1236,yuec1235),minn1241),(tibe1272,sher1255),((akha1245,sich1238),(rakh1245,nucl1310)),pwow1235,cent2004,bori1243);
+    tree glottolog_sino1245 = (((garo1247,kach1279),kach1280),(lepc1244,east2352),((((sent1260,mara1382),lush1249),aimo1244,(puru1266,thad1238)),((((sout2732,sumi1235),anga1288),(aona1235,loth1237)),karb1241)),((mand1415,wuch1236,yuec1235),minn1241),(tibe1272,sher1255),((akha1245,sich1238),(rakh1245,nucl1310)),pwow1235,cent2004,bori1243);
 end;

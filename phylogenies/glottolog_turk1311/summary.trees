@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_turk1311 = ((yaku1245,(((bash1264,(midd1325,west2405)),(kara1464,kumy1244),kaza1248),(gaga1249,nucl1301),turk1304,qash1240,nort2690)),chuv1255);
+    tree glottolog_turk1311 = ((((bash1264,(midd1325,west2405)),(kara1464,kumy1244),kaza1248),yaku1245,(qash1240,(gaga1249,nucl1301),turk1304),nort2690),chuv1255);
 end;
