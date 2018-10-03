@@ -8,8 +8,8 @@ Na3,xd1022,Copper Inuit,copp1244,Copper Eskimo (Na3),"Kitlinermiut, Copper Eskim
 Na22,xd1025,Iglulik Inuit,west2618,Iglulik (Na22),"Igloolik, Iglulingmiut",1920,,,70,-82,70,-82,Original,
 Na1,xd1026,Nabesna,uppe1437,Nabesna (Na1),Upper Tanana Indians,1930,,,63,-141,63,-141,Original,
 Na10,xd1027,Chugach,paci1278,Chugach (Na10),"Chugachigmiut, Chugash",1930,South Alaskan Eskimo (NA10),http://ehrafworldcultures.yale.edu/collection?owc=NA10,60,-147,60.72,-146.49,Revised,
-Na11,xd1028,Sivokakmeit,aiwa1238,Sivokakmeit (Na11),St. Lawrence Island Inuit,1920,,,63,-170,63.34,-170.3,Revised,
-Na12,xd1029,Nunamiut,anak1241,Nunamiut (Na12),"Inland North Alaskan Eskimo, Nunamiut Eskimo",1950,,,68,-152,68,-152,Original,
+Na11,xd1028,Sivokakmeit,cent2128,Sivokakmeit (Na11),St. Lawrence Island Inuit,1920,,,63,-170,63.34,-170.3,Revised,
+Na12,xd1029,Nunamiut,nort2944,Nunamiut (Na12),"Inland North Alaskan Eskimo, Nunamiut Eskimo",1950,,,68,-152,68,-152,Original,HH: Belongs to language North Alaskan Inupiatun [nort2943] and more specifically to the North Slope Inupiatun [nort2944] dialect
 Ad34,xd103,Kamba,kamb1297,Kamba (Ad34),"Akamba, Wakamba",1910,,,-2,38,-2,38,Original,
 Na13,xd1030,Baffin Island Inuit,baff1240,Baffinland (Na13),Baffinland,1880,,,65,-65,65.24,-64.63,Revised,
 Na14,xd1031,Inughuit (Northern Greenland),pola1254,Polar Eskimo (Na14),"Polar Eskimo, Arctic Highlanders, Smith Sound Inuit, Smith Sound Eskimo",1880,,,78,-70,78,-70,Original,"Note 8Feb2018: Glottocode changed to [ike] based on note from HH: ""The Polar Eskimo do not speak a language intelligible to Kalaalisut and had until recent times no contact or knowledge of the Kalaalisut further south. The language is intelligible to North Baffin Inuktitut so Glottolog counts Polar Eskimo as Eastern Canadian Inuktitut [ike]. Furthermore, Oswalt 1963 is listed as a reference to Polar Eskimo but concerns a completely different people in Alaska who speak Yupik-Central [esu]."""
@@ -22,7 +22,7 @@ Na20,xd1037,Kutchin,gwic1235,Kutchin (Na20),"Gwich'in, Loucheux",1880,,,66,-135,
 Na21,xd1038,Caribou Inuit,cari1277,Caribou Eskimo (Na21),Caribou Eskimo,1900,,,63,-96,63,-96,Original,
 Na23,xd1039,Labrador Inuit,labr1244,Labrador Eskimo (Na23),"Sukinninmiut, Labrador Eskimo",1890,,,58,-65,58,-65,Original,
 Ad35,xd104,Meru,kiku1240,Meru (Ad35),,1940,,,0,35,0,35,Original,"Note 8Feb2018: Note possible mix, refs appear to refer to both kik and mer; kik assigned because majority of references refer to kik. [HH: The latter two refs deal with Kikuyu [kik] which is a different lg from Meru [mer].]"
-Na24,xd1040,Tasiilaq,tunu1234,Angmagsalik (Na24),"Angmagsalik (East Greenland), Ammassalik, East Greenland Eskimo, Polar Eskimo",1880,,,66,-37,66,-37,Original,Note 8Feb2018: Changed based on note from HH: East Greenlandic is Tunumiisiut [tunu1234] in Glottolog.
+Na24,xd1040,Tasiilaq,tunu1234,Angmagsalik (Na24),"Angmagsalik (East Greenland), Ammassalik, East Greenland Eskimo, Polar Eskimo",1880,,,66,-37,66,-37,Original,HH: Tasiilaq are a subtribe of the Angmaksalik which are Tunumiisiut [tunu1234]
 Na25,xd1041,Kalaallit (West Greenland),kala1399,Greenlanders (Na25),"West Greenland Eskimo, West Greenland Inuit",1910,,,69,-53,68.66,-51.22,Revised,Note 8Feb2018: Glottocode updated from west2617 to kala1399
 Na26,xd1042,Dena'ina,tana1289,Tanaina (Na26),Tanaina,1870,,,62,-144,62,-144,Original,
 Na27,xd1043,Tahltan,tahl1239,Tahltan (Na27),Southwestern Nahane,1870,,,58,-131,58,-131,Original,
@@ -971,7 +971,7 @@ Ec11,xd619,Selkup,selk1253,Selkup (Ec11),Ostyak Samoyed,1900,,,59,90,59,90,Origi
 Ac36,xd62,Tumbuka,tumb1250,Tumbuka (Ac36),"Atimbuka, Batumbaka, Watumbaka",1920,,,-12,34,-12,34,Original,
 ec12,xd620,Nganasan,ngan1291,Nganasan (ec12),Tavgi Samoyed,1930,Samoyed_with_notes_on_Nganasan (RU04),http://ehrafworldcultures.yale.edu/collection?owc=RU04,72,90,72,90,Original,
 ec13,xd621,Itelmen,itel1242,Itelmen (ec13),"Itelymem, Kamchadal",1710,,,55,168,54.98,161.79,Revised,
-ec14,xd622,Ungazikmit,chap1266,Ungazikmit (ec14),"Eskaleut, Asian Eskimo",1880,,,64,173,64,173,Original,
+ec14,xd622,Ungazikmit,cent2128,Ungazikmit (ec14),"Eskaleut, Asian Eskimo",1880,,,64,173,64,173,Original,
 ec15,xd623,Mansi,mans1258,Mansi (ec15),"Vogul, Gogulich, Mansiy, Voguly",1880,,,63,62,63,62,Original,
 ec16,xd624,Evenk,even1259,Evenk (ec16),"Ewenki, Tungus, Chapogir, Avanki, Avankil, Solon, Khamnigan",1890,,,55,112,55,112,Original,
 ec17,xd625,Negidal,negi1245,Negidal (ec17),"Negidaly, Neghidal",1890,,,52,134,52,134,Original,

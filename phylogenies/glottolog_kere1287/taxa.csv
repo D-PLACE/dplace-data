@@ -1,6 +1,6 @@
 taxon,glottocode,xd_ids,soc_ids
-acom1246,acom1246,"xd1264, xd1263","Nh13, Nh14"
-coch1273,coch1273,xd1283,Nh7
-sant1425,sant1425,xd1278,Nh27
-sant1426,sant1426,xd1262,Nh12
-ziaa1251,ziaa1251,xd1276,Nh25
+acom1246,acom1246,"xd1264, xd1263","WNAI161, Nh14, Nh13"
+coch1273,coch1273,xd1283,"Nh7, WNAI165"
+sant1425,sant1425,xd1278,"Nh27, WNAI164"
+sant1426,sant1426,xd1262,"Nh12, WNAI163"
+ziaa1251,ziaa1251,xd1276,"Nh25, WNAI162"

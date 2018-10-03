@@ -1,10 +1,12 @@
 taxon,glottocode,xd_ids,soc_ids
-coco1261,coco1261,xd1269,Nh19
-hava1249,hava1249,xd1163,Nd3
-kili1268,kili1268,xd1134,"Nc34, B146"
-kumi1248,kumi1248,"xd1137, xd1271","Nc6, Nh20, B147"
-mari1440,mari1440,xd1281,Nh5
-moha1256,moha1256,xd1272,Nh21
-quec1382,quec1382,xd1273,Nh22
-wala1270,wala1270,xd1202,"Nd65, B198"
-yava1252,yava1252,"xd1203, xd1274, xd1204","Nd66, Nd67, Nh23, B196"
+coco1261,coco1261,xd1269,"WNAI143, Nh19"
+hava1249,hava1249,xd1163,"WNAI136, Nd3, SCCS150"
+ipai1240,ipai1240,xd1437,WNAI88
+kili1268,kili1268,xd1134,"Nc34, WNAI91, B146"
+kumi1248,kumi1248,"xd1271, xd1137","WNAI142, B147, Nh20, WNAI89, Nc6, WNAI90"
+mari1440,mari1440,xd1281,"WNAI144, Nh5"
+moha1256,moha1256,xd1272,"WNAI140, Nh21"
+paip1241,paip1241,xd1426,WNAI92
+quec1382,quec1382,xd1273,"Nh22, WNAI141"
+wala1270,wala1270,xd1202,"Nd65, WNAI137, B198"
+yava1252,yava1252,"xd1274, xd1204, xd1203","B196, Nh23, Nd66, Nd67, WNAI138, WNAI139"

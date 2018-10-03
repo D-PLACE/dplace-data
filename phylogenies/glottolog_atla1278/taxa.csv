@@ -9,7 +9,7 @@ akye1239,akye1239,xd189,Af12
 alla1248,alla1248,xd224,Af44
 amba1263,amba1263,xd127,Ae1
 anyi1245,anyi1245,xd218,Af39
-asan1239,asan1239,xd208,Af3
+asan1239,asan1239,xd208,"SCCS19, Af3"
 ashe1269,ashe1269,xd210,Af31
 asut1235,asut1235,xd105,Ad36
 atsa1241,atsa1241,xd299,Ah10
@@ -48,7 +48,7 @@ bita1251,bita1251,xd317,Ah27
 boky1238,boky1238,xd194,Af17
 bomv1238,bomv1238,xd24,Ab21b
 bomw1238,bomw1238,xd164,Ae43
-boro1274,boro1274,"xd485, xd474","Cb8, Cb24"
+boro1274,boro1274,"xd474, xd485","SCCS25, Cb8, Cb24"
 boun1243,boun1243,xd272,Ag35
 bube1242,bube1242,xd165,Ae44
 budu1250,budu1250,xd151,Ae31
@@ -87,9 +87,9 @@ fang1246,fang1246,xd149,Ae3
 fant1241,fant1241,xd222,Af42
 fefe1239,fefe1239,xd171,Ae5
 fipa1238,fipa1238,xd86,Ad19
-fonn1241,fonn1241,xd186,Af1
+fonn1241,fonn1241,xd186,"Af1, SCCS18"
 gaaa1244,gaaa1244,xd223,Af43
-gand1255,gand1255,xd124,Ad7
+gand1255,gand1255,xd124,"Ad7, SCCS12"
 gbar1246,gbar1246,xd206,Af28
 gbir1241,gbir1241,xd333,Ah6
 giry1241,giry1241,xd101,Ad32
@@ -102,6 +102,7 @@ haaa1252,haaa1252,xd132,Ae14
 haya1250,haya1250,xd112,Ad42
 hehe1240,hehe1240,xd125,Ad8
 here1253,here1253,xd10,Ab1
+holo1240,holo1240,xd925,B62
 hund1239,hund1239,xd133,Ae15
 ibib1240,ibib1240,xd198,Af20
 idak1243,idak1243,xd110,Ad40
@@ -121,7 +122,7 @@ kada1284,kada1284,xd308,Ah19
 kago1246,kago1246,xd310,Ah20
 kagu1239,kagu1239,xd121,Ad50
 kamb1297,kamb1297,xd103,Ad34
-kang1285,kang1285,xd5,"Aa5, B65"
+kang1285,kang1285,xd5,"SCCS13, B65, Aa5"
 kaon1241,kaon1241,xd58,Ac32
 kara1481,kara1481,xd107,Ad38
 kase1253,kase1253,xd248,Ag13
@@ -129,7 +130,7 @@ kata1265,kata1265,xd298,Ah1
 kele1255,kele1255,xd146,Ae27
 keny1279,keny1279,xd193,Af16
 kere1283,kere1283,xd113,Ad43
-kiku1240,kiku1240,xd109,Ad4
+kiku1240,kiku1240,xd109,"SCCS11, Ad4"
 kiny1244,kiny1244,xd128,Ae10
 klao1243,klao1243,xd228,Af48
 komc1235,komc1235,xd176,Ae54
@@ -159,11 +160,11 @@ lobi1245,lobi1245,xd246,Ag11
 loka1252,loka1252,xd219,Af4
 long1389,long1389,xd321,Ah30
 long1393,long1393,xd143,Ae24
-lozi1239,lozi1239,xd26,Ab3
+lozi1239,lozi1239,xd26,"SCCS4, Ab3"
 luba1249,luba1249,xd134,Ae16
 luba1250,luba1250,xd182,Ae6
 luch1239,luch1239,xd52,Ac27
-lugu1238,lugu1238,xd81,Ad14
+lugu1238,lugu1238,xd81,"SCCS10, Ad14"
 luim1238,luim1238,xd53,Ac28
 lund1266,lund1266,xd72,Ac6
 luse1252,luse1252,xd148,Ae29
@@ -190,7 +191,7 @@ moba1244,moba1244,xd289,Ag50
 moch1256,moch1256,xd98,Ad3
 mokp1239,mokp1239,xd138,Ae2
 momj1237,momj1237,xd323,Ah32
-moss1236,moss1236,"xd255, xd285","Ag2, Ag47"
+moss1236,moss1236,"xd285, xd255","Ag2, Ag47"
 mpon1252,mpon1252,xd11,Ab10
 mpuo1241,mpuo1241,xd46,Ac21
 mund1325,mund1325,xd343,Ai15
@@ -207,7 +208,7 @@ ngon1269,ngon1269,xd75,Ac9
 ngul1246,ngul1246,xd122,Ad51
 njye1238,njye1238,xd161,Ae40
 nkhu1238,nkhu1238,xd22,Ab20
-nkun1238,nkun1238,xd160,Ae4
+nkun1238,nkun1238,xd160,"SCCS14, Ae4"
 nort2765,nort2765,xd197,Af2
 nort2770,nort2770,xd340,Ai12
 nort2774,nort2774,xd355,Ai26
@@ -215,12 +216,12 @@ nort2775,nort2775,xd381,Ai7
 nort2795,nort2795,xd32,Ab9
 ntch1242,ntch1242,xd286,Ag48
 nucl1240,nucl1240,xd322,Ah31
-nucl1347,nucl1347,xd469,Cb2
+nucl1347,nucl1347,xd469,"SCCS21, Cb2"
 nucl1395,nucl1395,xd64,Ac38
 nucl1396,nucl1396,xd67,Ac40
-nucl1417,nucl1417,xd187,Af10
+nucl1417,nucl1417,xd187,"Af10, SCCS17"
 nupe1254,nupe1254,xd242,Af8
-nyak1261,nyak1261,xd123,Ad6
+nyak1261,nyak1261,xd123,"Ad6, SCCS8"
 nyam1275,nyam1275,xd82,Ad15
 nyam1276,nyam1276,xd88,Ad20
 nyan1305,nyan1305,xd30,Ab7
@@ -263,13 +264,13 @@ sout2789,sout2789,xd276,Ag39
 sout2790,sout2790,xd288,Ag5
 sout2795,sout2795,xd280,Ag42
 sout2807,sout2807,xd31,Ab8
-suku1259,suku1259,xd41,Ac17
+suku1259,suku1259,xd41,"Ac17, SCCS6"
 suku1261,suku1261,xd90,Ad22
 sumb1240,sumb1240,xd117,Ad47
 suun1239,suun1239,xd42,Ac18
 swat1243,swat1243,xd21,Ab2
 tait1250,tait1250,xd106,Ad37
-taln1239,taln1239,xd277,Ag4
+taln1239,taln1239,xd277,"SCCS23, Ag4"
 taro1263,taro1263,xd312,Ah22
 teke1278,teke1278,xd43,Ac19
 temi1247,temi1247,xd108,Ad39
@@ -278,20 +279,20 @@ tete1250,tete1250,xd144,Ae25
 tige1238,tige1238,xd180,Ae58
 tigo1236,tigo1236,xd315,Ah25
 timn1235,timn1235,xd238,Af57
-tivv1240,tivv1240,xd320,Ah3
+tivv1240,tivv1240,xd320,"Ah3, SCCS16"
 tong1318,tong1318,xd56,Ac30
 tong1321,tong1321,xd37,Ac13
 toor1238,toor1238,xd118,Ad48
-town1238,town1238,xd55,Ac3
+town1238,town1238,xd55,"SCCS7, Ac3"
 tsog1243,tsog1243,xd40,Ac16
-tson1249,tson1249,xd27,Ab4
+tson1249,tson1249,xd27,"Ab4, SCCS3"
 tswa1253,tswa1253,xd14,Ab13
 tswe1238,tswe1238,xd16,Ab15
 tumb1250,tumb1250,xd62,Ac36
 tumu1242,tumu1242,xd278,Ag40
-tune1261,tune1261,xd173,Ae51
+tune1261,tune1261,xd173,"Ae51, SCCS15"
 tupu1244,tupu1244,xd349,Ai20
-umbu1257,umbu1257,xd28,Ab5
+umbu1257,umbu1257,xd28,"Ab5, SCCS5"
 vagl1239,vagl1239,xd281,Ag43
 vend1245,vend1245,xd29,Ab6
 voro1240,voro1240,xd324,Ah33
@@ -307,7 +308,7 @@ yaoo1241,yaoo1241,xd73,Ac7
 yekh1238,yekh1238,xd204,Af26
 yela1238,yela1238,xd140,Ae21
 yomb1244,yomb1244,xd74,Ac8
-zand1248,zand1248,xd359,Ai3
+zand1248,zand1248,xd359,"Ai3, SCCS28"
 zigu1242,zigu1242,xd96,Ad28
 zinz1238,zinz1238,xd119,Ad49
 zulu1248,zulu1248,xd13,Ab12
