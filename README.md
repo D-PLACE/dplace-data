@@ -13,5 +13,5 @@ in addition to the full references for Binford (2001), Binford and Johnson (2006
 
 ## Versions
 
-See the [list of releases](https://github.com/D-PLACE/dplace-data/releases) for available released versions of D-PLACE data.
+See the [list of releases](https://github.com/D-PLACE/dplace-data/releases) for available released versions of D-PLACE data, and see the [changelog](https://github.com/D-PLACE/dplace-data/blob/master/CHANGELOG.md) for the changes made in each version.
 
