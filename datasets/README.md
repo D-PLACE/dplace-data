@@ -55,6 +55,11 @@ and may optionally also provide files:
   - `glottocode_comment`: Comment on the assignment of a glottocode to this society.
 - `societies_mapping.csv`: A CSV file mapping society IDs to similar societies in other datasets.
 
+If a dataset provides societies (possibly exclusively), it is considered a "soceity
+set" as well (or exclusively). While the D-PLACE web interface distinguishes these
+two ways of contributing to D-PLACE, the data model does not - because this property
+can be computed.
+
 For a dataset to be considered for import into D-PLACE it must be registered, i.e. listed in the file [`index.csv`](index.csv), which also provides additional metadata for the dataset. [`index.csv`](index.csv) has the following columns:
 - `id`: The dataset ID, i.e. the name of the subdirectory of `datasets` the data is kept in.
 - `type`: one of `environmental`, `cultural`.
@@ -77,3 +82,7 @@ id,related
 where `<qualified-soc-id>` is a string composed as `<dataset-id>: <original name> [<soc-id>]`.
 
 Currently the only type of relation specified in the data is "equivalence", but this may be a misnomer, since this implies that the sets of equivalent societies form a partition of the set of all societies, which is not the case.
+
+Note that changing the `xd_id` of a society requires re-computing the D-PLACE 
+internal society relations.
+
