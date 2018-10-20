@@ -55,7 +55,7 @@ and may optionally also provide files:
   - `glottocode_comment`: Comment on the assignment of a glottocode to this society.
 - `societies_mapping.csv`: A CSV file mapping society IDs to similar societies in other datasets.
 
-If a dataset provides societies (possibly exclusively), it is considered a "soceity
+If a dataset provides societies (possibly exclusively), it is considered a "society
 set" as well (or exclusively). While the D-PLACE web interface distinguishes these
 two ways of contributing to D-PLACE, the data model does not - because this property
 can be computed.
