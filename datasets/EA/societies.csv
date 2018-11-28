@@ -880,7 +880,7 @@ Cf2,xd537,Boers,afri1274,Boers (Cf2),Afrikanders,1850,,,-16,28,-16,28,Original,
 Cf3,xd538,Tristan da Cunha,stan1293,Tristan da Cunha (Cf3),,1930,,,-37,-12,-37.11,-12.27,Revised,"Note, should probably be matched to a dialect other than 'standard english'"
 Cf4,xd539,Brazilians,braz1246,Brazilians (Cf4),,1940,,,-43,-47,-23.68,-46.64,Revised,
 Ac29,xd54,Luwa,sond1250,Luwa (Ac29),Balua,1930,,,-7,19,-7,19,Original,
-Cf5,xd540,French Canadians,stan1290,French Canadians (Cf5),,1930,,,47,-72,47,-72,Original,stan1290 replaced with queb1247 in Oct 2017 because it is a better match
+Cf5,xd540,French Canadians,queb1247,French Canadians (Cf5),,1930,,,47,-72,47,-72,Original,stan1290 replaced with queb1247 in Oct 2017 because it is a better match
 Cg1,xd541,Dutch,dutc1256,Dutch (Cg1),,1950,,,53,7,53,7,Original,
 Cg2,xd542,Icelanders,icel1247,Icelanders (Cg2),,1100,Early Icelanders (EQ02),http://ehrafworldcultures.yale.edu/collection?owc=EQ02,64,-20,64,-20,Original,
 Cg3,xd543,Irish,iris1253,Irish (Cg3),Gaelic,1930,Rural Irish (ER06),http://ehrafworldcultures.yale.edu/collection?owc=ER06,53,-9,53,-9,Original,
