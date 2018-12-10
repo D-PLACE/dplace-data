@@ -1,1 +1,10 @@
-The Standard Cross-Cultural Sample (SCCS) describes a subset of 186 societies that also appear in the EA. These 186 societies were chosen by George P. Murdock, the creator of the dataset, with the goal of maximizing independence among societies. The societies are globally distributed. Since the first installment of the SCCS was published by Murdock and Morrow in 1970, many others have followed, each typically focused on a particular theme (e.g., childhood, kinship systems). Over 2000 cultural variables have now been coded for the 186 societies in the SCCS.
+# Standard cross-cultural sample
+
+The Standard cross-cultural sample provided by Murdock (1969). If you use these data please cite:
+
+```
+Murdock GP & White DR. 1969. Standard Cross-Cultural Sample. Ethnology. 9:329–369.
+```
+
+See  [http://eclectic.ss.uci.edu/~drwhite/sccs/](http://eclectic.ss.uci.edu/~drwhite/sccs/).
+
