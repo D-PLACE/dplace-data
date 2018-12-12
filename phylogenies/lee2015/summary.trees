@@ -1,0 +1,5 @@
+#NEXUS
+
+begin trees;
+	tree TREE1 =  (((Hwanghae:247.208371,((SouthPyongan:98.672752,NorthPyongan:98.672752):105.450414,(SouthHamgyong:92.148787,NorthHamgyong:92.148787):111.974379):43.085205):108.070175,(Gyeonggi:309.064502,((((SouthGyeongsang:77.809615,NorthGyeongsang:77.809615):101.613883,Gangwon:179.423498):107.818994,((SouthJeolla:73.319896,NorthJeolla:73.319896):87.369039,Jeju:160.688936):126.553556):3.604536,(SouthChungcheong:90.547378,NorthChungcheong:90.547378):200.29965):18.217474):46.214044):267.421793,MiddleKorean:121.561808);
+end;
