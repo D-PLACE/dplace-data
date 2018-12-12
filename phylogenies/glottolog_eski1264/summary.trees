@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_eski1264 = ((((((kobu1239,kotz1238),nort2944),nort2945),(((pola1254)),cari1277,(queb1248,labr1244)),(copp1244,nets1241,sigl1242)),(paci1278,kusk1241)),east2533);
+    tree glottolog_eski1264 = ((((((kobu1239:1,kotz1238:1)mali1289:1,nort2944:1)nort2943:1,nort2945:1)inup1234:1,(((pola1254:1)baff1240:1)baff1241:1,cari1277:1,(queb1248:1,labr1244:1)queb1249:1)east2534:1,(kala1399:1,tunu1234:1)gree1280:1,(copp1244:1,nets1241:1,sigl1242:1)west2618:1)inui1246:1,(cent2128:1,(chug1254:1,koni1262:1)paci1278:1,kusk1241:1)yupi1267:1)eski1265:1,east2533:1);
 end;

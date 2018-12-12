@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_shas1238 = (shas1239);
+    tree glottolog_shas1238 = (shas1239:1);
 end;

@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_tuuu1241 = ((xegw1238,xamm1241,nuuu1241),huaa1248);
+    tree glottolog_tuuu1241 = ((xegw1238:1,xamm1241:1,nuuu1241:1)kwii1241:1,huaa1248:1);
 end;

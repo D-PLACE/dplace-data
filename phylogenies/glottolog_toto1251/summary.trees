@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_toto1251 = (high1243);
+    tree glottolog_toto1251 = (papa1238:1);
 end;

@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_west1503 = (port1278);
+    tree glottolog_west1503 = (port1278:1);
 end;

@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_pomo1273 = (east2545,((kash1280,sout2984),nort2966));
+    tree glottolog_pomo1273 = (east2545:1,((kash1280:1,sout2984:1)sout2983:1,nort2966:1)russ1266:1);
 end;

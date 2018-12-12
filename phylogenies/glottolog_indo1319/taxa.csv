@@ -1,12 +1,12 @@
 taxon,glottocode,xd_ids,soc_ids
 afri1274,afri1274,xd537,Cf2
 bakh1245,bakh1245,xd607,Ea8
-bass1257,bass1257,xd605,"SCCS58, Ea6"
+bass1257,bass1257,xd605,"Ea6, SCCS58"
 baya1255,baya1255,xd547,Ch10
 bela1254,bela1254,xd570,Ch6
 beng1280,beng1280,xd664,Ef2
 bhil1251,bhil1251,xd667,Ef5
-bhoj1244,bhoj1244,xd663,"SCCS63, Ef11"
+bhoj1244,bhoj1244,xd663,"Ef11, SCCS63"
 braz1246,braz1246,xd539,Cf4
 bulg1262,bulg1262,xd569,Ch5
 cent1972,cent1972,xd576,"Ci11, SCCS57"
@@ -20,14 +20,14 @@ gali1257,gali1257,xd529,Ce2
 gheg1238,gheg1238,xd528,"Ce1, SCCS48"
 ghil1238,ghil1238,xd598,Ea11
 guja1252,guja1252,xd671,Ef9
-hait1244,hait1244,xd1334,"Sb9, SCCS160"
+hait1244,hait1244,xd1334,"SCCS160, Sb9"
 haza1239,haza1239,xd602,Ea3
 icel1247,icel1247,xd542,Cg2
 indu1241,indu1241,xd603,Ea4
 iris1253,iris1253,xd543,"Cg3, SCCS51"
 kamv1242,kamv1242,xd604,Ea5
 kash1277,kash1277,xd670,Ef8
-lati1261,lati1261,xd530,"SCCS49, Ce3"
+lati1261,lati1261,xd530,"Ce3, SCCS49"
 latv1249,latv1249,xd559,ch21
 lith1251,lith1251,xd573,Ch9
 maha1287,maha1287,xd669,Ef7
@@ -39,7 +39,6 @@ neap1235,neap1235,xd532,Ce5
 nucl1235,nucl1235,xd575,"Ci10, SCCS56"
 oriy1255,oriy1255,xd683,Eg7
 osse1243,osse1243,xd582,Ci6
-panj1256,panj1256,xd600,"Ea13, SCCS59"
 queb1247,queb1247,xd540,Cf5
 russ1263,russ1263,xd548,"Ch11, SCCS54"
 sans1269,sans1269,xd665,Ef3
@@ -50,8 +49,9 @@ sind1272,sind1272,xd596,Ea1
 sinh1246,sinh1246,xd692,Eh6
 sout2604,sout2604,xd557,Ch2
 stan1288,stan1288,xd533,Ce6
-stan1293,stan1293,"xd536, xd538","Cf3, Cf1"
+stan1293,stan1293,"xd536, xd538","Cf1, Cf3"
 tehr1242,tehr1242,xd608,Ea9
-vedd1240,vedd1240,xd690,"SCCS80, Eh4, B10"
+vedd1240,vedd1240,xd690,"B10, Eh4, SCCS80"
 wall1255,wall1255,xd545,Cg5
+west2386,west2386,xd600,"Ea13, SCCS59"
 yusu1238,yusu1238,xd601,Ea2

@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_araw1281 = ((((para1316,wayu1243),araw1276,tain1254,gari1256),(curr1243,piap1246),wapi1253),(tere1279,asha1243,yine1238),pare1272,pali1279);
+    tree glottolog_araw1281 = ((((para1316:1,wayu1243:1)guaj1257:1,(gari1256:1,isla1278:1)isla1279:1,araw1276:1,tain1254:1)cari1281:1,(curr1243:1,piap1246:1)nucl1764:1,wapi1253:1)nort2990:1,(tere1279:1,ajyi1238:1,yine1238:1)sout3131:1,pare1272:1,pali1279:1);
 end;

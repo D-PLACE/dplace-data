@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_tara1323 = (pure1242);
+    tree glottolog_tara1323 = (pure1242:1);
 end;

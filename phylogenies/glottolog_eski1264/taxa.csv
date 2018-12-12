@@ -1,17 +1,21 @@
 taxon,glottocode,xd_ids,soc_ids
-baff1240,baff1240,xd1030,"Na13, B386"
-cari1277,cari1277,"xd1038, xd1024","B374, B383, Na21"
+baff1240,baff1240,xd1030,"B386, Na13"
+cari1277,cari1277,"xd1024, xd1038","B374, B383, Na21"
+cent2128,cent2128,"xd1028, xd622","B28, B379, Na11, ec14"
+chug1254,chug1254,xd1027,"B297, Na10"
 copp1244,copp1244,xd1022,"B381, Na3, SCCS124"
-east2533,east2533,xd1067,"B298, SCCS123, Na9"
+east2533,east2533,xd1067,"B298, Na9, SCCS123"
+kala1399,kala1399,xd1041,"B385, Na25"
 kobu1239,kobu1239,xd1015,B370
+koni1262,koni1262,xd999,B294
 kotz1238,kotz1238,xd1016,B371
-kusk1241,kusk1241,"xd1064, xd1014, xd1000","Na6, B299, B296, B369"
-labr1244,labr1244,xd1039,"Na23, B372"
-nets1241,nets1241,"xd1060, xd1023","B382, Na43, B387"
-nort2944,nort2944,xd1036,"B389, Na2"
+kusk1241,kusk1241,"xd1000, xd1014, xd1064","B296, B299, B369, Na6"
+labr1244,labr1244,xd1039,"B372, Na23"
+nets1241,nets1241,"xd1023, xd1060","B382, B387, Na43"
+nort2944,nort2944,"xd1021, xd1029, xd1036","B377, B380, B389, Na12, Na2"
 nort2945,nort2945,xd1018,B375
-paci1278,paci1278,xd1027,"B297, Na10"
-pola1254,pola1254,xd1031,"Na14, B390"
-queb1248,queb1248,"xd1017, xd1061","Na44, B373"
+pola1254,pola1254,xd1031,"B390, Na14"
+queb1248,queb1248,"xd1017, xd1061","B373, Na44"
 sigl1242,sigl1242,xd1019,B378
+tunu1234,tunu1234,xd1040,"B388, Na24"
 west2618,west2618,xd1025,"B384, Na22"

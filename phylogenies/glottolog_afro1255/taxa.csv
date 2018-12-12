@@ -1,17 +1,17 @@
 taxon,glottocode,xd_ids,soc_ids
 abab1239,abab1239,xd442,Ca34
 afar1241,afar1241,xd454,Ca6
-akka1240,akka1240,xd590,"SCCS45, Cj4"
-algi1247,algi1247,"xd510, xd494","Cc16, Cd12"
+akka1240,akka1240,xd590,"Cj4, SCCS45"
+algi1247,algi1247,"xd494, xd510","Cc16, Cd12"
 amar1281,amar1281,xd443,Ca35
 amha1245,amha1245,xd455,"Ca7, SCCS37"
-anci1244,anci1244,xd589,"SCCS44, Cj3"
-araw1280,araw1280,xd476,"SCCS26, Cb26"
+anci1244,anci1244,xd589,"Cj3, SCCS44"
+araw1280,araw1280,xd476,"Cb26, SCCS26"
 arbo1245,arbo1245,xd424,Ca18
 baca1246,baca1246,xd477,Cb27
 bata1314,bata1314,xd325,Ah34
 bath1248,bath1248,xd463,Cb14
-bili1260,bili1260,xd445,"SCCS38, Ca37"
+bili1260,bili1260,xd445,"Ca37, SCCS38"
 bish1251,bish1251,xd453,Ca5
 bogh1241,bogh1241,xd307,Ah18
 bora1271,bora1271,xd417,Ca11
@@ -20,6 +20,7 @@ bura1292,bura1292,xd326,Ah35
 burj1242,burj1242,xd420,Ca14
 cent2194,cent2194,xd525,Cd7
 char1283,char1283,xd465,Cb16
+chen1266,chen1266,xd508,Cd10
 cons1245,cons1245,xd515,Cd17
 daas1238,daas1238,xd427,Ca20
 dera1248,dera1248,xd478,Cb28
@@ -32,32 +33,32 @@ goro1270,goro1270,xd457,Ca9
 guan1277,guan1277,xd509,Cd11
 gude1246,gude1246,xd327,Ah36
 hade1248,hade1248,xd452,Ca43
-hass1238,hass1238,"xd527, xd504, xd496, xd495, xd487, xd497","Cc1, Cc7, Cc18, Cc19, Cc17, Cd9"
+hass1238,hass1238,"xd487, xd495, xd496, xd497, xd504, xd527","Cc1, Cc17, Cc18, Cc19, Cc7, Cd9"
 haus1257,haus1257,xd475,Cb25
-hogg1238,hogg1238,xd506,"SCCS41, Cc9"
+hogg1238,hogg1238,xd506,"Cc9, SCCS41"
 hwan1240,hwan1240,xd328,Ah37
 ioul1238,ioul1238,xd505,Cc8
 iraq1241,iraq1241,xd448,Ca4
 jebl1238,jebl1238,xd513,Cd15
 kaby1243,kaby1243,xd522,Cd4
-kano1249,kano1249,"xd486, xd458","Cb1, Cb9"
+kano1249,kano1249,"xd458, xd486","Cb1, Cb9"
 kare1348,kare1348,xd459,Cb10
 khar1296,khar1296,xd481,Cb4
 kons1243,kons1243,xd415,"Ca1, SCCS35"
 lagw1237,lagw1237,xd346,Ai18
 liby1240,liby1240,xd519,Cd20
 mafa1239,mafa1239,xd334,Ah7
-mans1267,mans1267,"xd446, xd444","Ca36, Ca38"
+mans1267,mans1267,"xd444, xd446","Ca36, Ca38"
 marg1265,marg1265,xd332,Ah5
 masa1322,masa1322,xd383,"Ai9, SCCS27"
 meso1252,meso1252,xd587,Cj10
 musg1254,musg1254,xd347,Ai19
 ngas1240,ngas1240,xd305,Ah16
 ngiz1242,ngiz1242,xd479,Cb29
-nort3051,nort3051,"xd416, xd426","Ca2, Ca10, SCCS36"
-nort3133,nort3133,"xd461, xd503, xd462","Cc6, Cb12, Cb13"
-nort3140,nort3140,xd586,Cj1
-nort3141,nort3141,xd593,Cj7
+nort3051,nort3051,"xd416, xd426","Ca10, Ca2, SCCS36"
+nort3133,nort3133,"xd461, xd462, xd503","Cb12, Cb13, Cc6"
+nort3139,nort3139,xd593,Cj7
+nort3142,nort3142,xd586,Cj1
 nucl1695,nucl1695,xd484,Cb7
 oran1236,oran1236,xd512,Cd14
 park1239,park1239,xd330,Ah39
@@ -75,18 +76,16 @@ sout3117,sout3117,xd514,Cd16
 sout3119,sout3119,xd591,Cj5
 sout3123,sout3123,xd592,Cj6
 sunn1238,sunn1238,xd594,Cj8
-susi1238,susi1238,"xd523, xd493","Cc15, Cd5"
+susi1238,susi1238,"xd493, xd523","Cc15, Cd5"
 tach1249,tach1249,xd526,Cd8
 tadh1242,tadh1242,xd490,Cc12
 tari1263,tari1263,xd521,"Cd3, SCCS42"
-tawa1287,tawa1287,xd488,Cc10
+taya1257,taya1257,xd488,Cc10
 tera1251,tera1251,xd483,Cb6
-tidi1241,tidi1241,xd508,Cd10
 tigr1271,tigr1271,xd437,Ca3
-timb1263,timb1263,"xd502, xd491","Cc13, Cc5"
+timb1263,timb1263,"xd491, xd502","Cc13, Cc5"
 tsam1247,tsam1247,xd423,Ca17
 tumz1238,tumz1238,xd501,Cc4
 tuni1260,tuni1260,xd520,Cd21
-west2721,west2721,xd419,Ca13
-west2773,west2773,xd464,Cb15
+west2721,west2721,"xd418, xd419, xd447","Ca12, Ca13, Ca39"
 zena1248,zena1248,xd499,Cc20

@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_chuk1271 = ((chuk1273,kory1246),itel1242);
+    tree glottolog_chuk1271 = ((chuk1273:1,kory1246:1)chuk1272:1,itel1242:1);
 end;

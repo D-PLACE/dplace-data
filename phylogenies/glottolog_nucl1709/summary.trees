@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_nucl1709 = ((kamo1255,(ngal1298,sout2940)),umbu1258,midg1235,enga1252,want1252,orok1269,(fore1270,sian1257),ekar1243);
+    tree glottolog_nucl1709 = ((kamo1255:1,(ngal1298:1,sout2940:1)okkk1242:1)cent2116:1,umbu1258:1,midg1235:1,enga1252:1,want1252:1,orok1269:1,(fore1270:1,sian1257:1)nucl1760:1,ekar1243:1);
 end;

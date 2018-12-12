@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_yano1268 = ((nina1238,(yano1261,yano1262)),sanu1240);
+    tree glottolog_yano1268 = ((nina1238:1,(yano1261:1,yano1262:1)yano1267:1)nina1239:1,sanu1240:1);
 end;

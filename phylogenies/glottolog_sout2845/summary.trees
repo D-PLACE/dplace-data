@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_sout2845 = ((aari1239,hame1242),dime1235);
+    tree glottolog_sout2845 = ((aari1239:1,hame1242:1)ahkk1235:1,dime1235:1);
 end;
