@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_maya1287 = (((((kaqc1270,kich1262),poqo1253),mamm1241),((chor1273,tzel1254),popt1235),(laca1243,yuca1254)),huas1242);
+    tree glottolog_maya1287 = (((((kaqc1270:1,kich1262:1)core1251:1,poqo1253:1)grea1276:1,mamm1241:1)quic1274:1,((chor1273:1,tzel1254:1)chol1286:1,popt1235:1)west2865:1,(laca1243:1,yuca1254:1)yuca1253:1)core1254:1,huas1242:1);
 end;

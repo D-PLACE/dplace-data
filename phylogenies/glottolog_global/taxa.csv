@@ -1,14 +1,13 @@
 taxon,glottocode,xd_ids,soc_ids
-aari1239,aari1239,"xd433, xd432, xd430","Ca26, Ca23, Ca25"
+aari1239,aari1239,"xd430, xd432, xd433","Ca23, Ca25, Ca26"
 abab1239,abab1239,xd442,Ca34
 abip1241,abip1241,xd1390,"SCCS183, Sh3"
 abkh1244,abkh1244,xd577,"Ci12, SCCS55"
 abro1238,abro1238,xd217,Af38
 abur1243,abur1243,xd220,Af40
 ache1246,ache1246,xd920,B47
-achu1247,achu1247,xd1108,"WNAI52, B187, Nc10, WNAI51"
-acom1246,acom1246,"xd1264, xd1263","WNAI161, Nh14, Nh13"
-acro1239,acro1239,xd1417,Sj9
+achu1247,achu1247,xd1108,"B187, Nc10, WNAI51, WNAI52"
+acom1246,acom1246,"xd1263, xd1264","Nh13, Nh14, WNAI161"
 adam1253,adam1253,xd471,Cb21
 adan1247,adan1247,xd214,Af35
 adze1240,adze1240,xd803,Ie26
@@ -16,23 +15,25 @@ afar1241,afar1241,xd454,Ca6
 afik1238,afik1238,xd201,Af23
 afri1274,afri1274,xd537,Cf2
 agta1234,agta1234,xd907,B13
+agus1235,agus1235,xd738,Ia15
 aguu1242,aguu1242,xd215,Af36
 aimo1244,aimo1244,xd698,Ei11
 ajie1238,ajie1238,xd871,"Ih5, SCCS103"
+ajyi1238,ajyi1238,xd1380,Sf7
 akab1249,akab1249,xd686,"B8, Eh1, SCCS79"
 akha1245,akha1245,xd729,Ej7
 akim1239,akim1239,xd1291,"Ni6, WNAI145"
-akka1240,akka1240,xd590,"SCCS45, Cj4"
+akka1240,akka1240,xd590,"Cj4, SCCS45"
 akla1241,akla1241,xd741,Ia18
 akur1238,akur1238,xd916,B37
 akye1239,akye1239,xd189,Af12
-alba1270,alba1270,xd1049,"SCCS127, B332, Na33"
-algi1247,algi1247,"xd510, xd494","Cc16, Cd12"
+alba1270,alba1270,xd1049,"B332, Na33, SCCS127"
+algi1247,algi1247,"xd494, xd510","Cc16, Cd12"
 alla1248,alla1248,xd224,Af44
-alse1251,alse1251,xd1088,"Nb28, WNAI29, B269"
+alse1251,alse1251,xd1088,"B269, Nb28, WNAI29"
 alur1250,alur1250,xd392,Aj17
 alya1239,alya1239,xd964,B117
-amah1246,amah1246,xd1372,"Se8, SCCS170"
+amah1246,amah1246,xd1372,"SCCS170, Se8"
 amar1281,amar1281,xd443,Ca35
 amas1236,amas1236,xd374,Ai43
 amba1263,amba1263,xd127,Ae1
@@ -40,23 +41,25 @@ ambo1250,ambo1250,xd761,Ic11
 ambu1247,ambu1247,xd791,Ie15
 amha1245,amha1245,xd455,"Ca7, SCCS37"
 amis1246,amis1246,xd749,Ia9
-anci1244,anci1244,xd589,"SCCS44, Cj3"
+anci1244,anci1244,xd589,"Cj3, SCCS44"
 anfi1235,anfi1235,xd434,Ca27
 anga1288,anga1288,xd700,Ei13
 anin1240,anin1240,xd776,"B97, Id13"
+anta1253,anta1253,xd972,B127
 anua1242,anua1242,xd375,Ai44
 anyi1245,anyi1245,xd218,Af39
 aona1235,aona1235,xd701,Ei14
 apin1244,apin1244,xd1415,Sj7
-arap1274,arap1274,xd1228,"Ne9, B246"
+arap1274,arap1274,xd1228,"B246, Ne9"
 araw1276,araw1276,xd1336,Sc10
-araw1280,araw1280,xd476,"SCCS26, Cb26"
+araw1280,araw1280,xd476,"Cb26, SCCS26"
 arbo1245,arbo1245,xd424,Ca18
 arik1262,arik1262,xd1209,Ne10
-asan1239,asan1239,xd208,"SCCS19, Af3"
-asha1243,asha1243,xd1380,Sf7
+ariz1237,ariz1237,xd1270,Nh2
+asan1239,asan1239,xd208,"Af3, SCCS19"
 ashe1269,ashe1269,xd210,Af31
-assi1247,assi1247,xd1210,"Ne11, B257"
+asho1236,asho1236,xd706,Ei19
+assi1247,assi1247,xd1210,"B257, Ne11"
 asut1235,asut1235,xd105,Ad36
 atay1247,atay1247,xd732,"Ia1, SCCS113"
 atsa1241,atsa1241,xd299,Ah10
@@ -65,11 +68,11 @@ atti1239,atti1239,xd221,Af41
 avik1243,avik1243,xd225,Af45
 awet1244,awet1244,xd1406,Si9
 awun1244,awun1244,xd274,Ag37
+ayab1239,ayab1239,xd945,B93
 baca1246,baca1246,xd477,Cb27
-baff1240,baff1240,xd1030,"Na13, B386"
+baff1240,baff1240,xd1030,"B386, Na13"
 bafi1243,bafi1243,xd169,Ae48
 bafu1246,bafu1246,xd185,Ae9
-baga1273,baga1273,xd249,Ag14
 bagi1246,bagi1246,xd350,Ai21
 bain1259,bain1259,xd251,Ag16
 baju1245,baju1245,xd76,Ad1
@@ -80,37 +83,36 @@ bako1249,bako1249,xd175,Ae53
 bakw1243,bakw1243,xd226,Af46
 bala1301,bala1301,xd250,Ag15
 bali1274,bali1274,xd153,Ae33
-bali1278,bali1278,xd752,"SCCS84, Ib3"
+bali1278,bali1278,xd752,"Ib3, SCCS84"
 bamb1264,bamb1264,xd923,B60
 bamb1269,bamb1269,xd244,"Ag1, SCCS22"
 bamu1253,bamu1253,xd172,Ae50
-bana1287,bana1287,xd829,"SCCS107, If14"
+bana1287,bana1287,xd829,"If14, SCCS107"
 bana1292,bana1292,xd804,Ie27
-band1339,band1339,xd966,B119
 band1349,band1349,xd177,Ae55
 band1352,band1352,xd235,Af54
 bank1259,bank1259,xd266,Ag3
 bann1248,bann1248,xd1200,"B252, Nd63"
 baou1238,baou1238,xd243,Af9
 bara1361,bara1361,xd356,Ai27
-bari1297,bari1297,xd1328,Sb3
 basa1282,basa1282,"xd300, xd301","Ah11, Ah12"
 bash1264,bash1264,xd549,ch12
 bask1236,bask1236,xd435,Ca28
-bass1257,bass1257,xd605,"SCCS58, Ea6"
+bass1257,bass1257,xd605,"Ea6, SCCS58"
 bass1258,bass1258,xd257,Ag21
 bata1285,bata1285,xd168,Ae47
 bata1289,bata1289,xd753,Ib4
 bata1301,bata1301,xd900,B2
 bata1314,bata1314,xd325,Ah34
 bath1248,bath1248,xd463,Cb14
-bauu1243,bauu1243,xd867,"SCCS102, Ih14"
+bauu1243,bauu1243,xd867,"Ih14, SCCS102"
 baya1255,baya1255,xd547,Ch10
 beav1236,beav1236,xd1045,"B344, Na29"
 beka1240,beka1240,xd924,B61
 bela1254,bela1254,xd570,Ch6
-bell1243,bell1243,xd1106,"WNAI11, Nb9, SCCS132, B291"
+bell1243,bell1243,xd1106,"B291, Nb9, SCCS132, WNAI11"
 bell1263,bell1263,xd1083,"B283, Nb23, WNAI9"
+bena1260,bena1260,xd324,Ah33
 bena1262,bena1262,xd78,Ad11
 bend1258,bend1258,xd85,Ad18
 beng1280,beng1280,xd664,Ef2
@@ -118,11 +120,11 @@ bera1259,bera1259,xd154,Ae34
 bero1242,bero1242,xd306,Ah17
 bets1235,bets1235,xd687,Eh10
 bhil1251,bhil1251,xd667,Ef5
-bhoj1244,bhoj1244,xd663,"SCCS63, Ef11"
+bhoj1244,bhoj1244,xd663,"Ef11, SCCS63"
 biaf1240,biaf1240,xd252,Ag17
 bidy1244,bidy1244,xd253,Ag18
-bila1255,bila1255,xd150,Ae30
-bili1260,bili1260,xd445,"SCCS38, Ca37"
+bila1255,bila1255,"xd150, xd5","Aa5, Ae30, B65, SCCS13"
+bili1260,bili1260,xd445,"Ca37, SCCS38"
 bini1246,bini1246,xd202,Af24
 binj1250,binj1250,xd159,Ae39
 birh1242,birh1242,xd911,B18
@@ -138,10 +140,10 @@ bomw1238,bomw1238,xd164,Ae43
 bong1285,bong1285,xd365,Ai35
 bong1287,bong1287,xd812,Ie34
 bora1271,bora1271,xd417,Ca11
-bord1248,bord1248,xd1309,"Sa1, SCCS158"
+bord1248,bord1248,xd1309,"SCCS158, Sa1"
 bori1243,bori1243,xd653,Ee1
-boro1274,boro1274,"xd474, xd485","SCCS25, Cb8, Cb24"
-boro1282,boro1282,xd1397,"Si1, B41"
+boro1274,boro1274,"xd474, xd485","Cb24, Cb8, SCCS25"
+boro1282,boro1282,xd1397,"B41, Si1"
 boto1242,boto1242,xd904,B7
 boun1243,boun1243,xd272,Ag35
 braz1246,braz1246,xd539,Cf4
@@ -157,29 +159,33 @@ buli1254,buli1254,xd275,Ag38
 bunu1267,bunu1267,xd733,Ia10
 bura1292,bura1292,xd326,Ah35
 burj1242,burj1242,xd420,Ca14
-buru1296,buru1296,xd654,"SCCS64, Ee2"
+buru1296,buru1296,xd654,"Ee2, SCCS64"
 bush1247,bush1247,xd66,Ac4
 buyu1239,buyu1239,xd57,Ac31
+bwaa1238,bwaa1238,xd183,Ae7
 bwai1242,bwai1242,xd848,Ig16
 cadd1256,cadd1256,"xd1234, xd1242","Nf14, Nf8"
-cahu1264,cahu1264,"xd1440, xd1131, xd1439","WNAI87, B144, Nc31, WNAI86, WNAI85"
+cahu1264,cahu1264,"xd1131, xd1439, xd1440","B144, Nc31, WNAI85, WNAI86, WNAI87"
 cama1252,cama1252,xd1337,Sc11
 came1252,came1252,xd331,Ah4
-cane1242,cane1242,xd1412,"Sj4, SCCS176"
-cari1277,cari1277,"xd1038, xd1024","B374, B383, Na21"
+cane1242,cane1242,xd1412,"SCCS176, Sj4"
+cari1277,cari1277,"xd1024, xd1038","B374, B383, Na21"
 carn1240,carn1240,xd691,"Eh5, SCCS78"
 caro1242,caro1242,xd830,If15
-carr1249,carr1249,xd1035,"WNAI94, WNAI93, Na19, B349"
+carr1249,carr1249,xd1035,"B349, Na19, WNAI93, WNAI94"
 casi1235,casi1235,xd906,B12
 cata1286,cata1286,xd1258,Ng9
 ceba1235,ceba1235,xd269,Ag32
 cebu1242,cebu1242,xd735,Ia12
 cent1972,cent1972,xd576,"Ci11, SCCS57"
+cent1989,cent1989,xd727,Ej5
 cent2004,cent2004,xd651,Ed8
+cent2050,cent2050,xd468,Cb19
 cent2084,cent2084,xd908,B14
 cent2089,cent2089,xd744,Ia4
 cent2100,cent2100,xd754,Ib5
 cent2126,cent2126,xd650,Ed7
+cent2128,cent2128,"xd1028, xd622","B28, B379, Na11, ec14"
 cent2131,cent2131,xd1286,Ni1
 cent2132,cent2132,xd1308,Nj9
 cent2136,cent2136,xd1051,"B337, Na35"
@@ -193,8 +199,9 @@ chac1251,chac1251,xd1364,Se11
 chak1266,chak1266,xd697,Ei10
 cham1312,cham1312,xd839,If8
 char1283,char1283,xd465,Cb16
-chem1251,chem1251,xd1190,"WNAI135, Nd54"
+chem1251,chem1251,xd1190,"Nd54, WNAI135"
 chen1255,chen1255,xd672,"B15, Eg1"
+chen1266,chen1266,xd508,Cd10
 cher1273,cher1273,xd1254,Ng5
 chew1246,chew1246,xd34,Ac10
 chey1247,chey1247,xd1224,"B245, Ne5"
@@ -203,11 +210,10 @@ chib1270,chib1270,xd1379,Sf6
 chic1270,chic1270,xd1249,Ng14
 chic1272,chic1272,xd1290,"B191, Ni5"
 chig1238,chig1238,xd80,Ad13
-chil1280,chil1280,xd1206,"Nd8, B348, WNAI95"
-chil1281,chil1281,xd1087,"Nb27, WNAI19, B279"
-chil1282,chil1282,xd1295,Nj1
-chim1301,chim1301,xd1094,"Nb33, B162, WNAI46"
-chin1286,chin1286,xd1078,"WNAI27, Nb19, B274"
+chil1280,chil1280,xd1206,"B348, Nd8, WNAI95"
+chil1281,chil1281,xd1087,"B279, Nb27, WNAI19"
+chim1301,chim1301,xd1094,"B162, Nb33, WNAI46"
+chin1286,chin1286,xd1078,"B274, Nb19, WNAI27"
 chip1261,chip1261,xd1046,"B355, Na30"
 chiq1248,chiq1248,xd1371,Se7
 chit1248,chit1248,xd1250,Ng15
@@ -215,39 +221,40 @@ choc1276,choc1276,xd1247,Ng12
 chok1245,chok1245,xd36,Ac12
 chon1248,chon1248,xd922,B52
 chor1273,chor1273,xd1319,Sa3
-chuk1273,chuk1273,xd631,"SCCS121, Ec3"
+chug1254,chug1254,xd1027,"B297, Na10"
+chuk1273,chuk1273,xd631,"Ec3, SCCS121"
 chuu1238,chuu1238,xd833,"If2, SCCS109"
 chuv1255,chuv1255,xd551,ch14
 cind1241,cind1241,xd303,Ah14
 clal1241,clal1241,xd1075,"B285, Nb16, WNAI22"
-clas1250,clas1250,xd1301,"SCCS153, Nj2"
+clas1250,clas1250,xd1301,"Nj2, SCCS153"
 clel1238,clel1238,xd302,Ah13
 coah1252,coah1252,xd1221,"B194, Ne21"
 coas1301,coas1301,xd983,B168
 coca1259,coca1259,xd1363,Se10
 coch1273,coch1273,xd1283,"Nh7, WNAI165"
-coco1261,coco1261,xd1269,"WNAI143, Nh19"
-coeu1236,coeu1236,xd1146,"B320, WNAI103, Nd14"
+coco1261,coco1261,xd1269,"Nh19, WNAI143"
+coeu1236,coeu1236,xd1146,"B320, Nd14, WNAI103"
 cogu1240,cogu1240,xd1327,Sb2
 colu1250,colu1250,xd1419,WNAI101
-coma1245,coma1245,xd1222,"Ne3, SCCS147, B241"
+coma1245,coma1245,xd1222,"B241, Ne3, SCCS147"
 cons1245,cons1245,xd515,Cd17
-coos1249,coos1249,xd1081,"WNAI31, Nb21, B275"
+coos1249,coos1249,xd1081,"B275, Nb21, WNAI31"
 copi1238,copi1238,xd25,Ab22
 copp1244,copp1244,xd1022,"B381, Na3, SCCS124"
 cowi1241,cowi1241,xd1086,"B280, Nb26, WNAI17"
 cree1270,cree1270,xd1252,"Ng3, SCCS145"
 crow1244,crow1244,xd1223,"B248, Ne4"
-cruz1243,cruz1243,xd1127,"Nc28, B161"
-cube1242,cube1242,xd1369,"Se5, SCCS167"
+cruz1243,cruz1243,xd1127,"B161, Nc28"
+cube1242,cube1242,xd1369,"SCCS167, Se5"
 cupe1243,cupe1243,xd1132,"B145, Nc32, WNAI83"
 curr1243,curr1243,xd1352,Sc9
 czec1258,czec1258,xd567,Ch3
 daas1238,daas1238,xd427,Ca20
 dagb1246,dagb1246,xd282,Ag44
 dako1258,dako1258,xd1220,Ne20
+dalo1238,dalo1238,xd241,Af7
 dama1270,dama1270,xd4,Aa4
-dand1238,dand1238,xd679,"SCCS60, Eg3"
 dann1241,dann1241,xd237,Af56
 darl1243,darl1243,xd973,B128
 dato1239,dato1239,xd404,Aj28
@@ -282,13 +289,12 @@ east2270,east2270,xd571,Ch7
 east2304,east2304,xd597,Ea10
 east2328,east2328,xd568,Ch4
 east2333,east2333,xd724,Ej2
-east2352,east2352,xd660,Ee8
-east2379,east2379,xd772,"Id1, SCCS91, B124"
+east2379,east2379,xd772,"B124, Id1, SCCS91"
 east2420,east2420,xd399,Aj23
 east2447,east2447,xd887,Ii8
-east2533,east2533,xd1067,"B298, SCCS123, Na9"
-east2542,east2542,xd1055,"Na39, B327"
-east2545,east2545,xd1116,"Nc18, SCCS135, B158, WNAI64, B159"
+east2533,east2533,xd1067,"B298, Na9, SCCS123"
+east2542,east2542,xd1055,"B327, Na39"
+east2545,east2545,xd1116,"B158, B159, Nc18, SCCS135, WNAI64"
 east2555,east2555,xd1394,Sh7
 east2563,east2563,xd718,Ej11
 east2690,east2690,xd588,"Cj2, SCCS46"
@@ -299,7 +305,8 @@ egba1238,egba1238,xd211,Af32
 egyp1246,egyp1246,xd524,Cd6
 egyp1253,egyp1253,xd518,"Cd2, SCCS43"
 ejag1239,ejag1239,xd195,Af18
-ekar1243,ekar1243,xd785,"SCCS94, Ie1"
+ejam1238,ejam1238,xd254,Ag19
+ekar1243,ekar1243,xd785,"Ie1, SCCS94"
 ekit1244,ekit1244,xd212,Af33
 ekon1238,ekon1238,xd139,Ae20
 eloy1241,eloy1241,xd205,Af27
@@ -309,7 +316,7 @@ erzy1239,erzy1239,xd552,ch15
 esto1258,esto1258,xd553,ch16
 etky1238,etky1238,xd314,Ah24
 even1259,even1259,xd624,ec16
-eyak1241,eyak1241,xd1102,"B295, SCCS130, Nb5"
+eyak1241,eyak1241,xd1102,"B295, Nb5, SCCS130"
 fang1246,fang1246,xd149,Ae3
 fant1241,fant1241,xd222,Af42
 fefe1239,fefe1239,xd171,Ae5
@@ -317,15 +324,13 @@ fipa1238,fipa1238,xd86,Ad19
 flin1247,flin1247,xd947,B98
 fonn1241,fonn1241,xd186,"Af1, SCCS18"
 fore1270,fore1270,xd809,Ie31
-fuga1235,fuga1235,xd447,Ca39
-furr1244,furr1244,xd466,"SCCS29, Cb17"
+furr1244,furr1244,xd466,"Cb17, SCCS29"
 gaaa1244,gaaa1244,xd223,Af43
 gaga1249,gaga1249,xd554,ch17
 gaga1251,gaga1251,xd943,B91
 gagu1242,gagu1242,xd232,Af51
 gali1257,gali1257,xd529,Ce2
 gali1261,gali1261,xd1423,WNAI34
-gali1262,gali1262,xd1329,Sb4
 gami1243,gami1243,xd970,B125
 gana1278,gana1278,xd979,B135
 gand1255,gand1255,xd124,"Ad7, SCCS12"
@@ -337,13 +342,13 @@ gede1246,gede1246,xd421,Ca15
 ghat1242,ghat1242,xd489,Cc11
 gheg1238,gheg1238,xd528,"Ce1, SCCS48"
 ghil1238,ghil1238,xd598,Ea11
-gily1242,gily1242,xd617,"Ec1, SCCS119, B25"
+gily1242,gily1242,xd617,"B25, Ec1, SCCS119"
 giry1241,giry1241,xd101,Ad32
-gitx1241,gitx1241,xd998,"WNAI6, B293"
+gitx1241,gitx1241,xd998,"B293, WNAI6"
 gogo1263,gogo1263,xd92,Ad24
 gola1255,gola1255,xd236,Af55
 goro1270,goro1270,xd457,Ca9
-gosi1242,gosi1242,xd1183,"B214, WNAI124, Nd48"
+gosi1242,gosi1242,xd1183,"B214, Nd48, WNAI124"
 gour1243,gour1243,xd283,Ag45
 gras1249,gras1249,xd801,Ie24
 gros1243,gros1243,xd1208,"B253, Ne1, SCCS140"
@@ -351,10 +356,9 @@ guai1237,guai1237,xd985,B190
 guan1277,guan1277,xd509,Cd11
 guat1253,guat1253,xd1403,"B42, Si6"
 gude1246,gude1246,xd327,Ah36
-guib1246,guib1246,xd241,Af7
 guja1252,guja1252,xd671,Ef9
 gunn1247,gunn1247,xd941,B86
-gunn1248,gunn1248,xd774,"Id11, B87"
+gunn1248,gunn1248,xd774,"B87, Id11"
 gunw1252,gunw1252,xd939,B84
 guro1248,guro1248,xd233,Af52
 gusi1247,gusi1247,xd79,Ad12
@@ -363,18 +367,17 @@ gwic1235,gwic1235,xd1037,"B356, Na20"
 gwii1239,gwii1239,xd932,B74
 haaa1252,haaa1252,xd132,Ae14
 hade1248,hade1248,xd452,Ca43
-hadz1240,hadz1240,xd9,"B69, SCCS9, Aa9"
+hadz1240,hadz1240,xd9,"Aa9, B69, SCCS9"
 haio1238,haio1238,xd930,B68
-hais1244,hais1244,xd1105,"WNAI7, Nb8, B287"
-hait1244,hait1244,xd1334,"Sb9, SCCS160"
+hais1244,hais1244,xd1105,"B287, Nb8, WNAI7"
+hait1244,hait1244,xd1334,"SCCS160, Sb9"
 halh1238,halh1238,xd611,"Eb3, SCCS66"
-hame1242,hame1242,"xd428, xd425","Ca19, Ca21"
+hame1242,hame1242,"xd425, xd428","Ca19, Ca21"
 hann1241,hann1241,xd1008,B351
-hano1247,hano1247,xd1270,Nh2
 hanu1241,hanu1241,xd745,Ia5
-hass1238,hass1238,"xd527, xd504, xd496, xd495, xd487, xd497","Cc1, Cc7, Cc18, Cc19, Cc17, Cd9"
+hass1238,hass1238,"xd487, xd495, xd496, xd497, xd504, xd527","Cc1, Cc17, Cc18, Cc19, Cc7, Cd9"
 haus1257,haus1257,xd475,Cb25
-hava1249,hava1249,xd1163,"WNAI136, Nd3, SCCS150"
+hava1249,hava1249,xd1163,"Nd3, SCCS150, WNAI136"
 hawa1245,hawa1245,xd895,Ij6
 haya1250,haya1250,xd112,Ad42
 haza1239,haza1239,xd602,Ea3
@@ -382,25 +385,23 @@ hehe1240,hehe1240,xd125,Ad8
 here1253,here1253,xd10,Ab1
 hida1246,hida1246,xd1214,"Ne15, SCCS141"
 high1242,high1242,xd1300,Nj14
-high1243,high1243,xd1303,Nj4
-high1276,high1276,xd1302,"SCCS154, Nj3"
+high1276,high1276,xd1302,"Nj3, SCCS154"
 hlai1239,hlai1239,xd652,Ed9
 hoch1243,hoch1243,xd1236,Nf2
-hogg1238,hogg1238,xd506,"SCCS41, Cc9"
+hogg1238,hogg1238,xd506,"Cc9, SCCS41"
 holi1241,holi1241,xd1013,B364
 holo1240,holo1240,xd925,B62
 hooo1248,hooo1248,xd666,Ef4
-hopi1249,hopi1249,xd1268,"WNAI159, Nh18"
+hopi1249,hopi1249,xd1268,"Nh18, WNAI159"
 horn1235,horn1235,xd647,Ed4
-hozo1236,hozo1236,xd378,"SCCS32, Ai47"
+hozo1236,hozo1236,xd378,"Ai47, SCCS32"
 huaa1248,huaa1248,xd934,B76
 huas1242,huas1242,xd1297,Nj11
 huau1238,huau1238,xd1304,Nj5
-huic1243,huic1243,xd1288,"SCCS152, Ni3"
-humb1243,humb1243,xd480,"SCCS24, Cb3"
+huic1243,huic1243,xd1288,"Ni3, SCCS152"
 hund1239,hund1239,xd133,Ae15
 hung1274,hung1274,xd572,Ch8
-hupa1239,hupa1239,xd1096,"WNAI38, B180, Nb35"
+hupa1239,hupa1239,xd1096,"B180, Nb35, WNAI38"
 hwan1240,hwan1240,xd328,Ah37
 iatm1242,iatm1242,xd813,Ie35
 iban1264,iban1264,xd750,"Ib1, SCCS85"
@@ -418,30 +419,29 @@ indu1241,indu1241,xd603,Ea4
 ingr1248,ingr1248,xd555,ch18
 ioul1238,ioul1238,xd505,Cc8
 iowa1246,iowa1246,xd1230,Nf10
-ipai1240,ipai1240,xd1437,WNAI88
 iraq1241,iraq1241,xd448,Ca4
 iris1253,iris1253,xd543,"Cg3, SCCS51"
 isek1239,isek1239,xd200,Af22
-isla1276,isla1276,xd1073,"Nb14, B282"
+isla1276,isla1276,xd1073,"B282, Nb14"
+isla1278,isla1278,xd1326,"SCCS161, Sb1"
 isok1239,isok1239,xd203,Af25
 isth1238,isth1238,xd1306,Nj7
 itel1242,itel1242,xd621,ec13
 iyow1239,iyow1239,xd1392,Sh5
 jara1245,jara1245,xd903,B6
 jaru1254,jaru1254,xd956,B108
-java1254,java1254,xd751,"SCCS83, Ib2"
+java1254,java1254,xd751,"Ib2, SCCS83"
 jebl1238,jebl1238,xd513,Cd15
-jeme1245,jeme1245,xd1284,"WNAI172, Nh8"
+jeme1245,jeme1245,xd1284,"Nh8, WNAI172"
 jena1242,jena1242,xd264,Ag28
-jenn1240,jenn1240,"xd914, xd913","B20, B21"
+jenn1240,jenn1240,"xd913, xd914","B20, B21"
 jibu1239,jibu1239,xd313,Ah23
-jica1244,jica1244,xd1266,"WNAI156, Nh16"
+jica1244,jica1244,xd1266,"Nh16, WNAI156"
 jiee1239,jiee1239,xd397,Aj21
 jirj1239,jirj1239,xd775,"B94, Id12"
-jola1263,jola1263,xd254,Ag19
-juho1239,juho1239,xd1,"B72, Aa1, SCCS2"
+juho1239,juho1239,xd1,"Aa1, B72, SCCS2"
 juku1254,juku1254,xd309,Ah2
-jurm1239,jurm1239,xd366,Ai36
+juxt1235,juxt1235,xd1298,Nj12
 kaba1278,kaba1278,xd580,Ci4
 kabi1261,kabi1261,xd287,Ag49
 kaby1243,kaby1243,xd522,Cd4
@@ -456,7 +456,8 @@ kagu1239,kagu1239,xd121,Ad50
 kakw1240,kakw1240,xd389,Aj14
 kala1377,kala1377,xd937,B82
 kala1381,kala1381,xd199,Af21
-kali1309,kali1309,"xd1144, xd1145","Nd12, WNAI105, B330, Nd13, B326, WNAI104"
+kala1399,kala1399,xd1041,"B385, Na25"
+kali1309,kali1309,"xd1144, xd1145","B326, B330, Nd12, Nd13, WNAI104, WNAI105"
 kalm1243,kalm1243,xd574,Ci1
 kama1373,kama1373,xd1402,Si5
 kamb1297,kamb1297,xd103,Ad34
@@ -464,31 +465,31 @@ kamb1299,kamb1299,xd771,Ic9
 kamo1255,kamo1255,xd808,Ie30
 kamv1242,kamv1242,xd604,Ea5
 kane1243,kane1243,xd467,Cb18
-kang1285,kang1285,xd5,"SCCS13, B65, Aa5"
-kano1249,kano1249,"xd486, xd458","Cb1, Cb9"
+kano1249,kano1249,"xd458, xd486","Cb1, Cb9"
 kaon1241,kaon1241,xd58,Ac32
 kapi1249,kapi1249,xd886,Ii7
 kaqc1270,kaqc1270,xd1311,Sa11
-kara1289,kara1289,xd1215,"Ne16, B193"
+kara1289,kara1289,xd1215,"B193, Ne16"
 kara1464,kara1464,xd560,ch22
 kara1476,kara1476,xd953,B104
 kara1481,kara1481,xd107,Ad38
 kara1500,kara1500,xd1407,Sj1
 karb1241,karb1241,xd704,Ei17
 kare1348,kare1348,xd459,Cb10
-kari1304,kari1304,xd780,"Id5, B106"
+kari1304,kari1304,xd780,"B106, Id5"
 karo1304,karo1304,xd1095,"B182, Nb34, WNAI37"
 karr1236,karr1236,xd963,B116
 kase1253,kase1253,xd248,Ag13
 kash1277,kash1277,xd670,Ef8
 kash1280,kash1280,xd1418,B165
-kask1239,kask1239,xd1056,"Na4, B346, SCCS129"
+kask1239,kask1239,xd1056,"B346, Na4, SCCS129"
 kata1265,kata1265,xd298,Ah1
 kato1244,kato1244,xd1425,WNAI43
 kaur1267,kaur1267,xd974,B129
-kawa1283,kawa1283,xd1126,"Nc27, WNAI79, B199"
+kawa1283,kawa1283,xd1126,"B199, Nc27, WNAI79"
 kaya1319,kaya1319,xd952,B103
-kaza1248,kaza1248,xd609,"SCCS65, Eb1"
+kaya1330,kaya1330,xd1417,Sj9
+kaza1248,kaza1248,xd609,"Eb1, SCCS65"
 keii1239,keii1239,xd770,Ic8
 keiy1238,keiy1238,xd401,Aj25
 kele1255,kele1255,xd146,Ae27
@@ -496,23 +497,24 @@ kens1248,kens1248,xd725,"B9, Ej3, SCCS77"
 kenu1236,kenu1236,xd507,"Cd1, SCCS39"
 keny1279,keny1279,xd193,Af16
 kere1283,kere1283,xd113,Ad43
-kett1243,kett1243,xd636,"Ec8, B24"
+kett1243,kett1243,xd636,"B24, Ec8"
 khan1273,khan1273,xd618,Ec10
 khar1296,khar1296,xd481,Cb4
 khas1269,khas1269,xd714,Ei8
 kich1262,kich1262,xd1313,"SCCS155, Sa13"
 kick1244,kick1244,xd1235,Nf15
-kiku1240,kiku1240,xd109,"SCCS11, Ad4"
+kiku1240,kiku1240,"xd104, xd109","Ad35, Ad4, SCCS11"
 kili1267,kili1267,xd852,"Ig2, SCCS98"
-kili1268,kili1268,xd1134,"Nc34, WNAI91, B146"
-kima1246,kima1246,xd794,"SCCS93, Ie18"
+kili1268,kili1268,xd1134,"B146, Nc34, WNAI91"
+kima1246,kima1246,xd794,"Ie18, SCCS93"
 kimm1245,kimm1245,xd641,Ed14
 kiny1244,kiny1244,xd128,Ae10
-kiow1264,kiow1264,xd1219,"Ne2, B244"
-kiow1266,kiow1266,xd1216,"Ne17, B243"
+kiow1264,kiow1264,xd1219,"B244, Ne2"
+kiow1266,kiow1266,xd1216,"B243, Ne17"
 kips1239,kips1239,xd414,Aj9
+kita1249,kita1249,xd297,Ag9
 kitj1240,kitj1240,xd950,B101
-klam1254,klam1254,"xd1140, xd1139","Nc9, WNAI113, Nc8, B189, B188, WNAI112, SCCS138"
+klam1254,klam1254,"xd1139, xd1140","B188, B189, Nc8, Nc9, SCCS138, WNAI112, WNAI113"
 klao1243,klao1243,xd228,Af48
 klik1240,klik1240,xd1435,WNAI109
 koal1240,koal1240,xd367,Ai37
@@ -522,17 +524,19 @@ kodi1247,kodi1247,xd763,Ic13
 koit1244,koit1244,xd797,Ie20
 komc1235,komc1235,xd176,Ae54
 komo1260,komo1260,xd152,Ae32
+koni1262,koni1262,xd999,B294
 konk1269,konk1269,xd245,Ag10
 kons1243,kons1243,xd415,"Ca1, SCCS35"
 konz1239,konz1239,xd114,Ad44
+koon1244,koon1244,xd42,Ac18
 kooo1244,kooo1244,xd348,Ai2
-koor1239,koor1239,"xd418, xd449","Ca40, Ca12"
+koor1239,koor1239,xd449,Ca40
 koro1310,koro1310,xd740,Ia17
 kory1246,kory1246,xd633,Ec5
 kosr1238,kosr1238,xd826,If11
-kota1274,kota1274,xd162,Ae41
 kotz1238,kotz1238,xd1016,B371
 koya1251,koya1251,xd674,Eg11
+koyr1242,koyr1242,xd480,"Cb3, SCCS24"
 koyu1237,koyu1237,xd1010,B354
 kren1239,kren1239,xd1413,"B48, SCCS178, Sj5"
 kron1241,kron1241,xd368,Ai38
@@ -542,7 +546,7 @@ kuii1252,kuii1252,xd675,Eg12
 kuik1246,kuik1246,xd1398,Si10
 kuku1273,kuku1273,xd946,B96
 kuku1285,kuku1285,xd390,Aj15
-kumi1248,kumi1248,"xd1271, xd1137","WNAI142, B147, Nh20, WNAI89, Nc6, WNAI90"
+kumi1248,kumi1248,"xd1137, xd1271, xd1437","B147, Nc6, Nh20, WNAI142, WNAI88, WNAI89, WNAI90"
 kumy1244,kumy1244,xd579,Ci3
 kuna1268,kuna1268,xd441,Ca33
 kund1255,kund1255,xd63,Ac37
@@ -551,25 +555,24 @@ kura1249,kura1249,xd311,Ah21
 kura1250,kura1250,xd260,Ag24
 kuru1302,kuru1302,xd668,Ef6
 kusa1250,kusa1250,xd279,Ag41
-kusk1241,kusk1241,"xd1064, xd1014, xd1000","Na6, B299, B296, B369"
+kusk1241,kusk1241,"xd1000, xd1014, xd1064","B296, B299, B369, Na6"
 kusu1252,kusu1252,xd141,Ae22
-kute1249,kute1249,xd1205,"SCCS139, WNAI106, B250, Nd7"
-kwaa1265,kwaa1265,xd183,Ae7
+kute1249,kute1249,xd1205,"B250, Nd7, SCCS139, WNAI106"
 kwai1243,kwai1243,xd850,Ig18
 kwak1269,kwak1269,xd1090,"B288, Nb3, WNAI10"
 kwas1243,kwas1243,xd163,Ae42
 kwer1261,kwer1261,xd95,Ad27
-kwom1262,kwom1262,xd788,"SCCS95, Ie12"
+kwom1262,kwom1262,xd788,"Ie12, SCCS95"
 kxoe1243,kxoe1243,xd929,B67
 labo1236,labo1236,xd531,Ce4
-labr1244,labr1244,xd1039,"Na23, B372"
+labr1244,labr1244,xd1039,"B372, Na23"
 labw1238,labw1238,xd398,Aj22
 laca1243,laca1243,xd1310,Sa10
 lacs1238,lacs1238,xd1050,"B334, Na34"
 lagw1237,lagw1237,xd346,Ai18
-laka1252,laka1252,xd341,Ai13
+laka1254,laka1254,xd341,Ai13
 lake1258,lake1258,xd1120,"B170, Nc21"
-lako1247,lako1247,xd1227,"Ne8, B249"
+lako1247,lako1247,xd1227,"B249, Ne8"
 lala1264,lala1264,xd59,Ac33
 lama1277,lama1277,xd769,Ic7
 lamb1271,lamb1271,xd71,Ac5
@@ -581,7 +584,7 @@ lang1320,lang1320,xd93,Ad25
 lang1324,lang1324,xd409,Aj4
 lara1258,lara1258,xd938,B83
 lard1243,lard1243,xd951,B102
-lati1261,lati1261,xd530,"SCCS49, Ce3"
+lati1261,lati1261,xd530,"Ce3, SCCS49"
 latv1249,latv1249,xd559,ch21
 laua1243,laua1243,xd870,Ih4
 lega1249,lega1249,xd135,Ae17
@@ -595,7 +598,7 @@ lese1243,lese1243,xd360,Ai30
 libe1247,libe1247,xd192,Af15
 liby1240,liby1240,xd519,Cd20
 ligo1238,ligo1238,xd413,Aj8
-lill1248,lill1248,xd1207,"WNAI97, B276, Nd9"
+lill1248,lill1248,xd1207,"B276, Nd9, WNAI97"
 limb1268,limb1268,xd179,Ae57
 ling1263,ling1263,xd147,Ae28
 lipa1241,lipa1241,xd1275,"B240, Nh24, WNAI155"
@@ -613,19 +616,18 @@ long1395,long1395,xd853,Ig20
 loth1237,loth1237,xd707,Ei2
 lowe1427,lowe1427,xd997,B272
 lowe1436,lowe1436,xd968,B122
-lozi1239,lozi1239,xd26,"SCCS4, Ab3"
+lozi1239,lozi1239,xd26,"Ab3, SCCS4"
 luba1249,luba1249,xd134,Ae16
-luba1250,luba1250,xd182,Ae6
+luba1250,luba1250,"xd182, xd61","Ac35, Ae6"
 lubu1243,lubu1243,xd739,Ia16
 luch1239,luch1239,xd52,Ac27
 lugb1240,lugb1240,xd362,Ai32
-lugu1238,lugu1238,xd81,"SCCS10, Ad14"
+lugu1238,lugu1238,xd81,"Ad14, SCCS10"
 luim1238,luim1238,xd53,Ac28
-luis1253,luis1253,xd1133,"WNAI82, Nc33, B150"
-lule1254,lule1254,xd544,"Cg4, SCCS52"
-lumm1243,lumm1243,xd1074,"WNAI21, B277, Nb15"
+luis1253,luis1253,xd1133,"B150, Nc33, WNAI82"
+lumm1243,lumm1243,xd1074,"B277, Nb15, WNAI21"
 lund1266,lund1266,xd72,Ac6
-luok1236,luok1236,xd411,Aj6
+luok1236,luok1236,"xd366, xd411","Ai36, Aj6"
 luse1252,luse1252,xd148,Ae29
 lush1249,lush1249,xd708,Ei20
 luun1238,luun1238,xd60,Ac34
@@ -637,13 +639,12 @@ mafa1239,mafa1239,xd334,Ah7
 maha1287,maha1287,xd669,Ef7
 mait1250,mait1250,xd662,Ef10
 maka1311,maka1311,xd759,Ic1
-maka1318,maka1318,xd1084,"WNAI13, B286, Nb24"
+maka1318,maka1318,xd1084,"B286, Nb24, WNAI13"
 makh1264,makh1264,xd69,Ac42
 mako1251,mako1251,xd68,Ac41
 mala1464,mala1464,xd682,Eg6
 mala1468,mala1468,xd905,B11
 mala1479,mala1479,xd730,Ej8
-malb1235,malb1235,xd273,Ag36
 male1284,male1284,xd429,Ca22
 mama1271,mama1271,xd268,Ag31
 mamb1296,mamb1296,xd70,Ac43
@@ -654,49 +655,49 @@ mamv1243,mamv1243,xd379,Ai5
 mana1295,mana1295,xd806,Ie29
 manc1252,manc1252,xd646,"Ed3, SCCS115"
 mand1415,mand1415,xd639,Ed10
-mand1423,mand1423,xd65,Ac39
 mand1425,mand1425,xd391,Aj16
 mand1446,mand1446,xd1225,Ne6
-mang1399,mang1399,xd468,Cb19
 mang1401,mang1401,xd896,Ij7
 mans1258,mans1258,xd623,ec15
-mans1267,mans1267,"xd446, xd444","Ca36, Ca38"
+mans1267,mans1267,"xd444, xd446","Ca36, Ca38"
 manz1243,manz1243,xd353,Ai24
 maor1246,maor1246,xd891,"Ij2, SCCS104"
 maqu1238,maqu1238,xd1342,Sc16
 mara1382,mara1382,xd710,"Ei4, SCCS70"
 marg1265,marg1265,xd332,Ah5
-mari1440,mari1440,xd1281,"WNAI144, Nh5"
+mari1414,mari1414,xd679,"Eg3, SCCS60"
+mari1440,mari1440,xd1281,"Nh5, WNAI144"
 mart1256,mart1256,xd958,B111
 masa1299,masa1299,xd126,Ad9
-masa1300,masa1300,xd395,"SCCS34, Aj2"
+masa1300,masa1300,xd395,"Aj2, SCCS34"
 masa1322,masa1322,xd383,"Ai9, SCCS27"
 masi1268,masi1268,xd928,B66
-matt1238,matt1238,xd1099,"WNAI41, Nb38, B169"
+matt1238,matt1238,xd1099,"B169, Nb38, WNAI41"
 mbal1257,mbal1257,xd39,Ac15
 mban1263,mban1263,xd354,Ai25
 mbes1238,mbes1238,xd156,Ae36
 mbug1242,mbug1242,xd120,Ad5
+mbul1258,mbul1258,xd249,Ag14
 mbum1254,mbum1254,xd342,Ai14
-mbya1239,mbya1239,xd1408,"Sj10, SCCS181"
+mbya1239,mbya1239,xd1408,"SCCS181, Sj10"
 meen1242,meen1242,xd393,Aj18
 meke1243,meke1243,xd799,Ie22
 mend1266,mend1266,xd230,"Af5, SCCS20"
 meno1252,meno1252,xd1243,Nf9
 ment1249,ment1249,xd756,Ib7
 meri1243,meri1243,xd688,Eh2
-meru1245,meru1245,xd104,Ad35
-mesc1238,mesc1238,"xd1265, xd1259","B242, SCCS148, WNAI152, Nh15, Nh1, WNAI154, WNAI153"
+mesc1238,mesc1238,"xd1259, xd1265","B242, Nh1, Nh15, SCCS148, WNAI152, WNAI153, WNAI154"
 mesk1242,mesk1242,xd1241,Nf7
 meso1252,meso1252,xd587,Cj10
 meta1238,meta1238,xd181,Ae59
 mezq1235,mezq1235,xd1299,Nj13
 miam1252,miam1252,xd1238,Nf4
 midd1325,midd1325,xd558,ch20
+midd1357,midd1357,xd966,B119
 midg1235,midg1235,xd816,Ie38
 mido1240,mido1240,xd460,Cb11
 mika1239,mika1239,xd1251,Ng2
-mikm1235,mikm1235,xd1058,"SCCS126, B329, Na41"
+mikm1235,mikm1235,xd1058,"B329, Na41, SCCS126"
 mina1268,mina1268,xd755,Ib6
 minn1241,minn1241,xd649,Ed6
 miya1259,miya1259,xd642,Ed15a
@@ -706,18 +707,18 @@ moba1244,moba1244,xd289,Ag50
 moch1256,moch1256,xd98,Ad3
 mode1248,mode1248,xd534,Ce7
 mogh1245,mogh1245,xd606,Ea7
-moha1256,moha1256,xd1272,"WNAI140, Nh21"
+moha1256,moha1256,xd1272,"Nh21, WNAI140"
 moke1242,moke1242,xd728,Ej6
 mokp1239,mokp1239,xd138,Ae2
 mold1248,mold1248,xd563,ch25
 moli1248,moli1248,xd851,Ig19
 momj1237,momj1237,xd323,Ah32
-mono1275,mono1275,"xd993, xd1162, xd1164, xd1122","Nc23, Nd29, B219, WNAI72, WNAI71, B202, B211, WNAI117, B157, B206, Nd30"
-mont1268,mont1268,xd1048,"B342, SCCS125, Na32"
+mono1275,mono1275,"xd1122, xd1162, xd1164, xd993","B157, B202, B206, B211, B219, Nc23, Nd29, Nd30, WNAI117, WNAI71, WNAI72"
+mont1268,mont1268,xd1048,"B342, Na32, SCCS125"
 moro1285,moro1285,xd371,Ai40
 mort1237,mort1237,xd825,If10
 moru1253,moru1253,xd364,Ai34
-moss1236,moss1236,"xd285, xd255","Ag2, Ag47"
+moss1236,moss1236,"xd255, xd285","Ag2, Ag47"
 mota1237,mota1237,xd862,Ih1
 motu1246,motu1246,xd786,Ie10
 mpon1252,mpon1252,xd11,Ab10
@@ -730,9 +731,10 @@ mund1325,mund1325,xd343,Ai15
 mund1330,mund1330,xd1353,"SCCS166, Sd1"
 mung1266,mung1266,xd170,Ae49
 muon1246,muon1246,xd720,Ej13
-mura1272,mura1272,xd1346,"Sc3, SCCS164"
+mura1272,mura1272,xd1346,"SCCS164, Sc3"
 musg1254,musg1254,xd347,Ai19
 musq1240,musq1240,xd1441,WNAI20
+mwer1247,mwer1247,xd65,Ac39
 myen1241,myen1241,xd167,Ae46
 naka1262,naka1262,xd859,Ig7
 nama1265,nama1265,xd3,"Aa3, SCCS1"
@@ -741,22 +743,23 @@ nana1257,nana1257,xd637,Ec9
 nand1266,nand1266,xd412,Aj7
 nank1249,nank1249,xd247,Ag12
 nara1262,nara1262,xd440,Ca32
-naro1249,naro1249,xd7,"B73, Aa7"
+naro1249,naro1249,xd7,"Aa7, B73"
 narr1259,narr1259,xd975,B131
-nask1242,nask1242,xd1063,"Na5, B365"
+nask1242,nask1242,xd1063,"B365, Na5"
 natc1249,natc1249,xd1256,"Ng7, SCCS146"
 natu1246,natu1246,xd875,Ih9
 naur1243,naur1243,xd828,If13
-nava1243,nava1243,xd1279,"WNAI157, Nh3, WNAI158"
+nava1243,nava1243,xd1279,"Nh3, WNAI157, WNAI158"
+ndas1238,ndas1238,xd162,Ae41
 ndau1241,ndau1241,xd18,Ab17
 ndon1254,ndon1254,xd20,Ab19
 ndoo1241,ndoo1241,xd316,Ah26
 ndyu1242,ndyu1242,xd1344,Sc18
 neap1235,neap1235,xd532,Ce5
-nege1240,nege1240,xd723,"SCCS82, Ej16"
+nege1240,nege1240,xd723,"Ej16, SCCS82"
 negi1245,negi1245,xd625,ec17
 nene1249,nene1249,xd632,"Ec4, SCCS53"
-nets1241,nets1241,"xd1060, xd1023","B382, Na43, B387"
+nets1241,nets1241,"xd1023, xd1060","B382, B387, Na43"
 nezp1238,nezp1238,xd1153,"B324, Nd20, WNAI107"
 ngaa1240,ngaa1240,xd965,B118
 ngab1239,ngab1239,xd1314,Sa14
@@ -771,56 +774,52 @@ ngiz1242,ngiz1242,xd479,Cb29
 ngon1268,ngon1268,xd83,Ad16
 ngon1269,ngon1269,xd75,Ac9
 ngul1246,ngul1246,xd122,Ad51
-nina1238,nina1238,xd1358,"Sd6, B36"
-nise1244,nise1244,xd1111,"WNAI58, B163, WNAI57, WNAI59, Nc13"
+nina1238,nina1238,xd1358,"B36, Sd6"
+nise1244,nise1244,xd1111,"B163, Nc13, WNAI57, WNAI58, WNAI59"
 niue1239,niue1239,xd888,Ii9
 njye1238,njye1238,xd161,Ae40
 nkhu1238,nkhu1238,xd22,Ab20
-nkun1238,nkun1238,xd160,"SCCS14, Ae4"
-noml1242,noml1242,xd1107,"Nc1, B153, WNAI50"
-nort1550,nort1550,xd1285,Nh9
-nort1551,nort1551,"xd1158, xd1155, xd994, xd1157, xd1154, xd1156","B231, WNAI114, Nd25, Nd22, SCCS137, B226, WNAI115, B223, Nd24, Nd23, Nd21"
+nkun1238,nkun1238,xd160,"Ae4, SCCS14"
+noml1242,noml1242,xd1107,"B153, Nc1, WNAI50"
+nort1551,nort1551,"xd1154, xd1155, xd1156, xd1157, xd1158, xd994","B223, B226, B231, Nd21, Nd22, Nd23, Nd24, Nd25, SCCS137, WNAI114, WNAI115"
+nort2671,nort2671,xd544,"Cg4, SCCS52"
 nort2676,nort2676,xd550,ch13
 nort2690,nort2690,xd616,Eb8
-nort2702,nort2702,xd676,Eg13
-nort2745,nort2745,xd634,"B26, SCCS120, Ec6"
+nort2745,nort2745,xd634,"B26, Ec6, SCCS120"
 nort2765,nort2765,xd197,Af2
-nort2770,nort2770,xd340,Ai12
 nort2774,nort2774,xd355,Ai26
 nort2775,nort2775,xd381,Ai7
 nort2795,nort2795,xd32,Ab9
 nort2819,nort2819,xd267,Ag30
 nort2839,nort2839,xd866,Ih13
 nort2843,nort2843,xd874,Ih8
-nort2845,nort2845,xd892,"SCCS105, Ij3"
+nort2845,nort2845,xd892,"Ij3, SCCS105"
 nort2877,nort2877,xd742,Ia2
-nort2937,nort2937,xd1129,"WNAI73, Nc3, B154"
-nort2938,nort2938,xd1068,"B290, WNAI3, Nb1, SCCS131"
+nort2937,nort2937,xd1129,"B154, Nc3, WNAI73"
+nort2938,nort2938,xd1068,"B290, Nb1, SCCS131, WNAI3"
 nort2941,nort2941,xd1012,B363
-nort2942,nort2942,"xd1007, xd1009, xd1033","B352, Na16, B358, B350"
-nort2944,nort2944,xd1036,"B389, Na2"
+nort2942,nort2942,"xd1007, xd1009, xd1033","B350, B352, B358, Na16"
+nort2944,nort2944,"xd1021, xd1029, xd1036","B377, B380, B389, Na12, Na2"
 nort2945,nort2945,xd1018,B375
 nort2951,nort2951,xd1433,WNAI55
 nort2952,nort2952,xd1110,"B185, Nc12, WNAI56"
-nort2955,nort2955,"xd1182, xd1181, xd1201, xd1180, xd1185","B229, WNAI128, B213, Nd5, B207, WNAI127, Nd45, Nd64, B232, WNAI126, Nd47, WNAI125, Nd46, B227"
+nort2955,nort2955,"xd1180, xd1181, xd1182, xd1185, xd1201","B207, B213, B227, B229, B232, Nd45, Nd46, Nd47, Nd5, Nd64, WNAI125, WNAI126, WNAI127, WNAI128"
 nort2959,nort2959,xd1294,Ni9
-nort2966,nort2966,xd1115,"B173, WNAI63, Nc17"
+nort2966,nort2966,xd1115,"B173, Nc17, WNAI63"
 nort2968,nort2968,xd1420,WNAI68
 nort2972,nort2972,xd1320,Sa4
-nort2986,nort2986,xd1298,Nj12
-nort3051,nort3051,"xd416, xd426","Ca2, Ca10, SCCS36"
-nort3133,nort3133,"xd461, xd503, xd462","Cc6, Cb12, Cb13"
-nort3140,nort3140,xd586,Cj1
-nort3141,nort3141,xd593,Cj7
+nort3051,nort3051,"xd416, xd426","Ca10, Ca2, SCCS36"
+nort3133,nort3133,"xd461, xd462, xd503","Cb12, Cb13, Cc6"
+nort3139,nort3139,xd593,Cj7
+nort3142,nort3142,xd586,Cj1
 nots1237,nots1237,xd856,"Ig4, SCCS97"
 ntch1242,ntch1242,xd286,Ag48
 nucl1235,nucl1235,xd575,"Ci10, SCCS56"
-nucl1237,nucl1237,xd1149,"Nd17, B318"
+nucl1237,nucl1237,xd1149,"B318, Nd17"
 nucl1240,nucl1240,xd322,Ah31
-nucl1298,nucl1298,xd722,"Ej15, SCCS75"
-nucl1301,nucl1301,xd581,"SCCS47, Ci5"
-nucl1310,nucl1310,xd709,"SCCS71, Ei3"
-nucl1347,nucl1347,xd469,"SCCS21, Cb2"
+nucl1301,nucl1301,xd581,"Ci5, SCCS47"
+nucl1310,nucl1310,xd709,"Ei3, SCCS71"
+nucl1347,nucl1347,xd469,"Cb2, SCCS21"
 nucl1395,nucl1395,xd64,Ac38
 nucl1396,nucl1396,xd67,Ac40
 nucl1417,nucl1417,xd187,"Af10, SCCS17"
@@ -828,16 +827,16 @@ nucl1420,nucl1420,xd339,Ai11
 nucl1430,nucl1430,xd407,Aj30
 nucl1479,nucl1479,xd835,If4
 nucl1595,nucl1595,xd811,Ie33
-nucl1643,nucl1643,xd648,"SCCS117, Ed5"
-nucl1649,nucl1649,xd1104,"Nb7, B289, WNAI5"
-nucl1651,nucl1651,xd1112,"WNAI48, WNAI49, Nc14, B160, WNAI47"
+nucl1643,nucl1643,xd648,"Ed5, SCCS117"
+nucl1649,nucl1649,xd1104,"B289, Nb7, WNAI5"
+nucl1651,nucl1651,xd1112,"B160, Nc14, WNAI47, WNAI48, WNAI49"
 nucl1695,nucl1695,xd484,Cb7
 nuer1246,nuer1246,xd406,Aj3
 nuii1237,nuii1237,xd838,If7
 nuka1242,nuka1242,xd917,B40
 nung1290,nung1290,xd944,B92
 nupe1254,nupe1254,xd242,Af8
-nuuc1236,nuuc1236,xd1070,"WNAI12, B273, Nb11"
+nuuc1236,nuuc1236,xd1070,"B273, Nb11, WNAI12"
 nuuu1241,nuuu1241,xd935,B77
 nyak1261,nyak1261,xd123,"Ad6, SCCS8"
 nyam1275,nyam1275,xd82,Ad15
@@ -846,9 +845,11 @@ nyan1305,nyan1305,xd30,Ab7
 nyan1307,nyan1307,xd115,Ad45
 nyat1246,nyat1246,xd94,Ad26
 nyor1246,nyor1246,xd87,Ad2
+ojit1237,ojit1237,xd1295,Nj1
 okie1245,okie1245,xd2,"Aa2, B70"
-omah1248,omah1248,xd1237,"SCCS143, Nf3"
-onaa1245,onaa1245,xd1385,"Sg3, B54"
+oldk1249,oldk1249,xd722,"Ej15, SCCS75"
+omah1248,omah1248,xd1237,"Nf3, SCCS143"
+onaa1245,onaa1245,xd1385,"B54, Sg3"
 onge1236,onge1236,xd902,B5
 onto1237,onto1237,xd884,Ii5
 oowe1239,oowe1239,xd1424,WNAI8
@@ -859,58 +860,59 @@ oroc1248,oroc1248,xd629,ec20
 orok1265,orok1265,xd627,ec19
 orok1266,orok1266,xd166,Ae45
 orok1267,orok1267,xd817,Ie39
-orok1269,orok1269,xd823,"SCCS92, Ie9"
+orok1269,orok1269,xd823,"Ie9, SCCS92"
 oroq1238,oroq1238,xd915,B23
 osse1243,osse1243,xd582,Ci6
 otoo1241,otoo1241,xd1231,Nf11
 otor1240,otor1240,xd338,"Ai10, SCCS30"
 otta1242,otta1242,xd1057,Na40
 otuh1238,otuh1238,xd387,Aj12
-paci1278,paci1278,xd1027,"B297, Na10"
 paez1247,paez1247,xd1378,Sf5
 paip1241,paip1241,xd1426,WNAI92
 paiw1248,paiw1248,xd746,Ia6
 pala1344,pala1344,xd824,"If1, SCCS111"
 pali1274,pali1274,xd910,B17
 pali1279,pali1279,xd1355,Sd3
-pana1305,pana1305,"xd1165, xd1166, xd1167","B197, B192, Nd31, Nd33, WNAI118, B195, Nd32, B200"
-panj1256,panj1256,xd600,"Ea13, SCCS59"
+pamo1252,pamo1252,xd767,"Ic5, SCCS87"
+pana1305,pana1305,"xd1165, xd1166, xd1167","B192, B195, B197, B200, Nd31, Nd32, Nd33, WNAI118"
+papa1238,papa1238,xd1303,Nj4
 pape1239,pape1239,xd256,Ag20
 para1316,para1316,xd1330,"B35, Sb5"
 pare1272,pare1272,xd1404,Si7
 pari1256,pari1256,xd408,Aj31
 park1239,park1239,xd330,Ah39
-patw1250,patw1250,xd1121,"B155, WNAI67, Nc22"
-pawn1254,pawn1254,xd1240,"SCCS142, Nf6"
+patw1250,patw1250,xd1121,"B155, Nc22, WNAI67"
+pawn1254,pawn1254,xd1240,"Nf6, SCCS142"
 pemb1239,pemb1239,xd97,Ad29
-peno1243,peno1243,"xd1253, xd1248","Ng4, Ng13"
+peno1243,peno1243,"xd1248, xd1253","Ng13, Ng4"
 penr1237,penr1237,xd890,Ij10
 pent1242,pent1242,xd1427,WNAI15
 peri1253,peri1253,xd615,Eb7
 phen1239,phen1239,xd44,Ac2
 piap1246,piap1246,xd1343,Sc17
 piar1243,piar1243,xd1351,Sc8
-pieg1239,pieg1239,"xd1211, xd1217","B256, Ne18, Ne12, B255"
+picu1248,picu1248,xd1285,Nh9
+pieg1239,pieg1239,"xd1211, xd1217","B255, B256, Ne12, Ne18"
 pimb1238,pimb1238,xd89,Ad21
 pint1250,pint1250,xd960,B113
-pitj1243,pitj1243,xd967,B120
+pitj1243,pitj1243,"xd967, xd971","B120, B126"
 plai1258,plai1258,xd1218,"B258, Ne19"
 pohn1238,pohn1238,xd836,If5
 poju1239,poju1239,xd388,Aj13
 poke1238,poke1238,xd145,Ae26
 poko1261,poko1261,xd102,Ad33
-pola1254,pola1254,xd1031,"Na14, B390"
+pola1254,pola1254,xd1031,"B390, Na14"
 ponc1241,ponc1241,xd1232,Nf12
 popo1291,popo1291,xd357,Ai28
 popt1235,popt1235,xd1315,Sa15
 poqo1253,poqo1253,xd1317,Sa17
-port1278,port1278,xd783,"Id8, B137"
+port1278,port1278,xd783,"B137, Id8"
 pota1247,pota1247,xd1059,Na42
 psik1239,psik1239,xd329,Ah38
 puka1242,puka1242,xd882,Ii3
 pula1262,pula1262,xd294,Ag6
 pula1263,pula1263,xd473,Cb23
-pume1238,pume1238,xd1345,"Sc2, B38"
+pume1238,pume1238,xd1345,"B38, Sc2"
 puna1275,puna1275,xd758,Ib9
 pura1257,pura1257,xd822,Ie8
 pure1242,pure1242,xd1307,Nj8
@@ -920,17 +922,17 @@ pwow1235,pwow1235,xd713,Ei7
 qash1240,qash1240,xd599,Ea12
 qima1242,qima1242,xd439,Ca31
 queb1247,queb1247,xd540,Cf5
-queb1248,queb1248,"xd1017, xd1061","Na44, B373"
+queb1248,queb1248,"xd1017, xd1061","B373, Na44"
 quec1382,quec1382,xd1273,"Nh22, WNAI141"
-quin1251,quin1251,xd1085,"Nb25, WNAI24, B278"
-rade1240,rade1240,xd717,"SCCS74, Ej10"
-rain1239,rain1239,xd1053,"Na37, B331"
+quin1251,quin1251,xd1085,"B278, Nb25, WNAI24"
+rade1240,rade1240,xd717,"Ej10, SCCS74"
+rain1239,rain1239,xd1053,"B331, Na37"
 raka1237,raka1237,xd893,Ij4
 rakh1245,rakh1245,xd715,Ei9
 rali1241,rali1241,xd827,If12
 rapa1244,rapa1244,xd898,Ij9
 raro1241,raro1241,xd889,Ij1
-rata1243,rata1243,"xd834, xd832","If17, SCCS108, If3"
+rata1243,rata1243,"xd832, xd834","If17, If3, SCCS108"
 redl1238,redl1238,xd1052,Na36
 renn1242,renn1242,xd877,Ii10
 resh1242,resh1242,xd304,Ah15
@@ -946,13 +948,13 @@ sahi1245,sahi1245,xd517,Cd19
 said1239,said1239,xd516,Cd18
 saka1287,saka1287,xd49,Ac24
 saka1291,saka1291,xd694,Eh8
-sali1253,sali1253,xd1125,"Nc26, B164, WNAI80"
+sali1253,sali1253,xd1125,"B164, Nc26, WNAI80"
 sama1240,sama1240,xd814,Ie36
 sama1300,sama1300,xd23,Ab21a
 samb1305,samb1305,xd318,Ah28
 samb1311,samb1311,xd319,Ah29
 samb1315,samb1315,xd405,Aj29
-samo1305,samo1305,"xd876, xd880","SCCS106, Ii14, Ii1"
+samo1305,samo1305,"xd876, xd880","Ii1, Ii14, SCCS106"
 sana1295,sana1295,xd595,Cj9
 sand1273,sand1273,xd6,Aa6
 sang1330,sang1330,xd91,Ad23
@@ -960,10 +962,10 @@ sang1331,sang1331,xd137,Ae19
 sani1273,sani1273,xd1261,"Nh11, WNAI167"
 sanj1276,sanj1276,xd1429,WNAI166
 sanm1287,sanm1287,xd1305,Nj6
-sanp1257,sanp1257,xd1174,"WNAI100, B323, Nd4"
+sanp1257,sanp1257,xd1174,"B323, Nd4, WNAI100"
 sans1269,sans1269,xd665,Ef3
 sans1272,sans1272,xd38,Ac14
-sant1410,sant1410,xd661,"SCCS62, Ef1"
+sant1410,sant1410,xd661,"Ef1, SCCS62"
 sant1421,sant1421,xd1277,"Nh26, WNAI168"
 sant1425,sant1425,xd1278,"Nh27, WNAI164"
 sant1426,sant1426,xd1262,"Nh12, WNAI163"
@@ -971,37 +973,35 @@ sanu1240,sanu1240,xd1360,Sd8
 sapo1251,sapo1251,xd229,Af49
 sara1340,sara1340,xd1349,"SCCS165, Sc6"
 sarr1246,sarr1246,xd351,Ai22
-sars1236,sars1236,xd1226,"Ne7, B260"
+sars1236,sars1236,xd1226,"B260, Ne7"
 sate1243,sate1243,xd1357,Sd5
 seba1251,seba1251,xd456,Ca8
-seka1250,seka1250,xd1044,"Na28, B343"
+seka1250,seka1250,xd1044,"B343, Na28"
 sela1259,sela1259,xd768,Ic6
 selk1253,selk1253,xd619,Ec11
 sema1266,sema1266,xd721,Ej14
 sene1264,sene1264,xd1245,Ng10
-sent1260,sent1260,xd706,Ei19
 serb1264,serb1264,xd546,Ch1
 sere1260,sere1260,xd258,Ag22
-seri1257,seri1257,xd1289,"Ni4, B143"
-serr1255,serr1255,xd1130,"Nc30, WNAI84, B149"
-seve1241,seve1241,"xd1003, xd1006","B341, B335"
+seri1257,seri1257,xd1289,"B143, Ni4"
+serr1255,serr1255,xd1130,"B149, Nc30, WNAI84"
+seve1241,seve1241,"xd1003, xd1006","B335, B341"
 sham1280,sham1280,xd77,Ad10
-shas1239,shas1239,xd1093,"Nb32, WNAI44, B179, WNAI45"
+shas1239,shas1239,xd1093,"B179, Nb32, WNAI44, WNAI45"
 shaw1249,shaw1249,xd1233,Nf13
 sher1255,sher1255,xd658,Ee6
 sher1258,sher1258,xd191,Af14
 shii1238,shii1238,xd131,Ae13
-shil1264,shil1264,xd61,Ac35
-shil1265,shil1265,xd380,"SCCS31, Ai6"
+shil1265,shil1265,xd380,"Ai6, SCCS31"
 shin1264,shin1264,xd657,Ee5
 ship1254,ship1254,xd1373,Se9
 shom1245,shom1245,xd901,B4
 shon1251,shon1251,xd19,Ab18
-shua1257,shua1257,xd1367,"Se3, SCCS169"
-shus1248,shus1248,xd1143,"WNAI96, Nd11, B333"
+shua1257,shua1257,xd1367,"SCCS169, Se3"
+shus1248,shus1248,xd1143,"B333, Nd11, WNAI96"
 shwe1236,shwe1236,xd705,Ei18
 sian1257,sian1257,xd793,Ie17
-sich1238,sich1238,xd645,"SCCS67, Ed2"
+sich1238,sich1238,xd645,"Ed2, SCCS67"
 sida1246,sida1246,xd422,Ca16
 siee1239,siee1239,xd865,Ih12
 sigl1242,sigl1242,xd1019,B378
@@ -1009,11 +1009,11 @@ simb1256,simb1256,xd860,Ig8
 sind1272,sind1272,xd596,Ea1
 sinh1246,sinh1246,xd692,Eh6
 sioo1240,sioo1240,xd810,Ie32
-siri1273,siri1273,xd1362,"B43, Se1, SCCS173"
-sius1254,sius1254,xd1089,"WNAI30, Nb29"
+siri1273,siri1273,xd1362,"B43, SCCS173, Se1"
+sius1254,sius1254,xd1089,"Nb29, WNAI30"
 siwi1239,siwi1239,xd500,Cc3
 siwu1238,siwu1238,xd216,Af37
-slia1241,slia1241,xd1071,"WNAI14, Nb12"
+slia1241,slia1241,xd1071,"Nb12, WNAI14"
 soga1242,soga1242,xd116,Ad46
 sond1250,sond1250,xd54,Ac29
 song1299,song1299,xd50,Ac25
@@ -1023,28 +1023,28 @@ soni1259,soni1259,xd261,Ag25
 sout1439,sout1439,xd980,B136
 sout2604,sout2604,xd557,Ch2
 sout2681,sout2681,xd564,ch26
-sout2688,sout2688,xd727,Ej5
 sout2732,sout2732,xd702,Ei15
+sout2782,sout2782,xd340,Ai12
 sout2789,sout2789,xd276,Ag39
-sout2790,sout2790,xd288,Ag5
+sout2790,sout2790,"xd273, xd288","Ag36, Ag5"
 sout2795,sout2795,xd280,Ag42
 sout2807,sout2807,xd31,Ab8
 sout2832,sout2832,xd386,Aj11
 sout2844,sout2844,xd265,Ag29
 sout2857,sout2857,xd868,Ih2
 sout2869,sout2869,xd863,Ih10
-sout2918,sout2918,xd736,"SCCS86, Ia13"
+sout2918,sout2918,xd736,"Ia13, SCCS86"
 sout2940,sout2940,xd800,Ie23
 sout2955,sout2955,xd1436,WNAI74
 sout2956,sout2956,xd1438,WNAI4
 sout2958,sout2958,xd1069,"B336, Nb10"
-sout2959,sout2959,xd1034,"SCCS128, Na17, B345"
-sout2961,sout2961,xd1260,"WNAI171, Nh10"
-sout2963,sout2963,"xd1147, xd1001","B321, Nd15, WNAI99, B322"
-sout2965,sout2965,xd1076,"B270, WNAI25, Nb17"
-sout2967,sout2967,"xd989, xd1160, xd1161, xd992","B212, B210, Nd26, B208, Nd28, Nd27, B205, WNAI116"
-sout2969,sout2969,"xd1189, xd1188, xd1192, xd1187","Nd51, Nd52, WNAI133, Nd56, WNAI134, Nd53, B204, WNAI132, Nd55"
-sout2978,sout2978,"xd1011, xd1047, xd1005, xd1062","B340, B338, B360, Na45, Na31"
+sout2959,sout2959,xd1034,"B345, Na17, SCCS128"
+sout2961,sout2961,xd1260,"Nh10, WNAI171"
+sout2963,sout2963,"xd1001, xd1147","B321, B322, Nd15, WNAI99"
+sout2965,sout2965,xd1076,"B270, Nb17, WNAI25"
+sout2967,sout2967,"xd1160, xd1161, xd989, xd992","B205, B208, B210, B212, Nd26, Nd27, Nd28, WNAI116"
+sout2969,sout2969,"xd1187, xd1188, xd1189, xd1192","B204, Nd51, Nd52, Nd53, Nd55, Nd56, WNAI132, WNAI133, WNAI134"
+sout2978,sout2978,"xd1005, xd1011, xd1047, xd1062","B338, B340, B360, Na31, Na45"
 sout2984,sout2984,xd1117,"Nc19, WNAI65"
 sout2985,sout2985,xd1421,WNAI70
 sout3051,sout3051,xd345,Ai17
@@ -1052,9 +1052,9 @@ sout3114,sout3114,xd511,Cd13
 sout3117,sout3117,xd514,Cd16
 sout3119,sout3119,xd591,Cj5
 sout3123,sout3123,xd592,Cj6
-squa1248,squa1248,xd1072,"B268, WNAI16, Nb13"
+squa1248,squa1248,xd1072,"B268, Nb13, WNAI16"
 stan1288,stan1288,xd533,Ce6
-stan1293,stan1293,"xd536, xd538","Cf3, Cf1"
+stan1293,stan1293,"xd536, xd538","Cf1, Cf3"
 suau1242,suau1242,xd846,Ig14
 suku1259,suku1259,xd41,"Ac17, SCCS6"
 suku1261,suku1261,xd90,Ad22
@@ -1063,41 +1063,41 @@ sumb1241,sumb1241,xd762,Ic12
 sumi1235,sumi1235,xd703,Ei16
 sunn1238,sunn1238,xd594,Cj8
 suri1267,suri1267,xd396,Aj20
-susi1238,susi1238,"xd523, xd493","Cc15, Cd5"
+susi1238,susi1238,"xd493, xd523","Cc15, Cd5"
 susu1250,susu1250,xd262,Ag26
-suun1239,suun1239,xd42,Ac18
 svan1243,svan1243,xd585,Ci9
 swam1239,swam1239,xd1065,"B353, Na7"
 swat1243,swat1243,xd21,Ab2
+taba1267,taba1267,xd1329,Sb4
 tach1249,tach1249,xd526,Cd8
 tadh1242,tadh1242,xd490,Cc12
 tagb1258,tagb1258,xd747,Ia7
 tahi1242,tahi1242,xd897,Ij8
-tahl1239,tahl1239,xd1043,"Na27, B347"
+tahl1239,tahl1239,xd1043,"B347, Na27"
 tain1254,tain1254,xd1333,Sb8
 tait1250,tait1250,xd106,Ad37
-take1257,take1257,xd1091,"Nb30, B176"
-taln1239,taln1239,xd277,"SCCS23, Ag4"
+take1257,take1257,xd1091,"B176, Nb30"
+taln1239,taln1239,xd277,"Ag4, SCCS23"
 tami1289,tami1289,xd678,Eg2
-tana1285,tana1285,xd689,"SCCS81, Eh3"
+tana1285,tana1285,xd689,"Eh3, SCCS81"
 tana1289,tana1289,xd1042,"B362, Na26"
 tand1256,tand1256,xd693,Eh7
 tang1355,tang1355,xd854,Ig21
-taos1236,taos1236,xd1282,"WNAI170, Nh6"
+taos1236,taos1236,xd1282,"Nh6, WNAI170"
 tapi1254,tapi1254,xd1354,Sd2
 tari1263,tari1263,xd521,"Cd3, SCCS42"
 taro1263,taro1263,xd312,Ah22
 taul1252,taul1252,xd1341,Sc15
-tawa1287,tawa1287,xd488,Cc10
-teda1241,teda1241,xd498,"SCCS40, Cc2"
+taya1257,taya1257,xd488,Cc10
+teda1241,teda1241,xd498,"Cc2, SCCS40"
 tehr1242,tehr1242,xd608,Ea9
-tehu1242,tehu1242,xd1386,"Sg4, B51, SCCS185"
+tehu1242,tehu1242,xd1386,"B51, SCCS185, Sg4"
 teke1278,teke1278,xd43,Ac19
 telu1262,telu1262,xd673,Eg10
 temb1276,temb1276,xd1414,Sj6
 temi1247,temi1247,xd108,Ad39
 temm1241,temm1241,xd291,Ag52
-teni1238,teni1238,xd1141,"Nd1, B315, WNAI111"
+teni1238,teni1238,xd1141,"B315, Nd1, WNAI111"
 tera1251,tera1251,xd483,Cb6
 tere1279,tere1279,xd1389,Sh2
 term1237,term1237,xd766,Ic4
@@ -1106,43 +1106,41 @@ teso1249,teso1249,xd384,Aj1
 tete1250,tete1250,xd144,Ae25
 tetu1245,tetu1245,xd765,Ic3
 thad1238,thad1238,xd699,Ei12
-thai1261,thai1261,xd731,"SCCS76, Ej9"
-thom1243,thom1243,xd1142,"Nd10, WNAI98, B325"
+thai1261,thai1261,xd731,"Ej9, SCCS76"
+thom1243,thom1243,xd1142,"B325, Nd10, WNAI98"
 tibe1272,tibe1272,xd656,Ee4
 ticu1245,ticu1245,xd1366,Se2
-tidi1241,tidi1241,xd508,Cd10
 tiey1235,tiey1235,xd295,Ag7
 tige1238,tige1238,xd180,Ae58
 tigo1236,tigo1236,xd315,Ah25
 tigr1271,tigr1271,xd437,Ca3
 tiko1237,tiko1237,xd881,"Ii2, SCCS100"
-till1254,till1254,xd1080,"B281, WNAI28, Nb20"
-timb1263,timb1263,"xd502, xd491","Cc13, Cc5"
+till1254,till1254,xd1080,"B281, Nb20, WNAI28"
+timb1263,timb1263,"xd491, xd502","Cc13, Cc5"
 timn1235,timn1235,xd238,Af57
 timu1245,timu1245,xd1257,Ng8
 tinp1237,tinp1237,xd855,Ig3
 tira1254,tira1254,xd372,Ai41
 tita1241,tita1241,xd861,"Ig9, SCCS96"
 tivv1240,tivv1240,xd320,"Ah3, SCCS16"
-tiwi1244,tiwi1244,xd778,"SCCS90, B95, Id3"
-tlin1245,tlin1245,"xd1431, xd1082","Nb22, WNAI2, B292, WNAI1"
+tiwi1244,tiwi1244,xd778,"B95, Id3, SCCS90"
+tlin1245,tlin1245,"xd1082, xd1431","B292, Nb22, WNAI1, WNAI2"
 toba1264,toba1264,xd436,Ca29
 toba1269,toba1269,xd1395,Sh8
 toda1252,toda1252,xd680,"Eg4, SCCS61"
 toho1246,toho1246,xd1287,"Ni2, SCCS151, WNAI146"
 toke1240,toke1240,xd885,Ii6
 toll1241,toll1241,xd1316,Sa16
-tolo1259,tolo1259,"xd1103, xd1422","Nb6, B178, WNAI33, WNAI35"
+tolo1259,tolo1259,"xd1103, xd1422","B178, Nb6, WNAI33, WNAI35"
 toma1245,toma1245,xd188,Af11
 tong1318,tong1318,xd56,Ac30
 tong1321,tong1321,xd37,Ac13
 tong1325,tong1325,xd878,Ii12
-tong1329,tong1329,xd1128,"Nc29, WNAI81, B156"
+tong1329,tong1329,xd1128,"B156, Nc29, WNAI81"
 toor1238,toor1238,xd118,Ad48
 topo1242,topo1242,xd400,Aj24
-tora1261,tora1261,xd767,"Ic5, SCCS87"
 tour1242,tour1242,xd234,Af53
-town1238,town1238,xd55,"SCCS7, Ac3"
+town1238,town1238,xd55,"Ac3, SCCS7"
 trum1247,trum1247,xd1399,"SCCS175, Si2"
 tsam1247,tsam1247,xd423,Ca17
 tsog1243,tsog1243,xd40,Ac16
@@ -1150,55 +1148,54 @@ tson1249,tson1249,xd27,"Ab4, SCCS3"
 tswa1253,tswa1253,xd14,Ab13
 tswe1238,tswe1238,xd16,Ab15
 tuam1242,tuam1242,xd894,Ij5
-tuba1278,tuba1278,xd1118,"B152, WNAI78, Nc2"
+tuba1278,tuba1278,xd1118,"B152, Nc2, WNAI78"
 tuca1252,tuca1252,xd1365,Se12
-tule1245,tule1245,xd1124,"Nc25, WNAI75, B151"
+tule1245,tule1245,xd1124,"B151, Nc25, WNAI75"
 tuli1249,tuli1249,xd373,Ai42
 tumb1250,tumb1250,xd62,Ac36
 tumu1242,tumu1242,xd278,Ag40
 tumz1238,tumz1238,xd501,Cc4
 tune1261,tune1261,xd173,"Ae51, SCCS15"
 tuni1260,tuni1260,xd520,Cd21
-tupi1273,tupi1273,xd1416,"Sj8, SCCS177"
+tunu1234,tunu1234,xd1040,"B388, Na24"
+tupi1273,tupi1273,xd1416,"SCCS177, Sj8"
 tupu1244,tupu1244,xd349,Ai20
 turk1304,turk1304,xd613,Eb5
 turk1308,turk1308,xd410,Aj5
-tutu1242,tutu1242,xd1092,"Nb31, WNAI32, B181"
+tutu1242,tutu1242,xd1092,"B181, Nb31, WNAI32"
 tuuu1240,tuuu1240,xd610,Eb2
 tuva1244,tuva1244,xd883,Ii4
 tuwa1243,tuwa1243,xd743,"Ia3, SCCS112"
-twan1247,twan1247,xd1079,"Nb2, SCCS133, B271, WNAI23"
-tyre1237,tyre1237,xd1326,"Sb1, SCCS161"
+twan1247,twan1247,xd1079,"B271, Nb2, SCCS133, WNAI23"
 tzel1254,tzel1254,xd1318,Sa2
 udih1248,udih1248,xd630,ec21
 ulch1241,ulch1241,xd626,ec18
 ulit1238,ulit1238,xd840,If9
-umat1237,umat1237,xd1151,"WNAI108, B316, Nd19"
+umat1237,umat1237,xd1151,"B316, Nd19, WNAI108"
 umbu1257,umbu1257,xd28,"Ab5, SCCS5"
 umbu1258,umbu1258,xd787,Ie11
 umot1240,umot1240,xd1405,Si8
-umpi1239,umpi1239,xd945,B93
+unam1242,unam1242,xd1255,Ng6
 uppe1274,uppe1274,xd1054,"B328, Na38"
-uppe1437,uppe1437,xd1026,"Na1, B359"
+uppe1437,uppe1437,xd1026,"B359, Na1"
 uruu1244,uruu1244,xd1382,Sf9
-utee1244,utee1244,"xd1194, xd1186, xd991, xd1199, xd1152, xd1193, xd1195, xd1197, xd1184, xd1198","Nd49, Nd58, B222, B209, Nd62, B234, B230, WNAI130, WNAI129, Nd50, Nd57, Nd59, Nd61, Nd2, B201, WNAI131, Nd60"
+utee1244,utee1244,"xd1152, xd1184, xd1186, xd1193, xd1194, xd1195, xd1197, xd1198, xd1199, xd991","B201, B209, B222, B230, B234, Nd2, Nd49, Nd50, Nd57, Nd58, Nd59, Nd60, Nd61, Nd62, WNAI129, WNAI130, WNAI131"
 vagh1249,vagh1249,xd844,Ig12
 vagl1239,vagl1239,xd281,Ag43
 vaii1241,vaii1241,xd239,Af58
-vall1251,vall1251,xd1123,"SCCS136, WNAI76, Nc24, WNAI77, B148"
+vall1251,vall1251,xd1123,"B148, Nc24, SCCS136, WNAI76, WNAI77"
 vall1252,vall1252,xd1432,WNAI54
 vase1234,vase1234,xd931,B71
-vedd1240,vedd1240,xd690,"SCCS80, Eh4, B10"
+vedd1240,vedd1240,xd690,"B10, Eh4, SCCS80"
 vend1245,vend1245,xd29,Ab6
 veps1250,veps1250,xd565,ch27
 viet1252,viet1252,xd726,"Ej4, SCCS73"
-voro1240,voro1240,xd324,Ah33
 voti1245,voti1245,xd566,ch28
 vute1244,vute1244,xd335,Ah8
-wail1244,wail1244,"xd1434, xd1098, xd1100","B166, WNAI40, B167, WNAI42, Nb37, Nb39"
+wail1244,wail1244,"xd1098, xd1100, xd1434","B166, B167, Nb37, Nb39, WNAI40, WNAI42"
 waiw1244,waiw1244,xd1359,Sd7
 waka1274,waka1274,xd961,B114
-wala1270,wala1270,xd1202,"Nd65, WNAI137, B198"
+wala1270,wala1270,xd1202,"B198, Nd65, WNAI137"
 wall1255,wall1255,xd545,Cg5
 wall1257,wall1257,xd879,Ii13
 wame1240,wame1240,xd296,Ag8
@@ -1206,55 +1203,53 @@ wang1291,wang1291,xd784,"B130, Id9"
 wanm1242,wanm1242,xd959,B112
 want1252,want1252,xd796,Ie2
 wapi1253,wapi1253,xd1348,Sc5
-wapp1239,wapp1239,xd1119,"B172, WNAI66, Nc20"
-wara1303,wara1303,xd1335,"Sc1, SCCS162"
-warl1254,warl1254,xd773,"Id10, B109"
+wapp1239,wapp1239,xd1119,"B172, Nc20, WNAI66"
+wara1303,wara1303,xd1335,"SCCS162, Sc1"
+warl1254,warl1254,xd773,"B109, Id10"
 waro1242,waro1242,xd820,Ie6
 waru1264,waru1264,xd955,B107
-wasc1239,wasc1239,xd1150,"WNAI110, Nd18, B319"
-wash1253,wash1253,xd1196,"Nd6, WNAI119, B225"
-wati1241,wati1241,xd971,B126
+wasc1239,wasc1239,xd1150,"B319, Nd18, WNAI110"
+wash1253,wash1253,xd1196,"B225, Nd6, WNAI119"
 waya1269,waya1269,xd1340,Sc14
-wayu1243,wayu1243,xd1331,"Sb6, SCCS159"
-wena1241,wena1241,xd1148,"Nd16, B317, WNAI102"
-west1508,west1508,xd535,"SCCS50, Ce8"
+wayu1243,wayu1243,xd1331,"SCCS159, Sb6"
+wena1241,wena1241,xd1148,"B317, Nd16, WNAI102"
+west1508,west1508,xd535,"Ce8, SCCS50"
 west1510,west1510,xd1213,"B254, Ne14"
+west2386,west2386,xd600,"Ea13, SCCS59"
 west2396,west2396,xd719,Ej12
 west2405,west2405,xd561,ch23
+west2408,west2408,xd676,Eg13
+west2418,west2418,xd660,Ee8
 west2454,west2454,xd472,Cb22
 west2458,west2458,xd337,Ai1
 west2488,west2488,xd227,Af47
 west2492,west2492,xd402,Aj26
-west2500,west2500,xd297,Ag9
-west2555,west2555,xd738,Ia15
 west2563,west2563,xd1442,B1
-west2615,west2615,xd1267,"WNAI148, WNAI149, WNAI151, Nh17, WNAI150, WNAI147"
+west2615,west2615,xd1267,"Nh17, WNAI147, WNAI148, WNAI149, WNAI150, WNAI151"
 west2618,west2618,xd1025,"B384, Na22"
-west2622,west2622,"xd1176, xd1178, xd1179, xd1168, xd1169, xd1171, xd1170, xd1175, xd1172, xd995, xd1177, xd988","B218, B216, Nd42, WNAI120, WNAI121, Nd39, B215, Nd34, B221, Nd40, Nd37, B224, Nd36, WNAI122, Nd43, B217, Nd38, Nd41, B233, WNAI123, Nd44, B203, Nd35, B228"
-west2721,west2721,xd419,Ca13
-west2773,west2773,xd464,Cb15
+west2622,west2622,"xd1168, xd1169, xd1170, xd1171, xd1172, xd1175, xd1176, xd1177, xd1178, xd1179, xd988, xd995","B203, B215, B216, B217, B218, B221, B224, B228, B233, Nd34, Nd35, Nd36, Nd37, Nd38, Nd39, Nd40, Nd41, Nd42, Nd43, Nd44, WNAI120, WNAI121, WNAI122, WNAI123"
+west2721,west2721,"xd418, xd419, xd447","Ca12, Ca13, Ca39"
 wich1260,wich1260,xd1239,Nf5
-wich1263,wich1263,xd1388,Sh1
+wich1264,wich1264,xd1388,Sh1
 wikm1247,wikm1247,xd781,"B90, Id6"
 wini1244,wini1244,xd1004,B339
-wira1265,wira1265,xd972,B127
-wiyo1248,wiyo1248,xd1097,"B184, WNAI39, Nb36"
+wiyo1248,wiyo1248,xd1097,"B184, Nb36, WNAI39"
 woge1237,woge1237,xd818,Ie4
 woiw1237,woiw1237,xd978,B134
 worr1237,worr1237,xd949,B100
 wuch1236,wuch1236,xd643,"Ed15b, SCCS114"
 wuna1249,wuna1249,xd942,B89
 wuvu1239,wuvu1239,xd845,Ig13
-wyan1247,wyan1247,xd1244,"SCCS144, Ng1"
+wyan1247,wyan1247,xd1244,"Ng1, SCCS144"
 xaas1235,xaas1235,xd259,Ag23
 xamm1241,xamm1241,xd8,"Aa8, B79"
-xava1240,xava1240,xd1409,"Sj11, SCCS179"
+xava1240,xava1240,xd1409,"SCCS179, Sj11"
 xegw1238,xegw1238,xd936,B78
 xere1240,xere1240,xd1410,Sj2
 xesi1238,xesi1238,xd12,Ab11
 xeta1241,xeta1241,xd921,B49
 xevs1238,xevs1238,xd578,Ci2
-xokl1240,xokl1240,xd1411,"SCCS180, B50, Sj3"
+xokl1240,xokl1240,xd1411,"B50, SCCS180, Sj3"
 yaba1248,yaba1248,xd1350,Sc7
 yaey1239,yaey1239,xd640,Ed13
 yaga1256,yaga1256,xd962,B115
@@ -1263,17 +1258,17 @@ yaka1269,yaka1269,xd45,Ac20
 yaku1245,yaku1245,xd628,Ec2
 yala1267,yala1267,xd1296,Nj10
 yalu1240,yalu1240,xd293,Ag54
-yama1264,yama1264,xd1383,"SCCS186, B55, Sg1"
+yama1264,yama1264,xd1383,"B55, SCCS186, Sg1"
 yami1254,yami1254,xd737,Ia14
-yana1271,yana1271,xd1109,"Nc11, B174, WNAI62"
+yana1271,yana1271,xd1109,"B174, Nc11, WNAI62"
 yank1247,yank1247,xd969,B123
-yano1261,yano1261,xd1361,"Sd9, SCCS163"
+yano1261,yano1261,xd1361,"SCCS163, Sd9"
 yano1262,yano1262,xd1356,Sd4
 yans1239,yans1239,xd51,Ac26
 yaoo1241,yaoo1241,xd73,Ac7
-yape1248,yape1248,xd837,"SCCS110, If6"
+yape1248,yape1248,xd837,"If6, SCCS110"
 yaqu1251,yaqu1251,xd1292,Ni7
-yava1252,yava1252,"xd1274, xd1204, xd1203","B196, Nh23, Nd66, Nd67, WNAI138, WNAI139"
+yava1252,yava1252,"xd1203, xd1204, xd1274","B196, Nd66, Nd67, Nh23, WNAI138, WNAI139"
 yekh1238,yekh1238,xd204,Af26
 yela1238,yela1238,xd140,Ae21
 yele1255,yele1255,xd843,Ig11
@@ -1282,10 +1277,10 @@ yomb1244,yomb1244,xd74,Ac8
 yuca1254,yuca1254,xd1322,Sa6
 yuch1247,yuch1247,xd1246,Ng11
 yuec1235,yuec1235,xd644,Ed16
-yuki1243,yuki1243,"xd1138, xd1114, xd1113","Nc16, B177, B171, Nc15, WNAI60, WNAI61, Nc7"
-yukp1241,yukp1241,xd1332,Sb7
+yuki1243,yuki1243,"xd1113, xd1114, xd1138","B171, B177, Nc15, Nc16, Nc7, WNAI60, WNAI61"
+yukp1241,yukp1241,"xd1328, xd1332","Sb3, Sb7"
 yuqu1240,yuqu1240,xd918,B44
-yuro1248,yuro1248,xd1101,"WNAI36, SCCS134, B186, Nb4"
+yuro1248,yuro1248,xd1101,"B186, Nb4, SCCS134, WNAI36"
 yusu1238,yusu1238,xd601,Ea2
 zand1248,zand1248,xd359,"Ai3, SCCS28"
 zarm1239,zarm1239,xd470,Cb20

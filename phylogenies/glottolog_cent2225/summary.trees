@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_cent2225 = ((lomb1254,(nucl1420,popo1291)),((logo1259,lugb1240),moru1253,madi1260),(bong1285,jurm1239,(bagi1246,sarr1246)),lend1245,((efee1239,lese1243),mamv1243));
+    tree glottolog_cent2225 = ((lomb1254:1,(nucl1420:1,popo1291:1)mang1394:1)mang1393:1,((logo1259:1,lugb1240:1)cent2043:1,moru1253:1,madi1260:1)moru1252:1,(bong1285:1,((sarr1246:1,laka1254:1)cent2044:1,bagi1246:1)sara1349:1)sara1341:1,lend1245:1,((efee1239:1,lese1243:1)lese1245:1,mamv1243:1)mang1425:1);
 end;

@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_namb1299 = (alat1246,gale1260,haha1244,halo1239,khit1238,mand1447,sara1330,saxw1243,serr1256,waik1245,waka1281,wasu1258);
+    tree glottolog_namb1299 = (alat1246:1,gale1260:1,haha1244:1,halo1239:1,khit1238:1,mand1447:1,sara1330:1,saxw1243:1,serr1256:1,waik1245:1,waka1281:1,wasu1258:1);
 end;

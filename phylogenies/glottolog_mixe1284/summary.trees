@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_mixe1284 = (isth1238,high1276);
+    tree glottolog_mixe1284 = (isth1238:1,high1276:1);
 end;

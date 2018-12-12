@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_cadd1255 = (cadd1256,(wich1260,(arik1262,pawn1254)));
+    tree glottolog_cadd1255 = (cadd1256:1,(wich1260:1,(arik1262:1,pawn1254:1)pawn1253:1)nort2950:1);
 end;

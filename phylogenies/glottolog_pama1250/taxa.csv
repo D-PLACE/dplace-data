@@ -1,12 +1,13 @@
 taxon,glottocode,xd_ids,soc_ids
 alya1239,alya1239,xd964,B117
-band1339,band1339,xd966,B119
+anta1253,anta1253,xd972,B127
+ayab1239,ayab1239,xd945,B93
 darl1243,darl1243,xd973,B128
 dhuw1249,dhuw1249,xd777,"B88, Id2"
 dier1241,dier1241,xd779,"B121, Id4"
 djab1234,djab1234,xd977,B133
 djin1252,djin1252,xd940,B85
-east2379,east2379,xd772,"Id1, SCCS91, B124"
+east2379,east2379,xd772,"B124, Id1, SCCS91"
 flin1247,flin1247,xd947,B98
 gami1243,gami1243,xd970,B125
 gana1278,gana1278,xd979,B135
@@ -14,28 +15,26 @@ jaru1254,jaru1254,xd956,B108
 jirj1239,jirj1239,xd775,"B94, Id12"
 kala1377,kala1377,xd937,B82
 kara1476,kara1476,xd953,B104
-kari1304,kari1304,xd780,"Id5, B106"
+kari1304,kari1304,xd780,"B106, Id5"
 karr1236,karr1236,xd963,B116
 kaur1267,kaur1267,xd974,B129
 kuku1273,kuku1273,xd946,B96
 lowe1436,lowe1436,xd968,B122
 mamu1253,mamu1253,xd954,B105
 mart1256,mart1256,xd958,B111
+midd1357,midd1357,xd966,B119
 narr1259,narr1259,xd975,B131
 ngaa1240,ngaa1240,xd965,B118
 ngad1258,ngad1258,xd976,B132
 ngad1260,ngad1260,xd957,B110
 pint1250,pint1250,xd960,B113
-pitj1243,pitj1243,xd967,B120
-umpi1239,umpi1239,xd945,B93
+pitj1243,pitj1243,"xd967, xd971","B120, B126"
 waka1274,waka1274,xd961,B114
 wang1291,wang1291,xd784,"B130, Id9"
 wanm1242,wanm1242,xd959,B112
-warl1254,warl1254,xd773,"Id10, B109"
+warl1254,warl1254,xd773,"B109, Id10"
 waru1264,waru1264,xd955,B107
-wati1241,wati1241,xd971,B126
 wikm1247,wikm1247,xd781,"B90, Id6"
-wira1265,wira1265,xd972,B127
 woiw1237,woiw1237,xd978,B134
 yaga1256,yaga1256,xd962,B115
 yank1247,yank1247,xd969,B123

@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_siou1252 = ((mand1446,((assi1247,(dako1258,lako1247)),(hoch1243,(iowa1246,otoo1241)),(omah1248,ponc1241)),(crow1244,hida1246)),cata1286);
+    tree glottolog_siou1252 = ((mand1446:1,((assi1247:1,(dako1258:1,lako1247:1)siou1253:1)dako1257:1,(hoch1243:1,(iowa1246:1,otoo1241:1)iowa1245:1)winn1245:1,(omah1248:1,ponc1241:1)omah1247:1)miss1254:1,(crow1244:1,hida1246:1)miss1252:1)core1249:1,cata1286:1);
 end;

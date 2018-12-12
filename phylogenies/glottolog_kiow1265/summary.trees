@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_kiow1265 = (kiow1266,((namb1296,sani1273,sanj1276,sant1421),hano1247),jeme1245,(sout2961,((taos1236))));
+    tree glottolog_kiow1265 = (kiow1266:1,(ariz1237:1,(namb1296:1,sani1273:1,sanj1276:1,sant1421:1)tewa1260:1)tewa1261:1,jeme1245:1,(sout2961:1,(picu1248:1,taos1236:1)taos1246:1)tiwa1255:1);
 end;

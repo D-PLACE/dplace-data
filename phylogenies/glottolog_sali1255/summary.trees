@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_sali1255 = (bell1243,(clal1241,(isla1276,slia1241),(chil1281,cowi1241,musq1240),pent1242,squa1248,(lumm1243,saan1246),twan1247,sout2965),((lill1248,shus1248,thom1243),(coeu1236,(colu1250,wena1241),(sanp1257,sout2963),kali1309)),till1254,(lowe1427,quin1251));
+    tree glottolog_sali1255 = (bell1243:1,(clal1241:1,(isla1276:1,slia1241:1)como1259:1,(chil1281:1,cowi1241:1,musq1240:1)halk1245:1,pent1242:1,squa1248:1,(lumm1243:1,saan1246:1)stra1244:1,twan1247:1,sout2965:1)cent2129:1,((lill1248:1,shus1248:1,thom1243:1)nort2948:1,(coeu1236:1,(colu1250:1,wena1241:1)colu1241:1,(sanp1257:1,sout2963:1)okan1243:1,kali1309:1)sout1559:1)inte1241:1,till1254:1,(lowe1427:1,quin1251:1)coas1311:1);
 end;

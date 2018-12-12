@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_chib1249 = (((ngab1239,bord1248),brib1243),((bari1297,chib1270,cent2150),cogu1240));
+    tree glottolog_chib1249 = (((ngab1239:1,bord1248:1)east2569:1,brib1243:1)isth1243:1,((chib1270:1,cent2150:1)sout3015:1,cogu1240:1)magd1236:1);
 end;

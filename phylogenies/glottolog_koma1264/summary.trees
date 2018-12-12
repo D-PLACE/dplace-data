@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_koma1264 = (beil1238,chal1268,koma1265,koma1255);
+    tree glottolog_koma1264 = (beil1238:1,chal1268:1,koma1265:1,koma1255:1);
 end;
