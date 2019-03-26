@@ -214,10 +214,10 @@ WNAI65,1,Lower Austral,Lower Austral
 WNAI65,2,Upper Austral,Upper Austral
 WNAI65,3,Transition,Transition
 WNAI65,4,Canadian,Canadian
-WNAI65,5,1 and 2,2 and 2
-WNAI65,6,2 and 3,3 and 3
-WNAI65,7,3 and 4,4 and 4
-WNAI65,8,1 and 2 and 3,"1,2 and 4"
+WNAI65,5,1 and 2,1 and 2
+WNAI65,6,2 and 3,2 and 3
+WNAI65,7,3 and 4,3 and 4
+WNAI65,8,1 and 2 and 3,"1,2 and 3"
 WNAI65,9,2 and 3 and 4,"2,3 and 4"
 WNAI66,NA,Missing data,Missing data
 WNAI66,1,Absent or very rare,Absent or very rare
