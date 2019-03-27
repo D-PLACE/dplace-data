@@ -214,10 +214,10 @@ WNAI65,1,Lower Austral,Lower Austral
 WNAI65,2,Upper Austral,Upper Austral
 WNAI65,3,Transition,Transition
 WNAI65,4,Canadian,Canadian
-WNAI65,5,1 and 2,2 and 2
-WNAI65,6,2 and 3,3 and 3
-WNAI65,7,3 and 4,4 and 4
-WNAI65,8,1 and 2 and 3,"1,2 and 4"
+WNAI65,5,1 and 2,1 and 2
+WNAI65,6,2 and 3,2 and 3
+WNAI65,7,3 and 4,3 and 4
+WNAI65,8,1 and 2 and 3,"1,2 and 3"
 WNAI65,9,2 and 3 and 4,"2,3 and 4"
 WNAI66,NA,Missing data,Missing data
 WNAI66,1,Absent or very rare,Absent or very rare
@@ -308,9 +308,9 @@ WNAI94,1,Absent or very rare,Absent or very rare
 WNAI94,2,Present,Present
 WNAI95,NA,Missing data,Missing data
 WNAI95,1,None,None
-WNAI95,2,1-5,11-15
+WNAI95,2,1-5,1-5
 WNAI95,3,6-10,6-10
-WNAI95,4,11-15,1-5
+WNAI95,4,11-15,11-15
 WNAI95,5,16-20,16-20
 WNAI95,6,21-25,21-25
 WNAI95,7,26-29,26-30
@@ -375,9 +375,9 @@ WNAI114,1,Absent or very rare,Absent or very rare
 WNAI114,2,Present,Present
 WNAI115,NA,Missing data,Missing data
 WNAI115,1,Absent or very rare,Absent or very rare
-WNAI115,2,1-5,11-15
-WNAI115,3,6-10,5-10
-WNAI115,4,11-15,1-5
+WNAI115,2,1-5,1-5
+WNAI115,3,6-10,6-10
+WNAI115,4,11-15,11-15
 WNAI115,5,16-19,16-19
 WNAI116,NA,Missing data,Missing data
 WNAI116,1,Absent or very rare,Absent or very rare
