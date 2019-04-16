@@ -17,7 +17,17 @@ See the [list of releases](https://github.com/D-PLACE/dplace-data/releases) for 
 
 ## Acknowledgements
 
-The data and phylogenies in D-PLACE have been generously provided by many researchers. In particular we would like to thank:
+D-PLACE would not exist without the cultural datasets upon which it relies; we would like
+to acknowledge the years of work by George P. Murdock and Lewis R. Binford, and the
+enormous contributions made by other scholars in the field towards their maintenance and
+updating. 
+
+Finally, a number of people provided assistance in preparing data for inclusion in D-PLACE,
+including Christopher Blackford, Kaylin Clements, Anna Kellogg, Hannah Haynie, Patrick
+Kavanagh, Ameena Khan, Beata Opalinska, Anum Rafiq, Anastasia Stellato, and George
+Tsourounis.
+
+The phylogenies in D-PLACE have been generously provided by many researchers. In particular we would like to thank:
 
 * Thiago Chacon and Johann-Mattis List ([chacon_and_list2015](./phylogenies/chacon_and_list2015))
 * Rebecca Grollemund ([grollemund_et_al2015](./phylogenies/grollemund_et_al2015))
@@ -26,3 +36,7 @@ The data and phylogenies in D-PLACE have been generously provided by many resear
 * Andrew Meade & Mark Pagel ([hruschka_et_al2015](./phylogenies/hruschka_et_al2015)
 * Mark Sicoli and Gary Holton ([sicoli_and_holton2014](./phylogenies/sicoli_and_holton2014))
 * Robert Walker ([walker_and_ribeiro2011](./phylogenies/walker_and_ribeiro2011))
+
+D-PLACE was developed with generous support from the [National Evolutionary Synthesis Center](https://www.nescent.org),
+the [Max Planck Institute for the Science of Human History](https://www.shh.mpg.de/en), and the National Science
+Foundation (award numbers 1519987, BCS-1423711, and EF-0905606). 
