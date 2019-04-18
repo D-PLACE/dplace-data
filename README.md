@@ -29,6 +29,7 @@ Tsourounis.
 
 The phylogenies in D-PLACE have been generously provided by many researchers. In particular we would like to thank:
 
+* Remco Bouckaert ([bouckaert_et_al2018](./phylogenies/bouckaert_et_al2018))
 * Thiago Chacon and Johann-Mattis List ([chacon_and_list2015](./phylogenies/chacon_and_list2015))
 * Rebecca Grollemund ([grollemund_et_al2015](./phylogenies/grollemund_et_al2015))
 * Terhi Honkola ([honkola_et_al2013](./phylogenies/honkola_et_al2013))
