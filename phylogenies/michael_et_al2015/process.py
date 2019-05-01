@@ -14,12 +14,16 @@ if __name__ == '__main__':
     args = parser.parse_args()
     
     nex = NexusReader(args.input)
-    # make tree into newick for ete3
-    tree = nex.trees.trees[0].split(" = ")[1].strip().lstrip()
-    tree = ete3.Tree(tree, format=0)
-    # reroot
-    tree.set_outgroup('Mawe')
-    nex.trees.trees[0] = 'tree tg [&R] = %s' % tree.write(format=5)
+
+    for i, tree in enumerate(nex.trees.trees):
+        # make tree into newick for ete3
+        tree = nex.trees.trees[i].split(" = ")[1].strip().lstrip()
+        tree = tree.replace("[&U]", "")  # remove unrooted flag if present
+        tree = ete3.Tree(tree, format=0)
+        
+        # reroot
+        tree.set_outgroup('Mawe')
+        nex.trees.trees[i] = 'tree tg_%d [&R] = %s' % (i, tree.write(format=5))
     
     with open(args.output, 'w') as out:
         out.write(nex.write())
