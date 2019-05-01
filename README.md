@@ -31,6 +31,7 @@ The phylogenies in D-PLACE have been generously provided by many researchers. In
 
 * Remco Bouckaert ([bouckaert_et_al2018](./phylogenies/bouckaert_et_al2018))
 * Thiago Chacon and Johann-Mattis List ([chacon_and_list2015](./phylogenies/chacon_and_list2015))
+* Natalia Chousou-Polydouri ([michael_et_al2015](./phylogenies/michael_et_al2015))
 * Rebecca Grollemund ([grollemund_et_al2015](./phylogenies/grollemund_et_al2015))
 * Terhi Honkola ([honkola_et_al2013](./phylogenies/honkola_et_al2013))
 * Sean Lee ([lee2015](./phylogenies/lee2015), [lee_and_hasegawa2011](./phylogenies/lee_and_hasegawa2011), & [lee_and_hasegawa2013](./phylogenies/lee_and_hasegawa2013))
