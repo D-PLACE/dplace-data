@@ -1,5 +1,4 @@
 
-NM='nexus_treemanip.py'
 TREES=original/bp-noF-AS-reg-Relaxed-cS_t8.trees
 
 all: summary.trees posterior.trees
