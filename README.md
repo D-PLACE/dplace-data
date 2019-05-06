@@ -38,6 +38,7 @@ The phylogenies in D-PLACE have been generously provided by many researchers. In
 * Andrew Meade & Mark Pagel ([hruschka_et_al2015](./phylogenies/hruschka_et_al2015)
 * Mark Sicoli and Gary Holton ([sicoli_and_holton2014](./phylogenies/sicoli_and_holton2014))
 * Robert Walker ([walker_and_ribeiro2011](./phylogenies/walker_and_ribeiro2011))
+* Menghan Zhang ([zhang_et_al2019](./phylogenies/zhang_et_al2019))
 
 D-PLACE was developed with generous support from the [National Evolutionary Synthesis Center](https://www.nescent.org),
 the [Max Planck Institute for the Science of Human History](https://www.shh.mpg.de/en), and the National Science
