@@ -3,4 +3,4 @@ python: "3.6"
 cache: pip
 before_cache: rm -f $HOME/.cache/pip/log/debug.log
 install: pip install pydplace
-script: dplace --repos=. check
+script: dplace --repos=$TRAVIS_BUILD_DIR/dplace-data check
