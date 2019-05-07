@@ -1,0 +1,4 @@
+#NEXUS
+Begin trees;
+    tree glottolog_tama1329 = (girg1242:1,haur1242:1,orra1238:1,tama1332:1);
+end;
