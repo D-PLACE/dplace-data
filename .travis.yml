@@ -2,5 +2,5 @@ language: python
 python: "3.6"
 cache: pip
 before_cache: rm -f $HOME/.cache/pip/log/debug.log
-install: pip install pydplace
+install: pip install "attrs>=19.1" pydplace
 script: dplace --repos=$TRAVIS_BUILD_DIR check
