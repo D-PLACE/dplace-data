@@ -4,6 +4,7 @@ Data for [D-PLACE](https://d-place.org).
 
 [![Build Status](https://travis-ci.org/D-PLACE/dplace-data.svg?branch=master)](https://travis-ci.org/D-PLACE/dplace-data)
 
+
 Research that uses data from D-PLACE should cite both the original source(s) of
 the data and the paper by Kirby et al. in which D-PLACE was first presented
 e.g., for research using cultural data from the Binford Hunter-Gatherer dataset:
