@@ -3,4 +3,4 @@ python: "3.6"
 cache: pip
 before_cache: rm -f $HOME/.cache/pip/log/debug.log
 install: pip install pydplace
-script: cldf --repos=. check
+script: dplace --repos=. check
