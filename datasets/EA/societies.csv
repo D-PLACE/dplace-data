@@ -21,7 +21,7 @@ Na2,xd1036,Tareumiut,nort2944,Tareumiut (Na2),"Tagiumiut, Point Barrow Eskimo, B
 Na20,xd1037,Kutchin,gwic1235,Kutchin (Na20),"Gwich'in, Loucheux",1880,,,66,-135,66,-135,Original,
 Na21,xd1038,Caribou Inuit,cari1277,Caribou Eskimo (Na21),Caribou Eskimo,1900,,,63,-96,63,-96,Original,
 Na23,xd1039,Labrador Inuit,labr1244,Labrador Eskimo (Na23),"Sukinninmiut, Labrador Eskimo",1890,,,58,-65,58,-65,Original,
-Ad35,xd104,Meru,kiku1240,Meru (Ad35),,1940,,,0,35,0,35,Original,"Note 8Feb2018: Note possible mix, refs appear to refer to both kik and mer; kik assigned because majority of references refer to kik. [HH: The latter two refs deal with Kikuyu [kik] which is a different lg from Meru [mer].]"
+Ad35,xd104,Meru,meru1245,Meru (Ad35),,1940,,,0,35,0,35,Original,12Nov2018 - changed back to Meru meru1245 [mer], after looking at Murdock's primary sources in more detail. While the latter two refs do focus on the "Kikuyu" in general terms, within the Kikuyu they clearly differentiated the Kikuyu and Meru. (Previous note, based on comment from HH: "8Feb2018 - Note possible mix, refs appear to refer to both kik and mer; kik assigned because majority of references refer to kik. [HH: "The latter two refs deal with Kikuyu [kik] which is a different lg from Meru [mer]".]
 Na24,xd1040,Tasiilaq,tunu1234,Angmagsalik (Na24),"Angmagsalik (East Greenland), Ammassalik, East Greenland Eskimo, Polar Eskimo",1880,,,66,-37,66,-37,Original,Note 8Feb2018: Changed based on note from HH: East Greenlandic is Tunumiisiut [tunu1234] in Glottolog.
 Na25,xd1041,Kalaallit (West Greenland),kala1399,Greenlanders (Na25),"West Greenland Eskimo, West Greenland Inuit",1910,,,69,-53,68.66,-51.22,Revised,Note 8Feb2018: Glottocode updated from west2617 to kala1399
 Na26,xd1042,Dena'ina,tana1289,Tanaina (Na26),Tanaina,1870,,,62,-144,62,-144,Original,
@@ -68,7 +68,7 @@ Nb2,xd1079,Twana,twan1247,Twana (Nb2),,1850,,,48,-123,48,-123,Original,
 Ad39,xd108,Sonjo,temi1247,Sonjo (Ad39),,1950,,,-3,36,-3,36,Original,
 Nb20,xd1080,Tillamook,till1254,Tillamok (Nb20),Nehalem,1870,,,45,-124,44.75,-123.72,Revised,
 Nb21,xd1081,Coos,coos1249,Coos (Nb21),,1860,,,43,-124,43,-124,Original,
-Nb22,xd1082,Tlingit,tlin1245,Tlingit (Nb22),"Kolosh, Southern Tlingit",1880,Tlingit (NA12),http://ehrafworldcultures.yale.edu/collection?owc=NA12,58,-134,58.12,-133.92,Revised,"Note northern and southern tlingit considered distinct dialects of tli by some, but no codes available in Glottolog."
+Nb22,xd1082,Tlingit,tlin1245,Tlingit (Nb22),"Kolosh, Southern Tlingit",1880,Tlingit (NA12),http://ehrafworldcultures.yale.edu/collection?owc=NA12,58,-134,58.12,-133.92,Revised,"9May2019 - preferred name changed to distinguish from eHRAF culture West Tibetans. Note northern and southern tlingit considered distinct dialects of tli by some, but no codes available in Glottolog."
 Nb23,xd1083,Heiltsuk,bell1263,Bellabella (Nb23),"Bellabella, Bella Bella",1880,,,52,-128,52,-128,Original,
 Nb24,xd1084,Makah,maka1318,Makah (Nb24),,1860,Nootka (NE11),http://ehrafworldcultures.yale.edu/collection?owc=NE11,48,-125,48.33,-124.62,Revised,
 Nb25,xd1085,Quinault,quin1251,Quinault (Nb25),,1860,Quinault (NR17),http://ehrafworldcultures.yale.edu/collection?owc=NR17,47,-124,47.42,-124.16,Revised,
@@ -686,7 +686,7 @@ Ai32,xd362,Lugbara,lugb1240,Lugbara (Ai32),Lugware,1920,,,3,32,3,32,Original,
 Ai33,xd363,Madi,madi1260,Madi (Ai33),,1940,,,4,32,4,32,Original,
 Ai34,xd364,Moru,moru1253,Moru (Ai34),,1880,,,5,30,5,30,Original,
 Ai35,xd365,Bongo,bong1285,Bongo (Ai35),Dor,1870,,,7,29,7,29,Original,
-Ai36,xd366,Jur,luok1236,Jur (Ai36),"Gour, Jo-Luo",1920,,,8,28,8,28,Original,Note 8Feb2018: Changed based on note from HH: Crazzolara and Santandrea (and probably the others) is about the Nilotic Luo [luo] which is a completely different language than SBB Jur Modo [bex]
+Ai36,xd366,Jur,luwo1239,Jur (Ai36),"Gour, Jo-Luo",1920,,,8,28,8,28,Original,Changed again on 09Nov2018: Further reading suggests this Luo speaking group from South Sudan should actually be matched to language luwo1239 "Dhe Luo", not to luok1236. See Tucker (1931) “The tribal confusion around Wau [Sudan]” (Sudan Notes and Records 14(1): 49-60 for further disambiguation. Note 8Feb2018: Changed based on note from HH: Crazzolara and Santandrea (and probably the others) is about the Nilotic Luo [luo] which is a completely different language than SBB Jur Modo [bex]
 Ai37,xd367,Koalib,koal1240,Koalib (Ai37),,1940,,,12,31,12,31,Original,
 Ai38,xd368,Korongo,kron1241,Korongo (Ai38),,1930,,,10,30,10,30,Original,
 Ai39,xd369,Mesakin,ngil1242,Mesakin (Ai39),,1940,,,11,30,11,30,Original,
@@ -886,7 +886,7 @@ Cg2,xd542,Icelanders,icel1247,Icelanders (Cg2),,1100,Early Icelanders (EQ02),htt
 Cg3,xd543,Irish,iris1253,Irish (Cg3),Gaelic,1930,Rural Irish (ER06),http://ehrafworldcultures.yale.edu/collection?owc=ER06,53,-9,53,-9,Original,
 Cg4,xd544,Sami,nort2671,Lapps (Cg4),Lapps,1950,Lapps (EP04),http://ehrafworldcultures.yale.edu/collection?owc=EP04,68,22,68,22,Original,"25Sept2018 - glotto id changed from nort2671 to lule1254 on 25Sept2018 as previous change was only applied to ISO code. 8April2017 - Changed from smj to sme based on comment from H. Hammarström: Haglund worked with Karesuando Saami, which is Northern Sami [sme]. Note, this change may not be incorporated to Bouckaert/Atkinson global tree because of timing of correction."
 Cg5,xd545,Walloons,wall1255,Walloons (Cg5),,1950,,,50,5,50,5,Original,
-Ch1,xd546,Serbs,serb1264,Serbs (Ch1),Serbians,1950,Serbs (EF06),http://ehrafworldcultures.yale.edu/collection?owc=EF06,44,20,44,20,Original,
+Ch1,xd546,Serbs,nucl1266,Serbs (Ch1),Serbians,1950,Serbs (EF06),http://ehrafworldcultures.yale.edu/collection?owc=EF06,44,20,44,20,Original,9Nov2018: assigned dialect "nuclear serbian" nucl1266 to differentiate it from eHRAF society EF05 Montenegrins (note that focus for Ch1 is a specific village in central Serbia).
 Ch10,xd547,Romanians,baya1255,Romanians (Ch10),,1910,,,45,26,45,26,Original,"Note, previously baya1254 but changed by non-KK DPLACE editor in early 2016 (before 8April2016)"
 Ch11,xd548,Russians,russ1263,Russians (Ch11),,1955,,,53,41,53,41,Original,
 ch12,xd549,Bashkir,bash1264,Bashkir (ch12),"Basquort, Bashkort, Bashkiry",1899,,,54,56,54,56,Original,
@@ -932,7 +932,7 @@ Ci8,xd584,Georgians,imer1248,Georgians (Ci8),"Kartvelebi, Grusians, Kartveli",18
 Ci9,xd585,Svan,svan1243,Svan (Ci9),Mushüan,1910,,,43,43,43,43,Original,
 Cj1,xd586,Syrians,nort3142,Syrians (Cj1),,1950,Syria (MD01),in process,36,36,36,36,Original,"Note, previously matched to a dialect of nort3139 (nort3140); corrected to [nort3142][ayp] on 5Sept2018. Note, this change may not be incorporated to Bouckaert/Atkinson global tree because of timing of correction."
 Cj10,xd587,Madan,meso1252,Madan (Cj10),"Marsh Arabs, Ma'dan, Ma'adan",1950,,,31,47,31,47,Original,
-Cj2,xd588,Rwala,east2690,Rwala (Cj2),Rwala Bedouin,1920,Rwala (MD04),http://ehrafworldcultures.yale.edu/collection?owc=MD04,33,37,33,37,Original,Changed from ars to avl on 8 April 2017 based on comment from H. Hammarström: The sources pertain to edouin tribes of the Sinai (like the Rwala) they are covered in the Eastern Egyptian Bedawi Arabic entry in Ethnologue [avl].
+Cj2,xd588,Rwala,east2690,Rwala (Cj2),Rwala Bedouin,1920,Rwala (MD04),http://ehrafworldcultures.yale.edu/collection?owc=MD04,33,37,33,37,Original,Changed from ars to avl on 8 April 2017 based on comment from H. Hammarström: The sources pertain to edouin tribes of the Sinai (like the Rwala) they are covered in the Eastern Egyptian Bedawi Arabic entry in Ethnologue [avl]. April 2019: Note that HRAF summary suggests a link to najd1235 (ars) is more appropriate, however najd1235 is spoken further East than the territory described by the same HRAF summary (which reports Rwala Bedouin as grazing their livestock along the Jordan-Saudia Arabia border, North to Damascus (or even Homs), South to the Nafud desert, east (sometimes) to Karbala, Iraq).
 Cj3,xd589,Hebrews,anci1244,Hebrews (Cj3),,-800,,,32,35,32,35,Original,Changed from hebr [hbr] to anci1244 [hbo] in Nov 2018 based on date of cultural observations
 Ac33,xd59,Lala,lala1264,Lala (Ac33),Balala,1940,,,-15,31,-15,31,Original,
 Cj4,xd590,Babylonians,akka1240,Babylonians (Cj4),,-2000,,,32,45,32,45,Original,Changed from tmr to akk on 8 April 2017 based on comment from H. Hammarström: several [of the sources] deal with Babylonia in Hammurabi's time. The language spoken by this culture was Akkadian [akk].
@@ -971,7 +971,7 @@ Ec11,xd619,Selkup,selk1253,Selkup (Ec11),Ostyak Samoyed,1900,,,59,90,59,90,Origi
 Ac36,xd62,Tumbuka,tumb1250,Tumbuka (Ac36),"Atimbuka, Batumbaka, Watumbaka",1920,,,-12,34,-12,34,Original,
 ec12,xd620,Nganasan,ngan1291,Nganasan (ec12),Tavgi Samoyed,1930,Samoyed_with_notes_on_Nganasan (RU04),http://ehrafworldcultures.yale.edu/collection?owc=RU04,72,90,72,90,Original,
 ec13,xd621,Itelmen,itel1242,Itelmen (ec13),"Itelymem, Kamchadal",1710,,,55,168,54.98,161.79,Revised,
-ec14,xd622,Ungazikmit,cent2128,Ungazikmit (ec14),"Eskaleut, Asian Eskimo",1880,,,64,173,64,173,Original,"1Oct2018 - the update to Glottolog 3.3.2 forced re-mapping from dialect chap1266 (which no longer exists) to language (cent2128) (always the language-level match for this society). Note, this change may not be incorporated to Bouckaert/Atkinson global tree because of timing of correction."
+ec14,xd622,Ungazikmit,cent2128,Ungazikmit (ec14),"Eskaleut, Asian Eskimo",1880,,,64,173,64,-173,Revised,"9May2019 - longitude updated to place society in western rather than eastern hemisphere. 1Oct2018 - the update to Glottolog 3.3.2 forced re-mapping from dialect chap1266 (which no longer exists) to language (cent2128) (always the language-level match for this society). Note, this change may not be incorporated to Bouckaert/Atkinson global tree because of timing of correction."
 ec15,xd623,Mansi,mans1258,Mansi (ec15),"Vogul, Gogulich, Mansiy, Voguly",1880,,,63,62,63,62,Original,
 ec16,xd624,Evenk,even1259,Evenk (ec16),"Ewenki, Tungus, Chapogir, Avanki, Avankil, Solon, Khamnigan",1890,,,55,112,55,112,Original,
 ec17,xd625,Negidal,negi1245,Negidal (ec17),"Negidaly, Neghidal",1890,,,52,134,52,134,Original,
@@ -1000,7 +1000,7 @@ Ed2,xd645,Lolo,sich1238,Lolo (Ed2),"Yi, Nosu",1940,Yi (AE04),http://ehrafworldcu
 Ed3,xd646,Manchu,manc1252,Manchu (Ed3),,1920,Manchu (AG01),http://ehrafworldcultures.yale.edu/collection?owc=AG04,45,126,45,126,Original,
 Ed4,xd647,Miao,horn1235,Miao (Ed4),,1940,Miao (AE05),http://ehrafworldcultures.yale.edu/collection?owc=AE05,26,107,26,107,Original,"Changed from hea to hrm on 8 April 2017 based on comment by H. Hammarström: Based on where Ruey worked, language should be cqd or hrm (they are intelligible, which is why glottolog only has one entry for them)."
 Ed5,xd648,Japanese,nucl1643,Japanese (Ed5),,1950,Okayama (AB43),http://ehrafworldcultures.yale.edu/collection?owc=AB43,35,136,35,136,Original,
-Ed6,xd649,Min Chinese,minn1241,Min Chinese (Ed6),,1920,,,24,115,24,115,Original,
+Ed6,xd649,Min Chinese,chao1239,Min Chinese (Ed6),,1920,,,24,115,24,115,Original,7Nov2018-changed to Chaoshan dialect (from Min Nan Chinese language) based on consultation of primary source, and with the addition of dialects of Min Nan Chinese via new eHRAF societies
 Ac39,xd65,Nyasa,mwer1247,Nyasa (Ac39),"Anyassa, Wanyassa",1920,,,-13,35,-13,35,Original,"Note 8Feb2018: Glottocode changed to mwer1247 based on note from HH questioning the previous match (to Mande). mwer1247s is a sister to Chewa, which was the other possible match. KK logic: The EA tells us only that the alternate names for the group are Wanyassa and Anyassa. The Johnson reference describes the Nyasa of Lake Nyasa (Lake Malawi in Tanzania). Carol Ember's concordance tells us the group is in Tanzania [note that the Concordance also selects Mande/mand1423 as a match, but not for a clear reason]. The uzh.ch EA site quotes Tew (1950:31) [the other ethnographic reference for this case]: ""Nyasa, on the east littoral of Lake Nyasa, extending as far north as the Matengo mountains (and including a settlement of freed Nyasa slaves at Masasi in Tanganyika), and southwards until they mingle with Yao settlements on the upper Msinje and Luchulingo rivers."" From Wikipedia: ""The people who are called Nyanja [in Malawi] – when the term is used as an ethnic designation to identify those who speak Nyanja or related languages called Nyanja – are known as Nyasa or Wanyasa in neighbouring Tanzania. The Chewa are the largest ethnic group among the people who speak these related languages."" KK summary: Thus, Chewa looks to be a defensible match, but glottolog provides a sister language to Chewa for Tanzania: ""Mwera (Nyasa)"" [mwer1247], which was selected."
 Ed7,xd650,Okinawans,cent2126,Okinawans (Ed7),,1950,Okinawa (AC07),http://ehrafworldcultures.yale.edu/collection?owc=AC07,26,128,26.16,127.8,Revised,
 Ed8,xd651,Minchia,cent2004,Minchia (Ed8),,1930,,,26,100,26,100,Original,
@@ -1008,7 +1008,7 @@ Ed9,xd652,Li,hlai1239,Li (Ed9),"Sai, Hlai, Lai, Loi",1930,,,19,109,19,109,Origin
 Ee1,xd653,Adi,bori1243,Abor (Ee1),Abor,1940,,,28,95,28,95,Original,
 Ee2,xd654,Burusho,buru1296,Burusho (Ee2),,1930,Burusho (AV07),http://ehrafworldcultures.yale.edu/collection?owc=AV07,37,75,37,75,Original,
 Ee3,xd655,Lepcha,lepc1244,Lepcha (Ee3),Rong,1930,Lepcha (AK05),http://ehrafworldcultures.yale.edu/collection?owc=AK05,28,89,28,89,Original,
-Ee4,xd656,Tibetans,tibe1272,Tibetans (Ee4),,1920,Tibetans (AJ01),http://ehrafworldcultures.yale.edu/collection?owc=AJ01,30,91,30,91,Original,
+Ee4,xd656,Central Tibetans,dbus1238,Tibetans (Ee4),,1920,Tibetans (AJ01),http://ehrafworldcultures.yale.edu/collection?owc=AJ01,30,91,30,91,Original, "12 Nov 2018 Assigned specific dialect to differentiate it from eHRAF society "Western Tibetans". From wikipedia: "Central Tibetan, also known as Dbus, Ü or Ü-Tsang, is the most widely spoken Tibetic language and the basis of Standard Tibetan. There are many mutually intelligible Central Tibetan dialects besides that of Lhasa, with particular diversity along the border and in Nepal.""
 Ee5,xd657,Shina,shin1264,Dard (Ee5),Dard,1870,,,35,73,35,73,Original,
 Ee6,xd658,Sherpa,sher1255,Sherpa (Ee6),,1950,Sherpa (AK06),http://ehrafworldcultures.yale.edu/collection?owc=AK06,28,87,28,87,Original,
 Ee7,xd659,Kachari,kach1279,Kachari (Ee7),Bodo,1840,,,27,90,27,90,Original,
@@ -1204,7 +1204,7 @@ If14,xd829,Makin,bana1287,Makin (If14),Gilbertese,1890,,,3,173,3.38,172.99,Revis
 Ad16,xd83,Ngonde,ngon1268,Ngonde (Ad16),"Konde, Nkonde, Wangonde",1920,Ngonde (FN17),http://ehrafworldcultures.yale.edu/collection?owc=FN17,-10,34,-10,34,Original,
 If15,xd830,Carolinians,caro1242,Carolinians (If15),,1930,,,15,146,15.21,145.76,Revised,
 If16,xd831,Lamotrek,lamo1243,Lamotrek (If16),,1960,,,7,146,7.46,146.38,Revised,
-If17,xd832,Marshallese,rata1243,Marshallese (If17),,1900,Marshallese (OR11),http://ehrafworldcultures.yale.edu/collection?owc=OR11,6,169,6.28,169.49,Revised,
+If17,xd832,Marshallese - Jaluit atoll,rali1241,Marshallese (If17),,1900,Marshallese (OR11),http://ehrafworldcultures.yale.edu/collection?owc=OR11,6,169,6.28,169.49,Revised, 12 Nov 2018 - dialect assigment corrected (should have been Ralik, rali1241, not Ratak, rata1243).
 If2,xd833,Trukese,chuu1238,Trukese (If2),Chuukese,1940,Truk (OR19),http://ehrafworldcultures.yale.edu/collection?owc=OR19,7,152,7.34,151.6,Revised,
 If3,xd834,Majuro,rata1243,Majuro (If3),Marshallese,1940,Marshalls (OR11),http://ehrafworldcultures.yale.edu/collection?owc=OR11,7,171,7.09,171.13,Revised,
 If4,xd835,Ifaluk,nucl1479,Ifuluk (If4),Ifuluk,1940,Woleai (OR21),http://ehrafworldcultures.yale.edu/collection?owc=OR21,7,147,7.25,144.46,Revised,
