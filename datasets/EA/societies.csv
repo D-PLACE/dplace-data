@@ -886,7 +886,7 @@ Cg2,xd542,Icelanders,icel1247,Icelanders (Cg2),,1100,Early Icelanders (EQ02),htt
 Cg3,xd543,Irish,iris1253,Irish (Cg3),Gaelic,1930,Rural Irish (ER06),http://ehrafworldcultures.yale.edu/collection?owc=ER06,53,-9,53,-9,Original,
 Cg4,xd544,Sami,nort2671,Lapps (Cg4),Lapps,1950,Lapps (EP04),http://ehrafworldcultures.yale.edu/collection?owc=EP04,68,22,68,22,Original,"25Sept2018 - glotto id changed from nort2671 to lule1254 on 25Sept2018 as previous change was only applied to ISO code. 8April2017 - Changed from smj to sme based on comment from H. Hammarström: Haglund worked with Karesuando Saami, which is Northern Sami [sme]. Note, this change may not be incorporated to Bouckaert/Atkinson global tree because of timing of correction."
 Cg5,xd545,Walloons,wall1255,Walloons (Cg5),,1950,,,50,5,50,5,Original,
-Ch1,xd546,Serbs,nucl1266,Serbs (Ch1),Serbians,1950,Serbs (EF06),http://ehrafworldcultures.yale.edu/collection?owc=EF06,44,20,44,20,Original,9Nov2018: assigned dialect "nuclear serbian" nucl1266 to differentiate it from eHRAF society EF05 Montenegrins (note that focus for Ch1 is a specific village in central Serbia).
+Ch1,xd546,Serbs,serb1264,Serbs (Ch1),Serbians,1950,Serbs (EF06),http://ehrafworldcultures.yale.edu/collection?owc=EF06,44,20,44,20,Original,
 Ch10,xd547,Romanians,baya1255,Romanians (Ch10),,1910,,,45,26,45,26,Original,"Note, previously baya1254 but changed by non-KK DPLACE editor in early 2016 (before 8April2016)"
 Ch11,xd548,Russians,russ1263,Russians (Ch11),,1955,,,53,41,53,41,Original,
 ch12,xd549,Bashkir,bash1264,Bashkir (ch12),"Basquort, Bashkort, Bashkiry",1899,,,54,56,54,56,Original,
