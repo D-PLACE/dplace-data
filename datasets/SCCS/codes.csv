@@ -5039,6 +5039,7 @@ SCCS810,NA,Missing data,NA
 SCCS810,1,No (but not distinguished from missing data),No
 SCCS810,2,Yes,Yes
 SCCS811,NA,Missing data,NA
+SCCS811,0,0,0
 SCCS811,1,1,1
 SCCS811,2,2,2
 SCCS811,3,3,3
@@ -9838,6 +9839,7 @@ SCCS1926,NA,Missing data,NA
 SCCS1926,0,Absent,Absent
 SCCS1926,1,1 (on a scale of 0-10),1 (on a scale of 0-10)
 SCCS1926,2,2 (on a scale of 0-10),2 (on a scale of 0-10)
+SCCS1926,4,4 (on a scale of 0-10),4 (on a scale of 0-10)
 SCCS1926,5,5 (on a scale of 0-10),5 (on a scale of 0-10)
 SCCS1926,6,6 (on a scale of 0-10),6 (on a scale of 0-10)
 SCCS1926,7,7 (on a scale of 0-10),7 (on a scale of 0-10)
