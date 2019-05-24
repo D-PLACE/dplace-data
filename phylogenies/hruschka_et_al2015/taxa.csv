@@ -1,24 +1,27 @@
-taxon,glottocode,xd_ids,soc_ids
-TRK,nucl1301,xd581,"Ci5, SCCS47"
-TAT,tata1255,,
-UZB,nort2690,xd616,Eb8
-UIG,uigh1240,,
-AZB,sout2697,,
-TRM,turk1304,xd613,Eb5
-HAK,khak1248,,
-SHR,shor1247,,
-ALT,sout2694,,
-KHAL,turk1303,,
-CHV,chuv1255,xd551,ch14
-JAK,yaku1245,xd628,Ec2
-DOLG,dolg1241,,
-TUV,tuvi1240,,
-KRG,kirg1245,,
-KAZ,kaza1248,xd609,"Eb1, SCCS65"
-NOGX,noga1249,,
-BAS,bash1264,xd549,ch12
-BLKX,balk1254,,
-KRMX,kara1464,xd560,ch22
-KLPX,kara1467,,
-SAL,sala1264,,
-QUM,kumy1244,xd579,Ci3
+taxon,language,glottocode,xd_ids,soc_ids
+ALT,Oyrat,sout2694,,
+AZB,Azerbaidzhan,sout2697,,
+BAS,Bashkir,bash1264,xd549,ch12
+BLKX,Balkar,balk1254,,
+CHV,Chuvash,chuv1255,xd551,ch14
+DOLG,Dolgan,dolg1241,,
+GAGX,Gagauz,gaga1249,xd554,ch17
+HAK,Khakassian,khak1248,,
+JAK,Yakut,yaku1245,xd628,Ec2
+KAZ,Kazakh,kaza1248,xd609,"Eb1, SCCS65"
+KHAL,Halaj,turk1303,,
+KLPX,Karakalpak,kara1467,,
+KRG,Kirghiz,kirg1245,,
+KRMX,Karaim,kara1464,xd560,ch22
+NOGX,Nogai,noga1249,,
+QUM,Kumyk,kumy1244,xd579,Ci3
+SAL,Salar,sala1264,,
+SHR,Shor,shor1247,,
+SJG,Sary-Yughur,west2402,,
+TAT,Tatar,tata1255,,
+TOF,Tofalar,kara1462,,
+TRK,Turkish,nucl1301,xd581,"Ci5, SCCS47"
+TRM,Turkmen,turk1304,xd613,Eb5
+TUV,Tuva,tuvi1240,,
+UIG,Uighur,uigh1240,,
+UZB,Uzbek,nort2690,xd616,Eb8
