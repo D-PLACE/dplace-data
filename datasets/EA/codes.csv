@@ -107,7 +107,7 @@ EA201,2,Pattern of marital residence in the first years of marriage not differen
 EA011,NA,Missing data,Missing data
 EA011,1,"Wife to husband's group (patrilocal, virilocal) or wife to husband's mother's brother's household (avunculocal)",Wife to husband
 EA011,2,Couple to either group or neolocal,Ambi/neo-local
-EA011,3,Husband to wifeﾒs group,Husband to wife
+EA011,3,Husband to wife's group,Husband to wife
 EA011,9,"Nonestablishment of a common household, i.e., where both spouses remain in their natal households, sometimes called ""duolocal"" or ""natolocal"" residence",Separate
 EA012,NA,Missing data,Missing data
 EA012,1,"Avunculocal, i.e., normal residence with or near the maternal uncle or other male matrilineal kinsmen of the husband",Avunculocal
@@ -125,7 +125,7 @@ EA012,12,"Ambilocal, with a marked preponderance of virilocal practice (i.e., vi
 EA013,NA,Missing data,Missing data
 EA013,1,"Wife to husband's group (patrilocal, virilocal) or wife to husband's mother's brother's household (avunculocal)",Wife to husband
 EA013,2,Couple to either group or neolocal,Ambi/neo-local
-EA013,3,Husband to wifeﾒs group,Husband to wife
+EA013,3,Husband to wife's group,Husband to wife
 EA013,4,No common residence,Separate
 EA013,9,No alternate form,No alternate
 EA014,NA,Missing data,Missing data
