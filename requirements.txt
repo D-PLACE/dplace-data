@@ -1,2 +1,5 @@
+pytest
+attrs>=19.1
+pydplace>=2.3
 python-nexus==1.7
 ete3==3.1.1
