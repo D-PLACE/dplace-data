@@ -1,0 +1,68 @@
+{
+    "access_right": "open",
+    "contributors": [
+        {
+            "name": "Robert Forkel",
+            "type": "DataCurator"
+        }
+    ],
+    "keywords": [
+        "cultural-heritage"
+    ],
+    "upload_type": "dataset",
+    "creators": [
+      {
+        "name": "Kathryn R. Kirby"
+      }, 
+      {
+        "affiliation": "Max Planck Institute for the Science of Human History", 
+        "name": "Russell D. Gray"
+      }, 
+      {
+        "affiliation": "Max Planck Institute for the Science of Human History", 
+        "name": "Simon J. Greenhill"
+      }, 
+      {
+        "name": "Fiona M. Jordan"
+      }, 
+      {
+        "name": "Stephanie Gomes-Ng"
+      }, 
+      {
+        "name": "Hans-J\u00f6rg Bibiko"
+      }, 
+      {
+        "name": "Dami\u00e1n E. Blasi"
+      }, 
+      {
+        "name": "Carlos A. Botero"
+      }, 
+      {
+        "name": "Claire Bowern"
+      }, 
+      {
+        "name": "Carol R. Ember"
+      }, 
+      {
+        "affiliation": "Duke University", 
+        "name": "Dan Leehr"
+      }, 
+      {
+        "name": "Bobbi S. Low"
+      }, 
+      {
+        "name": "Joe McCarter"
+      }, 
+      {
+        "name": "William Divale"
+      }, 
+      {
+        "name": "Michael C. Gavin"
+      }
+    ],
+    "title": "D-PLACE/dplace-data: D-PLACE \u2013 the Database of Places, Language, Culture and Environment",
+    "description": "<p>The data repository for the D-PLACE Project (Database of Places, Language, Culture and Environment)</p>",
+    "license": {
+        "id": "CC-BY-NC-4.0"
+    }
+}

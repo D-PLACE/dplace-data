@@ -47,3 +47,9 @@ Allow ZENODO some time to process the release, then search for the release on
 ZENODO, copy the corresponding DOI badge and paste it at the end of the release
 description.
 
+
+## Create derived releases
+
+- Create a corresponding release of D-PLACE/dplace-cldf
+- Release the new data in the clld app
+

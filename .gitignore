@@ -4,5 +4,4 @@
 *.pyc
 .DS_Store
 pydplace.egg-info
-cldf
 .pytest_cache/
