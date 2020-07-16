@@ -15,8 +15,12 @@ Any `ERROR`s must be fixed and `WARNING`s inspected closely.
 If a new Glottolog version has become available since the last release, the Glottolog
 data included in `dplace-data` (language family trees and [languoid metadata](csv/glottolog.csv)) must be updated. This is done running the command
 ```
-dplace glottolog PATH/TO/GLOTTOLOG/REPOS YEAR VERSION
+dplace glottolog --glottolog-version vX.Y.Z PATH/TO/GLOTTOLOG/REPOS
 ```
+
+Run `dplace check` to make sure all Glottolog mappings are still valid.
+Phylogenies for obsolete Glottolog families need to be removed from
+`phylogenies/index.csv`.
 
 
 ## Assign societies to TDWG regions

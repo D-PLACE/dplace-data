@@ -1,4 +1,0 @@
-#NEXUS
-Begin trees;
-    tree glottolog_mong1329 = (daur1238:1,mogh1245:1,(((halh1238:1,peri1253:1)mong1331:1,russ1264:1)khal1273:1,kalm1243:1)oira1264:1,tuuu1240:1);
-end;

@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_algi1248 = ((chey1247:1,((plai1258:1,sout2978:1,swam1239:1)cree1272:1,mont1268:1,nask1242:1)cree1271:1,(mikm1235:1,unam1242:1,peno1243:1)east2700:1,((kick1244:1,mesk1242:1)foxx1245:1,miam1252:1,((((cent2136:1,(redl1238:1,uppe1274:1)chip1241:1,east2542:1)cent2252:1,((alba1270:1,lacs1238:1,rain1239:1)nort2961:1,west1510:1)nort3181:1)nucl1723:1,otta1242:1,(seve1241:1,wini1244:1)bigt1234:1)ojib1241:1,pota1247:1)ojib1240:1,shaw1249:1)east2765:1,meno1252:1,(bloo1239:1,pieg1239:1)siks1238:1,(arap1274:1,gros1243:1)arap1280:1)algo1256:1,wiyo1248:1,yuro1248:1);
+    tree glottolog_algi1248 = ((chey1247:1,((sout2978:1,swam1239:1,plai1258:1)cree1272:1,mont1268:1,nask1242:1)cree1271:1,(mikm1235:1,unam1242:1,peno1243:1)east2700:1,((kick1244:1,mesk1242:1)foxx1245:1,miam1252:1,((((cent2136:1,(redl1238:1,uppe1274:1)chip1241:1,east2542:1)cent2252:1,((alba1270:1,lacs1238:1,rain1239:1)nort2961:1,west1510:1)nort3181:1)nucl1723:1,otta1242:1,(seve1241:1,wini1244:1)bigt1234:1)ojib1241:1,pota1247:1)ojib1240:1,shaw1249:1)east2765:1,meno1252:1,(bloo1239:1,pieg1239:1)siks1238:1,(arap1274:1,gros1243:1)arap1280:1)algo1256:1,wiyo1248:1,yuro1248:1);
 end;

@@ -1,0 +1,4 @@
+#NEXUS
+Begin trees;
+    tree glottolog_nivk1234 = (amur1242:1,nort2750:1);
+end;

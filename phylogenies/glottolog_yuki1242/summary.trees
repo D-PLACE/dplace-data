@@ -1,4 +1,4 @@
 #NEXUS
 Begin trees;
-    tree glottolog_yuki1242 = (wapp1239:1,yuki1243:1);
+    tree glottolog_yuki1242 = (yuki1243:1,wapp1239:1);
 end;
