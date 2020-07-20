@@ -37,7 +37,7 @@ dplace tdwg
 We make the sources of our data transparent by extracting the information from the
 index files into [`SOURCES.md`](SOURCES.md). This is done running
 ```
-dplace readme
+dplace index
 ```
 
 
