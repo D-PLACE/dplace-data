@@ -84,9 +84,9 @@ EA009,NA,Missing data,Missing data
 EA009,1,Monogamous,Monogamous
 EA009,2,"Polygynous, with polygyny occasional or limited",Limited polygyny
 EA009,3,"Polygynous, with polygyny common and preferentially sororal, and co-wives not reported to occupy separate quarters","Polygyny, sororal cohabit"
-EA009,4,"Polygynous, with polygyny common and preferentially sororal, and co-wives typically occupying separate quarters","Polygyny, sororal separate"
-EA009,5,"Polygynous, with polygyny general and not reported to be preferentially sororal, and co-wives typically occupying separate quarters","Polygyny, non-sororal cohabit"
-EA009,6,"Polygynous, with polygyny general and not reported to be preferentially sororal, and co-wives not reported to occupy separate quarters","Polygyny, non-sororal separate"
+EA009,4,"Polygynous, with polygyny common and preferentially sororal, and co-wives typically occupying separate quarters","Polygyny, sororal separate quarters"
+EA009,5,"Polygynous, with polygyny general and not reported to be preferentially sororal, and co-wives typically occupying separate quarters","Polygyny, non-sororal separate quarters"
+EA009,6,"Polygynous, with polygyny general and not reported to be preferentially sororal, and co-wives not reported to occupy separate quarters","Polygyny, non-sororal cohabit"
 EA009,7,Polyandrous,Polyandrous
 EA010,NA,Missing data,Missing data
 EA010,1,"Avunculocal, i.e., normal residence with or near the maternal uncle or other male matrilineal kinsmen of the husband",Avunculocal
