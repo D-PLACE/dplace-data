@@ -1,14 +1,12 @@
 
 # Changelog
 
+## [2.2.0] - 
 
-## [1.1.1] - UNRELEASED
 
 - Better handling of sources in bibTex format.
 - Upgraded to Glottolog 4.2.1 #275.
 - Correction to EA009 codes 5 and 6, for which the 'shortName' of the codes was reversed #286.
-- Proper attribution and citation information for the GMTED2010 and ecoClimate datasets has
-  been added.
 - Corrected WNAI115 and WNAI65 codes.
 
 ### Society and Language Assignments
@@ -40,6 +38,10 @@
 
 Thanks to all the authors for providing these trees.
 
+## [1.1.1] - 
+
+- Proper attribution and citation information for the GMTED2010 and ecoClimate datasets has
+  been added.
 
 ## [1.1.0] - 2017-09-15
 
