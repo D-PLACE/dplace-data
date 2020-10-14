@@ -1,0 +1,4 @@
+#NEXUS
+Begin trees;
+    tree glottolog_chiq1253 = (conc1244:1,jesu1240:1,sani1274:1,sanj1279:1,sant1429:1);
+end;
