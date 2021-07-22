@@ -3588,9 +3588,9 @@
         "name": "Central America"
     },
     "SCCS156": {
-        "lat": 15.0,
+        "lat": 15.16,
         "code": 80,
-        "lon": -83.0,
+        "lon": -84.29,
         "name": "Central America"
     },
     "SCCS159": {
@@ -6384,9 +6384,9 @@
         "name": "Central America"
     },
     "Sa10": {
-        "lat": 17.0,
+        "lat": 16.9,
         "code": "79",
-        "lon": -92.0,
+        "lon": -91.0,
         "name": "Mexico"
     },
     "SCCS128": {
@@ -7608,9 +7608,9 @@
         "name": "Mexico"
     },
     "Ni3": {
-        "lat": 23.0,
+        "lat": 22.0,
         "code": "79",
-        "lon": -104.0,
+        "lon": -105.0,
         "name": "Mexico"
     },
     "SCCS108": {
@@ -9450,9 +9450,9 @@
         "name": "Northern Africa"
     },
     "Sa9": {
-        "lat": 13.0,
+        "lat": 14.766,
         "code": "80",
-        "lon": -85.0,
+        "lon": -84.089,
         "name": "Central America"
     },
     "Sa8": {
