@@ -11,7 +11,7 @@ Na10,xd1027,Chugach,chug1254,Chugach (Na10),"Chugachigmiut, Chugash",1930,South 
 Na11,xd1028,Sivokakmeit,cent2128,Sivokakmeit (Na11),St. Lawrence Island Inuit,1920,,,63,-170,63.34,-170.3,Revised,"4Oct2018 - Note that while EA society Na11 has always been linked to xd1028, Binford society B379 was originally linked to xd1020 (and, thus, linked to the dialect poin1245 and language nort2943. The update to Glottolog 3.3.2 forced re-mapping of xd1028 from dialect aiwa1238 (which no longer exists) to language cent2128 (always the language-level match for this xd_id)."
 Na12,xd1029,Nunamiut,nort2944,Nunamiut (Na12),"Inland North Alaskan Eskimo, Nunamiut Eskimo",1950,,,68,-152,68,-152,Original,"1Oct2018 - mapped to a new dialect (nort2944) of the same language (nort2943). HH: Belongs to language North Alaskan Inupiatun [nort2943] and more specifically to the North Slope Inupiatun [nort2944] dialect. Note that the subdialect to which it was previously mapped (Anaktuvuk Pass, anak1241) does not exist in Glottolog version 3.3.2. Note, this change may not be incorporated to Bouckaert/Atkinson global tree because of timing of correction."
 Ad34,xd103,Kamba,kamb1297,Kamba (Ad34),"Akamba, Wakamba",1910,,,-2,38,-2,38,Original,
-Na13,xd1030,Baffin Island Inuit,baff1240,Baffinland (Na13),Baffinland,1880,,,65,-65,65.24,-64.63,Revised,
+Na13,xd1030,Nunatsiarmiut,baff1240,Baffinland (Na13),"Baffin Island Inuit, Baffinland",1880,,,65,-65,65.24,-64.63,Revised,
 Na14,xd1031,Inughuit (Northern Greenland),pola1254,Polar Eskimo (Na14),"Polar Eskimo, Arctic Highlanders, Smith Sound Inuit, Smith Sound Eskimo",1880,,,78,-70,78,-70,Original,"Note 8Feb2018: Glottocode changed to [ike] based on note from HH: ""The Polar Eskimo do not speak a language intelligible to Kalaalisut and had until recent times no contact or knowledge of the Kalaalisut further south. The language is intelligible to North Baffin Inuktitut so Glottolog counts Polar Eskimo as Eastern Canadian Inuktitut [ike]. Furthermore, Oswalt 1963 is listed as a reference to Polar Eskimo but concerns a completely different people in Alaska who speak Yupik-Central [esu]."""
 Na15,xd1032,Tlicho,dogr1252,Dogrib (Na15),Dogrib,1860,,,63,-117,63,-117,Original,
 Na16,xd1033,Délįne,nort2942,Satudene (Na16),"Bear Lake Dene, Satudene, Great Bear Lake People, Sahtu, Sahtu Dene",1860,,,65,-119,65,-119,Original,
@@ -45,7 +45,7 @@ Na41,xd1058,Mi'kmaq,mikm1235,Micmac (Na41),Micmac,1700,Mi'kmaq (NJ05),http://ehr
 Na42,xd1059,Potawatomi,pota1247,Potawatomi (Na42),Neshnabé,1760,,,44,-85,44,-85,Original,
 Ad37,xd106,Teita,tait1250,Teita (Ad37),"Taita, Wateita",1940,,,-4,39,-4,39,Original,
 Na43,xd1060,Netsilik,nets1241,Netsilik (Na43),"Netsilik Inuit, Netsilik Eskimo",1920,,,69,-96,69,-96,Original,
-Na44,xd1061,Taqagmiut,queb1248,Taqagmiut (Na44),Taqagmiut Eskimo,1910,,,62,-76,62,-76,Original,
+Na44,xd1061,Nunavimmiut,queb1248,Taqagmiut (Na44),"Taqagmiut, Taqagmiut Eskimo, Inuit of Sugluk, Inuit of Salluit",1910,,,62,-76,62,-76,Original,
 Na45,xd1062,Mistissini Cree,sout2978,Mistassini (Na45),Mistassini Cree,1900,,,51.75,-72.66,51.75,-72.66,Revised,
 Na5,xd1063,Naskapi,nask1242,Naskapi (Na5),,1890,Montagnais (NH06),http://ehrafworldcultures.yale.edu/collection?owc=NH06,58,-70,58,-70,Original,
 Na6,xd1064,Nunivak,kusk1241,Nunivak (Na6),Nunivak Cup'ig,1930,,,60,-166,60,-166,Original,
@@ -293,7 +293,7 @@ Nh8,xd1284,Jemez,jeme1245,Jemez (Nh8),"Walatowa, Towa",1920,,,36,-107,36,-107,Or
 Nh9,xd1285,Picuris,picu1248,Picuris (Nh9),,1920,,,36,-106,36,-106,Original,"Note 8Feb2018: Glottocode updated based on note from HH: Picuris Northern Tiwa [picu1248] now has its own separate language-level glottocode.; Note, previously picu1240 but changed by non-KK DPLACE editor in early 2016 (before 8April2016)"
 Ni1,xd1286,Tarahumara,cent2131,Tarahumara (Ni1),Rarámuri,1930,Tarahumara (NU33),http://ehrafworldcultures.yale.edu/collection?owc=NU33,28,-107,28,-107,Original,
 Ni2,xd1287,Tohono O'odham,toho1246,Papago (Ni2),Papago,1930,O'Odham (NU79),http://ehrafworldcultures.yale.edu/collection?owc=NU79,31,-112,31,-112,Original,
-Ni3,xd1288,Huichol,huic1243,Huichol (Ni3),Wixárika,1920,Huichol (Nu19),http://ehrafworldcultures.yale.edu/collection?owc=NU19,23,-104,23,-104,Original,
+Ni3,xd1288,Huichol,huic1243,Huichol (Ni3),Wixárika,1920,Huichol (Nu19),http://ehrafworldcultures.yale.edu/collection?owc=NU19,23,-104,22,-105,Revised 22-July-2021 by KK based on review of map - replaced with lat long for the matched SCCS society (SCCS152),
 Ni4,xd1289,Seri,seri1257,Seri (Ni4),Comcaac,1900,Seri (NU31),in process,29,-112,29,-112,Original,
 Ae11,xd129,Songola,song1300,Songola (Ae11),"Basongola, Wasongola",1900,,,-4,26,-4,26,Original,
 Ni5,xd1290,Chichimeca,chic1272,Chichimec (Ni5),Chichimec,1570,,,22,-100,22,-100,Original,
@@ -317,9 +317,9 @@ Nj6,xd1305,Huave,sanm1287,Huave (Nj6),,1950,,,16,-95,16.22,-95.02,Revised,
 Nj7,xd1306,Mixe,isth1238,Mixe (Nj7),,1930,,,17,-95,17,-95,Original,
 Nj8,xd1307,Tarasco,pure1242,Tarasco (Nj8),,1500,Tarasco (NU34),in process,19,-101,19,-101,Original,
 Nj9,xd1308,Tlaxcalans,cent2132,Tlaxdalans (Nj9),,1960,,,19,-98,19,-98,Original,
-Sa1,xd1309,Guna,bord1248,Cuna (Sa1),"Dule, Tule, Cuna, Kuna",1940,Cuna (SB05),http://ehrafworldcultures.yale.edu/collection?owc=SB05,9,-78,9,-78,Original,
+Sa1,xd1309,Guna,sanb1242,Cuna (Sa1),"Dule, Tule, Cuna, Kuna",1940,Cuna (SB05),http://ehrafworldcultures.yale.edu/collection?owc=SB05,9,-78,9,-78,Original,"Note 22July2021: Glottocode changed by KK to sanb1242 from bord1248"
 Ae13,xd131,Bashi,shii1238,Bashi (Ae13),"Baniabungu, Wanyabungu",1920,,,-2,29,-2,29,Original,
-Sa10,xd1310,Lacandon,laca1243,Lacandon (Sa10),,1900,,,17,-92,17,-92,Original,
+Sa10,xd1310,Lacandon,laca1243,Lacandon (Sa10),,1900,,,17,-92,16.9,-91,Revised 22-July-2021 by KK based on web research and review of location in GIS,
 Sa11,xd1311,Kaqchikel,kaqc1270,Cakchiquel (Sa11),Cakchiquel,1880,,,14,-91,14,-91,Original,
 Sa12,xd1312,Lenca,lenc1242,Lenca (Sa12),,1948,,,14,-88,14,-88,Original,"Note, previously lenc1244, but glottocode is considered a ""bookkeeping"" code (because extinct?), so chose Lencan-Honduras instead (note that point is in Honduras)"
 Sa13,xd1313,K'iche',kich1262,Quiche (Sa13),Quiche,1930,,,15,-91,15,-91,Original,
@@ -335,7 +335,7 @@ Sa5,xd1321,Bribri,brib1243,Bribri (Sa5),Talamanca,1950,Talamancans (SA19),http:/
 Sa6,xd1322,Yucatec Maya,yuca1254,Yucatec Maya (Sa6),,1520,Yucatec Maya (NV10),http://ehrafworldcultures.yale.edu/collection?owc=NV10,18,-90,18,-90,Original,
 Sa7,xd1323,Garifuna,gari1256,Black Carib (Sa7),"Black Carib, Garif",1940,Garifuna (SA12),http://ehrafworldcultures.yale.edu/collection?owc=SA12,16,-89,16,-89,Original,
 Sa8,xd1324,Mam,mamm1241,Mam (Sa8),,1930,Mam Maya (NW08),http://ehrafworldcultures.yale.edu/collection?owc=NW08,15,-92,15,-92,Original,
-Sa9,xd1325,Miskito,misk1235,Miskito (Sa9),"Mískitu, Mosquito",1920,Miskito (SA15),http://ehrafworldcultures.yale.edu/collection?owc=SA15,13,-85,13,-85,Original,
+Sa9,xd1325,Miskito,misk1235,Miskito (Sa9),"Mískitu, Mosquito",1920,Miskito (SA15),http://ehrafworldcultures.yale.edu/collection?owc=SA15,13,-85,14.766,-84.089,Revised 22-July-2021 by KK based on web research and review of location in GIS,
 Sb1,xd1326,Callinago,isla1278,Callinago (Sb1),,1650,Island Carib (ST13),http://ehrafworldcultures.yale.edu/collection?owc=ST13,15,-61,15.41,-61.27,Revised,"Note 8Feb2018: Changed to crb from car as focus is reported in White SCCS pinpointing sheet as ""Dominica Island"" (See also note from HH: Most of the refs refer to Island Carib [crb] not Galibi Carib on the mainland.)"
 Sb2,xd1327,Cágaba,cogu1240,Cagaba (Sb2),"Cagaba, Kagaba, Kogi",1940,Kogi (SC07),http://ehrafworldcultures.yale.edu/collection?owc=SC07,11,-74,11,-74,Original,
 Sb3,xd1328,Barí (Motilon),yukp1241,Motilon (Sb3),"Bari, Motilon, Yuko, Motilones, Barí",1940,,,9,-72,9,-72,Original,"Note 8Feb2018: Changed after note by HH:""The Motilon described by Reichel-Dolmatoff is Yukpa [yup] (a Cariban lg) not the Chibchan Bari [mot]""; KK: indeed, the focus is on the ""Iroka"", who are described as a ""Yukpa subtribe"" by Ruddle (1974:29, in Halbmayer 2013). References for case are Holder and Reichel-Dolmatoff, and both seem to have attempted to contact the Bari in 1946 (according to Beckerman and Lizarralde 2013), but may have been unsuccsessful. In any case, both anthropologists, and certainly R-D, worked with the Iroka [Yukpa]. Note from Beckerman and Lizarralde (2013): ""the forest-dwelling Bari (and their traditional and ongoing enemies, the Carib-speaking Yukpa) constituted a recognized obstacle to colonization of the forested land remaining to [the small-scale colonists]"". Both Yukpa and Bari seem to have been known as ""Motilones"" (e.g., see http://www.native-languages.org/definitions/motilone.htm)."
@@ -807,8 +807,8 @@ Cb21,xd471,Djafun,adam1253,Djafun (Cb21),Djafun Fulani,1930,,,8,13,8,13,Original
 Cb22,xd472,Liptako,west2454,Liptako (Cb22),,1920,,,14,0,14,0,Original,
 Cb23,xd473,Tukulor,pula1263,Tukulor (Cb23),"Tekrur, Torado",1930,,,1,-14,14.73,-14.32,Revised,
 Cb24,xd474,Wodaabe Fulani,boro1274,Wodaabe Fulani (Cb24),"Pastoral Fulani, Wodaabe",1950,,,12,12,12,12,Original,
-Cb25,xd475,Tazarawa,haus1257,Tazarawa (Cb25),,1930,,,14,8,14,8,Original,
-Cb26,xd476,Zazzagawa Hausa,araw1280,Zazzagawa Hausa (Cb26),"Hausa, Zazzagawa",1950,Hausa (MS12),http://ehrafworldcultures.yale.edu/collection?owc=MS12,11,8,11,8,Original,
+Cb25,xd475,Tazarawa Hausa,arew1238,Tazarawa (Cb25),,1930,,,14,8,14,8,Original,"Note 22Jul2021 - language match changed by KK to dialect arew1238 (from haus1257). The Tazarawa Hausa are a northern group of Hausa, and this dialect seems a good match."
+Cb26,xd476,Zazzagawa Hausa,haus1257,Zazzagawa Hausa (Cb26),"Hausa, Zazzagawa, Hausa of Zaria, Hausa of Zazzau",1950,Hausa (MS12),http://ehrafworldcultures.yale.edu/collection?owc=MS12,11,8,11,8,Original,"Note 22Jul2021 - matched to language haus1257, replacing previous match to dialect araw1280 (this match was deemed inaccurate - according to Wikipedia, araw1280 is a northern dialect, when instead the best match would be a southern dialect. No southern dialect was found in Glottolog, hence the language-level match.) Suggestion: Glottolog should add a southern dialect. According to wikipedia page for Hausa Language,  "Zazzaganci in Zazzau is the major Southern dialect"; according to SCCS pinpointing sheets, Zazzagawa Hausa are those in the Zaria (also known as the 'Zazzau Emirate') region."
 Cb27,xd477,Bachama,baca1246,Bachama (Cb27),,1920,,,10,12,10,12,Original,
 Cb28,xd478,Dera,dera1248,Dera (Cb28),Kanakuru,1920,,,10,12,10,12,Original,
 Cb29,xd479,Ngizim,ngiz1242,Ngizim (Cb29),,1920,,,12,10,12,10,Original,
