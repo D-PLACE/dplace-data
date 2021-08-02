@@ -17,11 +17,11 @@ Atoni,uabm1237,,
 AttaPamplona,pamp1244,,
 Avava,katb1237,,
 Babatana,baba1268,,
-Babuyan,ibat1238,,
-Bajo,sout2918,xd736,"Ia13, SCCS86"
+Babuyan,babu1242,,
+Bajo,indo1317,xd736,"Ia13, SCCS86"
 Balangaw,bala1310,,
-Bali,bali1279,,
-Baliledo,wanu1241,,
+Bali,bali1278,,
+Baliledo,,,
 BanggaiW_D,bang1368,,
 BanjareseMalay,banj1239,,
 Banoni,bann1247,,
@@ -30,7 +30,7 @@ Baree,pamo1252,,
 Basai,basa1287,,
 Belait,bela1260,,
 BerawanLongTerawan,west2564,,
-BigaMisool,biga1238,,
+BigaMisool,matb1237,,
 BikolNagaCity,cent2087,,
 Bilibil,bilb1241,,
 Bima,bima1247,,
@@ -40,7 +40,7 @@ Bobot,bobo1254,,
 BolaangMongondow,mong1342,,
 Bonerate,bone1254,,
 Bonfia,masi1266,,
-BontokGuinaang,bont1247,,
+BontokGuinaang,guin1256,,
 BugineseSoppeng_D,bugi1244,,
 Bugotu,bugh1239,,
 Bukat,buka1261,,
@@ -48,7 +48,7 @@ Buli,buli1255,,
 Buma,tean1237,,
 Bunun,bunu1267,xd733,Ia10
 BuruNamroleBay,buru1303,,
-Buyang,buya1244,,
+Buyang,emab1235,,
 Bwaidoga,bwai1242,xd848,Ig16
 Canala,xara1244,,
 Carolinian,caro1242,,
@@ -73,15 +73,15 @@ ESKamberaSouthern_D,kamb1299,,
 ESLewa_D,kamb1299,,
 ESUmbuRatuNggai_D,kamb1299,xd771,Ic9
 EastMasela,east2462,,
-ElatKeiBesar,keii1239,xd770,Ic8
+ElatKeiBesar,keib1237,xd770,Ic8
 Emae,emae1237,,
 Emplawas,empl1237,,
-Erai,iliu1237,,
+Erai,eray1237,,
 Favorlang,babu1240,,
 FijianBau,bauu1243,"xd867, xd874","Ih14, SCCS102, Ih8"
-Futuna,east2447,xd887,Ii8
+Futuna,futu1245,xd887,Ii8
 FutunaEast,east2447,,
-FutunaWest,futu1245,,
+FutunaWest,,,
 Gaddang,gadd1244,,
 Gapapaiwa,gapa1238,,
 GauraNggaura,kodi1247,,
@@ -94,7 +94,7 @@ GorontaloHulondalo,goro1259,,
 HainanCham,tsat1238,,
 Hanunoo,hanu1241,xd745,Ia5
 Hawaiian,hawa1245,xd895,Ij6
-HituAmbon,ambo1250,xd761,Ic11
+HituAmbon,hitu1239,xd761,Ic11
 HoavaNewGeorgia,hoav1238,,
 Iaai,iaai1238,,
 Iban,iban1264,xd750,"Ib1, SCCS85"
@@ -147,7 +147,7 @@ KiaZabana,zaba1237,,
 Kilivila,kili1267,xd852,"Ig2, SCCS98"
 KilokakaYsabel,zaza1245,,
 Kiribati,gilb1244,"xd829, xd838","If14, SCCS107, If7"
-Kisar,kuni1263,,
+Kisar,kisa1266,,
 Kodi,kodi1247,xd763,Ic13
 KoiwaiIrianJaya,kowi1239,,
 Kokota,koko1269,,
@@ -164,7 +164,7 @@ Lakalai,naka1262,xd859,Ig7
 Lamaholot,lama1277,xd769,Ic7
 LamboyaLaboya,lamb1273,,
 Lampung,lamp1243,,
-Lau,laua1243,xd870,Ih4
+Lau,lauu1247,xd870,Ih4
 Leipon,leip1237,,
 Lenakel,lena1238,,
 Letinese,leti1246,,
@@ -184,7 +184,7 @@ MagoriSouthEastPapua,mago1248,,
 Makassar,maka1311,xd759,Ic1
 MalayBahasaIndonesia,indo1316,,
 Maleu,male1289,,
-MaloSantaCruz,malo1246,,
+MaloSantaCruz,natu1246,,
 Maloh,emba1238,,
 Mamanwa,mama1275,,
 Mambai,mamb1306,,
@@ -205,7 +205,7 @@ Mapun,mapu1244,,
 Maranao,mara1404,,
 MarovoNewGeorgia,maro1244,,
 Marquesan,nort2845,xd892,"Ij3, SCCS105"
-Marshallese,rali1241,xd827,If12
+Marshallese,mars1254,xd827,If12
 MarshalleseE_D,rata1243,"xd832, xd834","If17, SCCS108, If3"
 Masiwang,masi1266,,
 Matukar,matu1261,,
@@ -213,7 +213,7 @@ Maututu,naka1262,,
 Megiar,taki1248,,
 Mekeo,meke1243,xd799,Ie22
 MelanauMukah,cent2101,,
-Melayu,mala1479,xd730,Ej8
+Melayu,stan1306,xd730,Ej8
 MelayuAmbon,ambo1250,,
 MelayuBrunei_D,brun1242,,
 Merei,mere1242,,
@@ -274,26 +274,26 @@ Paulohi,paul1238,,
 Pazeh,kulo1237,,
 Penrhyn,penr1237,xd890,Ij10
 Perai,pera1257,,
-PeteraraMaewo,mwat1237,,
+PeteraraMaewo,pete1237,,
 PhanRangChamEasternCham,east2563,xd718,Ej11
 Ponapean,pohn1238,xd836,If5
 Pondok,anak1240,,
 Popalia,tuka1249,,
 PuloAnnan,sons1242,,
 Puluwatese,pulu1242,,
-PunanKelai,west2563,xd1442,B1
+PunanKelai,sega1243,xd1442,B1
 Puyuma,puyu1239,xd734,Ia11
 Raga,hano1246,,
 RapanuiEasterIsland,rapa1244,xd898,Ij9
 Rarotongan,raro1241,xd889,Ij1
 RejangRejang,reja1240,,
-Rennellese,renn1242,xd877,Ii10
+Rennellese,mung1271,xd877,Ii10
 Ririo,riri1237,,
 RotiTermanu_D,term1237,xd766,Ic4
 Rotuman,rotu1241,xd872,Ih6
 Roviana,rovi1238,,
 Rukai,ruka1240,,
-Rurutuan,aust1304,,
+Rurutuan,ruru1237,,
 Saa,saaa1240,xd858,Ig6
 Saaroa,saar1237,,
 SaipanCarolinian,caro1242,xd830,If15
@@ -339,7 +339,7 @@ SyeErromangan,siee1239,xd865,Ih12
 Tabar,mand1440,,
 TaeSToraja,tora1261,xd767,"Ic5, SCCS87"
 Tagalog,taga1270,,
-TagbanwaAborlan_D,tagb1258,xd747,Ia7
+TagbanwaAborlan_D,cent2090,xd747,Ia7
 TagbanwaKalamianCoronIsland_D,cala1258,,
 TahitianModern,tahi1242,xd897,Ij8
 Taiof,sapo1253,,
@@ -376,7 +376,7 @@ Tuvalu,tuva1244,xd883,Ii4
 Ubir,ubir1237,,
 UjirNAru,ujir1237,,
 Ura,urav1235,,
-UveaEast,west2516,,
+UveaEast,wall1257,,
 UveaWest,west2516,,
 VaeakauTaumako,pile1238,,
 VaghuaChoiseul,vagh1249,xd844,Ig12
@@ -391,8 +391,8 @@ WejewaTanaRighu_D,weje1237,,
 Werinama,bobo1254,,
 WindesiWandamen,wand1267,,
 Wogeo,woge1237,xd818,Ie4
-Woleai,nucl1479,xd835,If4
-Woleaian,lamo1243,xd831,If16
+Woleai,wole1240,xd835,If4
+Woleaian,wole1240,xd831,If16
 Wolio,woli1241,,
 Wuna,muna1247,,
 Wuvulu,wuvu1239,xd845,Ig13
