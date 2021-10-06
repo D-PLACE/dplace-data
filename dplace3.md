@@ -21,6 +21,18 @@ Aggregated databases using a model that could serve as example for D-PLACE:
   - a Nexus file for phylogenies
 - `cldfbench` should be used to transparently separate editable data sources from distribution formats in these repositories.
 
+Each repository would have the same top-level layout:
+```
+dplace-dataset-EA
+|- raw/   possibly a spreadsheet? whatever is easiest to edit
+|- cldf/  the primary distribution format
+|- dist/  secondary distribution formats, e.g. "flat CSV file"
+```
+
+Each repository can be curated/released separately, and released versions will be separately usable/citable via DOI from Zenodo.
+
+While this will add some overhead (there will be more repositories and each repository will have quite a few files), I still think this would make the data more transparent.
+
 To date, this would mean about 12 repositories for D-PLACE datasets, and 26 for D-PLACE phylogenies. From our experience with lexibank (>100 datasets),
 that would seem manageable - also for the forseeable future. Considering the different types of data in D-PLACE, a naming convention for the repositories
 could be adopted (something along the lines of `dplace-dataset-<AUTHOR><YEAR>` and `dplace-phylogeny-<AUTHOR><YEAR>`), to make browsing simpler.
