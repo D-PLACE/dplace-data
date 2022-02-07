@@ -275,7 +275,7 @@ EA031,2,From 50 to 99 persons,50-99
 EA031,3,From 100 to 199 persons,100-199
 EA031,4,From 200 to 399 persons,200-399
 EA031,5,"From 400 to 1,000 persons",400-1000
-EA031,6,"More than 1,000 persons in the absence of indigenous urban aggregations",1000+ no towns
+EA031,6,"More than 1,000 persons in the absence of indigenous urban aggregations of more than 5,000",1000-5000
 EA031,7,"One or more indigenous towns of more than 5,000 inhabitants but none of more than 50,000",5000-50000
 EA031,8,"One or more indigenous cities with more than 50,000 inhabitants",50000+
 EA032,NA,Missing data,Missing data
